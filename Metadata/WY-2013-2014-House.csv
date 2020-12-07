@@ -1,0 +1,61 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"3316288","LOCOMOTIVE ENGINEERS & TRAINMEN UNIDENTIFIED","Transportation Unions","Labor","Railroad unions",87.962962962963,4.62962962962963,"#0000BDAF","#0000E5AF",10800
+"10154503","LARAMIE COUNTY DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",8525
+"5714","ALBANY COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",4000
+"10142706","FEDERATED FIRE FIGHTERS OF WYOMING","Public Sector Unions","Labor","Police & fire fighters unions and associations",64.7058823529412,30.5882352941176,"#000047AF","#000061AF",21250
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",9.84251968503937,90.1574803149606,"#D10000AF","#D10000AF",12700
+"9566","WYOMING TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",79.4871794871795,20.5128205128205,"#000094AF","#000094AF",17550
+"20179","WYOMING AFL-CIO","General Trade Unions","Labor","Labor unions",90.4761904761905,0,"#0000CCAF","#0000FFAF",10500
+"26249520","HELP OUR WYOMING LEGISLATURE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",8250
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",6100
+"4961","WYOMING REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",16200
+"10151604","SWEETWATER COUNTY REPUBLICAN CENTRAL CMTE OF WYOMING","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3250
+"8331868","SMART","General Trade Unions","Labor","Other unions",81.4814814814815,14.8148148148148,"#00009EAF","#0000B3AF",13500
+"9564","WYOMING ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",22.7005870841487,77.2994129158513,"#8F0000AF","#8F0000AF",25550
+"7484","LARAMIE COUNTY REPUBLICAN CENTRAL CMTE OF WYOMING","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3822.2
+"20463","WYOMING PUBLIC EMPLOYEES ASSOCIATION","Public Sector Unions","Labor","State & local government employee unions",77.5862068965517,22.4137931034483,"#00008AAF","#00008AAF",5800
+"10156663","ALBANY COUNTY DEMOCRATIC CENTRAL CMTE OF WYOMING","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1600
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",4000
+"20273","WYOMING EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",60.2276900477415,39.7723099522585,"#000033AF","#000033AF",13615
+"9558","ASSOCIATED GENERAL CONTRACTORS OF WYOMING","General Contractors","Construction","Builders associations",22.8070175438596,77.1929824561403,"#8F0000AF","#8F0000AF",14250
+"10154476","WYOMING REPUBLICAN HOUSE & SENATE CONFERENCE CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3250
+"8451","COLORADO WYOMING PETROLEUM MARKETERS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",6.49350649350649,89.1774891774892,"#E00000AF","#CC0000AF",11550
+"9561","WYOMING MINING ASSOCIATION","Mining","Energy & Natural Resources","Mining",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",7200
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",5.55555555555556,94.4444444444444,"#E60000AF","#E60000AF",5400
+"788","DEVON ENERGY","Oil & Gas","Energy & Natural Resources","Independent oil & gas producers",15.625,84.375,"#B30000AF","#B30000AF",8000
+"8010","NATRONA COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1500
+"7931657","FARMERS INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",20,80,"#990000AF","#9E0000AF",1250
+"10156266","SWEETWATER COUNTY DEMOCRATIC CENTRAL CMTE OF WYOMING","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2150
+"8157269","MOTOROLA SOLUTIONS","Telecom Services & Equipment","Communications & Electronics","Telephone & communications equipment",35.3658536585366,64.6341463414634,"#4D0000AF","#4D0000AF",4100
+"7539","LINCOLN COUNTY REPUBLICAN PARTY OF WYOMING","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1100
+"9559","WYOMING HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",0,100,"#FF0000AF","#FF0000AF",1500
+"3394","CHESAPEAKE ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",10,90,"#CC0000AF","#D10000AF",5000
+"8368","PACIFICORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",5200
+"9567","WYOMING TRUCKING ASSOCIATION","Trucking","Transportation","Trucking companies & services",6.71641791044776,90.2985074626866,"#E00000AF","#D10000AF",6700
+"5743","WYOMING RURAL ELECTRIC ASSOCIATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",21.6931216931217,78.3068783068783,"#940000AF","#940000AF",9450
+"372","BLACK HILLS CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",4250
+"8313","ONEOK INC","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",15,85,"#B30000AF","#B30000AF",2000
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",28.2352941176471,71.7647058823529,"#700000AF","#700000AF",4250
+"7700831","CLOUD PEAK ENERGY","Mining","Energy & Natural Resources","Coal mining",7.14285714285714,92.8571428571429,"#DB0000AF","#DB0000AF",3500
+"19875768","WYOMING CONSTRUCTION COALITION","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",3000
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",5.55555555555556,94.4444444444444,"#E60000AF","#E60000AF",2700
+"37093557","ARCH COAL INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2050
+"9565","WYOMING STOCK GROWERS ASSOCIATION","Livestock","Agriculture","Livestock",10.6666666666667,89.3333333333333,"#CC0000AF","#CC0000AF",7500
+"2868","WILLIAMS COMPANIES","Oil & Gas","Energy & Natural Resources","Oil & gas",27.7777777777778,72.2222222222222,"#750000AF","#750000AF",3600
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",17.1052631578947,82.8947368421053,"#A80000AF","#A80000AF",7600
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",8,92,"#D60000AF","#DB0000AF",5000
+"226","ARCH COAL","Mining","Energy & Natural Resources","Coal mining",26.6666666666667,73.3333333333333,"#7A0000AF","#7A0000AF",1500
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",9.61538461538462,90.3846153846154,"#D10000AF","#D10000AF",5200
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",31.4606741573034,68.5393258426966,"#610000AF","#610000AF",4450
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",0,100,"#FF0000AF","#FF0000AF",1250
+"198","ANADARKO PETROLEUM","Oil & Gas","Energy & Natural Resources","Oil & gas",12,88,"#C20000AF","#C20000AF",2500
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",0,100,"#FF0000AF","#FF0000AF",1500
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",1800
+"6583475","WYOMING LODGING & RESTAURANT ASSOCIATION","Lodging & Tourism","General Business","Lodging & tourism",0,100,"#FF0000AF","#FF0000AF",1550
+"10149977","DEMOCRAT","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2475
+"9560","WYOMING MEDICAL SOCIETY","Health Professionals","Health","Physicians",10,90,"#CC0000AF","#D10000AF",2000
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",650
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",400
+"10142646","WYOMING DENTAL ASSOCIATION","Health Professionals","Health","Dentists",23.2558139534884,76.7441860465116,"#8A0000AF","#8A0000AF",4300
+"12607908","IFA PAC-WYOMING","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1050
+"10150037","NARAL PRO-CHOICE WYOMING","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",735

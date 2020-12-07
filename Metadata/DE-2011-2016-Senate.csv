@@ -1,0 +1,362 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"11611","DELAWARE REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",33300
+"4815","DELAWARE DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",32278
+"8073","NEW CASTLE COUNTY DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",24500
+"37200046","23RD REP DIST DEMOCRATIC COMMITTEE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2600
+"8074","NEW CASTLE COUNTY REPUBLICAN CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2709
+"6531","MEDICAL SOCIETY OF DELAWARE","Health Professionals","Health","Physicians",66.497461928934,33.502538071066,"#000052AF","#000052AF",4925
+"6538","DELAWARE STONEWALL DEMOCRATS","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",6900
+"714","COZEN OCONNOR PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",67.84140969163,32.15859030837,"#000057AF","#000057AF",22700
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",60,40,"#000033AF","#000033AF",9000
+"6521","DELAWARE ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",53.968253968254,46.031746031746,"#00000FAF","#00000FAF",22050
+"8399431","BURRIS FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",1500
+"8407349","PETERSON FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",8350
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",41.3793103448276,58.6206896551724,"#2E0000AF","#2E0000AF",11600
+"17311","NEW CASTLE COUNTY CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",70.2970297029703,29.7029702970297,"#000066AF","#000066AF",5050
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",61.5591397849462,38.4408602150538,"#000038AF","#000038AF",18600
+"8406256","DANA-PAC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",1950
+"5597433","DELAWARE AFL-CIO","General Trade Unions","Labor","Labor unions",87.3563218390805,9.19540229885057,"#0000BDAF","#0000CCAF",8700
+"16869510","COMMITTEE FOR A BETTER FUTURE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",5800
+"116","AMERICAN CHEMISTRY COUNCIL","Chemical & Related Manufacturing","General Business","Chemicals",83.9285714285714,16.0714285714286,"#0000A8AF","#0000A8AF",5600
+"8403695","HARRINGTON RACEWAY","Gambling & Casinos","General Business","Casinos, racetracks & gambling",41.5094339622642,58.4905660377358,"#2E0000AF","#2E0000AF",13250
+"8187","NONPARTISAN CITIZENS FOR BUSINESS EXPANSION","Business Associations","General Business","Pro-business organizations",64.8241206030151,35.1758793969849,"#000047AF","#000047AF",19900
+"11612","DELAWARE STATE CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",46.6257668711656,53.3742331288344,"#140000AF","#140000AF",16300
+"8399469","CITIZENS FOR LAVELLE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6650
+"8476","PILOTS ASSOCIATION FOR THE BAY & RIVER DELAWARE","Transportation Unions","Labor","Transportation unions",60.3809523809524,39.6190476190476,"#000033AF","#000033AF",13125
+"6536","DELAWARE STANDARDBRED OWNERS ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",66.7910447761194,33.2089552238806,"#000052AF","#000052AF",13400
+"9507","WILMINGTON POLICE & FIRE PENSION TASK FORCE","Public Sector Unions","Labor","Police & fire fighters unions and associations",72.5490196078431,27.4509803921569,"#000070AF","#000070AF",2550
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",76.9911504424779,23.0088495575221,"#000085AF","#000085AF",11300
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",74.2857142857143,25.7142857142857,"#00007AAF","#00007AAF",5250
+"2327","SCIENTIFIC GAMES CORP","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",2400
+"2725","VALERO ENERGY","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",100,0,"#0000FFAF","#0000FFAF",1900
+"2873","WILMINGTON TRUST CORP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",58.4158415841584,41.5841584158416,"#000029AF","#000029AF",10100
+"5868","ARTESIAN WATER","Water Utilities","Energy & Natural Resources","Water utilities",61.519302615193,38.480697384807,"#000038AF","#000038AF",12045
+"6450","CORRECTIONS OFFICERS ASSOCIATION OF DELAWARE","Public Sector Unions","Labor","Police & fire fighters unions and associations",65.1785714285714,34.8214285714286,"#00004DAF","#00004DAF",11200
+"6522","DELAWARE AUTOMOBILE & TRUCK DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",51.6314779270633,48.3685220729367,"#000005AF","#000005AF",13025
+"6539","DELAWARE SUPERMARKETS","Food Processing & Sales","Agriculture","Food stores",64.8648648648649,35.1351351351351,"#000047AF","#000047AF",3700
+"6541","DELAWARE TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",14400
+"16728","UNITED DISTRIBUTORS OF DELAWARE","Beer, Wine & Liquor","General Business","Liquor wholesalers",87.8612716763006,12.1387283236994,"#0000BDAF","#0000BDAF",4325
+"17262","YOUNG CONAWAY STARGATT & TAYLOR","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",54.1176470588235,45.8823529411765,"#000014AF","#000014AF",17000
+"19649","ELECTRICAL WORKERS LOCAL 313","General Trade Unions","Labor","Electrical workers/IBEW",93.5691318327974,6.43086816720257,"#0000DBAF","#0000DBAF",7775
+"19914","OPERATING ENGINEERS LOCAL 542","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3800
+"20100","NEW JERSEY STATE LABORERS","General Trade Unions","Labor","Construction unions",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",4200
+"20213","DELAWARE EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",84.8526959421901,15.1473040578099,"#0000ADAF","#0000ADAF",17990
+"20467","SHEET METAL WORKERS LOCAL 19","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6000
+"3983749","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 1 PA / DE","General Trade Unions","Labor","Construction unions",94.1176470588235,5.88235294117647,"#0000E0AF","#0000E0AF",5100
+"4593436","RETAIL SERVICES & SYSTEMS","Beer, Wine & Liquor","General Business","Liquor wholesalers",88.5906040268456,11.4093959731544,"#0000C2AF","#0000C2AF",7450
+"4681904","HEAT & FROST INSULATORS LOCAL 42","General Trade Unions","Labor","Construction unions",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",2100
+"8399357","LABORERS DISTRICT COUNCIL OF DELAWARE","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4800
+"8400587","DELAWARE STATE TROOPERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",80.1526717557252,19.8473282442748,"#000099AF","#000099AF",6550
+"8402589","SENATE VICTORY FUND","Party Committees","Party","Democratic Party committees",96.3636363636364,3.63636363636364,"#0000EBAF","#0000EBAF",16500
+"8406591","DELAWARE ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",69.8795180722892,30.1204819277108,"#000061AF","#000061AF",4150
+"8411312","DELAWARE PARK","Gambling & Casinos","General Business","Casinos, racetracks & gambling",68,32,"#00005CAF","#00005CAF",15000
+"8435629","HERTRICH FAMILY OF AUTOMOBILE DEALERSHIPS","Automotive","Transportation","Auto dealers, new & used",60,40,"#000033AF","#000033AF",1500
+"15779516","FRANKLIN STRATEGIES INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1200
+"22199429","FRATERNAL ORDER OF POLICE WILMINGTON LODGE 1","Public Sector Unions","Labor","Police & fire fighters unions and associations",89.3617021276596,10.6382978723404,"#0000C7AF","#0000C7AF",4700
+"26472773","ORRICK HERRINGTON & SUTCLIFFE LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1300
+"26785557","DELBANKPAC","Uncoded","Uncoded","Uncoded",86.6666666666667,13.3333333333333,"#0000B8AF","#0000B8AF",4500
+"6533","DELAWARE RACING ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",60,40,"#000033AF","#000033AF",6000
+"8401341","DELAWARE STATE SENATE REPUBLICANS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",8400
+"8483971","WALKERS MILL LLC","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1800
+"6537","DELAWARE STATE DENTAL SOCIETY","Health Professionals","Health","Dentists",65,35,"#00004DAF","#00004DAF",15000
+"16868926","SUSSEX VICTORY PAC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",1200
+"20704","DELAWARE STATE AUTO WORKERS COUNCIL","Transportation Unions","Labor","Automotive unions",83.0508474576271,16.9491525423729,"#0000A8AF","#0000A8AF",5900
+"4751563","FOX ROTHSCHILD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",40,60,"#330000AF","#330000AF",1500
+"8405472","MAXWELL & ASSOCIATES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",80,20,"#000099AF","#000099AF",3500
+"8429438","CMTE TO REELECT DAVID MCBRIDE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",9000
+"13487097","BLUE HEN PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",5400
+"16868861","SOLAR FOR DELAWARE","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",1800
+"16869389","BEAU PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",100,0,"#0000FFAF","#0000FFAF",11450
+"16870325","CIVIC AFFAIRS CONSTRUCTION COUNCIL","General Contractors","Construction","Builders associations",59.8971722365039,40.1028277634961,"#00002EAF","#00002EAF",19450
+"2315","SAUL EWING","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",24.0601503759398,75.9398496240601,"#850000AF","#850000AF",6650
+"6526","DELAWARE CHIROPRACTIC SOCIETY","Health Professionals","Health","Chiropractors",59.4339622641509,40.5660377358491,"#00002EAF","#00002EAF",15900
+"6778","FIRST STATE MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",34.5549738219895,65.4450261780105,"#520000AF","#520000AF",9550
+"19155","AFSCME COUNCIL 81","Public Sector Unions","Labor","State & local government employee unions",85.4897218863362,14.5102781136638,"#0000B3AF","#0000B3AF",8270
+"19777","TEAMSTERS LOCAL 326","Transportation Unions","Labor","Teamsters unions",88.75,11.25,"#0000C2AF","#0000C2AF",8000
+"20777","CARPENTERS & JOINERS LOCAL 626","General Trade Unions","Labor","Construction unions",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",4500
+"8400006","CITIZENS FOR SORENSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2300
+"8400213","RESPONSIBLE DELAWARE PAC","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6150
+"8414915","F GARY SIMPSON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6000
+"16123683","MICHAEL GALLAGHER JEWELERS","Miscellaneous Manufacturing & Distributing","General Business","Jewelry",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",1300
+"9083","SUSSEX COUNTY REPUBLICAN WOMENS CLUB OF DELAWARE","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",4500
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",5000
+"8399458","HOME BUILDERS ASSOCIATION OF DELAWARE","Home Builders","Construction","Residential construction",50,50,"#000000AF","#000000AF",16200
+"8432456","YORK FARMS ASSOCIATES","Miscellaneous Business","General Business","Warehousing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1800
+"16869606","ROUTE 1","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",2100
+"9084","SUSSEX COUNTY WOMENS DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2900
+"4934290","THOMAS R (TOM) CARPER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",9400
+"8402460","CMTE TO ELECT PATRICIA BLEVINS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",8850
+"8402748","38TH REPRESENTATIVE DISTRICT DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2400
+"8407128","BETHANY A HALL-LONG CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2663.88
+"8428804","CITIZENS TO ELECT GEORGE H BUNTING JR","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1200
+"22202774","CONAWAY ASSOCIATES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"8399607","DEMOCRATS 2008","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",6500
+"16869506","DELAWARE RIGHT TO MARRY PAC","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",900
+"20755","CARPENTERS & JOINERS LOCAL 2012","General Trade Unions","Labor","Construction unions",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1800
+"340022","GOVERNMENT EMPLOYEES CREDIT CENTER INC","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",1400
+"8402715","FRIENDS FOR PETE SCHWARTZKOPF","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1100
+"8407714","DELAWARE ISSUES FUND","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",3200
+"8407854","MARGARET ROSE HENRY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4200
+"8442622","JOHN C CARNEY JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",10550
+"8568686","DELPAC","Real Estate","Finance, Insurance & Real Estate","Real estate",86.2068965517241,13.7931034482759,"#0000B8AF","#0000B8AF",1450
+"8400544","BLACKBIRD HUNDRED DEMOCRAT CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1200
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",2400
+"16869874","SHORE DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1450
+"915","ENTERTAINMENT SOFTWARE ASSOCIATION","Computer Equipment & Services","Communications & Electronics","Computer software",74.8299319727891,25.1700680272109,"#00007AAF","#00007AAF",7350
+"1955","ORRICK HERRINGTON & SUTCLIFFE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1800
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",80.7339449541284,19.2660550458716,"#000099AF","#000099AF",10900
+"8402502","FRIENDS OF MIKE MIGLIORE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1100
+"8405132","LONG TERM CARE CORP","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",1980
+"8406373","CHATEAU ORLEANS","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",100,0,"#0000FFAF","#0000FFAF",1700
+"8459140","REGENCY HEALTHCARE & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",850
+"16325969","REGAL HEIGHTS REHABILITATION & HEALTHCARE CENTER","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",850
+"16869410","NATIONWIDE HEALTHCARE SERVICES LLC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",100,0,"#0000FFAF","#0000FFAF",850
+"860","E I DU PONT DE NEMOURS & CO","Chemical & Related Manufacturing","General Business","Chemicals",83.7209302325581,16.2790697674419,"#0000A8AF","#0000A8AF",4300
+"1569","INTERNATIONAL LONGSHOREMENS ASSOCIATION / ILA","Transportation Unions","Labor","Merchant marine & longshoremen unions",100,0,"#0000FFAF","#0000FFAF",1800
+"28145325","NEW COLONY NORTH CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1200
+"20810","METROPOLITAN REGIONAL COUNCIL CARPENTERS OF PHILADELPHIA & VICINITY","General Trade Unions","Labor","Construction unions",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1800
+"16870279","FIRST STATE MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",11.5384615384615,88.4615384615385,"#C70000AF","#C70000AF",5200
+"1095","GENWORTH FINANCIAL","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",50,50,"#000000AF","#000000AF",3600
+"13986048","RUTHI ADAMS JOSEPH TRUST ACCOUNT","Nonprofit Institutions","Government Agencies/Education/Other","Nonprofit foundations",100,0,"#0000FFAF","#0000FFAF",2600
+"8513116","BRIAN J BUSHWELLER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",10126.5
+"16870264","STANDARD DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Beer",86.2068965517241,13.7931034482759,"#0000B8AF","#0000B8AF",4350
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",75.2941176470588,24.7058823529412,"#00007FAF","#00007FAF",4250
+"526","CEMEX INC","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",100,0,"#0000FFAF","#0000FFAF",1200
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",100,0,"#0000FFAF","#0000FFAF",900
+"19948","PAINTERS & ALLIED TRADES DISTRICT COUNCIL 21","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1800
+"8399686","PLUMBERS & PIPEFITTERS LOCAL 782","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1200
+"8404974","HARVEY HANNA & ASSOCIATES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",94.5454545454545,5.45454545454545,"#0000E0AF","#0000E0AF",1375
+"8407058","BANCROFT CONSTRUCTION","General Contractors","Construction","Construction, unclassified",100,0,"#0000FFAF","#0000FFAF",700
+"22202446","TIDEWATER UTILITIES INC","Uncoded","Uncoded","Uncoded",72.1518987341772,27.8481012658228,"#000070AF","#000070AF",3950
+"8427828","SOKOLA FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4100
+"16869206","LAKELAND PARK INC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",1200
+"1864","NATIONWIDE MUTUAL INSURANCE CO","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",56.6666666666667,43.3333333333333,"#00001FAF","#00001FAF",3000
+"6529","DELAWARE HEALTH CARE FACILITIES ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",72.3684210526316,27.6315789473684,"#000070AF","#000070AF",7600
+"8416681","DELAWAREANS FOR KAREN WELDIN STEWART","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4025
+"8405994","COURTLAND MANOR INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"16869012","SENATE REPUBLICAN CAUCUS PAC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",1200
+"8657381","ASSOCIATED BUILDERS & CONTRACTORS OF DELAWARE","General Contractors","Construction","Builders associations",41.4285714285714,58.5714285714286,"#2E0000AF","#2E0000AF",10500
+"19410","IRONWORKERS LOCAL 451","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1200
+"1816235","DEMOCRATIC LEGISLATION CAMPAIGN CMTE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",7700
+"8407363","RHETT REGGERIO GOVERNMENT RELATIONS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",85.2941176470588,14.7058823529412,"#0000B3AF","#0000B3AF",1700
+"12228387","38TH DISTRICT REPUBLICAN CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1200
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",31.0344827586207,68.9655172413793,"#610000AF","#610000AF",2900
+"5929897","MICHAEL N (MIKE) CASTLE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3100
+"8399521","FIRSTSTATEFIRST PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",0,100,"#FF0000AF","#FF0000AF",8100
+"8415968","RALPH G DEGLI OBIZZI & SONS INC","Miscellaneous Manufacturing & Distributing","General Business","Industrial & commercial equipment and materials",50,50,"#000000AF","#000000AF",3600
+"8478795","JCM ASSOCIATES","Special Trade Contractors","Construction","Special trade contractors",0,100,"#FF0000AF","#FF0000AF",850
+"16867868","DELAWARE FIRST PAC LLC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",725
+"16869526","R S WIDDOES & SON INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"16870344","OUTPATIENT ANESTHESIA SPECIALISTS","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",1200
+"8419244","DENTAL GROUP","Health Professionals","Health","Dentists",50,50,"#000000AF","#000000AF",2400
+"15780183","HOPKINS FARM CREAMERY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"16869784","ROSEPAC","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",1800
+"8407652","PROGRESSIVE DEMOCRATS FOR DELAWARE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",2000
+"8421720","THE ROOFERS INC","Special Trade Contractors","Construction","Special trade contractors",100,0,"#0000FFAF","#0000FFAF",800
+"8451632","EASTERN INDUSTRIAL SERVICES INC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",800
+"8459235","GRAYSON GRAYSON & ASSOCIATES","Uncoded","Uncoded","Uncoded",82.7586206896552,17.2413793103448,"#0000A3AF","#0000A3AF",725
+"15947723","COLOR WORKS PAINTING INC","Uncoded","Uncoded","Uncoded",45.2830188679245,54.7169811320755,"#1A0000AF","#1A0000AF",1325
+"16869038","DOVER ELECTRIC SUPPLY CO","Building Materials & Equipment","Construction","Electrical supply",96,4,"#0000EBAF","#0000EBAF",2500
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",64.367816091954,35.632183908046,"#000047AF","#000047AF",13050
+"22202725","STANDARD DISTRIBUTING COMPANY INC","Uncoded","Uncoded","Uncoded",8,92,"#D60000AF","#DB0000AF",1250
+"8406539","COLONIAL EAST LP","Real Estate","Finance, Insurance & Real Estate","Mobile home dealers & parks",0,100,"#FF0000AF","#FF0000AF",1000
+"8406468","COLIN J BONINI CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1700
+"8401269","LAIRD STABLER & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",34.9576271186441,65.0423728813559,"#520000AF","#520000AF",7080
+"16124445","11TH REPUBLICAN REPRESENTATIVE DISTRICT","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2185
+"8972","SOUTHEASTERN SUSSEX DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",950
+"1091","GENESIS HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",86.8421052631579,13.1578947368421,"#0000B8AF","#0000B8AF",3800
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",77.1428571428572,22.8571428571429,"#00008AAF","#00008AAF",3500
+"1629","MARIJUANA POLICY PROJECT","Drug Policy","Ideology/Single Issue","Drug Legalization Advocates",100,0,"#0000FFAF","#0000FFAF",1500
+"8431070","PORT CONTRACTORS INC","General Contractors","Construction","Construction, unclassified",100,0,"#0000FFAF","#0000FFAF",1800
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",86.2068965517241,13.7931034482759,"#0000B8AF","#0000B8AF",2900
+"6540","DELAWARE THOROUGHBRED HORSEMENS ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",75.3731343283582,24.6268656716418,"#00007FAF","#00007FAF",6700
+"8405146","PARKOWSKI GUERKE & SWAYZE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",950
+"16869489","DANIELS & HUTCHISON FUNERAL HOME LLC","Miscellaneous Services","General Business","Funeral services",100,0,"#0000FFAF","#0000FFAF",750
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",60.1374570446735,39.8625429553265,"#000033AF","#000033AF",4074
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",74.1463414634146,25.8536585365854,"#00007AAF","#00007AAF",10250
+"6527","DELAWARE CITIZENS FOR ECONOMIC DEVELOPMENT","Business Associations","General Business","Pro-business organizations",100,0,"#0000FFAF","#0000FFAF",700
+"4610844","TIDEWATER UTILITIES","Water Utilities","Energy & Natural Resources","Water utilities",72.7272727272727,27.2727272727273,"#000070AF","#000070AF",1100
+"4674553","PROFESSIONAL INSURANCE AGENTS OF PENNSYLVANIA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",55.9633027522936,44.0366972477064,"#00001AAF","#00001AAF",2725
+"8401247","DELAWARE ELECTRIC COOPERATIVE","Electric Utilities","Energy & Natural Resources","Electric power utilities",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",4200
+"26363656","GEORGE & LYNCH INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1100
+"37090382","DELAWARE RESTAURANT ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1300
+"16249993","COLLEGE AVE ENTERPRISES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",950
+"8406020","XTREME GRAPHIX","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",630
+"6535","DELAWARE SOFT DRINK ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",900
+"845","DRINKER BIDDLE & REATH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",92.5287356321839,7.47126436781609,"#0000D6AF","#0000D6AF",4350
+"8400534","ENNIS SENATE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1975
+"600740","SANOFI US","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",1200
+"6520","DELAWARE ASIAN AMERICAN BUISNESS ASSOCIATION","Minority & Disability Groups","Ideology/Single Issue","Minority & ethnic groups",76,24,"#000085AF","#000085AF",2500
+"28145362","DYNAMIC THERAPEUTICS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",825
+"8588933","COOK FOR SENATE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"9085","SUSSEX EMERGENCY ASSOCIATES","Health Professionals","Health","Other physician specialists",92,8,"#0000D6AF","#0000D6AF",1250
+"23426114","DELAWARE BANKERS ASSOCIATION","Uncoded","Uncoded","Uncoded",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",900
+"1713","METROPOLITAN LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",80.9523809523809,19.047619047619,"#000099AF","#000099AF",2100
+"8406494","NATIONAL COMMUNICATIONS INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",18.6471663619744,81.3528336380256,"#A30000AF","#A30000AF",2735
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",55.2941176470588,44.7058823529412,"#00001AAF","#00001AAF",4250
+"8399956","DELAWARE PROPANE PAC","Oil & Gas","Energy & Natural Resources","LPG/Liquid propane dealers & producers",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",650
+"16870191","PARKOWSKI GUERKE & SWAYZE PA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",71.7054263565892,28.2945736434109,"#00006BAF","#00006BAF",6450
+"8426050","LOCAL 3384","Public Sector Unions","Labor","State & local government employee unions",0,100,"#FF0000AF","#FF0000AF",700
+"38207962","CORROZI CONSULTANTS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",575
+"38110154","PARKOWSKI GUERKE & SWAYZE","Uncoded","Uncoded","Uncoded",56.7901234567901,43.2098765432099,"#00001FAF","#00001FAF",2025
+"2433","SOUTHERN WINE & SPIRITS","Beer, Wine & Liquor","General Business","Liquor wholesalers",80,20,"#000099AF","#000099AF",2000
+"6489","DAISY CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",100,0,"#0000FFAF","#0000FFAF",400
+"19579","BOILERMAKERS LOCAL 13","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1650
+"16868884","CDI CONSULTING SERVICES LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",78.2945736434108,21.7054263565891,"#00008FAF","#00008FAF",3225
+"43687788","IUEC LOCAL 5","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1100
+"2015","PEPCO HOLDINGS","Electric Utilities","Energy & Natural Resources","Electric power utilities",75.4716981132076,24.5283018867925,"#00007FAF","#00007FAF",530
+"16870188","DELAWARE CPA-PAC INC","Accountants","Finance, Insurance & Real Estate","Accountants",54.4554455445545,45.5445544554455,"#000014AF","#000014AF",5050
+"8404122","COLONIAL REGION REPUBLICAN CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",600
+"16123032","FRIENDS FOR DAVE LAWSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2100
+"22202757","HENRY TOPEL & CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",850
+"20614","PLUMBERS & PIPEFITTERS LOCAL 74","General Trade Unions","Labor","Construction unions",91.6666666666667,8.33333333333333,"#0000D1AF","#0000D1AF",3600
+"15779721","EARL GEORGE JAQUES JR CAMPAIGN CMTE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",600
+"20430","SERVICE EMPLOYEES LOCAL 32BJ","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",6300
+"1692","MEDCO HEALTH SOLUTIONS","Retail Sales","General Business","Drug stores",88.6792452830189,11.3207547169811,"#0000C2AF","#0000C2AF",2650
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",60,40,"#000033AF","#000033AF",1000
+"8404421","CAMP CHIROPRACTIC","Health Professionals","Health","Chiropractors",100,0,"#0000FFAF","#0000FFAF",500
+"28146034","DOCTORS FOR EMERGENCY SERVICE PA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1175
+"8402064","OPTOMETRY EYE PAC","Health Professionals","Health","Optometrists & ophthalmologists",65.8536585365854,34.1463414634146,"#00004DAF","#00004DAF",8200
+"16123030","MITCH CRANE FOR DELAWARE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",500
+"22203854","BHM INSURANCE SERVICES & GOVERNMENT RELATIONS INC","Uncoded","Uncoded","Uncoded",84.2342342342342,15.7657657657658,"#0000ADAF","#0000ADAF",1110
+"8403761","DELAWARE SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",50,50,"#000000AF","#000000AF",1200
+"8429133","J DONALD ISAACS TRUST","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",85.0746268656716,14.9253731343284,"#0000B3AF","#0000B3AF",1675
+"32745997","EI DUPONT DE NEMOURS & COMPANY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"6523","DELAWARE BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",58.2608695652174,41.7391304347826,"#000029AF","#000029AF",11500
+"6635","EDIS CO","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1500
+"4680571","MACELREE HARVEY ENTERPRISES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",900
+"8421663","NICKLE ELECTRICAL COMPANIES","Special Trade Contractors","Construction","Electrical contractors",50,50,"#000000AF","#000000AF",1200
+"8404315","ROGER ROY CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",13.6363636363636,86.3636363636364,"#BD0000AF","#BD0000AF",1100
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",49.5049504950495,50.4950495049505,"#050000AF","#050000AF",5050
+"8404220","BHM INSURANCE SERVICES & GOVERNMENT RELATIONS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",76.1904761904762,23.8095238095238,"#000085AF","#000085AF",630
+"21086","DELAWARE ASSOCIATION OF INSURANCE AGENTS & BROKERS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",52.1739130434783,47.8260869565217,"#00000AAF","#00000AAF",1725
+"10811409","WORTH & COMPANY INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",400
+"28735879","WSFS FINANCIAL CORPORATION","Uncoded","Uncoded","Uncoded",65.0406504065041,34.9593495934959,"#00004DAF","#00004DAF",3075
+"27694591","FITZGERALD CONSULTING INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",400
+"8399681","DELAWARE LIBERTY FUND","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",1000
+"8419949","NEW CASTLE COUNTY EMERGENCY SERVICES EMPLOYEES","Health Services","Health","Health care services",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",700
+"38109306","DE STANDARDBRED OWNERS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",400
+"8399585","MICHAEL (MIKE) RAMONE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1125
+"8402620","CMTE TO ELECT BRYON SHORT","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",500
+"8405153","PREFERRED ELECTRIC INC","Special Trade Contractors","Construction","Electrical contractors",100,0,"#0000FFAF","#0000FFAF",525
+"8569864","DEMEC INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",400
+"12559200","HEALTH EXECUTIVES ACTION LEAGUE","Hospitals & Nursing Homes","Health","Hospitals",66.1764705882353,33.8235294117647,"#000052AF","#000052AF",5100
+"16868896","THE MANTZAVINOS GROUP LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",500
+"2789430","LEON N WEINER & ASSOCIATES INC","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",68.75,31.25,"#00005CAF","#00005CAF",800
+"127","AMERICAN COUNCIL OF LIFE INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",89.1304347826087,10.8695652173913,"#0000C7AF","#0000C7AF",1150
+"8406300","WILMINGTON PROFESSIONAL ASSOCIATES","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",550
+"8407616","SHANLEY & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",400
+"8432945","PHI SERVICE CO","Electric Utilities","Energy & Natural Resources","Electric power utilities",100,0,"#0000FFAF","#0000FFAF",900
+"16145","STANDARD DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Beer",100,0,"#0000FFAF","#0000FFAF",1050
+"5573","25TH REPRESENTATIVE DISTRICT DEMOCRATIC CMTE OF DELAWARE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",900
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",14.8148148148148,85.1851851851852,"#B80000AF","#B80000AF",1350
+"20887","FOOD & COMMERCIAL WORKERS LOCAL 27","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",1050
+"8404444","DOCTORS FOR EMERGENCY SERVICES","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",425
+"8406064","AMERICAN INSTITUTE OF ARCHITECTS DELAWARE","Construction Services","Construction","Architectural services",100,0,"#0000FFAF","#0000FFAF",450
+"26785363","MID ATLANTIC PAIN INSTITUTE PA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",300
+"28147483","DELAWARE AUTOMOBILE & TRUCK DEALERS ASSOCIATES INC ACTION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"16820608","ACEC DELAWARE","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",900
+"16870237","TRI-SUPPLY & EQUIPMENT INC","Building Materials & Equipment","Construction","Construction equipment",100,0,"#0000FFAF","#0000FFAF",1025
+"8444825","NATIONAL COMMUNICATIONS INC","Telecom Services & Equipment","Communications & Electronics","Telecommunications",59.6774193548387,40.3225806451613,"#00002EAF","#00002EAF",310
+"8436001","LARRIMORE FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",325
+"9954894","MERCK SHARP & DOHM CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",87.5,12.5,"#0000BDAF","#0000BDAF",800
+"22092590","E I DUPONT DE NEMOURS & COMPANY","Uncoded","Uncoded","Uncoded",81.3953488372093,18.6046511627907,"#00009EAF","#00009EAF",1075
+"16820006","DPMA","Uncoded","Uncoded","Uncoded",72.7272727272727,27.2727272727273,"#000070AF","#000070AF",550
+"16870189","DELAWARE PODIATRIC MEDICAL ASSOCIATION","Health Professionals","Health","Other physician specialists",51.7241379310345,48.2758620689655,"#000005AF","#000005AF",1450
+"11860","DISH NETWORK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",88.4615384615385,11.5384615384615,"#0000C2AF","#0000C2AF",1300
+"16758925","TOWLES ELECTRIC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",300
+"8416672","CMTE TO ELECT DAVE BONAR","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",250
+"27694401","REBECCA BATSON KIDNER PA","Uncoded","Uncoded","Uncoded",62.5,37.5,"#00003DAF","#00003DAF",1600
+"16215053","CHICK HARNESS & SUPPLY INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",490
+"8432911","MANUFACTURED HOMEOWNERS OF DELAWARE","Home Builders","Construction","Mobile home construction",100,0,"#0000FFAF","#0000FFAF",235
+"8462595","COCHRAN REALTY","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",375
+"8408560","KELTER INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",825
+"8421394","CUSTOM IRON SHOP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",450
+"8437031","VENTRESCA BROS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",325
+"8470946","ASHBY MANAGEMENT CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",525
+"22204412","INSURANCE & FINANCIAL SERVICES LTD","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",475
+"6633","ECKERT SEAMANS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",225
+"15779447","DELAWARE POLICE CHIEFS COUNCIL","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",400
+"16868894","BULLOCK CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",300
+"27710134","CAMPBELL CONSULTING INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",450
+"17237","WSFS FINANCIAL CORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",35.2323573970334,64.7676426029666,"#4D0000AF","#4D0000AF",851.49
+"16129527","DELAWARE VOTES FOR ANIMALS","Uncoded","Uncoded","Uncoded",75.8620689655172,6.89655172413793,"#00007FAF","#0000DBAF",1450
+"16869511","FRIENDS OF DARRYL SCOTT","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",200
+"4480284","SUNOVION","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",350
+"8470791","FRIENDS FOR JOE REDA","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",300
+"4759877","DANNEMAN FIRM LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",300
+"8496121","CMTE TO ELECT REBECCA WALKER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",700
+"8404043","CLARKS GENERAL CONTRACTORS","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",200
+"8427645","34TH DISTRICT DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",400
+"16868922","COMMITTEE TO ELECT BROOKS BANTA","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",590
+"22202821","BHM INSURANCE SERVICES & GOVERNMENTAL RELATIONS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",400
+"16869349","THE SMITH FIRM LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"8507942","REED TEAM, DEBBIE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",270
+"38110033","ELEVATOR CONSTRUCTORS LOCAL 5","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",150
+"8399754","COMMITTEE TO ELECT DAVID TACKETT","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4188.7
+"8399611","23RD REPRESENTATIVE DISTRICT DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2100
+"28736447","DOLE FOOD COMPANY","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2400
+"5026426","VENABLES FOR SENATE CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1200
+"3793","GENENTECH INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",75,25,"#00007FAF","#00007FAF",2400
+"20397","PENNSYLVANIA SOCIAL SERVICES LOCAL 668","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",1200
+"4675571","PHOENIX LIFE INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Life insurance",50,50,"#000000AF","#000000AF",1200
+"8414111","DELUCA FOR SENATE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3600
+"20815280","RIGHTS & RESPONSIBILITIES","Gun Control","Ideology/Single Issue","Pro-gun control",72.7272727272727,27.2727272727273,"#000070AF","#000070AF",3300
+"22203325","CHEMICAL INDUSTRY COUNCIL OF DELAWARE","Chemical & Related Manufacturing","General Business","Chemicals",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",4200
+"22204580","NICOLE POORE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3900
+"6519","DELAWARE APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",37.5,62.5,"#420000AF","#420000AF",1600
+"10353","BERNSTEIN LITOWITZ BERGER & GROSSMANN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",900
+"21193175","CASTLE PAC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",3100
+"26786138","ALLEN CHORMAN & SON INC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"8407346","PEOPLE FOR MCDOWELL","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1700
+"22199447","DELAWARE ASIAN AMERICAN BUSINESS ASSOCIATION","Minority & Disability Groups","Ideology/Single Issue","Minority & ethnic groups",100,0,"#0000FFAF","#0000FFAF",3200
+"26364434","9TH REPRESENTATIVE DISTRICT DEMOCRATIC COMMITTEE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1800
+"8421022","MID-ATLANTIC ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1550
+"26784583","COMBINED DISTRICTS VICTORY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"28147612","CEDAR LANE MGMT GRP LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"15780488","ERNESTO B LOPEZ CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3000
+"22199357","AMERICAN COUNCIL OF ENGINEERING COMPANIES OF DELAWARE","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",600
+"2909","XEROX CORP","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",1100
+"28146709","SCOTT'S FURNITURE INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1400
+"575","CHIMICLES & TIKELLIS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",60,40,"#000033AF","#000033AF",1000
+"274898","UNITEDHEALTH GROUP","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",900
+"22204797","LAW OFFICES OF JOSEPH J RHOADES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",625
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",1150
+"27652013","DELAWARE STATE FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",58.1395348837209,41.8604651162791,"#000029AF","#000029AF",3225
+"8407116","CHRISTOPHER A (CHRIS) COONS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3065
+"16869727","FRIENDS OF MIKE BARBIERI","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2350
+"28736051","DELAWARE STATE FARM AGENTS","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",2100
+"22204835","BHM INSURANCE SERVICES & GOVERNMENT RELA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",600
+"9835","ADVOSERV","Health Services","Health","Mental health services",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",1300
+"22204937","E I DUPONT DE NEMOURS & CO","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",500
+"7991","NATIONAL ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",75,25,"#00007FAF","#00007FAF",1200
+"8524691","KENT COUNTY REPUBLICAN WOMEN CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",794
+"19344","FRATERNAL ORDER OF POLICE LODGE 10","Public Sector Unions","Labor","Police & fire fighters unions and associations",62.9067245119306,37.0932754880694,"#00003DAF","#00003DAF",2305
+"8459991","DIAMOND MATERIALS","General Contractors","Construction","Public works, industrial & commercial construction",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",2600
+"28145284","REHOBOTH BEACH DENTAL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1100
+"5","3M CO","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",100,0,"#0000FFAF","#0000FFAF",600
+"22202949","DOCTORS FOR EMERGENCY SERVICE, PA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",300
+"28146988","DELAWARE VOTES FOR ANIMALS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1400
+"8429583","DELAWARE FOUNDATION FOR LEGISLATIVE ACTION","Gun Control","Ideology/Single Issue","Anti-gun control",30.0813008130081,69.9186991869919,"#660000AF","#660000AF",3075
+"28147386","28TH REPRESENTATIVE / 14TH SENATORIAL DISTRICT DEMOCRATIC CLUB","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"22202827","INSURANCE & FINANCIAL ADVISORS PAC IFAPAC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",400
+"15780483","BRYAN TOWNSEND CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3200
+"28145452","ZWEIACHER CHIROPRACTIC SERVICES PA","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",350
+"8407812","PENROSE HOLLINS 2010","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"8403422","CMTE TO ELECT HELENE KEELEY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",600
+"22203614","CITIZENS TO ELECT JAMES J.J. JOHNSON","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"27652119","PLANNED PARENTHOOD OF DELAWARE","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",200
+"16727","UNITED DISTRIBUTORS","Beer, Wine & Liquor","General Business","Liquor wholesalers",80,20,"#000099AF","#000099AF",500
+"16868843","FRIENDS OF SCHOENBERG","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",200
+"8417133","CMTE TO ELECT KOWALKO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",150
+"8437894","COWAN CHIROPRACTIC & REHABILITATION","Health Professionals","Health","Chiropractors",100,0,"#0000FFAF","#0000FFAF",175
+"22202759","FRIENDS OF STEPHANIE T. BOLDEN","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",300
+"8401971","KENT COUNTY REPUBLICAN PARTY OF DELAWARE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2000
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",1200
+"8496291","LABORERS LOCAL 199","General Trade Unions","Labor","Construction unions",80,20,"#000099AF","#000099AF",3000
+"19615","ELECTRICAL WORKERS LOCAL 126","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1200
+"5442408","MDAVIS","Construction Services","Construction","Engineering, architecture & construction management services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"7974","MUMFORD & MILLER CONCRETE","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",50,50,"#000000AF","#000000AF",1200
+"8407161","DARRELL J BAKER ESQ PA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",350
+"8402005","OUTTENS CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",175

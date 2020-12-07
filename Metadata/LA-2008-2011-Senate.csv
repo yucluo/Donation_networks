@@ -1,0 +1,793 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"4845","LOUISIANA DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",151755.53
+"4846","SENATE DEMOCRATIC CAMPAIGN CMTE OF LOUISIANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",244492.04
+"4843","LOUISIANA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",202585.87
+"18418","LOUISIANA REPUBLICAN LEGISLATIVE DELEGATION CAMPAIGN CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",195000
+"7585","LOUISIANA MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",25,75,"#800000AF","#800000AF",70000
+"8198075","ROBERT ADLEY FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",7.69230769230769,92.3076923076923,"#DB0000AF","#DB0000AF",13000
+"8355026","LOUISIANA MANUFACTURERS ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",52.027027027027,47.972972972973,"#00000AAF","#00000AAF",74000
+"8755126","SOUTHPAC","Business Associations","General Business","Pro-business organizations",24.0620299258127,75.9379700741873,"#850000AF","#850000AF",49579.94
+"8754577","LOUISIANA ASSOCIATION OF BUSINESS & INDUSTRY EASTPAC","Business Associations","General Business","Pro-business organizations",45.5158868765806,54.4841131234194,"#1A0000AF","#1A0000AF",30977.14
+"722","CRESCENT RIVER PORT PILOTS ASSOCIATION","Transportation Unions","Labor","Transportation unions",39.63133640553,60.36866359447,"#380000AF","#380000AF",108500
+"6562","LOUISIANA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",41.1134903640257,58.8865096359743,"#2E0000AF","#2E0000AF",116750
+"4628676","PLUMBERS & STEAMFITTERS LOCAL 60","General Trade Unions","Labor","Construction unions",71.7921527041357,28.2078472958643,"#00006BAF","#00006BAF",47150
+"8140715","GULF COAST BANK & TRUST","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",8250
+"13240","JEI MANAGERS CORP","Gambling & Casinos","General Business","Casinos, racetracks & gambling",40.3225806451613,59.6774193548387,"#330000AF","#330000AF",31000
+"8395929","VOWELL DEVELOPMENT GROUP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",8000
+"15138","PLANTATION MANAGEMENT CO LLC","Hospitals & Nursing Homes","Health","Nursing homes",43.4782608695652,56.5217391304348,"#240000AF","#240000AF",34500
+"8755422","LOUISIANA HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",37.2448979591837,62.7551020408163,"#420000AF","#420000AF",98000
+"8208142","GAMVEST LIMITED PARTNERSHIP","Hospitals & Nursing Homes","Health","Nursing homes",50,50,"#000000AF","#000000AF",31500
+"8192002","NAIRN CONCRETE SERVICES","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",86.6666666666667,13.3333333333333,"#0000B8AF","#0000B8AF",7500
+"7574","LOUISIANA ASSOCIATION OF BUSINESS & INDUSTRY","Business Associations","General Business","Chambers of commerce",13.1724619088153,86.8275380911847,"#BD0000AF","#BD0000AF",49894.09
+"425","BRUNO & BRUNO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",85.2941176470588,14.7058823529412,"#0000B3AF","#0000B3AF",17000
+"10660","BURK-KLEINPETER","Construction Services","Construction","Engineering, architecture & construction management services",50.9164969450102,49.0835030549898,"#000000AF","#000000AF",24550
+"8494447","TRANSPAC LA MOTOR TRANSPORT ASSOCIATION","Uncoded","Uncoded","Uncoded",7.14285714285714,92.8571428571429,"#DB0000AF","#DB0000AF",7000
+"14665","NY & ASSOCIATES INC","Construction Services","Construction","Engineering, architecture & construction management services",52.4193548387097,47.5806451612903,"#00000AAF","#00000AAF",18600
+"15510","RICHARDS DISPOSAL INC","Waste Management","Energy & Natural Resources","Waste management",100,0,"#0000FFAF","#0000FFAF",8500
+"13145","ISC CONSTRUCTORS LLC","Special Trade Contractors","Construction","Electrical contractors",50,50,"#000000AF","#000000AF",27000
+"8233911","TUNICA BILOXI INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",9000
+"42678906","LOUISIANA FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",28500
+"1096","GEO GROUP","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",31.25,68.75,"#610000AF","#610000AF",12000
+"10193","BAGGETT MCCALL BURGESS WATSON & GAUGHAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",7500
+"8420861","GUILLORY BONDING CO","Miscellaneous Finance","Finance, Insurance & Real Estate","Bail Bond Services",29.4117647058824,70.5882352941177,"#6B0000AF","#6B0000AF",8500
+"5886","ASSOCIATED BRANCH PILOTS","Transportation Unions","Labor","Other transportation unions",44.5478723404255,55.4521276595745,"#1F0000AF","#1F0000AF",75200
+"11390","COSSICH SUMICH PARSIOLA & TAYLOR","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",79.6812749003984,20.3187250996016,"#000094AF","#000094AF",25100
+"11735","DODSON HOOKS & FREDERICK","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",83.9416058394161,16.0583941605839,"#0000A8AF","#0000A8AF",13700
+"8189946","MARTZELL & BICKFORD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",85.9649122807018,14.0350877192982,"#0000B3AF","#0000B3AF",14250
+"16117046","JOHN ALARIO JR CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",50,50,"#000000AF","#000000AF",10000
+"8189983","CHAISSON SENATE CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",56.3636363636364,43.6363636363636,"#00001FAF","#00001FAF",27500
+"7116","LOUISIANA HORSEMENS BENEVOLENT & PROTECTIVE ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",30.8943089430894,69.1056910569106,"#660000AF","#660000AF",30750
+"14495","NEW ORLEANS METROPOLITAN CONVENTION & VISITORS BUREAU","Lodging & Tourism","General Business","Hotels & motels",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",11000
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",38.5877684750466,61.4122315249534,"#3D0000AF","#3D0000AF",96533.18
+"7583","LOUISIANA RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",30.7486631016043,69.2513368983957,"#660000AF","#660000AF",56100
+"7588","LOUISIANA REALTORS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Real estate",26.8016194331984,73.1983805668016,"#7A0000AF","#7A0000AF",61750
+"13782","LOUISIANA SOCIETY OF INTERVENTIONAL PAIN PHYSICIANS","Health Professionals","Health","Other physician specialists",62.8378378378378,37.1621621621622,"#00003DAF","#00003DAF",29600
+"14329","MORRIS & DICKSON CO","Pharmaceuticals & Health Products","Health","Pharmaceutical wholesale",0,100,"#FF0000AF","#FF0000AF",10000
+"8194361","ST AGNES NURSING HOME PARTNERSHIP","Hospitals & Nursing Homes","Health","Nursing homes",24.3421052631579,75.6578947368421,"#850000AF","#850000AF",15200
+"7960","MORROW MORROW RYAN & BASSETT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",90,10,"#0000CCAF","#0000CCAF",15000
+"7769","MEYER & ASSOCIATES INC","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",7500
+"19050","LOUISIANA PROFESSIONAL INSURANCE AGENTS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",34.9170005724098,65.0829994275902,"#520000AF","#520000AF",87350
+"17061","WEST CARROLL HEALTH SYSTEMS","Hospitals & Nursing Homes","Health","Hospitals",51.6129032258064,48.3870967741936,"#000005AF","#000005AF",12400
+"7586","LOUISIANA NURSING HOME ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",40.88281660536,59.11718339464,"#330000AF","#330000AF",95150
+"8199241","POWER GAMING LLC","Gambling & Casinos","General Business","Casinos, racetracks & gambling",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",9000
+"8243776","M RODRIGUE & SON INC","Miscellaneous Manufacturing & Distributing","General Business","Industrial & commercial equipment and materials",90,10,"#0000CCAF","#0000CCAF",5000
+"2431","SOUTHERN STRATEGY GROUP OF LOUSIANA","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",60.8466479471033,39.1533520528967,"#000033AF","#000033AF",22354.51
+"8232780","DAYBROOK FISHERIES INC","Commercial Fishing","Energy & Natural Resources","Fishing",35.7142857142857,64.2857142857143,"#4D0000AF","#4D0000AF",7000
+"7075","HERMAN HERMAN KATZ & COTLAR","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",80,20,"#000099AF","#000099AF",25000
+"40348616","FAIR","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",63.5416666666667,36.4583333333333,"#000042AF","#000042AF",48000
+"8227519","ALL SOUTH CONSULTING ENGINEERS INC","Construction Services","Construction","Engineering, architecture & construction management services",47.7386934673367,52.2613065326633,"#0F0000AF","#0F0000AF",9950
+"311","BARON & BUDD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",43.3962264150943,56.6037735849057,"#240000AF","#240000AF",26500
+"8240819","PAN AMERICAN LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",26.9230769230769,73.0769230769231,"#7A0000AF","#7A0000AF",14300
+"17","ACADIAN AMBULANCE","Health Services","Health","Health care services",21.5970796851048,78.4029203148952,"#940000AF","#940000AF",30791.2
+"8351768","GULF STATES LIFE INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Life insurance",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",5400
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",32.6923076923077,67.3076923076923,"#5C0000AF","#5C0000AF",26000
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",45.7680250783699,54.2319749216301,"#1A0000AF","#1A0000AF",31900
+"12049021","VERGES ROME ARCHITECTS","Construction Services","Construction","Architectural services",0,100,"#FF0000AF","#FF0000AF",4650
+"3797","GEORGIA-PACIFIC","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",27.0440251572327,72.9559748427673,"#750000AF","#750000AF",39750
+"21305","LOUISIANA FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",25.0059859913172,74.9940140086828,"#800000AF","#800000AF",58093.97
+"8188866","MOORE WALTER THOMPSON HOOVER THOMAS PAPILLION CULLENS APLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",90.4761904761905,9.52380952380952,"#0000CCAF","#0000CCAF",10500
+"8197196","LOUISIANA FRUIT CO","Crop Production & Basic Processing","Agriculture","Vegetables, fruits & tree nuts",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",6500
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",18000
+"8196425","BATON ROUGE AREA CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",48.5714285714286,51.4285714285714,"#0A0000AF","#0A0000AF",43750
+"913","ENTERGY CORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",37.5167343326528,62.4832656673472,"#420000AF","#420000AF",79141.19
+"7577","LOUISIANA STATE BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",33.6842105263158,66.3157894736842,"#570000AF","#570000AF",71250
+"7579","LOUISIANA CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",51.2820512820513,48.7179487179487,"#000005AF","#000005AF",19500
+"12240","FOR PAC","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",13500
+"18789","LOUISIANA ORTHOPAEDIC ASSOCIATION","Health Professionals","Health","Other physician specialists",39.5348837209302,60.4651162790698,"#380000AF","#380000AF",21500
+"13774","LOUISIANA OIL & GAS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Oil & gas",13.267620204815,86.732379795185,"#BD0000AF","#BD0000AF",26369.16
+"8192891","BETA LAND SERVICES LLC","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",6000
+"10983","CENTRAL MANAGEMENT CO","Hospitals & Nursing Homes","Health","Nursing homes",62,38,"#00003DAF","#00003DAF",25000
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",29.6875,70.3125,"#6B0000AF","#6B0000AF",16000
+"7016","HARRIS DEVILLE & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",35.7458720190156,64.2541279809844,"#4D0000AF","#4D0000AF",34809.39
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",60,40,"#000033AF","#000033AF",9375
+"8240672","MUDD & BRUCHHAUS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",4000
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",42.3727043834652,57.6272956165348,"#290000AF","#290000AF",58038.33
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",20.3703703703704,79.6296296296296,"#990000AF","#990000AF",54000
+"450","CAJUN INDUSTRIES","General Contractors","Construction","Public works, industrial & commercial construction",20.8955223880597,79.1044776119403,"#990000AF","#990000AF",33500
+"1403","JONES WALKER WAECHTER POINTEVENT CARRERE & DENEGRE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",40.7894736842105,59.2105263157895,"#330000AF","#330000AF",53200
+"8189371","ASSOCIATED GENERAL CONTRACTORS OF LOUISIANA","General Contractors","Construction","Builders associations",18.9959294436906,81.0040705563094,"#A30000AF","#A30000AF",36850
+"32016801","BLUE WILLIAMS LLP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4800
+"39708504","LOUISIANA OIL & GAS","Uncoded","Uncoded","Uncoded",23.3402201629871,76.6597798370129,"#8A0000AF","#8A0000AF",8968.81
+"8201383","GLODEN AGE OF WELSH LLC","Hospitals & Nursing Homes","Health","Nursing homes",63.0434782608696,36.9565217391304,"#000042AF","#000042AF",11500
+"24721887","CAJUN CHEF PRODUCTS","Food Processing & Sales","Agriculture","Food stores",0,100,"#FF0000AF","#FF0000AF",4000
+"3394","CHESAPEAKE ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",10.4,89.6,"#CC0000AF","#CC0000AF",31250
+"839","DOW CHEMICAL","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",23.489932885906,76.510067114094,"#8A0000AF","#8A0000AF",37250
+"38039090","BRADFORD GUEST CARE LLC","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",6000
+"8247276","DONNER PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",0,100,"#FF0000AF","#FF0000AF",3666.96
+"1205","HAYNIE & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",50.7899751302278,49.2100248697722,"#000000AF","#000000AF",35082.75
+"38118087","AMERISAFE INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3550
+"14136","METROPOLITAN MANAGEMENT CORP","Hospitals & Nursing Homes","Health","Hospitals",46.969696969697,53.030303030303,"#140000AF","#140000AF",33000
+"16717","UNIFIED RECOVERY GROUP","Special Trade Contractors","Construction","Special trade contractors",0,100,"#FF0000AF","#FF0000AF",7000
+"9830","ADVANTAGE CAPITAL MANAGEMENT CORP","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",13500
+"12023578","RICHMOND FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5000
+"8198373","BATON ROUGE NEONATAL ASSOCIATES","Health Professionals","Health","Other physician specialists",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",6500
+"668","CONOCOPHILLIPS","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",28.0898876404494,71.9101123595506,"#700000AF","#700000AF",40050
+"8231745","TE WILLIAMS & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",4500
+"16737","UNITED PROFESSIONALS CO","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",42.6592797783933,57.3407202216066,"#290000AF","#290000AF",18050
+"8199353","LOUISIANA ASSOCIATION OF WHOLESALERS","Miscellaneous Business","General Business","Wholesale trade",3.57142857142857,96.4285714285714,"#F00000AF","#F00000AF",14000
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",29.0322580645161,70.9677419354839,"#6B0000AF","#6B0000AF",46500
+"12295","FRED AMUSEMENT INC","Recreation & Live Entertainment","General Business","Amusement & recreation centers",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",10500
+"5636","ADAMS & REESE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",36.0975609756098,63.9024390243902,"#470000AF","#470000AF",51250
+"8196440","N-Y ASSOCIATES INC","Sea Transport","Transportation","Sea transport",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",13500
+"2361","SHAW GROUP","General Contractors","Construction","Public works, industrial & commercial construction",40.2777777777778,59.7222222222222,"#330000AF","#330000AF",18000
+"7278","J LAWTON COMPANY LLC","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",7500
+"14761","OMEGA PROTEIN","Food & Beverage","General Business","Fish processing",5.12820512820513,94.8717948717949,"#E60000AF","#E60000AF",9750
+"8193726","LOUISIANA MEDICAL MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",9000
+"8240251","TSG RESOURCES INC","Uncoded","Uncoded","Uncoded",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",6500
+"8198033","ADVANTOS CONSULTING","Business Services","General Business","Management consultants & services",18.4688995215311,81.5311004784689,"#A30000AF","#A30000AF",26125
+"8199138","LSM GAMING INC","Gambling & Casinos","General Business","Casinos, racetracks & gambling",57.6923076923077,42.3076923076923,"#000024AF","#000024AF",13000
+"5979","BEER INDUSTRY LEAGUE OF LOUISIANA","Beer, Wine & Liquor","General Business","Liquor wholesalers",42.1977341610717,57.8022658389283,"#290000AF","#290000AF",35339.67
+"8675146","ASSOCIATED BUILDERS & CONTRACTORS PELICAN CHAPTER","General Contractors","Construction","Builders associations",10.6951871657754,89.3048128342246,"#CC0000AF","#CC0000AF",9350
+"6313","LOUISIANA ASSOCIATION FOR JUSTICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",42.8396027440726,57.1603972559274,"#290000AF","#290000AF",29467.15
+"1612193","BFM CORPORATION LLC","Construction Services","Construction","Surveying",82.9383886255924,17.0616113744076,"#0000A3AF","#0000A3AF",5275
+"8191876","RIVERBEND NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",58.5034013605442,41.4965986394558,"#000029AF","#000029AF",7350
+"2207","REPUBLIC NATIONAL DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",34.3511450381679,65.6488549618321,"#520000AF","#520000AF",6550
+"8675150","ASSOCIATED BUILDERS & CONTRACTORS OF LOUISIANA","General Contractors","Construction","Builders associations",43.3884297520661,56.6115702479339,"#240000AF","#240000AF",24200
+"8205679","BILLY NUNGESSER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",27.3972602739726,72.6027397260274,"#750000AF","#750000AF",7300
+"602","CLECO CORPORATION","Electric Utilities","Energy & Natural Resources","Electric power utilities",33.2916145181477,66.7083854818523,"#570000AF","#570000AF",39950
+"8197308","STUART CONSULTING GROUP","Construction Services","Construction","Engineering, architecture & construction management services",70.0142132629134,29.9857867370866,"#000066AF","#000066AF",5002.37
+"8195843","NATIONAL HOLDINGS INC","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",80,20,"#000099AF","#000099AF",12500
+"12038885","GEOCOR PROPERTIES LLC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",100,0,"#0000FFAF","#0000FFAF",7500
+"12408133","KENNEDY FINANCIAL GROUP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4500
+"13764","LOUISIANA CMTE FOR A REPUBLICAN MAJORITY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",7500
+"8201195","PLANTATION TRUCK PLAZA & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",55,45,"#00001AAF","#00001AAF",10000
+"8212491","ALFORD ANTHONY J INSURANCE CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",7500
+"8234036","BUQUET DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",3000
+"8314521","IBERIA MARINE SERVICE","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"7581","LOUISIANA HOMEBUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",21.6634429400387,78.3365570599613,"#940000AF","#940000AF",25850
+"11939","ENERGY TRANSFER PARTNERS","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",15.7303370786517,84.2696629213483,"#B30000AF","#B30000AF",22250
+"7201480","FRANKS MANAGEMENT CO","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",0,100,"#FF0000AF","#FF0000AF",6500
+"8966716","BEPCO LP","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",15000
+"12032277","GAMCO LLP","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",7500
+"1396","JOHN DEERE & CO","Agricultural Services & Products","Agriculture","Farm machinery & equipment",50,50,"#000000AF","#000000AF",5000
+"8209213","RIVER PARISH CONTRACTORS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3500
+"13327","JONES SWANSON HUDDELL & GARRISON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",88.2352941176471,11.7647058823529,"#0000C2AF","#0000C2AF",8500
+"10378","VERNON BICE PALERMO & WILSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",5500
+"11422","COX COX FILO CAMEL & WILSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",4000
+"130","AMERICAN ELECTRIC POWER","Electric Utilities","Energy & Natural Resources","Electric power utilities",30.185497470489,69.814502529511,"#660000AF","#660000AF",29650
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",43.5413642960813,56.4586357039187,"#240000AF","#240000AF",34450
+"8189823","DENNIS HENNEN ATTORNEY AT LAW","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",91.6666666666667,0,"#0000D1AF","#0000FFAF",12000
+"8190052","BARKER BOUFREAUX LAMY & FOLEY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",91.6666666666667,0,"#0000D1AF","#0000FFAF",12000
+"8199448","DAVID BRIGGS ENTERPRISES","Food & Beverage","General Business","Restaurants & drinking establishments",57.5,42.5,"#000024AF","#000024AF",20000
+"24719995","NORPAC LLC","Sea Transport","Transportation","Sea transport",49.1758241758242,50.8241758241758,"#050000AF","#050000AF",36400
+"390","BOLLINGER SHIPYARDS","Sea Transport","Transportation","Ship building & repair",4.02576489533011,95.9742351046699,"#EB0000AF","#EB0000AF",15525
+"12050101","LOUISIANA FEDERATION FOR CHILDREN","Public Education Policy","Ideology/Single Issue","School Choice Advocates",21.0526315789474,78.9473684210526,"#940000AF","#940000AF",19000
+"8469711","ALARIO PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",19500
+"915","ENTERTAINMENT SOFTWARE ASSOCIATION","Computer Equipment & Services","Communications & Electronics","Computer software",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",10500
+"7728","MCGLINCHEY STAFFORD LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",57.3770491803279,42.6229508196721,"#000024AF","#000024AF",27450
+"9095","TALBOT CARMOUCHE & MARCELLO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",27500
+"11446","CRESCENT BANK & TRUST","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",29.4117647058824,70.5882352941177,"#6B0000AF","#6B0000AF",8500
+"14913","PARK INVESTMENTS LTD","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",6000
+"15799","SCHEUERMANN & JONES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3500
+"8196149","WALT LEGER III CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5000
+"8208326","INDUSTRIAL FABRICS INC","Building Materials & Equipment","Construction","Building materials",50,50,"#000000AF","#000000AF",5000
+"11625","DELTA MUSIC CO","Recorded Music Production","Communications & Electronics","Recorded music & music production",51.8518518518518,48.1481481481481,"#000005AF","#000005AF",13500
+"2409","SMOKE BEND ASSOCIATES","Sea Transport","Transportation","Sea transport",48.9535477284329,51.0464522715671,"#0A0000AF","#0A0000AF",11754
+"9997","AMID / METRO PARTNERSHIP LLC","Waste Management","Energy & Natural Resources","Waste management",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"8369403","PEOPLES HEALTH NETWORK","Health Services","Health","HMOs",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",5500
+"8413935","B-3 CONSULTING LLC","Business Services","General Business","Management consultants & services",100,0,"#0000FFAF","#0000FFAF",8750
+"32646516","AMID / METRO PARTNERSHIP LLC","Uncoded","Uncoded","Uncoded",75.4716981132076,24.5283018867925,"#00007FAF","#00007FAF",5300
+"40618891","CHESTER ENGINEERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3750
+"8191257","SHOWS CALI BERTHELOT & WALSH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",7496
+"12540","GOUDEAU INC","Gambling & Casinos","General Business","Casinos, racetracks & gambling",61.1111111111111,38.8888888888889,"#000038AF","#000038AF",9000
+"13500","KREBS LASALLE LEMIEUX CONSULTANTS INC","Construction Services","Construction","Engineering, architecture & construction management services",38.1679389312977,61.8320610687023,"#3D0000AF","#3D0000AF",6550
+"13776","OPTOMETRIC ASSOCIATION OF LOUISIANA","Health Professionals","Health","Optometrists & ophthalmologists",51.8518518518518,48.1481481481481,"#000005AF","#000005AF",13500
+"14367","MURRAY ARCHITECTS","Construction Services","Construction","Architectural services",100,0,"#0000FFAF","#0000FFAF",4700
+"15541","RING ASSOCIATES","Health Professionals","Health","Dentists",50,50,"#000000AF","#000000AF",5000
+"16339","TAKEDA PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",50.8771929824561,49.1228070175439,"#000000AF","#000000AF",14250
+"8125454","BETA TESTING & INSPECTION LLC","Miscellaneous Services","General Business","Services",75,25,"#00007FAF","#00007FAF",4000
+"8191988","LINFIELD HUNTER & JUNIUS INC","Construction Services","Construction","Engineering, architecture & construction management services",54.2635658914729,45.7364341085271,"#000014AF","#000014AF",6450
+"8229786","JEFFERSON SPRINKLER INC","Special Trade Contractors","Construction","Special trade contractors",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",6500
+"8232670","LANDMARK DATA SERVICES INC","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",100,0,"#0000FFAF","#0000FFAF",5000
+"757","DAVID VOLKERT & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",17.9640718562874,82.0359281437126,"#A80000AF","#A80000AF",8350
+"2561","TAYLOR ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",25,75,"#800000AF","#800000AF",4000
+"3840","HOSPITAL CORP OF AMERICA","Hospitals & Nursing Homes","Health","Hospitals",31.1111111111111,68.8888888888889,"#610000AF","#610000AF",11250
+"11804","DUE PRICE GUIDRY PIEDRAHITA & ANDREWS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"12100","FIDELITY INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",7000
+"12225","F M HOOD & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",21.3197969543147,78.6802030456853,"#940000AF","#940000AF",19700
+"13763","LOUISIANA ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",13500
+"20233","LOUISIANA ASSOCIATION OF EDUCATORS","Public Sector Unions","Labor","Teachers unions",65.6626506024096,34.3373493975904,"#00004DAF","#00004DAF",16600
+"8153266","GULF ENGINEERS & CONSULTANTS","Construction Services","Construction","Engineering, architecture & construction management services",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",3250
+"8200202","LAFAC-PAC","Uncoded","Uncoded","Uncoded",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",5500
+"9033","NEW ORLEANS / BATON ROUGE STEAMSHIP PILOTS ASSOCIATION","Transportation Unions","Labor","Transportation unions",4.65116279069767,95.3488372093023,"#EB0000AF","#EB0000AF",10750
+"29727485","NEEB-KEARNEY & CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"1692","MEDCO HEALTH SOLUTIONS","Retail Sales","General Business","Drug stores",18.75,81.25,"#A30000AF","#A30000AF",8000
+"7167","INDEPENDENT INSURANCE AGENTS & BROKERS OF LOUISIANA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",29250
+"8923","SOCIETY OF LOUISIANA CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",30.6167400881057,69.3832599118943,"#660000AF","#660000AF",22700
+"9826","ADVANCED GAMING DISTRIBUTORS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",5500
+"14841","OTTO CANDIES LLC","Sea Transport","Transportation","Sea freight & passenger services",0,100,"#FF0000AF","#FF0000AF",5000
+"15411","REDMAN GAMING OF LOUISIANA","Gambling & Casinos","General Business","Casinos, racetracks & gambling",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",11000
+"8236745","JONES FUSSELL LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"37970670","ST TAMMANY HOME BUILDERS ASSOCIATION","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"33","ADVANCE AMERICA CASH ADVANCE CENTERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",27600
+"19834","LOUISIANA RIVER PILOTS ASSOCIATION","Transportation Unions","Labor","Transportation unions",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"5619583","CMTE FOR RESPONSIBLE GOVERNMENT OF TEMPLE-INLAND INC","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"6458","COX COMMUNICATIONS","Miscellaneous Communications & Electronics","Communications & Electronics","Communications & electronics",33.2862689728203,66.7137310271797,"#570000AF","#570000AF",28330
+"8197809","SOUTHERN PLANTATION MANAGEMENT CO","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",0,100,"#FF0000AF","#FF0000AF",7500
+"8237404","PREMIER CONCRETE PRODUCTS DBA CSG INDUSTRIES INC","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",4500
+"8271065","GRAND PARADISE","Gambling & Casinos","General Business","Casinos, racetracks & gambling",3.84615384615385,96.1538461538462,"#F00000AF","#F00000AF",2600
+"7576","LOUISIANA AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",37.2948781700646,62.7051218299354,"#420000AF","#420000AF",50275
+"12480","GLENN J AMENTOR LTD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",89.2857142857143,10.7142857142857,"#0000C7AF","#0000C7AF",5600
+"8195829","KATHLEEN BLANCO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",3000
+"12025080","SERVICE EMPLOYEES LOCAL 21 LA","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",6500
+"7573","LOUISIANA ACADEMY OF MEDICAL PSYCHOLOGISTS","Health Professionals","Health","Psychiatrists & psychologists",45.7516339869281,54.2483660130719,"#1A0000AF","#1A0000AF",38250
+"8197986","GLEN G SHAHEEN & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"8319098","STEVE KENT INVESTMENTS","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"11624","DELTA LAUNCH SERVICES LLC","Sea Transport","Transportation","Sea transport",52.6315789473684,47.3684210526316,"#00000AAF","#00000AAF",4750
+"10600","BROWN & BROWN OF LOUISIANA","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",43.1034482758621,56.8965517241379,"#240000AF","#240000AF",14500
+"8209803","LIL BIT SERVICES INC","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",0,100,"#FF0000AF","#FF0000AF",5000
+"8276696","LEBEOUF BROTHERS TOWING LLC","Automotive","Transportation","Auto repair",0,100,"#FF0000AF","#FF0000AF",3500
+"29356263","ST MARY SUGAR CO-OPERATIVE INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3600
+"7619","MAGNOLIA MANAGEMENT CORP","Hospitals & Nursing Homes","Health","Nursing homes",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",13500
+"12776","HEALTH CARE RESOURCES","Health Services","Health","Health care services",34.7826086956522,65.2173913043478,"#520000AF","#520000AF",5750
+"8201405","JEFFERSON MANOR PROPERTIES","Hospitals & Nursing Homes","Health","Nursing homes",25,75,"#800000AF","#800000AF",4000
+"12017983","VISION PAC","Candidate Committees","Candidate Contributions","Candidate committees",42.7867069363489,57.2132930636511,"#290000AF","#290000AF",15730.61
+"29168439","BELLE TECHE PROPERTIES LLC","Hospitals & Nursing Homes","Health","Nursing homes",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",6000
+"1277","HUMANA","Health Services","Health","HMOs",29.5748613678373,70.4251386321627,"#6B0000AF","#6B0000AF",27050
+"2722","USAA","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",6000
+"13624","LEADERSHIP FOR LOUISIANA","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"8238701","MIKE MICHOT CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",35.2941176470588,64.7058823529412,"#4D0000AF","#4D0000AF",8500
+"24720617","LOUISIANA TANK INC","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",0,100,"#FF0000AF","#FF0000AF",4950
+"89293","LCS CORRECTIONS SERVICES","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",87.5,12.5,"#0000BDAF","#0000BDAF",4000
+"6800290","MWL ARCHITECTS","Construction Services","Construction","Architectural services",100,0,"#0000FFAF","#0000FFAF",3000
+"8201178","PELICAN BINGO DISTRIBUTORS LLC","Gambling & Casinos","General Business","Casinos, racetracks & gambling",50,50,"#000000AF","#000000AF",5000
+"8345455","NEXION HEALTH AT PIERREMONT","Hospitals & Nursing Homes","Health","Nursing homes",64.3500643500644,35.6499356499356,"#000047AF","#000047AF",3885
+"39711122","LA SAFETY ASSOCIATION OF TIMBERMEN","Uncoded","Uncoded","Uncoded",82.3529411764706,17.6470588235294,"#0000A3AF","#0000A3AF",4250
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",33.4051724137931,66.5948275862069,"#570000AF","#570000AF",23200
+"9588","CHECK INTO CASH","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",21.021021021021,78.978978978979,"#940000AF","#940000AF",16650
+"8226845","LIFPAC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",8250
+"12043095","MPB CONSTRUCTION LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2750
+"695","CORRECTIONS CORP OF AMERICA","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",11000
+"4761","WEYERHAEUSER CO","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",21.7391304347826,78.2608695652174,"#940000AF","#940000AF",11500
+"8247254","ALMOND BROS LUMBER CO","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",0,100,"#FF0000AF","#FF0000AF",4000
+"8275440","COLONIAL MANOR PROPERTIES","Hospitals & Nursing Homes","Health","Nursing homes",50,50,"#000000AF","#000000AF",5000
+"8289994","FAIR OAKS PROPERTIES","Hospitals & Nursing Homes","Health","Nursing homes",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",7500
+"29916552","TANGO TRANSPORT INC","Uncoded","Uncoded","Uncoded",37.5,62.5,"#420000AF","#420000AF",4000
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",13.1672597864769,86.8327402135231,"#BD0000AF","#BD0000AF",14050
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",9750
+"11561","DAWSON FARMS LLC","Crop Production & Basic Processing","Agriculture","Farmers, in general",50,50,"#000000AF","#000000AF",5000
+"4542197","HEALTHCARE SOLUTIONS LLC","Hospitals & Nursing Homes","Health","Health care institutions",65.2173913043478,34.7826086956522,"#00004DAF","#00004DAF",11500
+"8196283","MAPES & MAPES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",53.125,46.875,"#00000FAF","#00000FAF",9600
+"10685","C H FENSTERMAKER & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",4100
+"13436","KG PROPERTIES","Hospitals & Nursing Homes","Health","Nursing homes",12.5,87.5,"#C20000AF","#C20000AF",8000
+"8262065","STONE ENERGY CORP","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",3000
+"16634","LOUISIANA MOTOR TRANSPORT ASSOCIATION","Trucking","Transportation","Trucking companies & services",32,68,"#5C0000AF","#610000AF",18750
+"8250474","HARMONY HOUSE NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",3000
+"8318663","NEIL RISER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"12017907","CAMELOT PLACE","Hospitals & Nursing Homes","Health","Nursing homes",20.5882474048514,79.4117525951486,"#990000AF","#990000AF",4857.14
+"28143646","WEST MONROE GUEST HOUSE INC","Uncoded","Uncoded","Uncoded",16.8067226890756,83.1932773109244,"#AD0000AF","#AD0000AF",5950
+"8203780","MINDEN NEXION HEALTH","Hospitals & Nursing Homes","Health","Nursing homes",64.3500643500644,35.6499356499356,"#000047AF","#000047AF",3885
+"8249803","PLANTATION MANOR NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",4500
+"12021561","SIMMONS MORRIS & CARROLL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",4500
+"12031966","HERITAGE MANOR SOUTH","Uncoded","Uncoded","Uncoded",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",4250
+"1174","FRIEDKIN BUSINESS SERVICES / GULF STATE TOYOTA","Automotive","Transportation","Auto dealers, new & used",37.1100164203612,62.8899835796388,"#420000AF","#420000AF",30450
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",17.9775280898876,82.0224719101124,"#A80000AF","#A80000AF",40050
+"12567","GRAY OIL & GAS CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",2900
+"24721987","VANTAGE HEALTH PLAN INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",31.1926605504587,68.8073394495413,"#610000AF","#610000AF",10900
+"8201487","PONTCHARTRAIN PHARMACY","Retail Sales","General Business","Drug stores",20,80,"#990000AF","#9E0000AF",5750
+"8196270","WINE & SPIRITS FOUNDATION OF LOUISIANA","Beer, Wine & Liquor","General Business","Liquor wholesalers",71.0241675716938,28.9758324283062,"#00006BAF","#00006BAF",15680.93
+"8197290","DAUL INSURANCE AGENCY","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",61.1111111111111,38.8888888888889,"#000038AF","#000038AF",4500
+"7590","LOUISIANA SHERIFFS & DEPUTIES ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",41.5130940834142,58.4869059165858,"#2E0000AF","#2E0000AF",51550
+"13111","IMPERIAL FIRE & CASUALTY INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",27.7777777777778,72.2222222222222,"#750000AF","#750000AF",5400
+"9964","LOUISIANA RURAL ELECTRIC ASSOCIATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",12.8350320875802,87.1649679124198,"#C20000AF","#C20000AF",6622.5
+"8196487","LOUISIANA ASSOCIATION NURSE PRACTITIONERS","Health Professionals","Health","Nurses",69.5652173913043,30.4347826086957,"#000061AF","#000061AF",11500
+"12049236","BRK INSURANCE GROUP LLC","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",100,0,"#0000FFAF","#0000FFAF",2500
+"18634040","FLEUR DE LIS HEALTHCARE MGMT LLC","Uncoded","Uncoded","Uncoded",43.4782608695652,56.5217391304348,"#240000AF","#240000AF",5750
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",46.0992907801418,53.9007092198582,"#140000AF","#140000AF",35250
+"27692196","ARWIN P BASCLE LLC","Uncoded","Uncoded","Uncoded",85.1851851851852,14.8148148148148,"#0000B3AF","#0000B3AF",2700
+"29913158","JEI MANAGERS DISBURSEMENT ACCOUNT LOUISIANA CORPORATE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"13768","LOUISIANA FINANCE ASSOCIATION","Banks & Lending Institutions","Finance, Insurance & Real Estate","Banks & lending institutions",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",7500
+"18910795","DESIGN ENGINEERING INC","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",3000
+"6595","DOMENGEAUX WRIGHT ROY EDWARDS & COLOMB","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"8199734","DARRYL D BERGER INVESTMENTS","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",50,50,"#000000AF","#000000AF",4000
+"15206","PRESERVATION PARTNERS","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",5500
+"8209363","BRYANT HAMMETT & ASSOCIATES LLC","Candidate Contributions","Candidate Contributions","Candidate Contribution",100,0,"#0000FFAF","#0000FFAF",3500
+"8243963","PSI","Uncoded","Uncoded","Uncoded",79.3650793650794,20.6349206349206,"#000094AF","#000094AF",3150
+"8378833","ROYAL ENGINEERS & CONSULTANTS","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",5000
+"8232546","FAMILY VISION CLINIC","Health Professionals","Health","Optometrists & ophthalmologists",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"8238286","COURSON NICKEL LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",42.4479231477564,57.5520768522436,"#290000AF","#290000AF",32144.8
+"11511","DAIICHI SANKYO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",25.7142857142857,74.2857142857143,"#800000AF","#800000AF",8750
+"21029","LAKE CHARLES PILOTS ASSOCIATION","Sea Transport","Transportation","Sea freight & passenger services",18.75,81.25,"#A30000AF","#A30000AF",8000
+"8197362","DIVERSIFIED HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",41.8410041841004,58.1589958158996,"#2E0000AF","#2E0000AF",8962.5
+"8201490","R M DEVELOPMENT CORPORATION","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",60,40,"#000033AF","#000033AF",6250
+"8232746","CLAUDIA CAVALLINO DDS LLC","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",2500
+"8250639","NEXION HEALTH AT VIVIAN","Uncoded","Uncoded","Uncoded",12.8865979381443,87.1134020618557,"#C20000AF","#C20000AF",3880
+"28943098","RYAN GLOBAL","Miscellaneous Finance","Finance, Insurance & Real Estate","Financial services & consulting",21.4285714285714,78.5714285714286,"#940000AF","#940000AF",7000
+"266","ATMOS ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",17.0794192997438,82.9205807002562,"#A80000AF","#A80000AF",29275
+"4054","LOUISIANA MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",34.9587396849212,65.0412603150788,"#520000AF","#520000AF",33325
+"8229280","TRIPLE G EXPRESS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"8229924","GIBBS CONSTRUCTION","General Contractors","Construction","Construction, unclassified",20,80,"#990000AF","#9E0000AF",2500
+"8573170","BOH BROS CONSTRUCTION CO LLC","General Contractors","Construction","Construction, unclassified",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",4500
+"39389711","MARRERO LAND & IMPROVEMENT ASSOCIATES LTD","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",2500
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",21.6216216216216,78.3783783783784,"#940000AF","#940000AF",18500
+"14763","OMNI BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",2600
+"16334","T-MOBILE","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",5.88235294117647,94.1176470588235,"#E60000AF","#E60000AF",8500
+"8201188","BAYOU MAGIC ENTERPRISES LLC","Gambling & Casinos","General Business","Casinos, racetracks & gambling",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"8201194","GALLIANO TRUCK PLAZA & CASINO LLP","Oil & Gas","Energy & Natural Resources","Gasoline service stations",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"29922334","ALGIERS ROY & SONS MUSIC CO","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",4000
+"8197231","ASSOCIATED GRAIN TERMINALS LLC","Agricultural Services & Products","Agriculture","Grain traders & terminals",12.5,87.5,"#C20000AF","#C20000AF",4000
+"8204670","R A GOUX REAL ESTATE","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",0,100,"#FF0000AF","#FF0000AF",3000
+"8386364","NEXION HEALTH AT KAPLAN","Hospitals & Nursing Homes","Health","Nursing homes",64.3500643500644,35.6499356499356,"#000047AF","#000047AF",3885
+"11270","COMMON SENSE NOW PAC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",35.4838709677419,64.5161290322581,"#4D0000AF","#4D0000AF",7750
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",10500
+"13775","LOUISIANA OIL MARKERTERS & CONVENIENCE STORE ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",35.3846153846154,64.6153846153846,"#4D0000AF","#4D0000AF",16250
+"8227204","GUIDRY ASSOCIATES","Uncoded","Uncoded","Uncoded",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",3250
+"8227210","BAYOU HOME IMPROVEMENT","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"1490","LAMAR CORPORATION","Business Services","General Business","Outdoor advertising services",50.3968253968254,49.6031746031746,"#000000AF","#000000AF",12600
+"1926","OCCIDENTIAL PETROLEUM","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",64.3564356435644,35.6435643564356,"#000047AF","#000047AF",5050
+"8204935","ROUSES ENTERPRISES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"40218313","TERREBONNE MOTOR CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"8663","REPUBLIC SERVICES","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",2500
+"8193108","GACHASSIN LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",25,75,"#800000AF","#800000AF",4000
+"12026642","GERALD LONG CAMPAIGN FUND","Uncoded","Uncoded","Uncoded",32,68,"#5C0000AF","#610000AF",6250
+"10437","BLUE CROSS BLUE SHIELD OF LOUISIANA","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",35.0877192982456,64.9122807017544,"#4D0000AF","#4D0000AF",14250
+"8190063","BROUSSARD & DAVID LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",69.2307692307692,30.7692307692308,"#000061AF","#000061AF",6500
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",39.6551724137931,60.3448275862069,"#380000AF","#380000AF",14500
+"13743","LONG LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",41.4201183431953,58.5798816568047,"#2E0000AF","#2E0000AF",8450
+"8760","ROY O MARTIN LUMBER CO","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",15.5265856813469,84.4734143186531,"#B30000AF","#B30000AF",13436.18
+"40616352","FRANCIS DRILLING FLUIDS LTD","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"13803","LUBA CASUALTY INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",15750
+"1338","INTERNATIONAL PAPER","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",6500
+"8125792","FIRST HERITAGE CREDIT LLC","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",80,20,"#000099AF","#000099AF",2500
+"8224776","QUACHITA TERMINALS INC","Sea Transport","Transportation","Sea transport",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"8235185","RODNEY ALEXANDER FOR CONGRESS","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"37496985","COX COMMUNICATIONS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2250
+"292","BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",26.8595041322314,73.1404958677686,"#7A0000AF","#7A0000AF",12100
+"13781","LOUISIANA SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",9000
+"8201528","TOWN & COUNTRY HEALTH & REHAB","Hospitals & Nursing Homes","Health","Nursing homes",44.8275862068966,55.1724137931034,"#1F0000AF","#1F0000AF",7250
+"8215688","GUEST CARE CENTER AT SPRING LAKE LLC","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",3500
+"8340536","TOMMIES NOVELTY GAMING LLC","Gambling & Casinos","General Business","Casinos, racetracks & gambling",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"8204091","THE OAKS","Hospitals & Nursing Homes","Health","Nursing homes",39.4736842105263,60.5263157894737,"#380000AF","#380000AF",5700
+"8204151","LAKELAND PARTNERS LLC","Hospitals & Nursing Homes","Health","Nursing homes",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",6000
+"8225433","ST MICHAEL PFU LLC THE CARE CENTER OF DEQUINCY","Hospitals & Nursing Homes","Health","Nursing homes",68.9655172413793,31.0344827586207,"#00005CAF","#00005CAF",2900
+"12017961","NEXION HEALTH AT IBERIA NORTH","Uncoded","Uncoded","Uncoded",59.0841949778434,40.9158050221566,"#00002EAF","#00002EAF",3385
+"12035563","HERITAGE MANOR STRATMORE NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",53.3333333333333,46.6666666666667,"#00000FAF","#00000FAF",3750
+"15802","SCHILLING DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",60.2316602316602,39.7683397683398,"#000033AF","#000033AF",12950
+"8203416","DENMON ENGINEERING CO","Construction Services","Construction","Engineering, architecture & construction management services",65.5172413793103,34.4827586206897,"#00004DAF","#00004DAF",2900
+"8227865","RICHIE RICHIE & OBERLE LLP","Uncoded","Uncoded","Uncoded",7.14285714285714,92.8571428571429,"#DB0000AF","#DB0000AF",2800
+"962","FAYARD & HONEYCUTT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",8.19672131147541,91.8032786885246,"#D60000AF","#D60000AF",3050
+"2633","UNITED TRANSPORTATION UNION / UTU","Transportation Unions","Labor","Railroad unions",31.25,68.75,"#610000AF","#610000AF",4800
+"40616312","MEYER MEYER LACROIX & HIXSON INC","Uncoded","Uncoded","Uncoded",78.2608695652174,21.7391304347826,"#00008FAF","#00008FAF",2300
+"8243442","B & C SHEET METAL","Miscellaneous Manufacturing & Distributing","General Business","Industrial & commercial equipment and materials",0,100,"#FF0000AF","#FF0000AF",2925
+"15507","RICHARD C LAMBERT CONSULTANTS","Construction Services","Construction","Engineering, architecture & construction management services",82.2784810126582,17.7215189873418,"#0000A3AF","#0000A3AF",3950
+"8754783","KASS BROS INC","Uncoded","Uncoded","Uncoded",70,30,"#000066AF","#000066AF",2500
+"8229712","SOUTHEASTERN MOTOR FREIGHT INC","Trucking","Transportation","Trucking",0,100,"#FF0000AF","#FF0000AF",2250
+"8237612","CROSS GATES ATHLETIC CLUB","Miscellaneous Services","General Business","Physical fitness centers",0,100,"#FF0000AF","#FF0000AF",1950
+"8191253","MORROW GATES & MORROW LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3100
+"8244354","RED STICK ORTHOPEDICS & PROSTHETICS","Health Professionals","Health","Other physician specialists",60,40,"#000033AF","#000033AF",2500
+"8134004","LIBERTY BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",100,0,"#0000FFAF","#0000FFAF",2750
+"8227512","METRO DISPOSAL INC","Waste Management","Energy & Natural Resources","Waste management",100,0,"#0000FFAF","#0000FFAF",2500
+"28741428","DAVILLIER LAW GROUP LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"8222262","DYNAMIC TOWER SERVICES","Telecom Services & Equipment","Communications & Electronics","Other Communications Services",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",1800
+"9904","ALLERGAN","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",47.5,52.5,"#0F0000AF","#0F0000AF",20000
+"13571","LANDRY SWARR & CANNELLA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2500
+"13761","LOUISIANA ASPHALT & PAVEMENT ASSOCIATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",20.4918032786885,79.5081967213115,"#990000AF","#990000AF",18300
+"8189726","LAW OFFICES OF JACK M BAILEY JR","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",7500
+"8198732","LOUISIANA LIFE UNDERWRITERS","Insurance","Finance, Insurance & Real Estate","Life insurance",31.25,68.75,"#610000AF","#610000AF",8000
+"8199291","LOUISIANA INDEPENDENT COMMUNITY PHARMACIES","Retail Sales","General Business","Drug stores",50.6993006993007,49.3006993006993,"#000000AF","#000000AF",14300
+"14369","MURRAY LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",5500
+"8367757","CREDIT INSURANCE GENERAL AGENCY","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",2500
+"10956","CDM SMITH","Construction Services","Construction","Engineering, architecture & construction management services",70.5882352941177,29.4117647058824,"#000066AF","#000066AF",6800
+"8197631","NEWELL NORMAND CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",75,25,"#00007FAF","#00007FAF",2000
+"29925503","BARRIERE CONSTRUCTION CO LLC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",2000
+"38118363","PICKERING & COTOGNO LLC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",2000
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",5250
+"8198163","RIVER OAKS RETIREMENT MANOR","Hospitals & Nursing Homes","Health","Nursing homes",34.6153846153846,65.3846153846154,"#520000AF","#520000AF",6500
+"8403585","CULAC","Credit Unions","Finance, Insurance & Real Estate","Credit unions",25,75,"#800000AF","#800000AF",2000
+"24721365","LOUISIANA OIL MARKETERS & CONVENIENCE STORE ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",21.0526315789474,78.9473684210526,"#940000AF","#940000AF",14250
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",5.12820512820513,94.8717948717949,"#E60000AF","#E60000AF",9750
+"8201156","SELECT PROPERTIES LTD","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",0,100,"#FF0000AF","#FF0000AF",2250
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",25.2873563218391,74.7126436781609,"#800000AF","#800000AF",21750
+"1084","GENERAL ELECTRIC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",6.25,93.75,"#E00000AF","#E00000AF",8000
+"5259","LOUISIANA CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",4500
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",29.6296296296296,70.3703703703704,"#6B0000AF","#6B0000AF",6750
+"8198112","LOUISIANA SOFT DRINK ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"8226755","TRANSPORTATION CONSULTANTS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"8203250","ZEN-NOH GRAIN CORPORATION","Crop Production & Basic Processing","Agriculture","Wheat, corn, soybeans & cash grain",25,75,"#800000AF","#800000AF",2000
+"8237500","JARE CONSULTING LLC","Uncoded","Uncoded","Uncoded",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",2750
+"8267515","BAKER FAMILY HOLDING LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"735","CSX TRANSPORTATION","Railroads","Energy & Natural Resources","Railroads",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"8728874","KENTWOOD MANOR NURSING HOME","Hospitals & Nursing Homes","Health","Nursing homes",52.5000525000525,47.4999474999475,"#00000AAF","#00000AAF",2857.14
+"12766","HEALTH AGENTS PAC CORP","Health Services","Health","Health care services",37.4449339207048,62.5550660792952,"#420000AF","#420000AF",11350
+"8239496","LOUISIANA CPA ASSOCIATION","Uncoded","Uncoded","Uncoded",15.8730158730159,84.1269841269841,"#B30000AF","#B30000AF",9450
+"12017877","KB-PAC INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",36.9287020109689,63.0712979890311,"#470000AF","#470000AF",27350
+"12001","ENVIRONMENTAL TECHNICAL SALES","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",42.1052631578947,57.8947368421053,"#290000AF","#290000AF",4750
+"8201475","PLAN REVIEW & INSPECTIONS LLC","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"8189761","ALVENDIA KELLY & DEMAREST","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2500
+"12035852","RED RIVER PROTECTION LLC","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"13773","LOUISIANA MEDICAL MUTUAL INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",27.7777777777778,72.2222222222222,"#750000AF","#750000AF",5400
+"8229073","LOUISIANA ACADEMY OF FAMILY PHYSICIANS","Health Professionals","Health","Physicians",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"16107","SPECTRA ENERGY","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",24,76,"#850000AF","#850000AF",18750
+"27690206","LA ASSOCIATION OF HEALTH PLANS","Uncoded","Uncoded","Uncoded",35.2941176470588,64.7058823529412,"#4D0000AF","#4D0000AF",4250
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",9000
+"13772","LOUISIANA LIFE & HEALTH INSURANCE","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",31.8181818181818,68.1818181818182,"#610000AF","#610000AF",11000
+"8210657","PAN AMERICAN ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",35.7142857142857,64.2857142857143,"#4D0000AF","#4D0000AF",4200
+"27690205","LOUISIANA ASSOCIATION OF HEALTH PLANS","Uncoded","Uncoded","Uncoded",32.3741007194245,67.6258992805755,"#5C0000AF","#5C0000AF",6950
+"7592","LOUISIANA WORKERS COMPENSATION CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3600
+"8249655","CBS INTEREST LLC","TV & Movie Production/Distribution","Communications & Electronics","Commercial television & radio stations",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",1750
+"8202001","PETROQUEST ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",3000
+"8237993","PETROLEUM CONNECTIONS LLC","Oil & Gas","Energy & Natural Resources","Oil & gas",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",5250
+"9621669","BRYCE TRANSPORT INC","Trucking","Transportation","Trucking companies & services",0,100,"#FF0000AF","#FF0000AF",2750
+"24722742","LA ASPHALT PAVEMENT ASSOCIATION","Uncoded","Uncoded","Uncoded",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",3250
+"8201115","RISK MANAGEMENT SERVICES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",47.0588235294118,52.9411764705882,"#0F0000AF","#0F0000AF",4250
+"8201330","AMELIA MANOR INC","Hospitals & Nursing Homes","Health","Nursing homes",25,75,"#800000AF","#800000AF",5000
+"8208669","COURTYARD MANOR NURSING CARE & ASSISTED LIVING","Hospitals & Nursing Homes","Health","Nursing homes",29.4117647058824,70.5882352941177,"#6B0000AF","#6B0000AF",4250
+"8219987","SHREVEPORT MANOR LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"8248668","FLEMING NOVELTY","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"8195892","LOUISIANA STATE AUTO WORKERS COUNCIL","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",2000
+"8248362","CALHOUN, FIELDER","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",75,25,"#00007FAF","#00007FAF",2000
+"5487108","NACDS","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",2000
+"8741024","STOCKWELL SIEVERT VICCELLIO CLEMENTS & SHA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2000
+"331","BAYER AG","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",6800
+"8196486","PESTPAC","Miscellaneous Services","General Business","Pest control",88.3720930232558,11.6279069767442,"#0000C2AF","#0000C2AF",2150
+"7076941","TWIN OAKS NURSING HOME","Hospitals & Nursing Homes","Health","Nursing homes",32.9787234042553,67.0212765957447,"#5C0000AF","#5C0000AF",4700
+"8199852","METAIRIE OPERATIONS","Hospitals & Nursing Homes","Health","Nursing homes",33.6734693877551,66.3265306122449,"#570000AF","#570000AF",4900
+"8199924","WALDON OPERATIONS LLC DBA WALDON HEALTHCARE CENTER","Hospitals & Nursing Homes","Health","Nursing homes",34.020618556701,65.979381443299,"#520000AF","#520000AF",4850
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",52.1739130434783,47.8260869565217,"#00000AAF","#00000AAF",8625
+"24897068","JAMES CONSTRUCTION GROUP LLC","Uncoded","Uncoded","Uncoded",42.5531914893617,57.4468085106383,"#290000AF","#290000AF",2350
+"38059338","GAUTHIER HOUGHTALING & WILLIAMS LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1850
+"30223720","GILSBAR MANAGEMENT SERVICES LLC","Uncoded","Uncoded","Uncoded",21.7391304347826,78.2608695652174,"#940000AF","#940000AF",2300
+"12022671","GSE ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",28,72,"#700000AF","#700000AF",2500
+"8201416","LACOMBE NURSING CENTRE","Hospitals & Nursing Homes","Health","Nursing homes",17.0731707317073,82.9268292682927,"#A80000AF","#A80000AF",4100
+"12047786","PICARD GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",46.2263292437767,53.7736707562233,"#140000AF","#140000AF",6043.85
+"8225825","WESTWOOD MANOR NURSING HOME","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",2200
+"8210678","YEATES & YEATES ARCHITECTS","Construction Services","Construction","Architectural services",50,50,"#000000AF","#000000AF",2500
+"24722739","BLUE CROSS BLUE SHIELD OF LA","Uncoded","Uncoded","Uncoded",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",3250
+"15593","RODEL PARSONS KOCH BLACHE BALHOFF & MCCOLLISTER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",41.3793103448276,58.6206896551724,"#2E0000AF","#2E0000AF",7250
+"8369780","SAUNDERS LTD","No Employer Listed or Found","Uncoded","No employer listed or discovered",100,0,"#0000FFAF","#0000FFAF",1350
+"32017466","PROGRESSIVE TRACTOR & IMPLEMENT CO","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",2250
+"8376342","JOE PICARD INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2250
+"6780","GULFCO OF MISSISSIPPI","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",2200
+"8251153","MONSTER HEAVY HAULERS","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",77.2727272727273,22.7272727272727,"#00008AAF","#00008AAF",2200
+"20363631","PARISH CONCRETE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1350
+"8227821","DELTA CLAIMS SERVICE INC","Uncoded","Uncoded","Uncoded",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",1300
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",9.03614457831325,90.9638554216867,"#D10000AF","#D10000AF",8300
+"38118342","BOURGEOIS & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1300
+"4891011","LOUISIANA REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",7500
+"8192538","HEAT & FROST INSULATORS LOCAL 53","General Trade Unions","Labor","Construction unions",86.9565217391304,13.0434782608696,"#0000B8AF","#0000B8AF",3450
+"8195908","MANNING ARCHITECTS APAC","Construction Services","Construction","Architectural services",100,0,"#0000FFAF","#0000FFAF",1500
+"8201185","F M S INC","Uncoded","Uncoded","Uncoded",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",3250
+"8250994","GORDON E DOVE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2000
+"12037710","MOTIVATIT SEAFOODS LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"39390172","CAJUN SUGAR COOPERATIVE INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"323","BASF","Chemical & Related Manufacturing","General Business","Chemicals",80,20,"#000099AF","#000099AF",1250
+"12021533","NEXION HEALTH AT MANY NORTH","Uncoded","Uncoded","Uncoded",59.0841949778434,40.9158050221566,"#00002EAF","#00002EAF",3385
+"8194078","ACADIAN OAKS NURSING HOME","Hospitals & Nursing Homes","Health","Nursing homes",62.5,37.5,"#00003DAF","#00003DAF",4000
+"8224979","TOLEDO NURSING CENTER","Hospitals & Nursing Homes","Health","Nursing homes",37.037037037037,62.962962962963,"#420000AF","#420000AF",2700
+"8225340","ST MARTIN DE PORRES MULTI-CARE CENTER","Hospitals & Nursing Homes","Health","Nursing homes",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",5500
+"793","DIAGEO","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",5500
+"1795","MWH AMERICAS","Construction Services","Construction","Engineering, architecture & construction management services",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",50,50,"#000000AF","#000000AF",4000
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",25,75,"#800000AF","#800000AF",4000
+"8189848","GLAGO LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2000
+"8191757","ALLAIN F HARDIN APLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",4500
+"8193037","GOODE LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1550
+"8230288","GOVERNMENT RELATED SERVICES OF LOUISIANA","Miscellaneous Services","General Business","Services",32,68,"#5C0000AF","#610000AF",6250
+"8247877","MALONE LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"8327335","FRIENDS OF MARY LANDRIEU","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4500
+"9954894","MERCK SHARP & DOHM CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",36.4406779661017,63.5593220338983,"#470000AF","#470000AF",11800
+"32016706","INTEGRA MANAGEMENT GROUP INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"8189626","WALTER REED CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1250
+"29207143","CASH AMERICA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"17103","WHISKEY OAKS DEVELOPMENT LLC","Business Services","General Business","Business services",100,0,"#0000FFAF","#0000FFAF",1500
+"481","CAPITAL ONE FINANCIAL CORP","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",46.6666666666667,53.3333333333333,"#140000AF","#140000AF",3750
+"11808","DUGAN LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"4073695","SPEARS & SPEARS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2250
+"5278841","SIMON PERAGINE SMITH & REDFEARN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"1778","MOTOROLA","Telecom Services & Equipment","Communications & Electronics","Telephone & communications equipment",40,60,"#330000AF","#330000AF",2500
+"709","COVENTRY HEALTH CARE OF KANSAS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",50,50,"#000000AF","#000000AF",2000
+"11440","CRAWFORD LEWIS PLLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"13765","LOUISIANA CMTE FOR ACTION","General Contractors","Construction","Builders associations",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",2200
+"8117644","DIGITAL ENGINEERING & IMAGING INC","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",1750
+"8134093","LARD OIL","Oil & Gas","Energy & Natural Resources","Gasoline service stations",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",2250
+"8197558","REBOWE & CO","Accountants","Finance, Insurance & Real Estate","Accountants",100,0,"#0000FFAF","#0000FFAF",1250
+"8200125","ART LENTINI SENATE CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",60,40,"#000033AF","#000033AF",2500
+"8200264","BENOIT & ASSOCIATES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",50,50,"#000000AF","#000000AF",2000
+"8253194","THOMAS VISION CLINIC","Health Professionals","Health","Optometrists & ophthalmologists",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",1800
+"12032102","KIDS DENTAL ZONE ALEXANDRIA LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"24721899","LA MEDICAL MUTUAL INSURANCE CO","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",2500
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",4500
+"8188920","MICHAEL C PALMINTIER APLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"8190168","MORRIS BART LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",2000
+"8197347","GRACE NURSING HOME","Hospitals & Nursing Homes","Health","Nursing homes",28.4900284900285,71.5099715099715,"#700000AF","#700000AF",4387.5
+"8201450","NS NG INC DBA HAMMOND NURSING HOME","Hospitals & Nursing Homes","Health","Nursing homes",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",6000
+"8226578","CIMINI & ASSOCIATES LLC","Miscellaneous Manufacturing & Distributing","General Business","Heavy industrial manufacturing",0,100,"#FF0000AF","#FF0000AF",1250
+"8227840","FRONTIER ADJUSTERS OF BATON ROUGE","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",1200
+"8227855","LOUISIANA ASSOCIATION OF FIRE & CASUALTY COMPANIES","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"12017917","DESOTO RETIREMENT & REHABILITATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1900
+"12025416","HOTEL & LODGING ASSOCIATION","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"29914001","GUEST HOUSE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"38118615","DIVERSIFIED HEALTHCARE-LAKE CHARLES LLC","Uncoded","Uncoded","Uncoded",22.5563909774436,77.4436090225564,"#8F0000AF","#8F0000AF",3325
+"10880","CAPITOL PARTNERS ADVANCE AMERICA","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",2200
+"7238310","SAMPAC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",1750
+"8189693","RALPH BRENNAN RESTAURANT GROUP LLC","Food & Beverage","General Business","Restaurants & drinking establishments",20,80,"#990000AF","#9E0000AF",1250
+"8226746","SOUTHLAND PLUMBING SUPPLY","Building Materials & Equipment","Construction","Plumbing & pipe products",0,100,"#FF0000AF","#FF0000AF",1500
+"29903610","DURR HEAVY CONSTRUCTION LLC","Uncoded","Uncoded","Uncoded",24.390243902439,75.609756097561,"#850000AF","#850000AF",2050
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"3627","FEDERAL EXPRESS","Air Transport","Transportation","Express delivery services",0,100,"#FF0000AF","#FF0000AF",3000
+"14139","MEYER ENGINEERS LTD","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",1500
+"8189217","ROADRUNNER TOWING & RECOVERY","Automotive","Transportation","Auto repair",0,100,"#FF0000AF","#FF0000AF",1500
+"8201191","W E TROTTER II FAMILY LLC","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"8226644","LANCO CONSTRUCTION INC","Uncoded","Uncoded","Uncoded",14.8936170212766,85.1063829787234,"#B80000AF","#B80000AF",1175
+"24720214","MC-PAC LMOGA","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"30223246","METRO GAMING & AMUSEMENT CO","Uncoded","Uncoded","Uncoded",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",2750
+"13767","LOUISIANA EXTENDED CARE CENTERS","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1500
+"8201483","PONTCHARTRAIN HEALTH CARE CENTRE","Health Services","Health","Health care services",7.69230769230769,92.3076923076923,"#DB0000AF","#DB0000AF",2600
+"528","CENTENE CORP","Health Services","Health","HMOs",59.5744680851064,40.4255319148936,"#00002EAF","#00002EAF",11750
+"1817","NATIONAL ASSOCIATION OF CHAIN DRUG STORES","Retail Sales","General Business","Drug stores",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",5500
+"8203348","STUPP CORP","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",46.2809917355372,53.7190082644628,"#140000AF","#140000AF",6050
+"8244412","CARPENTERS & JOINERS LOCAL 1098","General Trade Unions","Labor","Construction unions",67.741935483871,32.258064516129,"#000057AF","#000057AF",3100
+"12039752","DAN CLAITOR CAMPAIGN CMTE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3750
+"12043927","JEFFERSON HEALTH CARE CENTER","Hospitals & Nursing Homes","Health","Nursing homes",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"2632629","GRAND TRUNK WESTERN RAILROAD CO","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",4500
+"12022269","SMITH, CHARLIE L & LACAVA, DONNA JO","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"9239","TURNER INDUSTRIES GROUP","General Contractors","Construction","Construction, unclassified",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"1774262","INSURANCE AUTO AUCTIONS","Automotive","Transportation","Auto dealers, new & used",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"1254329","STAR SERVICE INC","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"297568","AIR PRODUCTS POLITICAL ALLIANCE","Chemical & Related Manufacturing","General Business","Chemicals",25,75,"#800000AF","#800000AF",4000
+"1909785","ANR PIPELINE CO","Oil & Gas","Energy & Natural Resources","Oil & gas",12.5,87.5,"#C20000AF","#C20000AF",4000
+"8204272","HARTMAN ENGINEERING INC","Construction Services","Construction","Engineering, architecture & construction management services",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",1200
+"8222498","BLD SERVICES LLC","General Contractors","Construction","Construction, unclassified",40,60,"#330000AF","#330000AF",2500
+"8239426","RESOURCE ENVIRONMENTAL SOLUTIONS","Environmental Services & Equipment","Energy & Natural Resources","Environmental services, equipment & consulting",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"8247830","LOUISIANA BEVERAGE ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",46.4285714285714,53.5714285714286,"#140000AF","#140000AF",7000
+"2725","VALERO ENERGY","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",50,50,"#000000AF","#000000AF",2000
+"8148511","PROVIDENCE HOLDING LLC","Uncoded","Uncoded","Uncoded",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",4250
+"8664977","EVANS GRAVES ENGINEERS INC","Construction Services","Construction","Engineering, architecture & construction management services",80,20,"#000099AF","#000099AF",1250
+"8201197","RIVERBEND TRUCKSTOP & PALACE CASINOS INC","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",1500
+"8248488","LOUISIANA MID-CONTINENT OIL & GAS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",2303.2
+"24720386","BYRON E TALBOT CONTRACTOR","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"29916005","L & M BOTRUC RENTAL INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"8195000","LIPPMAN MAHFOUZ TRANCHINA & THORGESON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1500
+"8253350","LOUISIANA FORESTRY ASSOCIATION","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",0,100,"#FF0000AF","#FF0000AF",1000
+"8239115","CHURCH POINT WHOLESALE","Miscellaneous Business","General Business","Wholesale trade",0,100,"#FF0000AF","#FF0000AF",2000
+"8376432","NEXION HEALTH AT GONZALES","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1385
+"8386368","NEXION HEALTH AT CLAIBORNE","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1885
+"12017962","NEXION HEALTH AT IBERIA SOUTH","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1385
+"8241121","PROPERTY RESTORATION CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"29915673","LA LIFE & HEALTH INS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1750
+"8377568","ADELINE PLANTING CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1400
+"12017948","LOUISIANA GUEST HOUSE DBA MAGNOLIA ESTATES","Hospitals & Nursing Homes","Health","Nursing homes",44.6807559983915,55.3192440016085,"#1F0000AF","#1F0000AF",3357.15
+"13467","KLEINPETER SCHWARTZBERG & STEVENS LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2000
+"8188682","MAHTOOK & LEFLEUR","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",2000
+"8196466","HEALTH CARE SOLUTIONS","Hospitals & Nursing Homes","Health","Hospitals",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"8198966","CMTE FOR THE ADVANCEMENT OF LOUISIANA AGRICULTURE","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",60,40,"#000033AF","#000033AF",2500
+"29180664","PELLERIN LIFE INSURANCE CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"40616386","FBS FRIEDKIN BUSINESS SERVICES","Uncoded","Uncoded","Uncoded",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",1750
+"2465209","INTEGRA MANAGEMENT GROUP","Business Services","General Business","Business services",100,0,"#0000FFAF","#0000FFAF",1500
+"592","CITIGROUP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",10,90,"#CC0000AF","#D10000AF",5000
+"2094","PPG INDUSTRIES","Chemical & Related Manufacturing","General Business","Paints, solvents & coatings",0,100,"#FF0000AF","#FF0000AF",1500
+"6428","CONSUMER LENDING ALLIANCE","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",50,50,"#000000AF","#000000AF",3000
+"1575893","CMC & ASSOCIATES","Business Services","General Business","Political consultants & advisers",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"8194091","BADGER OIL CORPORATION","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",2000
+"12017987","WOODLANDS HEALTHCARE CENTER LLC","Hospitals & Nursing Homes","Health","Nursing homes",35.2941176470588,64.7058823529412,"#4D0000AF","#4D0000AF",4250
+"12031906","SCC OF HOUMA LLC","Health Services","Health","Home care services",20,80,"#990000AF","#9E0000AF",2500
+"181","AMERICAN SUGAR CANE LEAGUE OF USA INC","Crop Production & Basic Processing","Agriculture","Includes all sugar growers and sugar co-ops",31.6176470588235,68.3823529411765,"#610000AF","#610000AF",6800
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",1500
+"3904","KANSAS CITY SOUTHERN RAILWAY","Railroads","Energy & Natural Resources","Railroads",30,70,"#660000AF","#660000AF",5000
+"6040","BOLES LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",56.5217391304348,43.4782608695652,"#00001FAF","#00001FAF",2300
+"12557","GRAND TRUNK WESTERN RAILROAD","Railroads","Energy & Natural Resources","Railroads",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"8190138","HENNEN & HENNEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1750
+"8200440","MULHEARN CORP LLC","Uncoded","Uncoded","Uncoded",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",2250
+"8248936","HILL OIL CO","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",1250
+"8268429","INTERSTATE DODGE","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",1500
+"8341759","KILPATRICKS FUNERAL HOMES","Miscellaneous Services","General Business","Funeral services",0,100,"#FF0000AF","#FF0000AF",1125
+"39389665","WILHITE SOLAR SOLUTIONS LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"8234880","DIAMOND B CONSTRUCTION CO LLC","General Contractors","Construction","Construction, unclassified",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",1125
+"212","APACHE CORP","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",2500
+"6456","COURSON NICKEL","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",25,75,"#800000AF","#800000AF",2000
+"8212528","LARKIN DEVELOPMENT CORP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8239319","BALENTINE AMBULANCE SERVICE","Health Services","Health","Health care services",25,75,"#800000AF","#800000AF",2000
+"12040755","PREFERRED MATERIALS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"8196658","JOE MCPHERSON SPECIAL ACCOUNT","Candidate Committees","Candidate Contributions","Candidate committees",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8201340","BAYOU CHATEAU NURSING CENTER","Hospitals & Nursing Homes","Health","Nursing homes",32,68,"#5C0000AF","#610000AF",3125
+"8201459","PEACE INC DBA TRI COMMUNITY NURSING CENTER","Hospitals & Nursing Homes","Health","Nursing homes",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"8201517","SAVOY CARE CENTER","Hospitals & Nursing Homes","Health","Nursing homes",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"8202101","BROWN DEVELOPMENT LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"8204065","CHARLYN ENTERPRISES LLC DBA CHARLYN REHAB & NURSING CENTER","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1250
+"38038523","BOOKER T WASHINGTON GUEST CARE CENTER LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"8219012","VALLEY VIEW HEALTHCARE FACILITY","Hospitals & Nursing Homes","Health","Nursing homes",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"12017906","CAMELOT OF BROUSSARD","Hospitals & Nursing Homes","Health","Nursing homes",53.8459467463587,46.1540532536413,"#00000FAF","#00000FAF",1857.15
+"8241751","SOUTHWEST CONTRACTORS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1650
+"12047437","VISION CLINIC","Uncoded","Uncoded","Uncoded",45.945945945946,54.0540540540541,"#1A0000AF","#1A0000AF",1850
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",20,80,"#990000AF","#9E0000AF",5000
+"8380481","DOLLAR ELECTRIC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"14047789","SANCHEZ LAW FIRM LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8254538","WILLIAM D DYESS LAW OFFICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",24,76,"#850000AF","#850000AF",1250
+"38118672","RACELAND RAW SUGAR CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1400
+"8200072","RIVER PARISH DISPOSAL INC","Waste Management","Energy & Natural Resources","Waste management",63.3699633699634,36.6300366300366,"#000042AF","#000042AF",1365
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",29.2666364870982,70.7333635129018,"#6B0000AF","#6B0000AF",2827.52
+"8237340","DEPENDABLE NURSING & FAMILY CARE INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1050
+"8220244","CYCLE CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1300
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",3000
+"24753635","PAMLAB LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"7011705","SABISTON CONSULTANTS LLC","Business Services","General Business","Management consultants & services",100,0,"#0000FFAF","#0000FFAF",1250
+"2904","WYETH PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",2250
+"12047419","COLONIAL MANOR NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",12.5,87.5,"#C20000AF","#C20000AF",2000
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"8189536","WHITEHEAD LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",1750
+"6367951","TXI","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",50,50,"#000000AF","#000000AF",1500
+"12017976","ROSEPINE RETIREMENT & REHABILITATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"12036100","LA SAFETY ASSOCIATION OF TIMBERMEN-SIF","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"8193217","SKINNER LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"21209036","EZELL LAW FIRM LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1200
+"8195665","SELLERS & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",10.5263157894737,89.4736842105263,"#CC0000AF","#CC0000AF",1900
+"8343047","ALVIN FAIRBURN & ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"8238891","POCHE PROUET ASSOCIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"8202467","WILLOW RIDGE NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",37.5,62.5,"#420000AF","#420000AF",1000
+"8203782","RINGGOLD NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",37.5,62.5,"#420000AF","#420000AF",1000
+"8207501","BERNICE NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",37.5,62.5,"#420000AF","#420000AF",1000
+"8220222","WINNFIELD NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",37.5,62.5,"#420000AF","#420000AF",1000
+"8221127","FARMERVILLE NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",37.5,62.5,"#420000AF","#420000AF",1000
+"8222471","NATCHITOCHES NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",37.5,62.5,"#420000AF","#420000AF",1000
+"8250156","RUSTON NURSING & REHAB CENTER","Hospitals & Nursing Homes","Health","Nursing homes",37.5,62.5,"#420000AF","#420000AF",1000
+"16073","SOUTHERN EAGLE SALES & SERVICE","Beer, Wine & Liquor","General Business","Liquor wholesalers",71.2246777163904,28.7753222836096,"#00006BAF","#00006BAF",868.8
+"8333364","UNITED TEACHERS OF NEW ORLEANS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1100
+"8192652","LAW OFFICES OF WARREN A FORSTALL JR","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1100
+"8232540","EYEWEAR UNLIMITED INC","Uncoded","Uncoded","Uncoded",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",1100
+"8232087","IBERIABANK CORPORATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",37.5,62.5,"#420000AF","#420000AF",1600
+"8500334","LOUISIANA STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",1200
+"8241138","SOUTHLAND CAPITAL LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",800
+"600740","SANOFI US","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",1500
+"8191854","MAJOR SERVICES INC","Business Services","General Business","Management consultants & services",100,0,"#0000FFAF","#0000FFAF",1000
+"8255181","THREE FOLD CONSULTANTS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"8260787","MITCHELL & ASSOCIATES APLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1000
+"12047810","EDWARD DUNAHOE ATTORNEY AT LAW","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1000
+"13791477","GLOBAL PARKING SYSTEMS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"7578","LOUISIANA CASH ADVANCE ASSOCIATION","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",100,0,"#0000FFAF","#0000FFAF",1000
+"12041158","CONTINUING AMERICAS STRENGTH & SECURITY","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",1000
+"8233974","BROADMOOR DRUG CENTER INC","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",950
+"560805","FRIENDS OF CAMERON HENRY LLC","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",750
+"8201506","RIVERVIEW CARE CENTER","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1000
+"8210728","PILGRIM MANOR GUEST CARE CENTER LLC","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",2000
+"8217183","COLONIAL OAKS GUEST CARE CENTER LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"8248088","WILKINSON CARMODY & GILLIAM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8248531","GEORGIA GULF CORPORATION & AFFILIATES","Chemical & Related Manufacturing","General Business","Plastics & rubber processing and products",50,50,"#000000AF","#000000AF",1000
+"8258940","NEIL ERWIN LAW LLC","Uncoded","Uncoded","Uncoded",31.5789473684211,68.4210526315789,"#610000AF","#610000AF",950
+"12017949","MANSFIELD NURSING CENTER","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1400
+"2868","WILLIAMS COMPANIES","Oil & Gas","Energy & Natural Resources","Oil & gas",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",7000
+"11934","ENCANA OIL & GAS","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",27.5862068965517,72.4137931034483,"#750000AF","#750000AF",7250
+"8188878","TYLER & POSSA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"8203657","KREBS LASALLE ENVIRONMENTAL LLC","Environmental Services & Equipment","Energy & Natural Resources","Environmental services, equipment & consulting",100,0,"#0000FFAF","#0000FFAF",1000
+"8230748","AMERICAN INSTITUTE OF ARCHITECTS LOUISIANA","Construction Services","Construction","Architectural services",15.7894736842105,84.2105263157895,"#B30000AF","#B30000AF",4750
+"8226655","LEADERSHIP 2000","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"8240993","FINANCIAL SERVICES OF THE SOUTH","Uncoded","Uncoded","Uncoded",35.7142857142857,64.2857142857143,"#4D0000AF","#4D0000AF",2800
+"8530459","PLUMBERS & PIPEFITTERS LOCAL 198","General Trade Unions","Labor","Construction unions",50,50,"#000000AF","#000000AF",1000
+"8191354","LAW OFFICE OF PATRICK H YANCEY APLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",25,75,"#800000AF","#800000AF",1000
+"8253053","FOREMAN PLUMBING & PIPING INC","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",0,100,"#FF0000AF","#FF0000AF",600
+"12041698","LAKE CHARLES ELECTRIC COMPANY LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"1233","HEWLETT PACKARD","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",6750
+"15479","RESCARE INC","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",2000
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",2000
+"8188885","UNGLESBY & MARIONNEAUX","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",3750
+"8359068","MIRROR GROUP LLC","Business Services","General Business","Advertising & public relations services",100,0,"#0000FFAF","#0000FFAF",750
+"8397499","ESP CONSTRUCTION INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"8464252","LOUSIANA INSURANCE PAC","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"8191766","BALLAY BRAUD & COLON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",1000
+"8227405","FINANCIAL SERVICES ACCOUNT","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"8250921","CROWN ENTERPRISES INC","Miscellaneous Manufacturing & Distributing","General Business","Household & office products",100,0,"#0000FFAF","#0000FFAF",1000
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"3801","GMRI INC","Food & Beverage","General Business","Restaurants & drinking establishments",50,50,"#000000AF","#000000AF",2000
+"7334","K12 INC","Education","Government Agencies/Education/Other","Education",20,80,"#990000AF","#9E0000AF",2500
+"9458","WELLCARE HEALTH PLANS","Health Services","Health","HMOs",50,50,"#000000AF","#000000AF",2500
+"5101998","DOMAIN COMPANIES LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"12358","GAINSBURGH BENJAMIN DAVID MEUNIER & WARSHAUER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1000
+"8117278","KINNEY & ELLINGHAUSEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",750
+"8231308","SPRADLEY & SPRADLEY INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",750
+"21455","LOUISIANA AFL-CIO","General Trade Unions","Labor","Labor unions",75,25,"#00007FAF","#00007FAF",2000
+"8196708","TROY HEBERT CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",50,50,"#000000AF","#000000AF",1000
+"8229016","HOTEL MANAGEMENT OF NEW ORLEANS","Lodging & Tourism","General Business","Hotels & motels",100,0,"#0000FFAF","#0000FFAF",850
+"8239879","LOUISIANA ORTHOPEADIC PAC","Health Professionals","Health","Other physician specialists",50,50,"#000000AF","#000000AF",1000
+"12024676","STEVE CARTER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",30,70,"#660000AF","#660000AF",1000
+"18910932","GM CABLE CONTRACTORS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"8199676","ALLIANCE INSURANCE AGENCY SERVICES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",50,50,"#000000AF","#000000AF",1000
+"8254220","NATCHITOCHES FAMILY EYE CARE LLC","Uncoded","Uncoded","Uncoded",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",650
+"16116778","MITCHELL EYE CARE ASSOCIATES LLC","Health Professionals","Health","Optometrists & ophthalmologists",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"40531490","20 / 20 VISION CLINIC LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"1087","GENERAL MOTORS","Automotive","Transportation","Auto manufacturers",0,100,"#FF0000AF","#FF0000AF",1500
+"10550","BREAZEALE SACHSE & WILSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",21.7391304347826,78.2608695652174,"#940000AF","#940000AF",1150
+"8196421","GINGER E ADAM LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2300
+"8200073","RIVERSIDE IMMOVABLES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"8200196","IDAHO IMMOVABLES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"8376386","LICENSED PROFESSIONAL COUNSELORS","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",2500
+"12022379","LOUISIANA TRAVEL PROMOTION ASSOCIATION","Lodging & Tourism","General Business","Lodging & tourism",0,100,"#FF0000AF","#FF0000AF",1000
+"24720872","TREY OURSO & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",875
+"24722749","LMOGA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1700
+"29356383","DIVERSIFIED HEALTH CARE-ABBEVILLE LLC","Uncoded","Uncoded","Uncoded",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",1375
+"821","DOLLAR FINANCIAL GROUP","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",1000
+"18654","LOUISIANA CABLE & TELECOMMUNICATION ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",50,50,"#000000AF","#000000AF",2000
+"18910843","COLONIAL VENTURES INC","Uncoded","Uncoded","Uncoded",37.5,62.5,"#420000AF","#420000AF",800
+"2572","TENET HEALTHCARE","Hospitals & Nursing Homes","Health","Hospitals",0,100,"#FF0000AF","#FF0000AF",200
+"8271921","RONNIE JOHNS CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",25,75,"#800000AF","#800000AF",2000
+"8230479","NATIONAL UNION FIRE INSURANCE CO OF LOUISIANA","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8234632","FRANCIS THOMPSON CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",500
+"8246534","CLIN-PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"11297","COMPLIANCE ENVIROSYSTEMS","General Contractors","Construction","Public works, industrial & commercial construction",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",1200
+"8236039","CORA-TEXAS MANUFACTURING","Crop Production & Basic Processing","Agriculture","Includes all sugar growers and sugar co-ops",50,50,"#000000AF","#000000AF",1000
+"8192521","THIBODAUX CENTRAL TRADES & LABOR COUNCIL","General Trade Unions","Labor","Labor unions",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",1400
+"24719855","LA MOTOR TRANSPORT ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"8229372","BYRON E TALBOT CONTRACTOR","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",700
+"8195147","OATS & HUDSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1250
+"8240499","FALCON RICE MILL INC","Crop Production & Basic Processing","Agriculture","Other commodities (including rice, peanuts, honey)",0,100,"#FF0000AF","#FF0000AF",1000
+"8241004","GUIDRYS PHARMACY","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",850
+"8376579","DUBROC ENGINEERING INC","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",1000
+"24721784","ACADIA ST LANDRY GUEST HOME","Hospitals & Nursing Homes","Health","Nursing homes",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",2750
+"26483795","CASHWAY PHARMACY OF SCOTT INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"38119877","MFM INVESTMENT MANAGEMENT LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"5665","AIR PRODUCTS & CHEMICALS","Miscellaneous Manufacturing & Distributing","General Business","Industrial & commercial equipment and materials",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"5720","ALL CHILDREN MATTER","Public Education Policy","Ideology/Single Issue","School Choice Advocates",0,100,"#FF0000AF","#FF0000AF",750
+"8200673","CLEMENTS INSURANCE SERVICES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"8354322","INSURANCE UNLIMITED","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",750
+"8508801","BESSETTE DEVELOPMENT CORP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",1000
+"12048004","LOUISIANA L P GAS ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"8198043","COMMITTEE TO ELECT DALE SITTIG","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1300
+"9882","ALCHEMIND GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8224656","HARRIS MANAGEMENT","Hospitals & Nursing Homes","Health","Nursing homes",50,50,"#000000AF","#000000AF",1000
+"8319396","AUCOIN & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"27624900","LA ASSOCIATION OF WHOLESALERS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"1815301","WAGGONER ENGINEERING","Construction Services","Construction","Engineering, architecture & construction management services",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",600
+"8425418","MONCIA MARINE OPERATIONS LLC","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",1000
+"12041788","NOM LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",25,75,"#800000AF","#800000AF",2000
+"13689","LIBERTY RESOURCES INC","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",0,100,"#FF0000AF","#FF0000AF",1000
+"8238888","PELLERIN FUNERAL HOMES INC","Miscellaneous Services","General Business","Funeral services",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"204034","SHELTER INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",750
+"8211324","JUSTISS OIL CO","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",1000
+"8222119","PROGRESSIVE BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",900
+"40616401","LOUISIANA RETAILERS","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"8238047","GINGER ADAM LLC","Uncoded","Uncoded","Uncoded",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",600
+"32016242","LOUISIANA RETAILERS","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"2142","QC HOLDINGS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",750
+"1550081","LOUISIANA UNITED BUSINESS ASSOCIATION","Business Associations","General Business","Pro-business organizations",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"860","E I DU PONT DE NEMOURS & CO","Chemical & Related Manufacturing","General Business","Chemicals",24.6546672247802,75.3453327752198,"#850000AF","#850000AF",1194.5
+"8204153","MORGAN CITY HEALTH CARE CENTER","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",750
+"12017938","KINDER RETIREMENT & REHABILITATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",900
+"12017963","NORTHRIDGE CARE CENTER","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",857.14
+"12021727","CLAIBORNE MANOR NURSING HOME","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",857.14
+"12044967","REGIONAL UROLOGY LLC","Uncoded","Uncoded","Uncoded",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",1375
+"12044968","SOUTHERN UROLOGY LLC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"32016876","CHALMETTE AMUSEMENT COMPANY INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"1892","NISOURCE INC","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",0,100,"#FF0000AF","#FF0000AF",700
+"8200454","SHOEMAKER CHIROPRACTIC","Health Professionals","Health","Chiropractors",0,100,"#FF0000AF","#FF0000AF",500
+"38175389","LOUISIANA OIL & GAS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",585.91
+"3765756","MONTANA SMART TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",50,50,"#000000AF","#000000AF",600
+"8383008","FINANCE SERVICE OF THIBODAUX","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",600
+"8251965","ALEXANDRIA CENTRAL LABOR UNION","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",600
+"8264344","SCHUYLER MARVIN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",50,50,"#000000AF","#000000AF",600
+"8228665","MCCLEARY & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1122
+"8240232","RABENHORST LIFE INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Life insurance",62.5,37.5,"#00003DAF","#00003DAF",400
+"8189002","HEBERT & MARCEAUX","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",350
+"529","CENTERPOINT ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",25,75,"#800000AF","#800000AF",1000
+"8197636","TONY LIGI CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",500
+"8402601","PRATT & ASSOCIATES","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",450
+"8192842","SOUTHERN CHEM INDUSTRIES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"8211176","J E BRIGNAC JR HOLDINGS LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"8188855","GRODNER & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,50,"#FF0000AF","#000000AF",500
+"8191796","DELACROIX CORP","Oil & Gas","Energy & Natural Resources","Oil & gas",50,50,"#000000AF","#000000AF",500
+"8197172","INFINITY ENGINEERING CONSULTANTS LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"8200095","URBAN SYSTEMS ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",500
+"8226925","SOUTHEAST LOUISIANA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",0,100,"#FF0000AF","#FF0000AF",500
+"8204217","BARHAM, EDWARDS","Crop Production & Basic Processing","Agriculture","Farmers, in general",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",375
+"8198119","AVI LOUISIANA","Business Services","General Business","Management consultants & services",100,0,"#0000FFAF","#0000FFAF",500
+"8217620","BYRON E TALBOT CONTRACTOR INC","General Contractors","Construction","Construction, unclassified",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",350
+"8377310","TWIN PINE FARMS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",350
+"8693133","MARK CREDIT CORP","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",0,100,"#FF0000AF","#FF0000AF",500
+"38118614","DIVERSIFIED HEALTHCARE-ABBEVILLE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",575
+"8238580","FRED HOYT CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",550
+"8189677","WILLIAMS FAMILY LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",350
+"8307627","J S BURLAND & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"8240675","NATHAN SONNIER INSURANCE AGENCY","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",450
+"12025876","SANDERS PEDIATRIC DENTISTRY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",350
+"8189542","BOUDREAUX & WHITWORTH APLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",350
+"8201338","BASILE CARE CENTER","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",400
+"8234679","LACD PAC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",400
+"8232624","INDUSTRIAL WELDING SUPPLY","Building Materials & Equipment","Construction","Construction equipment",50,50,"#000000AF","#000000AF",300
+"8237397","P & W INDUSTRIES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",250
+"24720868","RIVERLANDS SURVEYING CO LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",225
+"29913413","BRYAN CHEVROLET INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",200
+"8192745","GLENN WAGUESPACK CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",175
+"8269117","DAVID GRONER PLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",200

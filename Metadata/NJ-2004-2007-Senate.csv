@@ -1,0 +1,649 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"4890","SENATE DEMOCRATIC MAJORITY OF NEW JERSEY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2356641.3
+"6454405","UNION CITY FIRST","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",870637.05
+"7132","HUDSON COUNTY DEMOCRATIC ORGANIZATION","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",409971.24
+"4889","NEW JERSEY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",250591.48
+"4886","NEW JERSEY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0.164102914188781,99.8358970858112,"#FF0000AF","#FF0000AF",304686.85
+"8193","NORTH BERGEN DEMOCRATIC MUNICIPAL CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",76181.38
+"6930","GLOUCESTER COUNTY DEMOCRATIC CMTE OF NEW JERSEY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",82400
+"6109","BURLINGTON COUNTY REPUBLICAN CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",49300
+"6102","ASSOCIATED GENERAL CONTRACTORS OF NEW JERSEY","General Contractors","Construction","Builders associations",79.7746582933136,20.2253417066864,"#000094AF","#000094AF",108280
+"4129","NEW JERSEY BUSINESS & INDUSTRY ASSOCIATION","Business Associations","General Business","Pro-business organizations",51.5543064742777,48.4456935257223,"#000005AF","#000005AF",145885
+"8118","NEW JERSEY DENTAL ASSOCIATION","Health Professionals","Health","Dentists",61.1132714849175,38.8867285150825,"#000038AF","#000038AF",180010
+"19924","OPEERATING ENGINEERS LOCAL 825","General Trade Unions","Labor","Construction unions",61.5657991010766,38.4342008989234,"#000038AF","#000038AF",95670
+"20100","NEW JERSEY STATE LABORERS","General Trade Unions","Labor","Construction unions",91.1773502143356,8.82264978566444,"#0000D1AF","#0000D1AF",250775
+"7744","MEDICAL SOCIETY OF NEW JERSEY","Health Professionals","Health","Physicians",44.0355329949239,55.9644670050761,"#1F0000AF","#1F0000AF",157600
+"19665","ELECTRICAL WORKERS LOCAL 400","General Trade Unions","Labor","Electrical workers/IBEW",84.7299813780261,15.2700186219739,"#0000ADAF","#0000ADAF",53700
+"4448","NEW JERSEY ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",51.6859075420841,48.3140924579159,"#000005AF","#000005AF",196630
+"19373","DISTRICT COUNCIL OF NORTHERN NEW JERSEY IRONWORKERS","General Trade Unions","Labor","Construction unions",88.0046811000585,11.9953188999415,"#0000C2AF","#0000C2AF",85450
+"19627","ELECTRICAL WORKERS LOCAL 164","General Trade Unions","Labor","Electrical workers/IBEW",98.5835694050991,1.41643059490085,"#0000F5AF","#0000F5AF",70600
+"8109","NEW JERSEY BUILDERS ASSOCIATION","General Contractors","Construction","Builders associations",19.4947830862164,80.5052169137836,"#9E0000AF","#9E0000AF",91050
+"19321","COMMUNICATIONS WORKERS NEW JERSEY","General Trade Unions","Labor","Communications & hi-tech unions",76.7409663574692,23.2590336425308,"#000085AF","#000085AF",72230
+"6421796","ELECTION FUND OF PAUL SARLO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",43000
+"19657","ELECTRICAL WORKERS LOCAL 351","General Trade Unions","Labor","Electrical workers/IBEW",50.2041254834551,49.7958745165449,"#000000AF","#000000AF",93080
+"20560","PLUMBERS & PIPEFITTERS LOCAL 14","General Trade Unions","Labor","Construction unions",86.0674157303371,13.9325842696629,"#0000B8AF","#0000B8AF",44500
+"20822","NORTHEAST REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",89.2847202894517,10.7152797105483,"#0000C7AF","#0000C7AF",179650
+"6422546","NEW JERSEY ASSEMBLY REPUBLICAN VICTORY CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",21317.69
+"20620","PLUMBERS & PIPEFITTERS LOCAL 9","General Trade Unions","Labor","Construction unions",74.5024875621891,25.4975124378109,"#00007AAF","#00007AAF",160800
+"4120","NATIONAL ASSOCIATION OF INDUSTRIAL & OFFICE PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",71.961398017736,28.038601982264,"#00006BAF","#00006BAF",95850
+"20467","SHEET METAL WORKERS LOCAL 19","General Trade Unions","Labor","Construction unions",94.8453608247423,5.15463917525773,"#0000E0AF","#0000E0AF",19400
+"19759","TEAMSTERS JOINT COUNCIL 73","Transportation Unions","Labor","Teamsters unions",85.4934601664685,13.3174791914388,"#0000B3AF","#0000B8AF",42050
+"3789","NEW JERSEY STATE FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",67.9569892473118,32.0430107526882,"#000057AF","#000057AF",139500
+"32041801","PLUMBERS LOCAL 24","General Trade Unions","Labor","Construction unions",95.7686882933709,4.23131170662905,"#0000E5AF","#0000E5AF",35450
+"20252","NEW JERSEY EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",66.1356229021744,33.8643770978256,"#000052AF","#000052AF",205570
+"8123","NEW JERSEY HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",67.0750197101098,32.0152829158833,"#000057AF","#000057AF",82445
+"5883","ASSOCIATION OF NEW JERSEY CHIROPRACTORS","Health Professionals","Health","Chiropractors",76.8526667840169,23.1473332159831,"#000085AF","#000085AF",56810
+"8114","NEW JERSEY COALITION OF AUTOMOTIVE RETAILERS","Automotive","Transportation","Auto dealers, new & used",54.6067912181083,45.3932087818917,"#000014AF","#000014AF",167481
+"20580","PLUMBERS & PIPEFITTERS LOCAL 322","General Trade Unions","Labor","Construction unions",82.8660436137072,17.1339563862928,"#0000A3AF","#0000A3AF",41730
+"8575","NEW JERSEY PROBATION ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",61.525129982669,38.474870017331,"#000038AF","#000038AF",23080
+"8104","NEW JERSEY ASSOCIATION FOR JUSTICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",90.9065472859541,9.09345271404589,"#0000CCAF","#0000CCAF",71480
+"6621474","ELECTION FUND OF RICHARD CODEY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",38300
+"20810","METROPOLITAN REGIONAL COUNCIL CARPENTERS OF PHILADELPHIA & VICINITY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",13000
+"1126201","GARDEN STATE EQUALITY","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",15200
+"19986","HEAVY & GENERAL CONSTRUCTION LABORERS LOCAL 472","General Trade Unions","Labor","Construction unions",78.2608695652174,21.7391304347826,"#00008FAF","#00008FAF",87400
+"19403","IRONWORKERS LOCAL 399","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",19100
+"4694","NEW JERSEY THOROUGHBRED HORSEMENS BENEVOLENT ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",87.3103850641774,12.6896149358226,"#0000BDAF","#0000BDAF",34280
+"15283","PUBLIC SERVICE ENTERPRISE GROUP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",78.9915966386555,21.0084033613445,"#00008FAF","#00008FAF",23800
+"8115","NEW JERSEY CONCRETE & AGGREGATE ASSOCIATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",63.8297872340426,36.1702127659575,"#000042AF","#000042AF",32900
+"6420286","STEAMFITTERS PIPEFITTERS & APPRENTICES LOCAL 475","General Trade Unions","Labor","Construction unions",94.7033898305085,5.29661016949153,"#0000E0AF","#0000E0AF",47200
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",15500
+"19710","ELECTRICAL WORKERS LOCAL 94","General Trade Unions","Labor","Electrical workers/IBEW",93.75,6.25,"#0000DBAF","#0000DBAF",31200
+"4117","NEW JERSEY APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",57.6373212942062,42.3626787057938,"#000024AF","#000024AF",66450
+"6861","FUEL MERCHANTS ASSOCIATION OF NEW JERSEY","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",63.3892161304939,36.6107838695061,"#000042AF","#000042AF",55175
+"6420056","UTILITY & TRANSPORTATION CONTRACTORS ASSOCIATION","General Contractors","Construction","Builders associations",69.7810218978102,30.2189781021898,"#000061AF","#000061AF",68500
+"19420","IRONWORKERS LOCAL 68","General Trade Unions","Labor","Construction unions",52.3809523809524,47.6190476190476,"#00000AAF","#00000AAF",21000
+"5300526","ADMINISTRATIVE DISTRICT COUNCIL OF NEW JERSEY BRICKLAYERS & ALLIED CRAFTWORKERS","General Trade Unions","Labor","Construction unions",86.7694805194805,13.2305194805195,"#0000B8AF","#0000B8AF",61600
+"6577020","GORMLEY FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",33166
+"1569","INTERNATIONAL LONGSHOREMENS ASSOCIATION / ILA","Transportation Unions","Labor","Merchant marine & longshoremen unions",100,0,"#0000FFAF","#0000FFAF",22000
+"20430","SERVICE EMPLOYEES LOCAL 32BJ","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",23530
+"6876","GARDEN STATE PHARMACY OWNERS","Retail Sales","General Business","Drug stores",71.4568553044052,28.5431446955948,"#00006BAF","#00006BAF",30305
+"20894","FOOD & COMMERCIAL WORKERS LOCAL 464A","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",10500
+"6446587","KEAN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",71600
+"40617671","SOUTH JERSEY BUILDERS","Uncoded","Uncoded","Uncoded",22.8014325507362,77.1985674492638,"#8F0000AF","#8F0000AF",25130
+"2362","SHEET METAL WORKERS","General Trade Unions","Labor","Construction unions",39.4736842105263,60.5263157894737,"#380000AF","#380000AF",15200
+"24796979","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 5 NEW JERSEY","General Trade Unions","Labor","Construction unions",73.5874289535273,26.4125710464727,"#000075AF","#000075AF",29910
+"8128","NEW JERSEY MOTOR TRUCK ASSOCIATION","Trucking","Transportation","Trucking",49.8956158663883,50.1043841336117,"#050000AF","#050000AF",23950
+"2725","VALERO ENERGY","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",70,30,"#000066AF","#000066AF",47500
+"5212023","INDEPENDENT PHARMACY ALLIANCE","Retail Sales","General Business","Drug stores",90.0473933649289,9.95260663507109,"#0000CCAF","#0000CCAF",10550
+"11929","EMPOWER NEWARK","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",15000
+"16168","NEW JERSEY STATE TROOPERS FRATERNAL ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",12.4508519003932,87.5491480996068,"#C20000AF","#C20000AF",38150
+"1020","UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION / UFCW","General Trade Unions","Labor","Retail trade unions",43.0789133247089,56.9210866752911,"#240000AF","#240000AF",15460
+"7741","MECHANICAL CONTRACTORS ASSOCIATION OF NEW JERSEY","Special Trade Contractors","Construction","Special trade contractors",77.4066797642436,22.5933202357564,"#00008AAF","#00008AAF",25450
+"9402","WAKEFERN FOOD","Food Processing & Sales","Agriculture","Food stores",62.343418770476,37.656581229524,"#00003DAF","#00003DAF",51890
+"8134","NEW JERSEY RESTAURANTEURS","Food & Beverage","General Business","Restaurants & drinking establishments",13.6560693641618,86.3439306358381,"#BD0000AF","#BD0000AF",27680
+"6458089","DISTRICT 36 DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",26400
+"6550667","FRED SCALERA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",9783.86
+"19304","COMMUNICATIONS WORKERS LOCAL 1034","General Trade Unions","Labor","Communications & hi-tech unions",31.3408723747981,68.6591276252019,"#610000AF","#610000AF",61900
+"5217248","LANCE FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",62150
+"6421111","MECHANICAL & ALLIED CRAFTS COUNCIL OF NEW JERSEY","General Trade Unions","Labor","Construction unions",83.1081081081081,16.8918918918919,"#0000A8AF","#0000A8AF",29600
+"6421737","ELECTION FUND OF SENATOR BOB SMITH","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",16200
+"6421819","ELECTION FUND OF JOSEPH VITALE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",39600
+"6481619","NEW JERSEY STATE ASSOCIATION OF PIPE TRADES","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",16400
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",59.1022443890274,40.8977556109726,"#00002EAF","#00002EAF",40100
+"657389","JOE KRYILLOS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",21200
+"6446145","ELECTION FUND OF KIP BATEMAN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",10500
+"43673334","PRIVATE ENTERPRISE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",31200
+"2797","WATERS MCPERSON MCNEILL PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",12050
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",97.8317432784042,2.16825672159584,"#0000F0AF","#0000F0AF",23060
+"6463200","UNITE HERE! LOCAL 54","General Trade Unions","Labor","Other unions",82.2380106571936,17.7619893428064,"#0000A3AF","#0000A3AF",11260
+"6439734","UNION COUNTY DEMOCRATIC CENTRAL CMTE OF NEW JERSEY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",8700
+"19642","ELECTRICAL WORKERS LOCAL 269","General Trade Unions","Labor","Electrical workers/IBEW",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",24600
+"6428060","ELECTION FUND OF ALEX DECROCE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",11700
+"13619","LEADERS FUND","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",16400
+"6427565","ELECTION FUND OF JOSEPH R MALONE III FOR ASSEMBLY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",18000
+"8138","NEW JERSEY SOCIETY OF OPTOMETRIC PHYSICIANS","Health Professionals","Health","Optometrists & ophthalmologists",64.1483783258885,35.8516216741115,"#000047AF","#000047AF",51490
+"40617801","SEIU NEW JERSEY STATE COUNCIL","Uncoded","Uncoded","Uncoded",90.3083700440529,9.69162995594714,"#0000CCAF","#0000CCAF",11350
+"6620403","REHABILITATION HOSPITAL OF SOUTH JERSEY","Hospitals & Nursing Homes","Health","Hospitals",20.3045685279188,79.6954314720812,"#990000AF","#990000AF",9850
+"19235","NEWARK TEACHERS LOCAL 481","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",13600
+"26793255","BROWN & CONNERY LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",10200
+"7171","INDEPENDENT INSURANCE AGENTS & BROKERS OF NEW JERSEY","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",74.7540983606557,25.2459016393443,"#00007AAF","#00007AAF",30500
+"8131","NEW JERSEY PSYCHOLOGICAL ASSOCIATION","Health Professionals","Health","Psychiatrists & psychologists",78.0891719745223,21.9108280254777,"#00008FAF","#00008FAF",39250
+"13174","INTERNATIONAL COUNCIL OF SHOPPING CENTERS","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",98.0842911877395,1.91570881226054,"#0000F5AF","#0000F5AF",26100
+"5706498","IMPACT DEVELOPMENT CO","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",84,16,"#0000ADAF","#0000ADAF",12500
+"28200534","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 4 NEW JERSEY","General Trade Unions","Labor","Construction unions",68.7134502923977,31.2865497076023,"#00005CAF","#00005CAF",17100
+"7555","LIVINGSTON SERVICES CORP","Hospitals & Nursing Homes","Health","Health care institutions",67.9245283018868,32.0754716981132,"#000057AF","#000057AF",18550
+"19208","COUNCIL OF NEW JERSEY STATE COLLEGE LOCALS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",10700
+"7390","KEEP NEW JERSEY MOVING","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",16900
+"4632477","PLUMBERS & PIPEFITTERS LOCAL 274","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",18800
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",59.0508993494068,40.9491006505932,"#00002EAF","#00002EAF",26130
+"7090","HOAGLAND LONGO MORAN DUNST & DOUKAS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",93.3333333333333,6.66666666666667,"#0000DBAF","#0000DBAF",7500
+"8108","NEW JERSEY BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",61.6184855456637,38.3815144543363,"#000038AF","#000038AF",49985
+"6386","COMMUNITY EDUCATION CENTERS","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",80.3493449781659,19.6506550218341,"#000099AF","#000099AF",11450
+"11301","COMPUTER CRAFTS INC","Computer Equipment & Services","Communications & Electronics","Computers, components & accessories",0,100,"#FF0000AF","#FF0000AF",9300
+"6843306","BACH ASSOCIATES PC","Construction Services","Construction","Engineering, architecture & construction management services",92.9411764705882,7.05882352941176,"#0000D6AF","#0000D6AF",8500
+"264","ATLANTIC HEALTH SYSTEM","Hospitals & Nursing Homes","Health","Hospitals",82.7586206896552,17.2413793103448,"#0000A3AF","#0000A3AF",11600
+"14514","NEW YORK SHIPPING ASSOCIATION","Sea Transport","Transportation","Sea freight & passenger services",53.402862362972,46.597137637028,"#00000FAF","#00000FAF",65680
+"6600529","SULIGA FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",7000
+"13686","LIBERTY BOARD OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",100,0,"#0000FFAF","#0000FFAF",18700
+"8117","NEW JERSEY COUNCIL OF TEACHING HOSPITALS","Education","Government Agencies/Education/Other","Medical schools",72.5947521865889,27.4052478134111,"#000070AF","#000070AF",17150
+"2710","UPS","Air Transport","Transportation","Express delivery services",47.2024415055951,52.7975584944049,"#0F0000AF","#0F0000AF",49150
+"16726","UNITED CRANE RENTALS","Building Materials & Equipment","Construction","Construction equipment",81.9047619047619,18.0952380952381,"#00009EAF","#00009EAF",10500
+"6420174","COMMUNITY ASSOCIATIONS INSTITUTE","Real Estate","Finance, Insurance & Real Estate","Real estate",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",17250
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",80,20,"#000099AF","#000099AF",7500
+"14480","NEW JERSEY VETERINARY MEDICAL ASSOCIATION","Agricultural Services & Products","Agriculture","Veterinarians",95.1503394762367,4.84966052376334,"#0000E5AF","#0000E5AF",10310
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",57.18303257558,42.81696742442,"#000024AF","#000024AF",21335
+"6841","FREEHOLD PARK RACING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",91.7081260364842,8.29187396351576,"#0000D1AF","#0000D1AF",12060
+"9092","T&M ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",75.1269035532995,24.8730964467005,"#00007FAF","#00007FAF",39400
+"19669","ELECTRICAL WORKERS LOCAL 456","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",23980
+"445","CABLEVISION SYSTEMS","Cable TV","Communications & Electronics","Satellite TV operators",82.3691460055096,14.8760330578512,"#0000A3AF","#0000B3AF",18150
+"12931","HORIZON BLUE CROSS BLUE SHIELD OF NEW JERSEY","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",58.1986143187067,41.8013856812933,"#000029AF","#000029AF",43300
+"14631","NORTHEASTERN FOOD & COMMERCIAL WORKERS","Electric Utilities","Energy & Natural Resources","Electric power utilities",100,0,"#0000FFAF","#0000FFAF",8300
+"4747034","TILCON NEW JERSEY","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",100,0,"#0000FFAF","#0000FFAF",6725
+"20286","CEMENT MASONS LOCAL 592","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",8000
+"6430311","CHURCHILL PC","Construction Services","Construction","Engineering, architecture & construction management services",78.5714285714286,21.4285714285714,"#00008FAF","#00008FAF",7000
+"6623013","DALTON INSURANCE AGENCY","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",100,0,"#0000FFAF","#0000FFAF",10500
+"20319","NEW JERSEY STATE POLICEMENS BENEVOLENT ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",54.7650130548303,45.2349869451697,"#000014AF","#000014AF",76600
+"19952","PAINTERS & ALLIED TRADES DISTRICT COUNCIL 711","General Trade Unions","Labor","Construction unions",82.5174825174825,17.4825174825175,"#0000A3AF","#0000A3AF",28600
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",5751
+"5729","ALLIED BEVERAGE GROUP","Beer, Wine & Liquor","General Business","Liquor wholesalers",70.5543774613753,29.4456225386247,"#000066AF","#000066AF",33010
+"8387","PARKER MCCAY & CRISCUOLO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",64.1975308641975,35.8024691358025,"#000047AF","#000047AF",32400
+"6117","BUSINESS & GOVERNMENTAL INSURANCE AGENCY","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",92.3439340400471,7.65606595995289,"#0000D6AF","#0000D6AF",21225
+"2856","WILENTZ GOLDMAN & SPITZER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",15200
+"11966","EPIC GROUP INC","General Contractors","Construction","Construction, unclassified",100,0,"#0000FFAF","#0000FFAF",7200
+"2201","REMINGTON & VERNICK ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",77.6991150442478,22.3008849557522,"#00008AAF","#00008AAF",28250
+"6489492","CONSULTING ENGINEERS COUNCIL OF NEW JERSEY","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",6100
+"1646","MASER CONSULTING ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",44.4244604316547,55.5755395683453,"#1F0000AF","#1F0000AF",27800
+"5886898","DEON, PASQUALE T (PAT)","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",0,100,"#FF0000AF","#FF0000AF",12400
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",76.8916155419223,23.1083844580777,"#000085AF","#000085AF",24450
+"6050","BOSWELL ENGINEERING","Construction Services","Construction","Engineering, architecture & construction management services",79.0816326530612,20.9183673469388,"#000094AF","#000094AF",19600
+"18872","HEALTH CARE ASSOCIATION OF NEW JERSEY","Hospitals & Nursing Homes","Health","Nursing homes",79.1419141914191,20.8580858085809,"#000094AF","#000094AF",30300
+"4771","WOLF BLOCK SCHORR & SOLIS-COHEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",36.8271954674221,63.1728045325779,"#470000AF","#470000AF",17650
+"230370","BARBARA BUONO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",6000
+"2513","SUNOCO INC","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",72.1030042918455,27.8969957081545,"#000070AF","#000070AF",23300
+"19806","TEAMSTERS LOCAL 97","Transportation Unions","Labor","Teamsters unions",74.6268656716418,0,"#00007AAF","#0000FFAF",6700
+"6597515","BOOKER TEAM FOR NEWARK 2006","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",6000
+"1318","INSERRA SUPERMARKETS","Food Processing & Sales","Agriculture","Food stores",52.924791086351,47.075208913649,"#00000AAF","#00000AAF",17950
+"43673385","JERSEY OSTEOPATHIC","Uncoded","Uncoded","Uncoded",68.5185185185185,31.4814814814815,"#00005CAF","#00005CAF",13500
+"8173","NEWARK NORTH WARD DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",6000
+"6424104","ODONNELL & NACCARATO","Construction Services","Construction","Engineering, architecture & construction management services",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",9000
+"8150","NEW JERSEY SUPERIOR OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",27.6785714285714,72.3214285714286,"#750000AF","#750000AF",11200
+"15150","PMK GROUP","Environmental Services & Equipment","Energy & Natural Resources","Environmental services, equipment & consulting",40.5633802816901,59.4366197183099,"#330000AF","#330000AF",17750
+"20260","PASSAIC COUNTY EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",69.3581780538302,30.6418219461698,"#000061AF","#000061AF",12075
+"6504937","SUN BANCORP INC","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",9.80392156862745,90.1960784313726,"#D10000AF","#D10000AF",5100
+"228","ARCHER & GREINER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",96.3583394027677,3.64166059723234,"#0000EBAF","#0000EBAF",13730
+"12073","FEDERAL BUSINESS CENTERS","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",100,0,"#0000FFAF","#0000FFAF",5600
+"8604","PUBLIC STRATEGIES IMPACT","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",38.6784576326058,61.3215423673942,"#3D0000AF","#3D0000AF",11737.8
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",65.7938312763562,34.2061687236438,"#00004DAF","#00004DAF",45293
+"6812739","CONSULTING ENGINEER SERVICES","Construction Services","Construction","Engineering, architecture & construction management services",92.4050632911392,7.59493670886076,"#0000D6AF","#0000D6AF",7900
+"1605","MAHER TERMINALS","Sea Transport","Transportation","Sea freight & passenger services",40.9574468085106,59.0425531914894,"#330000AF","#330000AF",18800
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",57.5052854122622,42.4947145877378,"#000024AF","#000024AF",23650
+"6423654","NEW JERSEY PROFESSIONAL INSURANCE AGENTS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",59.4594594594595,40.5405405405405,"#00002EAF","#00002EAF",24050
+"40617676","STANDARDBRED HORSE INDUSTRY","Uncoded","Uncoded","Uncoded",81.431334622824,18.568665377176,"#00009EAF","#00009EAF",12925
+"18574","HATCH MOTT MACDONALD","Construction Services","Construction","Engineering, architecture & construction management services",85.4545454545455,14.5454545454545,"#0000B3AF","#0000B3AF",16500
+"7324","JOSEPH F MCKERNAN JR ARCHITECTS & ASSOCIATES","Construction Services","Construction","Architectural services",100,0,"#0000FFAF","#0000FFAF",8500
+"9104","TAYLOR WISEMAN & TAYLOR","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",5430
+"6452898","CHASAN LEYNER & LAMPARELLO PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",5900
+"8555","PORZIO BROMBERG & NEWMAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",40.0921658986175,59.9078341013825,"#330000AF","#330000AF",10850
+"6446654","ITALIAN AMERICAN POLICE SOCIETY OF NEW JERSEY","Public Sector Unions","Labor","Police & fire fighters unions and associations",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",5250
+"11406","COURTER KOBERT LAUFER & COHEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",64.021164021164,35.978835978836,"#000047AF","#000047AF",14175
+"5630768","STONE INDUSTRIES","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",100,0,"#0000FFAF","#0000FFAF",5650
+"11961","ENVIRONMENTAL RESOLUTIONS","Environmental Services & Equipment","Energy & Natural Resources","Environmental services, equipment & consulting",41.4285714285714,58.5714285714286,"#2E0000AF","#2E0000AF",7000
+"7672","MBI - GLUCKSHAW","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",65.8857776676238,34.1142223323762,"#00004DAF","#00004DAF",53057.05
+"23364724","GEORGE HARMS CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",6500
+"1573","LOWENSTEIN SANDLER PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",73.5900962861073,26.4099037138927,"#000075AF","#000075AF",18175
+"1663","MCCARTER & ENGLISH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",78.2608695652174,21.7391304347826,"#00008FAF","#00008FAF",5750
+"5718","ALERT AMBULANCE SERVICE","Health Services","Health","Health care services",86.3013698630137,13.6986301369863,"#0000B8AF","#0000B8AF",7300
+"8122","NEW JERSEY FOOD COUNCIL","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",60.6780192595105,39.3219807404895,"#000033AF","#000033AF",15623.45
+"9042","STERNS & WEINROTH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",86.4457831325301,13.5542168674699,"#0000B8AF","#0000B8AF",13280
+"14466","NEW JERSEY ACADEMY OF OPHTHALMOLOGY","Health Professionals","Health","Optometrists & ophthalmologists",75.1873438800999,24.8126561199001,"#00007FAF","#00007FAF",30025
+"16741","UNITED WATER NEW JERSEY","Water Utilities","Energy & Natural Resources","Water utilities",70.0325732899023,29.9674267100977,"#000066AF","#000066AF",21490
+"8111","NEW JERSEY CHECK CASHERS ASSOCIATION","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",53.75,46.25,"#00000FAF","#00000FAF",8000
+"8137","NEW JERSEY SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",51.3909224011713,48.6090775988287,"#000005AF","#000005AF",34150
+"8573","PRINCETON PUBLIC AFFAIRS GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",55.117043915651,44.882956084349,"#00001AAF","#00001AAF",51690
+"2154","R & R MARKETING","Beer, Wine & Liquor","General Business","Liquor wholesalers",92.3857868020305,7.61421319796954,"#0000D6AF","#0000D6AF",15760
+"2354812","PENNONI ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",68.6746987951807,31.3253012048193,"#00005CAF","#00005CAF",8300
+"17636707","ACACIA FINANCIAL GROUP INC","Uncoded","Uncoded","Uncoded",90.5027932960894,9.49720670391061,"#0000CCAF","#0000CCAF",8950
+"6420956","NEW JERSEY ANESTHESIA","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",4500
+"8148","NEW JERSEY STATE TROOPERS NON-COMMISSIONED OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",33.8394062078273,66.1605937921727,"#570000AF","#570000AF",29640
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",69.3467336683417,30.6532663316583,"#000061AF","#000061AF",29850
+"6420095","SALMON VENTURES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",4200
+"1692","MEDCO HEALTH SOLUTIONS","Retail Sales","General Business","Drug stores",80.6763285024155,19.3236714975845,"#000099AF","#000099AF",20700
+"101","AMALGAMATED TRANSIT UNION UNIDENTIFIED","Transportation Unions","Labor","Transportation unions",56.5217391304348,43.4782608695652,"#00001FAF","#00001FAF",9200
+"6518985","E SAMBOL CORPORATION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",3800
+"9212","TONIO BURGOS & ASSOCIATES OF NEW JERSEY","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",11100
+"20366","1199SEIU UNITED HEALTHCARE WORKERS NEW JERSEY DIVISION","General Trade Unions","Labor","Health worker unions",83.6065573770492,16.3934426229508,"#0000A8AF","#0000A8AF",6100
+"19753","TEAMSTERS JOINT COUNCIL 53","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",6033.33
+"19455426","HARTZ MOUNTAIN INDUSTRIES INC","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",83.6448598130841,16.3551401869159,"#0000A8AF","#0000A8AF",10700
+"8252","NOWELL AMOROSO KLEIN BIERMAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",37.962962962963,62.037037037037,"#420000AF","#420000AF",10800
+"15747","UNITED NEW JERSEY-SANDY HOOKS PILOTS BENEVOLENT ASSOCIATION","Sea Transport","Transportation","Sea freight & passenger services",12.5,87.5,"#C20000AF","#C20000AF",4000
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",64.3564356435644,35.6435643564356,"#000047AF","#000047AF",20200
+"19549","HEAT & FROST INSULATORS LOCAL 32","General Trade Unions","Labor","Construction unions",85.5,14.5,"#0000B3AF","#0000B3AF",20000
+"6454446","INDEPENDENT PHARMACY ALLIANCE NEW JERSEY","Uncoded","Uncoded","Uncoded",80.7321772639692,19.2678227360308,"#000099AF","#000099AF",25950
+"6558059","PERSONAL CARE","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",4500
+"6649745","BLAZE BAIL BONDS","Miscellaneous Finance","Finance, Insurance & Real Estate","Bail Bond Services",100,0,"#0000FFAF","#0000FFAF",8900
+"6673767","AMERICAS DREAM HOMES","Home Builders","Construction","Residential construction",100,0,"#0000FFAF","#0000FFAF",5000
+"8151","NEW JERSEY TITLE INSURANCE INDUSTRY","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",68.75,31.25,"#00005CAF","#00005CAF",22400
+"1602","MAERSK INC","Sea Transport","Transportation","Sea transport",24.6022031823745,75.3977968176255,"#850000AF","#850000AF",20425
+"1880","NEW ENGLAND MOTOR FREIGHT","Trucking","Transportation","Trucking companies & services",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",5500
+"18695","JERSEY CENTRAL POWER & LIGHT","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",75.6972111553785,24.3027888446215,"#00007FAF","#00007FAF",12550
+"10864","CAPEHART & SCATCHARD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",44.0251572327044,55.9748427672956,"#1F0000AF","#1F0000AF",7950
+"20668","SPRINKLER FITTERS & APPRENTICES LOCAL 696","General Trade Unions","Labor","Construction unions",91.2280701754386,8.7719298245614,"#0000D1AF","#0000D1AF",11400
+"6494584","MECHANICAL CONTRACTORS ASSOCIATION OF NEW JERSEY","Special Trade Contractors","Construction","Special trade contractors",52.5305410122164,47.4694589877836,"#00000AAF","#00000AAF",14325
+"19698974","REMINGTON VERNICK & VENA ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",37.1428571428571,62.8571428571429,"#420000AF","#420000AF",7000
+"8100","NEW JERSEY AMUSEMENT ASSOCIATION","Recreation & Live Entertainment","General Business","Recreation & entertainment",66.1458333333333,33.8541666666667,"#000052AF","#000052AF",9600
+"19396","IRONWORKERS LOCAL 350","General Trade Unions","Labor","Construction unions",38.0952380952381,61.9047619047619,"#3D0000AF","#3D0000AF",5250
+"8783","RWJ FUND FOR HEALTH CARE EXCELLENCE","Health & Welfare Policy","Ideology/Single Issue","Health & welfare policy",87.9069767441861,12.093023255814,"#0000BDAF","#0000BDAF",10750
+"14396","NANCY H BECKER ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",82.7724358974359,17.2275641025641,"#0000A3AF","#0000A3AF",12480
+"19308","COMMUNICATIONS WORKERS LOCAL 1081","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",5850
+"6359","COMERRO COPPA ARCHITECTS","Construction Services","Construction","Architectural services",76.4705882352941,23.5294117647059,"#000085AF","#000085AF",4250
+"14475","NEW JERSEY SOCIETY OF INDEPENDENT PHYSICAL THERAPISTS","Health Professionals","Health","Other non-physician health practitioners",75.875486381323,24.124513618677,"#00007FAF","#00007FAF",12850
+"6912203","STAT PAC NJACEP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6675
+"11363","COOPER LEVENSON APRIL NIEDELMAN & WAGENHEIM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",6260
+"20657","PLUMBERS & PIPEFITTERS LOCAL 24","General Trade Unions","Labor","Construction unions",90.3614457831325,9.63855421686747,"#0000CCAF","#0000CCAF",12450
+"24777345","MWW GROUP","Uncoded","Uncoded","Uncoded",63.1147540983607,36.8852459016393,"#000042AF","#000042AF",12200
+"6639","EDWARDS & KELCEY","Construction Services","Construction","Engineering, architecture & construction management services",87.3949579831933,12.6050420168067,"#0000BDAF","#0000BDAF",8925
+"13421","KERR CONCRETE PIPE","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",80.2547770700637,19.7452229299363,"#000099AF","#000099AF",15700
+"6458588","BERGEN TOGETHER INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3600
+"14477","NEW JERSEY STATE LEAGUE OF MASTER PLUMBERS","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",45.9915611814346,54.0084388185654,"#1A0000AF","#1A0000AF",17775
+"19351","NEWARK FRATERNAL ORDER POLICE LODGE 12","Public Sector Unions","Labor","Police & fire fighters unions and associations",70.7486493439671,29.2513506560329,"#000066AF","#000066AF",19435
+"6755","FERREIRA CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",30.6122448979592,69.3877551020408,"#660000AF","#660000AF",9800
+"6877","GARDEN STATE SCHOOL BUS CONTRACTORS ASSOCIATION","Miscellaneous Transport","Transportation","Bus services",73.7704918032787,26.2295081967213,"#000075AF","#000075AF",16470
+"668","CONOCOPHILLIPS","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",31.1224489795918,68.8775510204082,"#610000AF","#610000AF",19600
+"6426632","RICHARD A ALAIMO ASSOCIATES OF ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",53.0805687203791,46.9194312796209,"#00000FAF","#00000FAF",10550
+"1090702","VIKING YACHT CO","Sea Transport","Transportation","Ship building & repair",50,50,"#000000AF","#000000AF",6000
+"3093137","OCEAN CHAMPIONS","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",70,30,"#000066AF","#000066AF",5000
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",66.3424800277874,33.6575199722126,"#000052AF","#000052AF",28790
+"6626190","CJ HESSE INC","General Contractors","Construction","Construction, unclassified",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",5500
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",5850
+"4905247","SOKOL BEHOT & FIORENZO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",8950
+"6431834","ELECTION FUND OF THOMAS GIBLIN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4500
+"6446584","JOE PENNACCHIO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6500
+"897","ELBERON DEVELOPMENT CO","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",17400
+"6608596","ELECTION FUND OF SENATOR HANK MCNAMARA","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6000
+"800","DILWORTH PAXSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3500
+"19914","OPERATING ENGINEERS LOCAL 542","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4000
+"6426102","JOHN S WISNIEWSKI CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3900
+"29332606","PRINGLE QUINN ANZANO PC","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",9000
+"1682","MCMANIMON & SCOTLAND","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",4900
+"8144","NEW JERSEY STATE FIREMENS MUTUAL BENEVOLENT ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",55.486670799752,44.513329200248,"#00001AAF","#00001AAF",16130
+"6436300","BAYSHORE RECYCLING CORP","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",100,0,"#0000FFAF","#0000FFAF",4350
+"6463010","METRO ENERGY SOLUTIONS","Uncoded","Uncoded","Uncoded",26.3157894736842,73.6842105263158,"#7A0000AF","#7A0000AF",3800
+"6674418","CAMCO MANAGEMENT","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",7000
+"5852770","BIO REFERENCE LABORATORIES","Health Services","Health","Medical laboratories",12.1951219512195,87.8048780487805,"#C20000AF","#C20000AF",6150
+"6457659","PROSPECT TRANSPORTATION INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3800
+"6428716","KOKES ORGANIZATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5300
+"6430411","PRC MANAGEMENT CORP","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",19.8350893266147,80.1649106733853,"#9E0000AF","#9E0000AF",6549
+"793","DIAGEO","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",77.5641025641026,22.4358974358974,"#00008AAF","#00008AAF",7800
+"2322","SCHERING-PLOUGH","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",75.8893280632411,24.1106719367589,"#00007FAF","#00007FAF",12650
+"2904","WYETH PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",49.7512437810945,50.2487562189055,"#050000AF","#050000AF",20100
+"6440552","APPRAISAL SYSTEMS INC","Real Estate","Finance, Insurance & Real Estate","Other real estate services, appraisals",47.244094488189,52.755905511811,"#0F0000AF","#0F0000AF",6350
+"9825","ADVANCED DRAINAGE SYSTEMS","Building Materials & Equipment","Construction","Plumbing & pipe products",72.0430107526882,27.9569892473118,"#000070AF","#000070AF",9300
+"40617728","MEDINA CONSULTANTS PC","Uncoded","Uncoded","Uncoded",85.0574712643678,14.9425287356322,"#0000B3AF","#0000B3AF",4350
+"4868271","HOSPITAL PROFESSIONAL TECHNICAL & SERVICE EMPLOYEES LOCAL 722","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8800
+"15278","PUBLIC AWARENESS PAC","Uncoded","Uncoded","Uncoded",86.9109947643979,13.0890052356021,"#0000B8AF","#0000B8AF",9550
+"6452541","RICHARD ALAIMO ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",16.1290322580645,83.8709677419355,"#AD0000AF","#AD0000AF",3100
+"6642569","BLUE DIAMOND DISPOSAL","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",2950
+"1107","GIBBONS DEL DEO DOLAN GRIFFINGER & VECCHIONE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",85.8781994704325,14.1218005295675,"#0000B3AF","#0000B3AF",11330
+"6727","FAIRVIEW INSURANCE AGENCY ASSOCIATES","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",87.9518072289157,12.0481927710843,"#0000BDAF","#0000BDAF",8300
+"12623","GROCERY MANUFACTURERS ASSOCIATION","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",100,0,"#0000FFAF","#0000FFAF",3600
+"5872402","QUALITY HEALTH CARE PROVIDERS","Health Services","Health","Home care services",39.3939393939394,60.6060606060606,"#380000AF","#380000AF",6600
+"6420259","ERM GOVERNMENT AFFAIRS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",49.748743718593,50.251256281407,"#050000AF","#050000AF",9950
+"24753722","PRISMATIC DEVELOPMENT CORPORATION","Uncoded","Uncoded","Uncoded",58.0645161290323,41.9354838709677,"#000029AF","#000029AF",6200
+"26790388","GIBBONS PC","Uncoded","Uncoded","Uncoded",58.7939698492462,41.2060301507538,"#000029AF","#000029AF",9950
+"6022","BIRDSALL SERVICES GROUP","Construction Services","Construction","Engineering, architecture & construction management services",15.2173913043478,84.7826086956522,"#B30000AF","#B30000AF",6900
+"8830","SCHOOR DEPALMA","Construction Services","Construction","Engineering, architecture & construction management services",59.7883597883598,40.2116402116402,"#00002EAF","#00002EAF",18900
+"1990","PARSONS BRINCKERHOFF QUADE & DOUGLAS","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",9300
+"3103","AMERIQUEST CAPITAL","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",100,0,"#0000FFAF","#0000FFAF",10100
+"8755","ROSELAND PROPERTY","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",100,0,"#0000FFAF","#0000FFAF",4600
+"6427553","GOLF MANAGEMENT SERVICES CORP","Recreation & Live Entertainment","General Business","Recreation & entertainment",0,100,"#FF0000AF","#FF0000AF",5200
+"6556841","FRANKLIN DEVELOPMENT GROUP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5100
+"28138721","ELECTION GRAPHICS INC","Uncoded","Uncoded","Uncoded",50.9803921568627,49.0196078431373,"#000000AF","#000000AF",5100
+"1610","MALCOLM PIRNIE","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",3600
+"6698","ENVIRODATA ASSOCIATES","Environmental Services & Equipment","Energy & Natural Resources","Environmental services, equipment & consulting",100,0,"#0000FFAF","#0000FFAF",4600
+"9024","STATE STREET ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",51.7730496453901,48.2269503546099,"#000005AF","#000005AF",14100
+"7800","MIDDLESEX COUNTY DEMOCRATIC ORGANIZATION","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2660
+"2319","SCARINCI & HOLLENBECK","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",4900
+"6627563","ELECTION FUND OF JOHN H ADLER FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4600
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",100,0,"#0000FFAF","#0000FFAF",5100
+"6422131","SICKELS & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",3100
+"6422470","FEDERICI & AKIN","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",3100
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",35.4978354978355,64.5021645021645,"#4D0000AF","#4D0000AF",11550
+"19305","COMMUNICATIONS WORKERS LOCAL 1037","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",3000
+"1321253","STEVE ROTHMAN FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3600
+"7080","HIGH HORIZIONS INC","Hospitals & Nursing Homes","Health","Nursing homes",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",3500
+"6436832","SILLS CUMMIS & GROSS PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",5000
+"12550","GR ROBERT CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",100,0,"#0000FFAF","#0000FFAF",3500
+"7733","MCLANE CO","Food Processing & Sales","Agriculture","Food wholesalers",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",4500
+"6592715","GAYPASG PAC","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",3700
+"6424734","JOSEPH J BRUNETTI CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"6612186","RALPH CLAYTON & SONS","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",80.9523809523809,19.047619047619,"#000099AF","#000099AF",10500
+"5784","ANSELL ZARO GRIMM & AARON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",66.025641025641,33.974358974359,"#000052AF","#000052AF",7800
+"5981","BEER WHOLESALERS ASSOCIATION OF NEW JERSEY","Beer, Wine & Liquor","General Business","Liquor wholesalers",88.2352941176471,11.7647058823529,"#0000C2AF","#0000C2AF",8500
+"5104578","SPORTS ARENA EMPLOYEES LOCAL 137","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",3500
+"6450229","BRUNO ASSOCIATES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"6636105","ON TIME TRANSPORT","Miscellaneous Transport","Transportation","Taxicabs",100,0,"#0000FFAF","#0000FFAF",3500
+"24788929","RECREATIONAL FISHING ALLIANCE","Uncoded","Uncoded","Uncoded",84.2105263157895,15.7894736842105,"#0000ADAF","#0000ADAF",9500
+"847","DRUG POLICY ALLIANCE","Drug Policy","Ideology/Single Issue","Drug Legalization Advocates",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",5500
+"11186","COALITION FOR INSURANCE PROFESSIONALS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",90.7692307692308,9.23076923076923,"#0000CCAF","#0000CCAF",6500
+"6492428","SURVEY PAC","Construction Services","Construction","Surveying",100,0,"#0000FFAF","#0000FFAF",3500
+"6559695","CORRECTIONAL HEALTH SERVICES","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",37.5,62.5,"#420000AF","#420000AF",4000
+"1713","METROPOLITAN LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",31.9488817891374,68.0511182108626,"#610000AF","#610000AF",15650
+"8132","NEW JERSEY RADIOLOGY","Health Professionals","Health","Other physician specialists",75.2475247524752,24.7524752475248,"#00007FAF","#00007FAF",10100
+"8362","OXFORD HEALTH PLANS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",100,0,"#0000FFAF","#0000FFAF",7500
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",76.6867800329128,23.3132199670872,"#000085AF","#000085AF",18230
+"6423834","JERSEY NURSES ECONOMIC SECURITY ORGANIZATION DISTRICT COUNCIL 1","General Trade Unions","Labor","Health worker unions",91.1242603550296,8.87573964497041,"#0000D1AF","#0000D1AF",8450
+"7481","LANGAN ENGINEERING & ENVIRONMENTAL SERVICES","Construction Services","Construction","Engineering, architecture & construction management services",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"16238","STRATEGY GROUP","Business Services","General Business","Advertising & public relations services",100,0,"#0000FFAF","#0000FFAF",4000
+"6649984","CLAYTON BLOCK CO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",62.5,37.5,"#00003DAF","#00003DAF",4000
+"19698968","REMINGTON VERNICK & VENA ENGINEERS INC","Construction Services","Construction","Engineering, architecture & construction management services",50,50,"#000000AF","#000000AF",5000
+"2315","SAUL EWING","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",87.719298245614,12.280701754386,"#0000BDAF","#0000BDAF",2850
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",70,30,"#000066AF","#000066AF",5000
+"6513","DECOTIIS FITZPATRICK GLUCK HAYDEN & COLE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",79.8452371175413,20.1547628824587,"#000094AF","#000094AF",6575.22
+"6565230","MILLER-REMICK CORP","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",3000
+"6441057","TROY CORP","Chemical & Related Manufacturing","General Business","Paints, solvents & coatings",0,100,"#FF0000AF","#FF0000AF",4135
+"19307","COMMUNICATIONS WORKERS LOCAL 1040","General Trade Unions","Labor","Communications & hi-tech unions",63.963963963964,36.036036036036,"#000042AF","#000042AF",5550
+"6776183","PARTNERS IN CARE CORPORATION","Uncoded","Uncoded","Uncoded",68.4782608695652,31.5217391304348,"#00005CAF","#00005CAF",9200
+"5472339","ROBERT A ROE ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",6700
+"3467722","AMALGAMATED TRANSIT UNION / ATU","Transportation Unions","Labor","Transportation unions",80.3921568627451,19.6078431372549,"#000099AF","#000099AF",5100
+"19100","AMALGAMATED TRANSIT UNION LOCAL 880","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",4050
+"6446242","ODONNELL MCCORD & DEMARZO PC","Uncoded","Uncoded","Uncoded",30.8641975308642,69.1358024691358,"#660000AF","#660000AF",3240
+"527","CENDANT","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",51.937984496124,48.062015503876,"#000005AF","#000005AF",12900
+"16908","VOORHEES PEDIATRIC FACILITY","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",5400
+"11838","EARLE ASPHALT CO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",22.7272727272727,77.2727272727273,"#8F0000AF","#8F0000AF",6600
+"6421968","SOUTH JERSEY INDUSTRIES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2700
+"6461783","NEGLIA ENGINEERING","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",4200
+"6620586","LGA ENGINEERING INC","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",2848
+"6702770","WOODRIDGE DEVELOPMENT LLC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",4200
+"852","DUANE MORRIS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",64.5454545454545,35.4545454545455,"#000047AF","#000047AF",11000
+"20026","LABORERS LOCAL 172","General Trade Unions","Labor","Construction unions",92.9577464788732,7.04225352112676,"#0000D6AF","#0000D6AF",7100
+"6558049","FRANKLIN DEVELOPMENT GROUP LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4600
+"6421034","NEW JERSEY STATE NURSES ASSOCIATION","Health Professionals","Health","Nurses",88.9473684210526,11.0526315789474,"#0000C2AF","#0000C2AF",9500
+"20793","DOCK & PIER CARPENTERS LOCAL 1456","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5600
+"20483","SHEET METAL WORKERS LOCAL 27","General Trade Unions","Labor","Construction unions",68.1818181818182,31.8181818181818,"#00005CAF","#00005CAF",8800
+"21107","NEW JERSEY CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",8800
+"6577012","SCARPA ELECTRIC CO","Special Trade Contractors","Construction","Electrical contractors",20,80,"#990000AF","#9E0000AF",2500
+"6448880","RICE RONALD L FO","Candidate Committees","Candidate Contributions","Candidate committees",20,0,"#990000AF","#0000FFAF",2500
+"6428751","DELAWARE RIVER STEVEDORES INC","Miscellaneous Transport","Transportation","Freight & delivery services",20,80,"#990000AF","#9E0000AF",2500
+"19303","COMMUNICATIONS WORKERS LOCAL 1032","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",9050
+"20155","NEW JERSEY STATE AFL-CIO","General Trade Unions","Labor","Labor unions",63.8059701492537,36.1940298507463,"#000042AF","#000042AF",13400
+"5465488","ACADEMY SERVICES","Miscellaneous Transport","Transportation","Bus services",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"915","ENTERTAINMENT SOFTWARE ASSOCIATION","Computer Equipment & Services","Communications & Electronics","Computer software",100,0,"#0000FFAF","#0000FFAF",5000
+"1695","MEDINA CONSULTANTS","Construction Services","Construction","Surveying",100,0,"#0000FFAF","#0000FFAF",3000
+"2124","PRUDENTIAL FINANCIAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",78.8732394366197,21.1267605633803,"#00008FAF","#00008FAF",7100
+"2228","RIKER DANZIG SCHERER HYLAND & PERRETTI","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",73.4513274336283,26.5486725663717,"#000075AF","#000075AF",5650
+"2633","UNITED TRANSPORTATION UNION / UTU","Transportation Unions","Labor","Railroad unions",77.2727272727273,22.7272727272727,"#00008AAF","#00008AAF",6600
+"2892","WOLFF & SAMSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2500
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",2500
+"6710","ESSEX WEST HUDSON LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",2500
+"7024","HARTZ MOUNTAIN INDUSTRIES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",100,0,"#0000FFAF","#0000FFAF",5800
+"8135","NEW JERSEY RETAIL MERCHANT ASSOCIATION","Retail Sales","General Business","Retail trade",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",6800
+"16149","STANDARDBRED HORSE INDUSTRY","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",3900
+"684195","BUILDING OWNERS & MANAGERS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",62.0689655172414,37.9310344827586,"#00003DAF","#00003DAF",14500
+"6450096","CORRECTIONAL HEALTH SERVICES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"6455304","MECHANICAL CONTRACTORS ASSOCIATION","Special Trade Contractors","Construction","Special trade contractors",80.2371541501976,19.7628458498024,"#000099AF","#000099AF",5060
+"6565481","CAPITAL REALTY & DEVELOPMENT","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",100,0,"#0000FFAF","#0000FFAF",2500
+"6577584","JERSEY ATHLETIC TRAINERS","Uncoded","Uncoded","Uncoded",90,10,"#0000CCAF","#0000CCAF",5000
+"6614188","MAXIMUM CARE AMBULANCE SERVICE","Health Services","Health","Health care services",80.7692307692308,19.2307692307692,"#000099AF","#000099AF",5200
+"19764842","NEW JERSEY PROFESSIONAL INSURANCE AGENTS","Uncoded","Uncoded","Uncoded",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",3000
+"8129","NEW JERSEY SOCIETY OF HOSPITAL PHARMACISTS","Health Professionals","Health","Pharmacists",84.3871975019516,15.6128024980484,"#0000ADAF","#0000ADAF",6405
+"20869","FOOD & COMMERCIAL WORKERS LOCAL 1245","General Trade Unions","Labor","Retail trade unions",89.2857142857143,10.7142857142857,"#0000C7AF","#0000C7AF",2800
+"6420655","BRAMNICK FOR ASSEMBLY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",5700
+"6489817","NJ STAFFING","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"6658207","ADVANCE REALTY MANAGEMENT","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",45.0549450549451,54.9450549450549,"#1A0000AF","#1A0000AF",4550
+"6837568","AMERICAN INSTITUTE OF ARCHITECTS NEW JERSEY","Construction Services","Construction","Architectural services",9.94764397905759,90.0523560209424,"#D10000AF","#D10000AF",9550
+"11410","COVANTA ENERGY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",100,0,"#0000FFAF","#0000FFAF",2500
+"16334","T-MOBILE","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",92.511013215859,7.48898678414097,"#0000D6AF","#0000D6AF",11350
+"10838","CAMDEN COUNTY PRIDE","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",53.1034482758621,46.8965517241379,"#00000FAF","#00000FAF",7250
+"19405","IRONWORKERS LOCAL 405","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3500
+"3627","FEDERAL EXPRESS","Air Transport","Transportation","Express delivery services",38.3561643835616,61.6438356164384,"#3D0000AF","#3D0000AF",21900
+"6422019","GREENWOOD ACRA INC","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",3500
+"4968943","MORRIS REALTY LP","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",100,0,"#0000FFAF","#0000FFAF",3500
+"1252","HNTB CORP","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",3500
+"3823","HOFFMAN LA ROCHE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",62.8019323671498,37.1980676328502,"#00003DAF","#00003DAF",10350
+"6112671","JOSEPH M SANZARI BUILDING CORP","General Contractors","Construction","Construction, unclassified",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"17662500","HOLMAN & FRENIA PC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"1077676","NICHOLAS REAL ESTATE AGENCY","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",100,0,"#0000FFAF","#0000FFAF",3875
+"678","CONTINENTAL AIRLINES","Air Transport","Transportation","Airlines",77.8516057585825,22.1483942414175,"#00008AAF","#00008AAF",9030
+"5637","ADAMS REHMANN & HEGGAN ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",4000
+"6418","CONSOLIDATED CONSTRUCTION MANAGEMENT SERVICES","General Contractors","Construction","Public works, industrial & commercial construction",100,0,"#0000FFAF","#0000FFAF",4250
+"19554","HEAT & FROST INSULATORS LOCAL 89","General Trade Unions","Labor","Construction unions",43.1034482758621,56.8965517241379,"#240000AF","#240000AF",5800
+"1464785","WESTON SOLUTIONS","Construction Services","Construction","Engineering, architecture & construction management services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"6681649","JCA ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",74.468085106383,25.531914893617,"#00007AAF","#00007AAF",4700
+"29471899","ADVANCED DRAINAGE SYSTEMS INC","Uncoded","Uncoded","Uncoded",75.609756097561,24.390243902439,"#00007FAF","#00007FAF",4100
+"37932276","TITLE AMERICA AGENCY CORPORATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"14091","MEDICAL TRANSPORTATION ASSOCIATION OF NEW JERSEY","Health Services","Health","Health care services",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",3500
+"6421404","NEW JERSEY ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",100,0,"#0000FFAF","#0000FFAF",2500
+"6436362","RARITAN MANAGEMENT CORP","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",4250
+"40617738","MEDICAL TRANSPORTATION ASSOCIATION OF NJ","Uncoded","Uncoded","Uncoded",87.3417721518987,12.6582278481013,"#0000BDAF","#0000BDAF",7900
+"40617815","UNIVERSITY HEALTH PLANS INC CENTENE CORPORATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3500
+"6838015","SAPEC NJ","Uncoded","Uncoded","Uncoded",40.8268733850129,59.1731266149871,"#330000AF","#330000AF",9675
+"6620543","ALLIANCE OF GOVERNMENTAL AUDITORS","Uncoded","Uncoded","Uncoded",20.8333333333333,79.1666666666667,"#990000AF","#990000AF",2400
+"40617699","NEW JERSEY LIFE UNDERWRITERS","Uncoded","Uncoded","Uncoded",52.6970954356847,47.3029045643153,"#00000AAF","#00000AAF",12050
+"8039","NEGLIA ENGINEERING ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",55.421686746988,44.578313253012,"#00001AAF","#00001AAF",4150
+"16740512","ELECTRICAL WORKERS LOCAL 102","General Trade Unions","Labor","Electrical workers/IBEW",61.8556701030928,38.1443298969072,"#000038AF","#000038AF",4850
+"6434959","HODULIK & MORRISON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3400
+"19499","NEWARK FIRE OFFICERS LOCAL 1860","Public Sector Unions","Labor","Police & fire fighters unions and associations",76.6666666666667,23.3333333333333,"#000085AF","#000085AF",3000
+"19489459","HUNT HAMLIN & RIDLEY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2650
+"5062968","SALMON VENTURES LIMITED","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",3000
+"6620769","ALLEN ASSOCIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2750
+"6834229","IFPTE LEAP","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",3425
+"860","E I DU PONT DE NEMOURS & CO","Chemical & Related Manufacturing","General Business","Chemicals",91.8518518518518,8.14814814814815,"#0000D1AF","#0000D1AF",6750
+"2147","QWEST COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",85.0746268656716,14.9253731343284,"#0000B3AF","#0000B3AF",3350
+"6837470","INTERESTED NURSES","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",2750
+"930","ERICKSON LIVING MANAGEMENT","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",100,0,"#0000FFAF","#0000FFAF",2200
+"20481","SHEET METAL WORKERS LOCAL 25","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3800
+"6686747","LIFESTAR RESPONSE OF NEW JERSEY","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",3600
+"6607818","JOHNSON MURPHY HUBNER MCKEON WUBBENHORST BUCCO & APPELT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2350
+"5289378","GOLDSMITH RICHMAN & HARZ","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",2100
+"3195","AVENTIS PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",55.4455445544555,44.5544554455446,"#00001AAF","#00001AAF",10100
+"5840495","ROGUT MCCARTHY & BHEND","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2100
+"6557237","ASSOCIATION OF INDEPENDENT CEMETERIES","Miscellaneous Services","General Business","Funeral services",55.2486187845304,44.7513812154696,"#00001AAF","#00001AAF",4525
+"6836947","DEMOCRATS 2000","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",4000
+"6583315","BOB SINGER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",5000
+"6432116","NEW JERSEY LAW ENFORCEMENT SUPERVISORS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",0,100,"#FF0000AF","#FF0000AF",2500
+"6421176","ACEPAC","Electric Utilities","Energy & Natural Resources","Electric power utilities",20,80,"#990000AF","#9E0000AF",2500
+"4603357","INFOTECH GLOBAL INC","Computer Equipment & Services","Communications & Electronics","Online computer services",60,40,"#000033AF","#000033AF",2500
+"17202","WOMENS POLITICAL CAUCUS OF NEW JERSEY","Women's Issues","Ideology/Single Issue","Women's issues",70,30,"#000066AF","#000066AF",5000
+"14467","NEW JERSEY AMERICAN SOCIETY OF LANDSCAPE ARCHITECTS","Special Trade Contractors","Construction","Landscaping & excavation services",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"18749","NEW JERSEY MCDONALDS OPERATORS","Food & Beverage","General Business","Restaurants & drinking establishments",14.5161290322581,85.4838709677419,"#B80000AF","#B80000AF",15500
+"6448319","DCP CORP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1850
+"7798","MIDDLESEX COUNTY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2500
+"11905","ELIZABETHTOWN GAS","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",93.1034482758621,6.89655172413793,"#0000DBAF","#0000DBAF",7250
+"6682209","TRI-FORM CONSTRUCTION INC","General Contractors","Construction","Construction, unclassified",100,0,"#0000FFAF","#0000FFAF",2500
+"18911855","MARTIN-BONTEMPO-MATACERA-BARTLETT INC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",4000
+"331","BAYER AG","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",70,30,"#000066AF","#000066AF",5000
+"583","CIGAR ASSOCIATION OF AMERICA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",100,0,"#0000FFAF","#0000FFAF",3500
+"1091","GENESIS HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",70.1754385964912,29.8245614035088,"#000066AF","#000066AF",2850
+"1434","KEYSPAN ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",2750
+"3069","MILLER BREWING CO","Beer, Wine & Liquor","General Business","Beer",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",5500
+"6242","CERTIFIED SHORTHAND REPORTERS ASSOCIATION OF NEW JERSEY","Civil Servants/Public Officials","Government Agencies/Education/Other","Courts & justice system",73.0337078651685,26.9662921348315,"#000075AF","#000075AF",4450
+"9921","ALMAN GROUP","Business Services","General Business","Management consultants & services",100,0,"#0000FFAF","#0000FFAF",2000
+"206154","NATIONAL SHOOTING SPORTS FOUNDATION","Gun Control","Ideology/Single Issue","Anti-gun control",100,0,"#0000FFAF","#0000FFAF",3500
+"6425509","NEW JERSEY CHAPTER OF THE AMERICAN COLLEGE OF EMERGENCY PHYSICIANS","Health Professionals","Health","Other physician specialists",75,25,"#00007FAF","#00007FAF",2000
+"6449682","RELIANCE GRAPHICS INC","Business Services","General Business","Commercial photography, art & graphic design",60,40,"#000033AF","#000033AF",2500
+"6464561","CAPITAL PUBLIC AFFAIRS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",2000
+"6476404","UNIVERSITY HEALTH PLANS","Health Services","Health","HMOs",100,0,"#0000FFAF","#0000FFAF",3750
+"6635636","NEW DIRECTIONS THROUGH RESPONSIBLE LEADERSHIP","Party Committees","Party","Democratic Party committees",0,100,"#FF0000AF","#FF0000AF",-4700
+"6687467","ALMA LIMITED INC","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",2250
+"6425248","PT PLAN","Health Professionals","Health","Other non-physician health practitioners",100,0,"#0000FFAF","#0000FFAF",4500
+"6674444","BAGGER FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3000
+"6903","GEORGE HARMS CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",2000
+"6625788","GIORDANO HALLERAN & CIESLA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2500
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",48.8431876606684,51.1568123393316,"#0A0000AF","#0A0000AF",9725
+"11399","COUNCIL FOR PUBLIC AWARENESS OF CEMETERIES","Miscellaneous Services","General Business","Funeral services",44.1988950276243,55.8011049723757,"#1F0000AF","#1F0000AF",4525
+"8110","NEW JERSEY STATE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3500
+"4521808","FRELINGHUYSEN FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3560
+"6633980","JAMES SHARPE FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3200
+"6559096","ELECTION FUND OF JIM KRONE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3800
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",70,30,"#000066AF","#000066AF",5000
+"6446592","WALTER R EARLE CORP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"6476779","GARDEN STATE PRECAST INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"6439793","ELECTION FUND OF MANNY GROVA JR","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2250
+"6428653","ERNST ERNST & LISSENDEN","Construction Services","Construction","Engineering, architecture & construction management services",25,75,"#800000AF","#800000AF",2000
+"6451801","REHABCO INC","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"5198513","HIGH GRADE BEVERAGE BEER DISTRIBUTORS","Beer, Wine & Liquor","General Business","Liquor wholesalers",81.0810810810811,18.9189189189189,"#00009EAF","#00009EAF",1850
+"6484204","TRI FORM CONSTRUCTION INC","General Contractors","Construction","Construction, unclassified",100,0,"#0000FFAF","#0000FFAF",2250
+"4152","OBERMAYER REBMANN MAXWELL & HIPPEL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2500
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",80,20,"#000099AF","#000099AF",2500
+"6611234","QUALCARE INC","Health Services","Health","Health care services",64.7058823529412,35.2941176470588,"#000047AF","#000047AF",5950
+"19921","OPERATING ENGINEERS LOCAL 168","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6300
+"19699231","BUILDING CONTRACTORS PAC","General Contractors","Construction","Builders associations",74.3589743589744,25.6410256410256,"#00007AAF","#00007AAF",1950
+"3337680","EDWARDS & KELCEY INC","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",3500
+"43673468","NJACA","Uncoded","Uncoded","Uncoded",41.9354838709677,58.0645161290323,"#2E0000AF","#2E0000AF",3100
+"191","AMERIGROUP CORPORATION","Health Services","Health","HMOs",100,0,"#0000FFAF","#0000FFAF",3300
+"5840","ARKANSAS STATE DENTAL ASSOCIATION","Health Professionals","Health","Dentists",70.9219858156028,29.0780141843972,"#000066AF","#000066AF",7050
+"6686797","BRUNO GROUP","Business Services","General Business","Advertising & public relations services",100,0,"#0000FFAF","#0000FFAF",1750
+"32116933","LERCH VINCI & HIGGINS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1850
+"789","DEVRY EDUCATION GROUP","Education","Government Agencies/Education/Other","Schools & colleges",100,0,"#0000FFAF","#0000FFAF",2500
+"10284","BAYADA NURSES","Health Services","Health","Home care services",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",3750
+"8113","NEW JERSEY CMTE FOR QUALITY ORTHOPAEDIC CARE","Health Professionals","Health","Other physician specialists",54.8387096774194,45.1612903225806,"#000014AF","#000014AF",3100
+"2290196","RIKER DANZIG SCHERER HYLAND & PERRETTI LLP","Uncoded","Uncoded","Uncoded",44.2105263157895,55.7894736842105,"#1F0000AF","#1F0000AF",4750
+"6848814","COMMUNITY ASSOCIATIONS PAC NJ","Uncoded","Uncoded","Uncoded",74.3589743589744,25.6410256410256,"#00007AAF","#00007AAF",1950
+"40617793","SAPEC-NJ","Uncoded","Uncoded","Uncoded",41.4634146341463,58.5365853658537,"#2E0000AF","#2E0000AF",4100
+"6426125","HOSPITAL PROFESSIONALS & ALLIED EMPLOYEES","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",3200
+"6725657","KULLMAN INDUSTRIES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1700
+"6468022","BUCCO FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",5625
+"8127","NEW JERSEY LICENSED BEVERAGE ASSOCIATION","Beer, Wine & Liquor","General Business","Alcohol",20.1520912547529,79.8479087452472,"#990000AF","#990000AF",2630
+"6595076","BUTERA & ANDREWS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",2600
+"1864810","PASCRELL FOR CONGRESS INC","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1600
+"6597680","LIBERTY INSURANCE ASSOCIATES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",2100
+"1093","GENOVA BURNS & VERNOIA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2692.5
+"17603985","NJ PROPANE GAS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2060
+"5480380","RONETCO SUPERMARKETS","Food Processing & Sales","Agriculture","Food stores",0,100,"#FF0000AF","#FF0000AF",1500
+"6420902","NEW JERSEY TRAVEL INDUSTRY ASSOCIATION","Lodging & Tourism","General Business","Travel agents",33.8345864661654,66.1654135338346,"#570000AF","#570000AF",6650
+"6437360","THEATRICAL STAGE EMPLOYEES LOCAL 632","General Trade Unions","Labor","Entertainment unions",100,0,"#0000FFAF","#0000FFAF",2350
+"6613807","CMGRP INC","Uncoded","Uncoded","Uncoded",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",5500
+"38041764","SHEET METAL WORKERS LOCAL 25","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"8476","PILOTS ASSOCIATION FOR THE BAY & RIVER DELAWARE","Transportation Unions","Labor","Transportation unions",0,100,"#FF0000AF","#FF0000AF",2000
+"12770","HEALTH INSURANCE AGENTS FOR NEW JERSEY","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",58.8607594936709,41.1392405063291,"#000029AF","#000029AF",7900
+"6420176","LUNDS FISHERIES","Hunting","Energy & Natural Resources","Hunting & wildlife",34.640522875817,65.359477124183,"#520000AF","#520000AF",1530
+"1810150","NEW JERSEY PUBLIC EMPLOYEES COUNCIL 1","Public Sector Unions","Labor","State & local government employee unions",76.7441860465116,23.2558139534884,"#000085AF","#000085AF",2150
+"20720","NEW JERSEY AUTO WORKERS","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",4000
+"17612999","NJ PRIMARY CARE ASSOCIATION","Uncoded","Uncoded","Uncoded",72.2222222222222,27.7777777777778,"#000070AF","#000070AF",5400
+"6460859","SALMON VENTURES LTD","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2800
+"19518","PROFESSIONAL FIRE FIGHTERS ASSOCIATION OF NEW JERSEY","Public Sector Unions","Labor","Police & fire fighters unions and associations",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",7500
+"2260642","DUGHI HEWIT & PALATUCCI PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2500
+"6620454","JS HOVNANIAN & SONS","Home Builders","Construction","Residential construction",32.9268292682927,67.0731707317073,"#5C0000AF","#5C0000AF",4100
+"19833","LONGSHOREMENS LOCAL 1291","Transportation Unions","Labor","Merchant marine & longshoremen unions",37.5,62.5,"#420000AF","#420000AF",1600
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",50,50,"#000000AF","#000000AF",4000
+"6441585","NEW JERSEY SOCIETY OF PROFESSIONAL ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",2400
+"6679779","K HOVNANIAN COMPANIES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",48.7179487179487,51.2820512820513,"#0A0000AF","#0A0000AF",3900
+"6845810","ELECTRIC","Special Trade Contractors","Construction","Electrical contractors",56.9832402234637,43.0167597765363,"#00001FAF","#00001FAF",8950
+"27608155","MATZEL & MUMFORD ORGANIZATION","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",2500
+"714","COZEN OCONNOR PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50.8474576271186,49.1525423728814,"#000000AF","#000000AF",2950
+"6721","EXCEPTIONAL MEDICAL TRANSPORTATION","Health Services","Health","Health care services",78.2608695652174,21.7391304347826,"#00008FAF","#00008FAF",2300
+"6934","GLUCK WALRATH & LANCIANO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",57.6923076923077,42.3076923076923,"#000024AF","#000024AF",2600
+"19819","PROFESSIONAL & TECHNICAL ENGINEERS LOCAL 194","General Trade Unions","Labor","Other unions",70.5882352941177,29.4117647058824,"#000066AF","#000066AF",3400
+"20344","PORT AUTHORITY POLICE BENEVOLENT ASSOCIATION OF NEW JERSEY","Public Sector Unions","Labor","Police & fire fighters unions and associations",61.5384615384615,0,"#000038AF","#0000FFAF",1625
+"20870","FOOD & COMMERCIAL WORKERS LOCAL 1262","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",2500
+"6426644","NEW JERSEY PODIATRIC MEDICAL SOCIETY","Health Professionals","Health","Other physician specialists",76,24,"#000085AF","#000085AF",6250
+"6460945","CLIFFSIDE PARK DEMOCRATIC COUNTY CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2000
+"6489841","NEW JERSEY ELECTRICAL CONTRACTORS ASSOCIATION","Special Trade Contractors","Construction","Electrical contractors",100,0,"#0000FFAF","#0000FFAF",2000
+"6650899","KL STRATEGIES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"6678061","MUNICIPAL ADVISORY PARTNERS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",100,0,"#0000FFAF","#0000FFAF",2000
+"6685832","ATLANTIC TRUCKING CO","Trucking","Transportation","Trucking companies & services",100,0,"#0000FFAF","#0000FFAF",400
+"6686369","TOROK GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",1600
+"25121245","FLORIO PERRUCCI STEINHARDT & FADER","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"25124778","TOLL BROS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1200
+"36636808","SAMUEL KLEIN & CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"6624354","ELECTION FUND OF SHIRLEY K TURNER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2000
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",100,0,"#0000FFAF","#0000FFAF",2250
+"2234","RITE AID","Retail Sales","General Business","Drug stores",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",4250
+"7086","HILL WALLACK LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"6420276","KATZ GOVERNMENT AFFAIRS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",87.5,12.5,"#0000BDAF","#0000BDAF",4000
+"38042150","MAST CONSTRUCTION SERVICES INC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",2000
+"40617673","STONE INDUSTRIES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"1358","J FLETCHER CREAMER & SONS","General Contractors","Construction","Public works, industrial & commercial construction",50,50,"#000000AF","#000000AF",2000
+"4872277","BERKELEY COLLEGE","Education","Government Agencies/Education/Other","Schools & colleges",52.3809523809524,47.6190476190476,"#00000AAF","#00000AAF",2100
+"6429854","SAMBOL CONSTRUCTION CORP","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",2000
+"6846122","STAT","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1600
+"40630426","STATE TROOPERS SUPERIOR OFFICERS ASSOCIATION","Uncoded","Uncoded","Uncoded",40.04004004004,59.95995995996,"#330000AF","#330000AF",4995
+"1898","MISSISSIPPI RAILROAD ASSOCIATION NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroads",0,100,"#FF0000AF","#FF0000AF",2500
+"6425178","NEW JERSEY PRINCIPALS & SUPERVISORS ASSOCIATION","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",1650
+"7606","MACK CALI REALTY CORP","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",0,100,"#FF0000AF","#FF0000AF",1700
+"6422623","BIOTECHNOLOGY COUNCIL OF NEW JERSEY","Pharmaceuticals & Health Products","Health","Biotech products & research",49.0384615384615,50.9615384615385,"#050000AF","#050000AF",5200
+"6485287","NAJARIAN ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",1200
+"6679817","GRAHAM CURTIN & SHERIDAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",1300
+"4752","WACHOVIA BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",40,60,"#330000AF","#330000AF",5000
+"6885","GARRUBBO ROMANKOW RINALDO & CAPECE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"7993","NATIONAL AUTO DEALERS EXCHANGE","Automotive","Transportation","Auto dealers, new & used",50,50,"#000000AF","#000000AF",2000
+"6420528","NEW JERSEY LIQUOR STORE ALLIANCE","Beer, Wine & Liquor","General Business","Liquor stores",100,0,"#0000FFAF","#0000FFAF",3000
+"29320035","G R ROBERT CONSTRUCTION CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"10190","BACH ASSOCIATES","Construction Services","Construction","Architectural services",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",3000
+"20670","SPRINKLER FITTERS LOCAL 692","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"20333","POLICE BENEVOLENT ASSOCIATION LOCAL 105","Public Sector Unions","Labor","Police & fire fighters unions and associations",50,50,"#000000AF","#000000AF",4000
+"6648731","RIVARDO SCHNITZER CAPAZZI ARCHITECTS PLANNERS","Construction Services","Construction","Architectural services",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"7028","HATCH MOTT MCDONALD INC","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",2500
+"2266133","FOLEY INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"25862640","J FLETCHER CREAMER & SON INC","Uncoded","Uncoded","Uncoded",54.0540540540541,45.945945945946,"#000014AF","#000014AF",1850
+"6441313","BAYWAY LUMBER","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",100,0,"#0000FFAF","#0000FFAF",1500
+"6851","FRIENDS OF HOME CARE OF NEW JERSEY","Health Services","Health","Home care services",50,50,"#000000AF","#000000AF",2000
+"6469019","BERRY SAHRADNIK KOTZAS RIORDAN & BENSON PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1500
+"140","AMERICAN FOREST & PAPER ASSOCIATION","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",1750
+"1926","OCCIDENTIAL PETROLEUM","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"2015","PEPCO HOLDINGS","Electric Utilities","Energy & Natural Resources","Electric power utilities",100,0,"#0000FFAF","#0000FFAF",1400
+"20473","SHEET METAL WORKERS LOCAL 137","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"20874","FOOD & COMMERCIAL WORKERS LOCAL 1360","General Trade Unions","Labor","Retail trade unions",85.2941176470588,14.7058823529412,"#0000B3AF","#0000B3AF",3400
+"297568","AIR PRODUCTS POLITICAL ALLIANCE","Chemical & Related Manufacturing","General Business","Chemicals",100,0,"#0000FFAF","#0000FFAF",1500
+"6423836","STEAMFITTERS LOCAL 420","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1500
+"6424684","DELAWARE RIVER STEVEDORES","Miscellaneous Transport","Transportation","Freight & delivery services",100,0,"#0000FFAF","#0000FFAF",1500
+"6476708","NEW JERSEY STATE ELECTRICAL WORKERS ASSOCIATION","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1500
+"6565483","MELVIN KERNAN LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"6671245","BECICA ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1400
+"6456762","FERRAIOLI WIELKOTZ CERULLO & CUVA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2100
+"6857176","CLIFFSIDE PARK DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1800
+"14992","PENN NATIONAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",25,75,"#800000AF","#800000AF",2000
+"20921","RETAIL WHOLESALE & DEPARTMENT STORE LOCAL 108","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",1650
+"19455420","BRUNO ASSOCIATES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1350
+"19820","PROFESSIONAL & TECHNICAL ENGINEERS LOCAL 195","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",2100
+"40614165","RECREATIONAL FISHING ALLIANCE INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1300
+"6916468","A&A INDUSTRIAL PIPING INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1300
+"8644","RBA GROUP","Construction Services","Construction","Engineering, architecture & construction management services",24.1545893719807,75.8454106280193,"#850000AF","#850000AF",2070
+"6424953","SJMCA","Uncoded","Uncoded","Uncoded",59.4594594594595,40.5405405405405,"#00002EAF","#00002EAF",1850
+"2439411","RITE AID CORPORATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",82.5,17.5,"#0000A3AF","#0000A3AF",2000
+"15856122","AMERICAN PHYSICAL THERAPY ASSOCIATION OF NEW JERSEY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"6642583","PETRIN VENDING CO","Retail Sales","General Business","Vending machine sales & services",78.9473684210526,21.0526315789474,"#00008FAF","#00008FAF",950
+"6645573","ST JOHN & WAYNE LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1150
+"6687433","WOODLAND TRAILS","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",1250
+"6673879","EASTERN CONCRETE MATERIALS","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",60,40,"#000033AF","#000033AF",1250
+"6424564","CAMDEN IRON & METAL INC","Miscellaneous Manufacturing & Distributing","General Business","Industrial & commercial equipment and materials",100,0,"#0000FFAF","#0000FFAF",1250
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",68.75,31.25,"#00005CAF","#00005CAF",1600
+"1087","GENERAL MOTORS","Automotive","Transportation","Auto manufacturers",100,0,"#0000FFAF","#0000FFAF",1100
+"13107","IMPACT NEW JERSEY LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",1400
+"6428691","DASTI MURPHY & MCGUCKIN PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1100
+"27599897","MAGUIRE GROUP INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1100
+"26512772","IMPACT NJ LLC GOVERNMENT AFFAIRS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1100
+"23364723","CREAMER ENVIRONMENTAL INC","Uncoded","Uncoded","Uncoded",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",1050
+"6438279","IPA RX PAC","Retail Sales","General Business","Drug stores",100,0,"#0000FFAF","#0000FFAF",1030
+"21116","NEW JERSEY RIGHT TO LIFE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",850
+"6580587","NEW JERSEY HOTEL MOTEL ASSOCIATION","Lodging & Tourism","General Business","Hotels & motels",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"40619759","NJ TURNPIKE SUPERVISORS ASSOCIATION GOOD & WELFARE FUND","Uncoded","Uncoded","Uncoded",62.5,37.5,"#00003DAF","#00003DAF",800
+"6421478","ELECTION FUND OF LORETTA WEINBERG FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1500
+"6420070","BARRY CORRADO GRASSI & GIBSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",1000
+"4933072","ROB ANDREWS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1500
+"780","DEMOCRACY FOR AMERICA","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",1000
+"6420608","UNION PAVING & CONSTRUCTION CO INC","General Contractors","Construction","Public works, industrial & commercial construction",100,0,"#0000FFAF","#0000FFAF",1000
+"6581765","SOUTHERN NEW JERSEY NECA CHAPTER","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"218","AQUA AMERICA","Water Utilities","Energy & Natural Resources","Water utilities",100,0,"#0000FFAF","#0000FFAF",1900
+"14472","NEW JERSEY FILM PAC","TV & Movie Production/Distribution","Communications & Electronics","Broadcasting & motion pictures",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"6420091","NEW JERSEY ASSOCIATION OF COLLECTION AGENCIES","Miscellaneous Finance","Finance, Insurance & Real Estate","Credit reporting services & collection agencies",50,50,"#000000AF","#000000AF",1000
+"6624061","CONSULTING ENGINEERS SERVICES","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",1000
+"6479529","HEPAC","Health Professionals","Health","Other physician specialists",62.962962962963,37.037037037037,"#00003DAF","#00003DAF",1350
+"8580","PROFESSIONAL & TECHNICAL ENGINEERS LOCAL 400","General Trade Unions","Labor","Other unions",0,100,"#FF0000AF","#FF0000AF",1000
+"6446748","KDP ENTERPRISES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",850
+"3403","CINGULAR WIRELESS","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",60.4651162790698,39.5348837209302,"#000033AF","#000033AF",2150
+"6579654","KENNEDY CULVERT & SUPPLY CO","Building Materials & Equipment","Construction","Other construction-related products",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"3818","HERTZ CORP","Automotive","Transportation","Car & truck rental agencies",75,25,"#00007FAF","#00007FAF",2000
+"2190","REED SMITH LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1000
+"5727","ALLIANCE OF LIQUOR RETAILERS OF NEW JERSEY","Beer, Wine & Liquor","General Business","Liquor stores",100,0,"#0000FFAF","#0000FFAF",1275
+"8102","NEW JERSEY ASSOCIATES OF LONG TERM CARE PHARMACY PROVIDERS","Health Professionals","Health","Pharmacists",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",1400
+"6453244","ASIAN AMERICAN RETAILERS ASSOCIATION","Retail Sales","General Business","Retail trade",100,0,"#0000FFAF","#0000FFAF",750
+"6482536","ABLE MEDICAL TRANSPORTATION","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",1000
+"6597171","FROHLING & HUDAK LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",900
+"6644010","PARTNERS IN CARE","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"6676035","PRINGLE QUINN & ANZANO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"7765","METCALF & EDDY","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",1000
+"10828605","CONNELL FOLEY","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"32745997","EI DUPONT DE NEMOURS & COMPANY","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",900
+"6476913","NJ AMERICAN WATER","Water Utilities","Energy & Natural Resources","Water utilities",62.5,37.5,"#00003DAF","#00003DAF",800
+"4477","UNITED UNION OF ROOFERS WATERPROOFERS & ALLIED WORKERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"6598489","NEW JERSEY SOCIETY OF PROFESSIONAL LAND SURVEYORS","Construction Services","Construction","Surveying",100,0,"#0000FFAF","#0000FFAF",1400
+"6635283","KAPLAN PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",100,0,"#0000FFAF","#0000FFAF",1000
+"6440549","CERTIFIED COURT REPORTERS ASSOCIATION OF NEW JERSEY","Civil Servants/Public Officials","Government Agencies/Education/Other","Courts & justice system",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",850
+"6715114","BRICK-WALL CORP","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",100,0,"#0000FFAF","#0000FFAF",-1300
+"6430077","TYLER & CARMELI PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",750
+"19704","ELECTRICAL WORKERS LOCAL 827","General Trade Unions","Labor","Electrical workers/IBEW",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",900
+"8130","NEW JERSEY PRIMARY CARE ASSOCIATION","Health Professionals","Health","Physicians",100,0,"#0000FFAF","#0000FFAF",850
+"6679693","QUALITY MEDICAL TRANSPORT","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",1300

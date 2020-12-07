@@ -1,0 +1,600 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"1887","NEWMONT MINING","Mining","Energy & Natural Resources","Metal mining & processing",62.6436781609195,37.3563218390805,"#00003DAF","#00003DAF",87000
+"2906","WYNN RESORTS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",45.9821428571429,54.0178571428571,"#1A0000AF","#1A0000AF",112000
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",52.1739130434783,47.8260869565217,"#00000AAF","#00000AAF",80500
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",38.2716049382716,61.7283950617284,"#3D0000AF","#3D0000AF",81000
+"396","BOYD GAMING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",55.4654300824553,44.5345699175447,"#00001AAF","#00001AAF",142431.06
+"9686991","FRIAS MANAGEMENT","Miscellaneous Transport","Transportation","Taxicabs",64.6788990825688,35.3211009174312,"#000047AF","#000047AF",109000
+"3216","BARRICK GOLD CORP","Mining","Energy & Natural Resources","Metal mining & processing",68.9138576779026,31.0861423220974,"#00005CAF","#00005CAF",133500
+"9688247","BARBARA BUCKLEY CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",43000
+"8044","NEVADA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",53.4246575342466,46.5753424657534,"#00000FAF","#00000FAF",182500
+"24820735","BATTLE BORN NEVADAN","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",30500
+"279084","MEDNAX SERVICES","Health Professionals","Health","Physicians",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",45000
+"398004","MGM RESORTS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",66.5634674922601,33.4365325077399,"#000052AF","#000052AF",161500
+"9687651","NV ENERGY","Electric Utilities","Energy & Natural Resources","Electric power utilities",62.3376623376623,37.6623376623377,"#00003DAF","#00003DAF",77000
+"9701404","NEVADA JUSTICE ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",80.0569800569801,19.9430199430199,"#000099AF","#000099AF",175500
+"16120407","STUDENTSFIRST","Public Education Policy","Ideology/Single Issue","School Choice Advocates",66.0714285714286,33.9285714285714,"#000052AF","#000052AF",56000
+"23440086","R & S LEASING LLC","Uncoded","Uncoded","Uncoded",79.5180722891566,20.4819277108434,"#000094AF","#000094AF",41500
+"15843","SEARCHLIGHT LEADERSHIP FUND","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",51500
+"16066","SOUTH POINT HOTEL & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",60.7843137254902,39.2156862745098,"#000033AF","#000033AF",127500
+"19894","OPERATING ENGINEERS LOCAL 3","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",57500
+"9703907","NEVADA HISPANIC LEADERSHIP FUND","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",100,0,"#0000FFAF","#0000FFAF",36500
+"9758081","CMTE TO ELECT TICK SEGERBLOM","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",66000
+"16010829","SUNRISE LEADERSHIP FUND","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",100,0,"#0000FFAF","#0000FFAF",40000
+"23440008","NEVADAS FUTURE PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",100,0,"#0000FFAF","#0000FFAF",67000
+"24717739","PARTNERING FOR NEVADA'S FUTURE PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",36000
+"4746","VENETIAN CASINO RESORT","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",50000
+"7486","LAS VEGAS SANDS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",25.0936329588015,74.9063670411985,"#800000AF","#800000AF",133500
+"13432","KEYSTONE CORP","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",77500
+"17294","LAS VEGAS METRO CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",34.1880341880342,65.8119658119658,"#520000AF","#520000AF",58500
+"18467","SENATE REPUBLICAN LEADERSHIP CONFERENCE OF NEVADA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",75000
+"8820177","SANDS EXPO & CONVENTION CENTER","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",50000
+"9686079","CMTE TO ELECT JOE HARDY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",50500
+"9703637","CMTE TO ELECT BEN KIECKHEFER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",41000
+"9712166","JAMES SETTLEMEYER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",20000
+"15963329","FRIENDS OF MICHAEL ROBERSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",30000
+"15963330","JOBS FIRST PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",20000
+"26837909","SWITCH","Computer Equipment & Services","Communications & Electronics","Data processing & computer services",35.8386801099908,64.1613198900092,"#4D0000AF","#4D0000AF",109100
+"9686586","SANDOVAL FOR GOVERNOR","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",34739.4
+"13992843","SENATE MAJORITY PAC","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",19300
+"15885112","SILVERADO FAMILY DENTAL","Candidate Contributions","Candidate Contributions","Candidate Contribution",0,100,"#FF0000AF","#FF0000AF",12500
+"16011530","REFORM PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",13300
+"16011698","OLYMPIA MEDIA LLC","Uncoded","Uncoded","Uncoded",37.7606273728761,62.2393726271239,"#420000AF","#420000AF",16067
+"16735101","VICTORY PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",15000
+"19874","OPERATING ENGINEERS LOCAL 12","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",70000
+"20250","NEVADA STATE EDUCATION ASSOCATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",101511.16
+"20391","NEVADA SERVICE EMPLOYEES LOCAL 1107","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",55000
+"9688460","CMTE TO ELECT MO DENIS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",63000
+"9707326","DAVID PARKS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",52105
+"16010888","BUCKSKIN MOUNTAIN PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",100,0,"#0000FFAF","#0000FFAF",58500
+"20539695","LYNCH HOPPER SALZANO & SMITH LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",18750
+"23440019","MAJORITY 2014","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",26000
+"26142152","EVERYTOWN FOR GUN SAFETY","Gun Control","Ideology/Single Issue","Pro-gun control",100,0,"#0000FFAF","#0000FFAF",15000
+"20208","CLARK COUNTY EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",51000
+"16603612","NEW NEVADA PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",55000
+"9690157","CMTE TO ELECT DEBBIE SMITH","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",15000
+"9690176","CMTE TO ELECT RUBEN KIHEUN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",24500
+"24717900","WOMEN'S EMPOWERMENT","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",28000
+"1128","GOLDEN GAMING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",41.7721518987342,58.2278481012658,"#2E0000AF","#2E0000AF",39500
+"1715","MGM MIRAGE","Gambling & Casinos","General Business","Casinos, racetracks & gambling",36.5079365079365,63.4920634920635,"#470000AF","#470000AF",31500
+"2615","TITLEMAX","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",58.9041095890411,41.0958904109589,"#000029AF","#000029AF",73000
+"5987","BELLAGIO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",52.6315789473684,47.3684210526316,"#00000AAF","#00000AAF",47500
+"6137","CAESARS ENTERTAINMENT","Gambling & Casinos","General Business","Casinos, racetracks & gambling",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",42000
+"8068","NEVADA SUBCONTRACTORS ASSOCIATION","General Contractors","Construction","Builders associations",40.6666666666667,59.3333333333333,"#330000AF","#330000AF",75000
+"8677","REPUBLICAN STATE LEADERSHIP CMTE","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",15457
+"9078","SUNRISE HEALTH SYSTEM","Hospitals & Nursing Homes","Health","Hospitals",51.9047619047619,48.0952380952381,"#000005AF","#000005AF",105000
+"9701748","CMTE TO ELECT BEN KIDCKHEFER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",12500
+"9701781","SETTELMEYER CAMPAIGN ACCOUNT","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",15000
+"26837974","NEVADA HOME BUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",46.4114832535885,53.5885167464115,"#140000AF","#140000AF",104500
+"26840705","MANDALAY BAY","Uncoded","Uncoded","Uncoded",38.5336715620499,61.46632843795,"#3D0000AF","#3D0000AF",16269.07
+"28451386","SUNSTREET ENERGY GROUP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",14000
+"9717682","AARON D FORD CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",81793.16
+"9688537","LIGHTHOUSE LEADERSHIP PAC","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",16866
+"8060","NEVADA MINING ASSOCIATION","Mining","Energy & Natural Resources","Mining",70.9090909090909,29.0909090909091,"#000066AF","#000066AF",55000
+"26840606","EQUALITY POLITICAL ACTION COMMITTEE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",23000
+"20839","SOUTHWEST REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",66500
+"4572","NEVADA POWER CO","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",48.8095238095238,51.1904761904762,"#0A0000AF","#0A0000AF",42000
+"9708100","CMTE TO REELECT KELVIN ATKINSON","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",21250
+"1387711","ORMAT TECHNOLOGIES","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",68.0327868852459,31.9672131147541,"#00005CAF","#00005CAF",61000
+"18890","NEVADA HEALTH CARE ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",37500
+"9685807","KELVIN ATKINSON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",32500
+"1336","INTERNATIONAL GAME TECHNOLOGY","Gambling & Casinos","General Business","Casinos, racetracks & gambling",47.1428571428571,52.8571428571429,"#0F0000AF","#0F0000AF",35000
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",69.5652173913043,30.4347826086957,"#000061AF","#000061AF",34500
+"16088708","REPUBLICAN WOMEN OF SOUTHERN NEVADA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",14000
+"16603605","REPUBLICAN WOMEN SOUTHERN NEVADA PAC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",13000
+"4898","NEVADA SENATE DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",84710.42
+"8055","NEVADA HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",57.9766536964981,42.0233463035019,"#000024AF","#000024AF",64250
+"9685776","DEBBIE SMITH CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",40250
+"9707299","CMTE TO ELECT MARK MANENDO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",19000
+"1258","HOLLAND & HART","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",51.8518518518518,48.1481481481481,"#000005AF","#000005AF",40500
+"17288","ZUFFA LLC","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",67.741935483871,32.258064516129,"#000057AF","#000057AF",62000
+"659427","RED ROCK RESORT SPA & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",41.1764705882353,58.8235294117647,"#2E0000AF","#2E0000AF",17000
+"9689688","ORLEANS HOTEL & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",44.6153846153846,55.3846153846154,"#1F0000AF","#1F0000AF",32500
+"26837949","SFR INVESTMENTS POOL 1 LLC","Uncoded","Uncoded","Uncoded",58,42,"#000024AF","#000029AF",25000
+"28451508","SWITCH, LTD","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",20000
+"4126","NEVADA TRUCKING ASSOCIATION","Trucking","Transportation","Trucking",33.1325301204819,66.8674698795181,"#570000AF","#570000AF",83000
+"19658","ELECTRICAL WORKERS LOCAL 257","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",23560.68
+"16620677","FRIENDS FOR JOYCE WOODHOUSE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",17500
+"20539728","R & R PARTNERS INC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",15000
+"26839935","J & P WHOLESALE & IMPORTS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",11500
+"20539760","LEWIS ROCA ROTHGERBER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",64.4067796610169,35.5932203389831,"#000047AF","#000047AF",29500
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",44.3037974683544,55.6962025316456,"#1F0000AF","#1F0000AF",39500
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",53.448275862069,46.551724137931,"#00000FAF","#00000FAF",29000
+"8663","REPUBLIC SERVICES","Waste Management","Energy & Natural Resources","Waste management",58.3815028901734,41.6184971098266,"#000029AF","#000029AF",43250
+"18609","ASSOCIATED GENERAL CONTRACTORS OF SOUTHERN NEVADA","General Contractors","Construction","Builders associations",36.2399281610182,63.7600718389818,"#470000AF","#470000AF",39321.27
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",59.1666666666667,40.8333333333333,"#00002EAF","#00002EAF",30000
+"7485","LAS VEGAS COLOR GRAPHICS","Business Services","General Business","Commercial photography, art & graphic design",0,100,"#FF0000AF","#FF0000AF",6763.13
+"2018","PEPPERMILL CASINOS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",61.1229566453447,38.8770433546553,"#000038AF","#000038AF",35175
+"2344","SEMPRA ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",64.4067796610169,35.5932203389831,"#000047AF","#000047AF",29500
+"26837978","PHOENIX","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",9000
+"16601626","A BRIGHTER NEVADA","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",14000
+"2468","STATION CASINOS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",60.7843137254902,39.2156862745098,"#000033AF","#000033AF",51000
+"374926","ASSOCIATIONS INC","Real Estate","Finance, Insurance & Real Estate","Other real estate services, appraisals",100,0,"#0000FFAF","#0000FFAF",8500
+"14048157","RIALTO CAPITAL ADVISORS","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",63.4920634920635,36.5079365079365,"#000042AF","#000042AF",31500
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",45.2380952380952,54.7619047619048,"#1A0000AF","#1A0000AF",21000
+"2433","SOUTHERN WINE & SPIRITS","Beer, Wine & Liquor","General Business","Liquor wholesalers",7.69230769230769,92.3076923076923,"#DB0000AF","#DB0000AF",6500
+"9080","SUNSET STATION HOTEL & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",35.7142857142857,64.2857142857143,"#4D0000AF","#4D0000AF",14000
+"23439684","DOTTYS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",53.4591194968553,46.5408805031447,"#00000FAF","#00000FAF",79500
+"24357168","FENTON GRANT MAYFIELD KANEDA & LITT LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",13000
+"9749402","R & S LEASING LLC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",50.7936507936508,49.2063492063492,"#000000AF","#000000AF",31500
+"11017","TOSH INC / CHECK CITY","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",9000
+"9687666","WIRTZ BEVERAGE NEVADA","Beer, Wine & Liquor","General Business","Liquor wholesalers",57,43,"#00001FAF","#000024AF",25000
+"24718731","CAMEO INC","Uncoded","Uncoded","Uncoded",50.6024096385542,49.3975903614458,"#000000AF","#000000AF",20750
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",57.6923076923077,42.3076923076923,"#000024AF","#000024AF",78000
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",53.0434782608696,46.9565217391304,"#00000FAF","#00000FAF",28750
+"6458","COX COMMUNICATIONS","Miscellaneous Communications & Electronics","Communications & Electronics","Communications & electronics",65.1702786377709,34.8297213622291,"#00004DAF","#00004DAF",64600
+"32651","SOLARCITY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",63.9705882352941,36.0294117647059,"#000042AF","#000042AF",68000
+"23439671","HOWARD HUGHES PROPERTIES INC","Uncoded","Uncoded","Uncoded",45.8333333333333,54.1666666666667,"#1A0000AF","#1A0000AF",24000
+"24718224","RESORTS WORLD LAS VEGAS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",55.8823529411765,44.1176470588235,"#00001AAF","#00001AAF",17000
+"904","EMILYS LIST","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",30000
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",10500
+"19522","PROFESSIONAL FIRE FIGHTERS OF NEVADA","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",32500
+"23439780","MADDOX, ISAACSON & CISNEROS LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8000
+"24719043","ATKINSON LEADERSHIP PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",16500
+"26837788","KEMP, JONES & COULTHARD LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",7000
+"8624","R & S INVESTMENT PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",42500
+"9687136","ASSOCIATED GENERAL CONTRACTORS NEVADA CHAPTER","General Contractors","Construction","Builders associations",32.9406623378976,67.0593376621024,"#5C0000AF","#5C0000AF",18214.57
+"9689187","INCORP SERVICES","Business Services","General Business","Business services",0,100,"#FF0000AF","#FF0000AF",18500
+"16683630","COMMITTEE TO ELECT PETE GOICECHEA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",20000
+"8632","RAN SERVICES","Computer Equipment & Services","Communications & Electronics","Computer software",15.8347402060152,84.1652597939847,"#B30000AF","#B30000AF",37891.37
+"9687515","THOMAS & MACK CO","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",18000
+"9689583","NEVADA CORPORATE HEADQUARTERS","Miscellaneous Finance","Finance, Insurance & Real Estate","Financial services & consulting",0,100,"#FF0000AF","#FF0000AF",13250
+"24784305","A BOLDER NEVADA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",8000
+"4083","MGM GRAND","Gambling & Casinos","General Business","Casinos, racetracks & gambling",52.3809523809524,47.6190476190476,"#00000AAF","#00000AAF",21000
+"12456","GILL ACTION FUND","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",93.8790837401427,6.1209162598573,"#0000DBAF","#0000DBAF",5326
+"6922221","ROCKY MOUNTAIN HOSPITAL & MEDICAL SERVICE DBA ANTHEM BLUE CROSS & BLUE SHIELD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",100,0,"#0000FFAF","#0000FFAF",6000
+"16603607","DEMOCRATIC SENATE MAJORITY PAC","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",7500
+"24820858","NULEAF CAPITAL INVESTORS GROUP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6500
+"20087","NEVADA & UTAH LABORERS DISTRICT COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",7000
+"26840822","NEVADA BEER WHOLESALERS ASSOCIATION","Uncoded","Uncoded","Uncoded",87.0967741935484,12.9032258064516,"#0000BDAF","#0000BDAF",15500
+"7723","MCDONALD CARANO WILSON LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",22000
+"24718433","ONE NEVADA PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",17500
+"14459","NEVADANS FIRST PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",8500
+"20023","LABORERS LOCAL 169","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",25500
+"4127","NEVADA YELLOW CAB CORP","Miscellaneous Transport","Transportation","Taxicabs",65.4205607476635,34.5794392523364,"#00004DAF","#00004DAF",53500
+"6335","COLORADO BELLE HOTEL & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",10000
+"9192","TEXAS STATION GAMBLING HALL & HOTEL","Gambling & Casinos","General Business","Casinos, racetracks & gambling",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",7000
+"10856","CANTOR FITZGERALD","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",7500
+"23439657","DESERT CAB INC","Uncoded","Uncoded","Uncoded",41.9354838709677,58.0645161290323,"#2E0000AF","#2E0000AF",15500
+"23439685","STATION CASINOS- SANTA FE HOTEL & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",22500
+"9731150","HOGAN FOR ASSEMBLY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5200
+"23440090","FRIAS TRANSPORTATION INFRASTRUCTURE","Computer Equipment & Services","Communications & Electronics","Computer software",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",7500
+"5317","NEVADA CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",62.3644251626898,37.6355748373102,"#00003DAF","#00003DAF",46100
+"1536","LEWIS & ROCA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",75.3778144777933,24.6221855222068,"#00007FAF","#00007FAF",38583.09
+"1817","NATIONAL ASSOCIATION OF CHAIN DRUG STORES","Retail Sales","General Business","Drug stores",32.5581395348837,67.4418604651163,"#5C0000AF","#5C0000AF",21500
+"2437","SOUTHWEST GAS","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",58.6440677966102,41.3559322033898,"#000029AF","#000029AF",73750
+"21191","AMERICAN COUNCIL OF ENGINEERING COMPANIES OF NEVADA","Construction Services","Construction","Engineering, architecture & construction management services",63.3333333333333,36.6666666666667,"#000042AF","#000042AF",15000
+"4041458","COMMUNITY INSURANCE CO DBA ANTHEM BLUE CROSS & BLUE SHIELD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",21750
+"9687609","KAEMPFER CROWELL RENSHAW GRONAUER & FIORENTINO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",62.962962962963,37.037037037037,"#00003DAF","#00003DAF",20250
+"191","AMERIGROUP CORPORATION","Health Services","Health","HMOs",49.5867768595041,50.4132231404959,"#050000AF","#050000AF",30250
+"9688030","LAS VEGAS POLICE PROTECTIVE ASSOCIATION CIVILIAN EMPLOYEES","Public Sector Unions","Labor","Police & fire fighters unions and associations",98.8455988455988,1.15440115440115,"#0000F5AF","#0000F5AF",69300
+"9688085","R D PRABHU & LATA SHETE MD LTD","Health Professionals","Health","Physicians",100,0,"#0000FFAF","#0000FFAF",5000
+"24717989","LEWIS ROCA & ROTHGERBER","Uncoded","Uncoded","Uncoded",47.0588235294118,52.9411764705882,"#0F0000AF","#0F0000AF",8500
+"24719044","WOMENS EMPOWERMENT PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6000
+"9686102","HUTCHISON & STEFFEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",10500
+"9707359","TRULINE CORP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6000
+"23439997","OLYMPIA COMPANIES LLC","Uncoded","Uncoded","Uncoded",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",6500
+"6051","BOULDER STATION HOTEL & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",51.5151515151515,48.4848484848485,"#000005AF","#000005AF",16500
+"9687591","FIESTA RANCHO HOTEL & CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",5,95,"#E60000AF","#E60000AF",10000
+"9689918","HENDERSON TAXI","Miscellaneous Transport","Transportation","Taxicabs",73.780487804878,26.219512195122,"#000075AF","#000075AF",41000
+"23439632","WHITTLESEA BLUE CAB CO","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",19250
+"9689895","LYNCH HOPPER & SALZANO LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",12750
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",49.2307692307692,50.7692307692308,"#050000AF","#050000AF",16250
+"9687105","NEVADA STATE SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",38500
+"23440851","COHEN & PADDA LLP","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",4900
+"17002982","PROFESSIONAL FIRE FIGHTERS OF NV","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",5000
+"9070","SUMMERLIN HOSPITAL MEDICAL CENTER","Hospitals & Nursing Homes","Health","Hospitals",59.1685226429102,40.8314773570898,"#00002EAF","#00002EAF",26940
+"290457","DISTRICT COUNCIL OF IRONWORKERS OF THE STATE OF CALIFORNIA & VICINITY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",31000
+"3627","FEDERAL EXPRESS","Air Transport","Transportation","Express delivery services",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",10500
+"3831","SOUTHERN NEVADA HOME BUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",20,80,"#990000AF","#9E0000AF",7500
+"5880","ASSOCIATION OF GAMING EQUIPMENT MANUFACTURERS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",40,60,"#330000AF","#330000AF",30000
+"8046","NEVADA BEER WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",63.4615384615385,36.5384615384615,"#000042AF","#000042AF",26000
+"16615587","NEVADA RESTRICTED GAMING ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",65.3846153846154,34.6153846153846,"#00004DAF","#00004DAF",13000
+"24717609","DOTTYS","Uncoded","Uncoded","Uncoded",80.9523809523809,19.047619047619,"#000099AF","#000099AF",10500
+"10149","ASTELLAS PHARMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",69.6969696969697,30.3030303030303,"#000061AF","#000061AF",16500
+"2151","R & R PARTNERS","Business Services","General Business","Advertising & public relations services",44.3814082095261,55.6185917904739,"#1F0000AF","#1F0000AF",7124.65
+"9710347","ASSOCIATED GENERAL CONTRACTORS OF NORTHERN NEVADA","General Contractors","Construction","Builders associations",44.7154471544715,55.2845528455285,"#1F0000AF","#1F0000AF",24600
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",82.6086956521739,17.3913043478261,"#0000A3AF","#0000A3AF",11500
+"16603596","ONE NEVADA CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",28.0821917808219,71.9178082191781,"#700000AF","#700000AF",14600
+"26839936","AMERICAN COUNCIL OF ENGINEERING COMPANIES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8000
+"9714975","NEVADA REPUBLIC ALLIANCE","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",7000
+"15883404","NEVADA MAJORITY PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",16000
+"20602","PLUMBERS & PIPEFITTERS LOCAL 525","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",16500
+"9699928","GREEN VALLEY RANCH RESORT SPA CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",40,60,"#330000AF","#330000AF",12500
+"48628","EDWARD D SMITH & CO","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",9000
+"9495","WHITTLESEA BLUE CAB CO","Miscellaneous Transport","Transportation","Taxicabs",86,14,"#0000B8AF","#0000B8AF",25000
+"10041","ANTHEM INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",50,50,"#000000AF","#000000AF",14000
+"40614069","SILVER LEGACY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4750
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",38.0281690140845,61.9718309859155,"#3D0000AF","#3D0000AF",17750
+"8917","FOCUS PROPERTY GROUP","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",61.3636363636364,38.6363636363636,"#000038AF","#000038AF",22000
+"10646","BUILDERS ASSOCIATION OF WESTERN NEVADA","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",5250
+"9699930","FIESTA HENDERSON CASINO & HOTEL","Gambling & Casinos","General Business","Casinos, racetracks & gambling",62.5,37.5,"#00003DAF","#00003DAF",8000
+"6565","DESERT CAB","Miscellaneous Transport","Transportation","Taxicabs",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",9000
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",52,48,"#00000AAF","#00000AAF",12500
+"1084","GENERAL ELECTRIC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",10500
+"1269570","INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES / IUPAT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",44500
+"23440838","NEVADA SOFT DRINK ASSOCIATION","Uncoded","Uncoded","Uncoded",72.7272727272727,27.2727272727273,"#000070AF","#000070AF",16500
+"24717611","BROADACRES OPEN AIR MARKETPLACE LLC","Uncoded","Uncoded","Uncoded",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",7000
+"26837434","UNITED FOR HEALTH","Uncoded","Uncoded","Uncoded",70,30,"#000066AF","#000066AF",5000
+"27702887","NEVADA BANKERS ASSOCIATION","Uncoded","Uncoded","Uncoded",52.7272727272727,47.2727272727273,"#00000AAF","#00000AAF",13750
+"29207143","CASH AMERICA","Uncoded","Uncoded","Uncoded",62.5,37.5,"#00003DAF","#00003DAF",4000
+"29214751","EMPLOYERS EIG SERVICES","Uncoded","Uncoded","Uncoded",62.5,37.5,"#00003DAF","#00003DAF",12000
+"19462","FIRE FIGHTERS LAS VEGAS LOCAL 1285","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",22500
+"1983946","CLARK COUNTY FIRE FIGHTERS LOCAL 1908","Public Sector Unions","Labor","Police & fire fighters unions and associations",64.5161290322581,35.4838709677419,"#000047AF","#000047AF",15500
+"9702304","CMTE TO ELECT DON GUSTAVSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",9000
+"24718423","FARLEY FOR NEVADA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",15000
+"3186","NEVADA AUTO DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",51.7045454545455,48.2954545454545,"#000005AF","#000005AF",44000
+"4690","HOWARD HUGHES CORP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",92.5925925925926,7.40740740740741,"#0000D6AF","#0000D6AF",13500
+"577982","PAINTERS & ALLIED TRADES UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5000
+"3949370","CHRISTINA R (CHRIS) GIUNCHIGLIANI CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",43750
+"9687074","VALLEY ELECTRIC ASSOCIATION","Electric Utilities","Energy & Natural Resources","Electric power utilities",56.6037735849057,43.3962264150943,"#00001FAF","#00001FAF",26500
+"9687447","LABORERS LOCAL 872","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",56500
+"15752645","AFFINITY GAMING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",50,50,"#000000AF","#000000AF",5000
+"23439680","FIRST 100 LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3500
+"2375650","MARLON FAMILY TRUST","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",0,100,"#FF0000AF","#FF0000AF",12000
+"33","ADVANCE AMERICA CASH ADVANCE CENTERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",7000
+"4461","RENO SPARKS INDIAN COLONY","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",82.6086956521739,17.3913043478261,"#0000A3AF","#0000A3AF",11500
+"19860","CALIFORNIA-NEVADA CONFERENCE OF OPERATING ENGINEERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",10000
+"604136","ELECTRICAL WORKERS LOCAL 1245","General Trade Unions","Labor","Electrical workers/IBEW",97.5308641975309,2.46913580246914,"#0000F0AF","#0000F0AF",40500
+"28451430","ASSOCIATION OF GAMING EQUIPMENT MANUFACTURES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",9000
+"9699738","CONSERVANCY TRUST","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",0,100,"#FF0000AF","#FF0000AF",3500
+"9384","VIDLER WATER CO","Water Utilities","Energy & Natural Resources","Water utilities",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",5500
+"9697018","SB STRATEGIC CONSULTING INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",7000
+"9769116","TAMARACK CROSSING","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"171","AMERICAN RESORT DEVELOPMENT ASSOCIATION","Lodging & Tourism","General Business","Resorts",68.5714285714286,31.4285714285714,"#00005CAF","#00005CAF",35000
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",60.4651162790698,39.5348837209302,"#000033AF","#000033AF",10750
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",32.258064516129,67.741935483871,"#5C0000AF","#5C0000AF",7750
+"1147","GREENBERG TRAURIG LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",52.1739130434783,47.8260869565217,"#00000AAF","#00000AAF",11500
+"1261","HOME DEPOT","Retail Sales","General Business","Hardware & building materials stores",0,100,"#FF0000AF","#FF0000AF",3750
+"8045","NEVADA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",6500
+"8601","PUBLIC AFFAIRS GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",12.5,87.5,"#C20000AF","#C20000AF",4000
+"9904","ALLERGAN","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",5500
+"23439609","RAN SERVICES INC","Uncoded","Uncoded","Uncoded",53.5714285714286,46.4285714285714,"#00000FAF","#00000FAF",14000
+"23439813","NELLIS CAB CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"27639261","ASSOCIATION BUILDERS & CONTRACTORS SIERRA NEVADA CHAPTER","Uncoded","Uncoded","Uncoded",10.7142857142857,89.2857142857143,"#CC0000AF","#CC0000AF",14000
+"9687175","BELL TRANS","Miscellaneous Transport","Transportation","Taxicabs",91.6666666666667,8.33333333333333,"#0000D1AF","#0000D1AF",6000
+"24717915","ELECTRICAL WORKERS LOCAL 357","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",37060.69
+"1233","HEWLETT PACKARD","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",9000
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",52.1739130434783,47.8260869565217,"#00000AAF","#00000AAF",23000
+"23439622","CHECK CITY PARTNERSHIP LLC","Uncoded","Uncoded","Uncoded",68,32,"#00005CAF","#00005CAF",6250
+"24718275","DISCOUNT DUMPSTER","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"24719104","AMERICAN WAGERING INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",11000
+"20497","SHEET METAL WORKERS LOCAL 88","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",21500
+"20698","AUTO WORKERS REGION 5","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",12000
+"9817664","POLITICAL ACTION COMMITTEE LOCAL 525","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",7500
+"24717540","R&R NV GOVERNMENT & PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",17000
+"29574394","NEVADA POWER CO","Uncoded","Uncoded","Uncoded",68.4210526315789,31.5789473684211,"#00005CAF","#00005CAF",9500
+"8899","SIERRA AIR CONDITIONING","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",0,100,"#FF0000AF","#FF0000AF",7000
+"9739291","STORY BOOK HOMES","Home Builders","Construction","Residential construction",0,100,"#FF0000AF","#FF0000AF",6000
+"14456","NEVADA ORTHOPEDIC SOCIETY","Health Professionals","Health","Other physician specialists",26.0869565217391,73.9130434782609,"#7A0000AF","#7A0000AF",11500
+"9701172","KAEMPFER CROWELL RENSHAW GRONAUER FLORINTNO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",64.5833333333333,35.4166666666667,"#000047AF","#000047AF",24000
+"12088","FERRARO GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",74.1007194244604,25.8992805755396,"#00007AAF","#00007AAF",34750
+"9687729","EDWARD M BERNSTEIN & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",14000
+"9687969","GALLOWAY & JENSEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",7500
+"20539735","NEVADA DENTAL ASSOCIATION","Uncoded","Uncoded","Uncoded",50.9803921568627,49.0196078431373,"#000000AF","#000000AF",12750
+"23440021","BENSON BERTOLDO BAKER & CARTER CHTD","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3250
+"9743056","EDWARD BERNSTEIN & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3000
+"24357035","ANDERSON DAIRY INC","Uncoded","Uncoded","Uncoded",30,70,"#660000AF","#660000AF",5000
+"274898","UNITEDHEALTH GROUP","Health Services","Health","Health care services",81.25,18.75,"#00009EAF","#00009EAF",8000
+"9704303","WILLOW SPRINGS RTC","Uncoded","Uncoded","Uncoded",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"26790020","LIONEL SAWYER & COLLINS","Uncoded","Uncoded","Uncoded",71.427322874613,28.572677125387,"#00006BAF","#00006BAF",11899.48
+"2835","WESTERN NEVADA SUPPLY","Building Materials & Equipment","Construction","Plumbing & pipe products",0,100,"#FF0000AF","#FF0000AF",5500
+"15752623","FARMERS INSUARNCE PAC (FEAPAC)","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",50,50,"#000000AF","#000000AF",6000
+"23439687","FIRSTSERVICE RESIDENTIAL, NEVADA, LLC","Uncoded","Uncoded","Uncoded",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",5500
+"23440397","R & R PARTNERS","Uncoded","Uncoded","Uncoded",24.363562829974,75.636437170026,"#850000AF","#850000AF",4104.49
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",62.5,37.5,"#00003DAF","#00003DAF",8000
+"10135","ASSOCIATION OF INDUSTRIAL & OFFICE PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",7500
+"11741","DOLLAR LOAN CENTER","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",5000
+"20539920","WILDFIRE CASINO","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",4000
+"23440365","WIRTZ BEVERAGA NEVADA INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"11368","COPART","Automotive","Transportation","Auto dealers, new & used",74.2857142857143,25.7142857142857,"#00007AAF","#00007AAF",8750
+"16011527","LAS VEGAS PAVING","Uncoded","Uncoded","Uncoded",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",9000
+"24717665","LIONEL SAWYER & CO","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"24717694","SMITH CHRISTENSEN ENTERPRISES LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",6000
+"9711154","GLOBAL INTELLIGENCE NETWORK","Business Services","General Business","Security services",0,100,"#FF0000AF","#FF0000AF",11250
+"9250","UNION CAB CO","Miscellaneous Transport","Transportation","Taxicabs",100,0,"#0000FFAF","#0000FFAF",2355
+"23440091","ACE CAB CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2355
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",14.1562853907135,85.8437146092865,"#B80000AF","#B80000AF",3532
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",74,26,"#00007AAF","#00007AAF",15000
+"3868","INTUIT INC","Computer Equipment & Services","Communications & Electronics","Computer software",60,40,"#000033AF","#000033AF",2500
+"18638","DIRECTV GROUP","Cable TV","Communications & Electronics","Satellite TV operators",52.9411764705882,47.0588235294118,"#00000AAF","#00000AAF",8500
+"3053977","US ECOLOGY","Waste Management","Energy & Natural Resources","Waste management",21.4285714285714,78.5714285714286,"#940000AF","#940000AF",7000
+"9690761","BROADACRES OPEN AIR MARKETPLACE","Retail Sales","General Business","Retail trade",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",8500
+"24820578","R&R GOVERNMENT & PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",7500
+"38268177","HUTCHISON & STEFFEN LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"339559","TEXAS EZ PAWN","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",100,0,"#0000FFAF","#0000FFAF",7500
+"9699320","SOUTHERN HIGHLANDS DEVELOPMENT CORP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",90.9165302782324,9.08346972176759,"#0000CCAF","#0000CCAF",3666
+"11551417","NACDS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",3000
+"37090768","AGEM","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",4000
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",12750
+"8063","NEVADA RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",50,50,"#000000AF","#000000AF",3000
+"761","DAVITA INC","Hospitals & Nursing Homes","Health","Health care institutions",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"18899","PRIME HEALTHCARE","Hospitals & Nursing Homes","Health","Hospitals",50,50,"#000000AF","#000000AF",5000
+"9685803","JOHN OCEGUERA CAMPAIGN ACCOUNT","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2500
+"23440770","CAPITOL COMPANY LTD","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"24717670","RAN RETAIL ASSOC. OF NEVADA","Uncoded","Uncoded","Uncoded",20.8333333333333,79.1666666666667,"#990000AF","#990000AF",12000
+"22252976","ALLIANCE FOR SOLAR CHOICE","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",0,100,"#FF0000AF","#FF0000AF",6000
+"26840680","NEVADA DENTAL ASOCIATION","Uncoded","Uncoded","Uncoded",43.75,56.25,"#240000AF","#240000AF",8000
+"1757","MONEYTREE","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",40,60,"#330000AF","#330000AF",2500
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",50,50,"#000000AF","#000000AF",3000
+"8067","NEVADA STATE MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",10500
+"9691028","NEVADA RESTAURANT SERVICES","Gambling & Casinos","General Business","Casinos, racetracks & gambling",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",4500
+"9712125","CHENIN ORTHODONTICS","Health Professionals","Health","Dentists",0,100,"#FF0000AF","#FF0000AF",2800
+"9725235","NEVADA HOUSING ALLIANCE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6250
+"16603684","SLC CONSTRUCTION PAC","Special Trade Contractors","Construction","Special trade contractors",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",6000
+"23440056","CAPITOL COMPANY","Uncoded","Uncoded","Uncoded",34.3288705801579,65.6711294198421,"#520000AF","#520000AF",2913
+"32370773","MONARCH CASINO & RESORT INC","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",4500
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",6500
+"16010478","BROADACRES OPEN AIR MARKETPLACE LLC","Retail Sales","General Business","Retail trade",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"26840682","SMART TRANSPORTATION DIVISION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5000
+"16846","VIRGIN VALLEY CAB","Miscellaneous Transport","Transportation","Taxicabs",100,0,"#0000FFAF","#0000FFAF",2155
+"28090640","OLYMPIA MANAGEMENT SERVICES LLC","Uncoded","Uncoded","Uncoded",66.6333666333666,33.3666333666334,"#000052AF","#000052AF",2002
+"28090639","KAG PROPERTY LLC","Uncoded","Uncoded","Uncoded",68.0613435572595,31.9386564427405,"#00005CAF","#00005CAF",5999
+"9701397","SCHOOL ALLIANCE","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",87.8048780487805,12.1951219512195,"#0000BDAF","#0000BDAF",2050
+"8056","NEVADA INSURANCE INDIVIDUALS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"9688984","SIERRA NEVADA REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",6500
+"10880","CAPITOL PARTNERS ADVANCE AMERICA","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",53.6423841059603,46.3576158940397,"#00000FAF","#00000FAF",7550
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"6062","BRADLEY DRENDEL & JEANNEY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",13750
+"11511","DAIICHI SANKYO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",2700
+"202","ANDERSON DAIRY","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",62.5,37.5,"#00003DAF","#00003DAF",4000
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",90,10,"#0000CCAF","#0000CCAF",5000
+"2250","ROGICH COMMUNICATIONS GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",50,50,"#000000AF","#000000AF",2000
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",4000
+"8065","NEVADA SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",57.8947368421053,42.1052631578947,"#000024AF","#000024AF",4750
+"18795","NEVADA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",75.5555555555556,24.4444444444444,"#00007FAF","#00007FAF",11250
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",100,0,"#0000FFAF","#0000FFAF",2500
+"3599403","RENO AIRPORT FIRE FIGHTERS LOCAL 2955","Public Sector Unions","Labor","Police & fire fighters unions and associations",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",2750
+"5487108","NACDS","Retail Sales","General Business","Drug stores",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"9687032","NORTH LAS VEGAS FIRE FIGHTERS LOCAL 1607","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",9000
+"9689480","SMITH CHRISTENSEN ENTERPRISES","Generic Occupation/Category Unknown","Uncoded","Generic occupation - impossible to assign category",100,0,"#0000FFAF","#0000FFAF",2000
+"16088752","A & A MIDWEST","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"16676763","ALLISON MACKENZIE PAVLAKIS WRIGHT & FAGAN LTD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",2250
+"16678273","SPRING MOUNTAIN TREATMENT CENTER","Hospitals & Nursing Homes","Health","Health care institutions",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"28090659","WATERTON GLOBAL MINING COMPANY","Mining","Energy & Natural Resources","Mining",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"40617967","MANUFACTURED HOME COMMUNITY OWNERS","Uncoded","Uncoded","Uncoded",78.5714285714286,21.4285714285714,"#00008FAF","#00008FAF",7000
+"7334","K12 INC","Education","Government Agencies/Education/Other","Education",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",6500
+"20901","FOOD & COMMERCIAL WORKERS LOCAL 711","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",4500
+"18490003","DEMOCRATS TIME IN NEVADA","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",2000
+"20540043","SCOTT K. CANEPA, APC OPERATING ACCOUNT","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"24717558","NV PETROLEUM MARKETING & CONVENIENCE STORE ASSOC","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",1250
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",4000
+"6243","CHAMPION CHEVROLET","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",4500
+"6566","DESERT SPRINGS HOSPITAL","Hospitals & Nursing Homes","Health","Hospitals",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",4500
+"9690945","LAS VEGAS PAVING CORPORATION","Special Trade Contractors","Construction","Special trade contractors",56.6666666666667,43.3333333333333,"#00001FAF","#00001FAF",15000
+"9813831","NEVADA CONTRACTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"16677830","D & D PLUMBING","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",0,100,"#FF0000AF","#FF0000AF",3000
+"26837537","BURKE CONSTRUCTION GROUP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"26837545","GREENMART OF NEVADA","Marijuana growers & product sales","General Business","Marijuana growers & product sales",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",5500
+"28451387","NEVADA WOMEN'S ALLIANCE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"16088623","LV DIAGNOSTICS LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"9686981","DIELCO CRANE SERVICE INC","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"9706933","DISCOUNT DUMPSTERS","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",3000
+"28090756","FRIENDS OF SCOTT HAMMOND","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",16000
+"28451400","NEVADA WOMENS ALLIANCE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1592.53
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",3000
+"600740","SANOFI US","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",1500
+"770262","BERKELEY PATIENTS GROUP","Retail Sales","General Business","Miscellaneous retail stores",100,0,"#0000FFAF","#0000FFAF",1750
+"9690182","J&M MORTON FAMILY 2 LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"9700479","NEVADA STATE ASSOCIATION OF ELECTRICAL WORKERS","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",5000
+"9704316","NEVADA PSYCHOLOGICAL ASSOCIATION","Health Professionals","Health","Psychiatrists & psychologists",90.2439024390244,9.75609756097561,"#0000CCAF","#0000CCAF",10250
+"9709042","HENNESS & HAIGHT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3300
+"9710017","SHINNICK RYAN & RANSAVAGE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"9711736","SIBLEY 1998 TRUST SCOTT SIBLEY TRUSTEE","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",80,20,"#000099AF","#000099AF",5000
+"9723031","VALLEY HEALTH SYSTEM","Hospitals & Nursing Homes","Health","Hospitals",100,0,"#0000FFAF","#0000FFAF",2000
+"9727367","LATTIE MALANGA LIBERTINO LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2500
+"9824540","RENO DIAGNOSTIC CENTER","Health Services","Health","Health care services",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"16615805","TERRA WEST MANAGEMENT SERVICES","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"16620826","NEVADANS TO ELECT ANDERSON FOR ASSEMBLY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3400
+"20539966","WOLF RIFKIN SHAPIRO SCHULMAN & RABKIN LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"23440009","NEEMAN & MILLS PLLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"15685","SA RECYCLING","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",100,0,"#0000FFAF","#0000FFAF",3000
+"24718716","STEVE WOLFSON FOR DISTRICT ATTORNEY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4500
+"773","DELOITTE","Accountants","Finance, Insurance & Real Estate","Accountants",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"1797","MYLAN INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"9588","CHECK INTO CASH","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",4500
+"11115","CLARK COUNTY MEDICAL SOCIETY","Health Professionals","Health","Physicians",50,50,"#000000AF","#000000AF",2000
+"20539791","VIDLER WATER COMPANY INC","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",2500
+"20540241","VIDLER WATER CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"23439744","LIFE GUARD INTERNATIONAL INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"26837900","FIRSTSERVICE RESIDENTIAL NEVADA LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"5","3M CO","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"557","CHARTER COMMNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",65.3061224489796,34.6938775510204,"#00004DAF","#00004DAF",12250
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",50,50,"#000000AF","#000000AF",2000
+"11860","DISH NETWORK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",80,20,"#000099AF","#000099AF",5000
+"9687027","NEVADA MINERAL EXPLORATION COALITION","Mining","Energy & Natural Resources","Mining",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"9688296","RENO FIRE FIGHTERS LOCAL 731","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",1450
+"28090904","SNELL & WILMER LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"3807","GRANITE CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",2000
+"6691","EMPLOYERS INSURANCE CO OF NEVADA","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",4500
+"9704116","BHC HEALTH SERVICES OF NEVADA INC","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",2500
+"9736501","HERITAGE BANK OF NEVADA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",2500
+"15935088","MILLERCOORS","Beer, Wine & Liquor","General Business","Beer",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"16010523","RENO -SPARKS INDIAN COLONY","Uncoded","Uncoded","Uncoded",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"16601335","THE CHAMBER PAC","Business Associations","General Business","Chambers of commerce",0,100,"#FF0000AF","#FF0000AF",6000
+"23439604","BARLEY'S CASINO & BREWING COMPANY","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",2500
+"23439785","WILDFIRE CASINO & LANES","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"23440041","PEPPERMIL CASINOS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"23440076","RETAIL ASSOCIATION OF NEVADA","Uncoded","Uncoded","Uncoded",35.9358042792356,64.0641957207644,"#4D0000AF","#4D0000AF",2782.74
+"24717852","J & J MECHANICAL INC","Uncoded","Uncoded","Uncoded",12.5,87.5,"#C20000AF","#C20000AF",2000
+"16677834","ONENEVADA CREDIT UNION","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",84.6153846153846,15.3846153846154,"#0000ADAF","#0000ADAF",6500
+"2140","PURDUE PHARMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"5661","AHERN RENTALS","Miscellaneous Services","General Business","Equipment rental & leasing",0,100,"#FF0000AF","#FF0000AF",13500
+"12867","HMS HOLDINGS CORP","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",0,100,"#FF0000AF","#FF0000AF",1600
+"16017","SNELL & WILMER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",60,40,"#000033AF","#000033AF",2500
+"9706342","GRIFFIN COMMUNICATIONS GROUP","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"20539736","NEVADA DENTAL ASSICIATION","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"23440386","NEVADA ASSOCIATION SERVICES INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"24718169","NEVADA BUSINESS CENTER","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"27692273","NEVADA CHIROPRACTIC ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1950
+"526","CEMEX INC","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",50,50,"#000000AF","#000000AF",2000
+"13474118","MIDLAND CREDIT MANAGEMENT","Miscellaneous Finance","Finance, Insurance & Real Estate","Financial services & consulting",50,50,"#000000AF","#000000AF",2000
+"24820901","SNELL & WILMER","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"24820902","OMNI LIMOUSINE","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",2500
+"9701451","CHAPEL OF THE BELLS","Miscellaneous Services","General Business","Services",100,0,"#0000FFAF","#0000FFAF",1200
+"9701157","TERRA-GEN OPERATING CO","Miscellaneous Energy","Energy & Natural Resources","Power plant construction & equipment",52.2388059701493,47.7611940298507,"#00000AAF","#00000AAF",3350
+"26837709","TERRA-GEN OPERATING CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2100
+"24717756","BOULEVARD VENTURES LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2800
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",4500
+"24718247","RURAL E ADVOCATES","Uncoded","Uncoded","Uncoded",56,44,"#00001FAF","#00001FAF",6250
+"26837091","WOMEN'S DEMOCRATIC CLUB","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2850
+"9720895","CORE CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",2250
+"9749970","CRAGIN & PIKE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",0,100,"#FF0000AF","#FF0000AF",1250
+"26840206","NEVADA OPTOMETRIC ASSOCIATION","Uncoded","Uncoded","Uncoded",82.1428571428571,17.8571428571429,"#0000A3AF","#0000A3AF",7000
+"9687058","NEVADA RURAL ELECTRIC ASSOCIATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",3500
+"24717673","LAW OFFICES OF KEITH L LEE","Uncoded","Uncoded","Uncoded",77.2727272727273,22.7272727272727,"#00008AAF","#00008AAF",5500
+"9696551","MJM PROPERTIES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"15964506","NEVADA STATE APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",9.52380952380952,90.4761904761905,"#D10000AF","#D10000AF",5250
+"23440050","CAPITOL PARTNERS LLC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3750
+"15821735","PRIVATETRIALS.COM","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1750
+"26840115","PEACE OFFICERS RESEARCH ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1300
+"9766302","BARRETT ENTERPRISES GROUP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"16818","VEGAS WESTERN CAB","Miscellaneous Transport","Transportation","Taxicabs",100,0,"#0000FFAF","#0000FFAF",955
+"15961606","JIM MARSH AUTOMOTIVE","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",950
+"9702423","SIERRA STRATEGIES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1012
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",80,20,"#000099AF","#000099AF",7500
+"793","DIAGEO","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",80,20,"#000099AF","#000099AF",1250
+"2636","TRAVELERS COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",50,50,"#000000AF","#000000AF",1000
+"7991","NATIONAL ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",100,0,"#0000FFAF","#0000FFAF",800
+"2811268","TRANSPORT WORKERS UNION OF AMERICA / TWU","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",2000
+"9699269","NEVADA PETROLEUM MARKETERS & CONVENIENCE STORE ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"16673317","IMPAC","Business Associations","General Business","Chambers of commerce",42.0289855072464,57.9710144927536,"#290000AF","#290000AF",3450
+"28091179","HENDERSON PROFESSIONAL FIRE FIGHTERS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",14000
+"8052","NEVADA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"495686","ELECTRICAL WORKERS LOCAL 401","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",9000
+"13732933","KEMP JONES & COULTHARD","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"8069","NEVADA TRI PARTNERS","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",2500
+"9720966","NUCA OF LAS VEGAS","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",2500
+"9734622","CORRAO CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",750
+"9755867","SLETTEN CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1250
+"23440075","VIDLER WATER CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"23440383","AFFORDABLE CONCEPTS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"24356959","KOLESAR & LEATHAM, CHTD.","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"24717605","J&J MECHANICAL INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1750
+"24717761","DC BUILDING GROUP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"24717764","KEITH LEE LAW OFFICES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"24718250","SOUNDING BOARD, LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"26837542","FLIPPIN'S TRENCHING","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"26837547","CLARK COUNTY REPUBLICAN CENTRAL CMTE OF NEVADA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1000
+"40613804","MEDPAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",1150
+"9695267","LEAVITT GROUP BENEFITS SERVICES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"9695269","LEAVITT INSURANCE AGENCY","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",1000
+"9702519","NEVADA WILDLIFE COALITION","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"24718428","BARRETT INSURANCE SERVICES","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"24718431","SOUTHERN HIGHLANDS INVESTMENT PARTNERS LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",833
+"26837730","SOUTHERN NEVADA COALITION FOR WILDLIFE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2200.16
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",1100
+"4480284","SUNOVION","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",50,50,"#000000AF","#000000AF",1000
+"9687738","GEM CONSULTING","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",2500
+"9693487","FRIENDS FOR GERRI SCHRODER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1705
+"16615775","NEVADA HOMEOWNER ALLIANCE","Uncoded","Uncoded","Uncoded",44.4444444444444,22.2222222222222,"#1F0000AF","#00008AAF",2250
+"23440336","LANGFORD MCLETCHIE LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1025
+"23440390","COSMETIC SURGERY OF LAS VEGAS LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"24717744","NEEMAN & MILLS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"26837955","EQUISOURCE LLC","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",100,0,"#0000FFAF","#0000FFAF",1000
+"26837956","DAVID V THOMAS SOLE PROPRIETORSHIP DBA POLICY COMMUNICAITONS","Business Services","General Business","Political consultants & advisers",100,0,"#0000FFAF","#0000FFAF",2000
+"26837965","MATRIX NV LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"40617869","NEMPAC","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"4456688","AIR METHODS CORP","Health Services","Health","Health care services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"9689215","WILDAMAC CONSULTING LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",750
+"9711008","DE CASTROVERDE LAW GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",800
+"26840204","HANGOVER BAIL LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"24717895","BOULDER CITY DISPOSAL INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"16615786","PERSHING GOLD CORP","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"23439912","STEVEN T POLIKALAS, LTD","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",1000
+"23440886","MADDOX ISAACSON & CISNEROS LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"40617934","SIERRA MEDICAL","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"40618024","NAIFA NEVADA","Uncoded","Uncoded","Uncoded",35.5555555555556,64.4444444444444,"#4D0000AF","#4D0000AF",2250
+"26840183","SIERRA MEDICAL PAC - SIMPAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"8617","Q & D CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1350
+"9696522","SIERRA NEVADA CONSTRUCTION INC","General Contractors","Construction","Construction, unclassified",25,75,"#800000AF","#800000AF",1000
+"9696531","FRANK LEPORI CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",750
+"9698878","COLEMAN FAMILY TRUST","No Employer Listed or Found","Uncoded","No employer listed or discovered",0,100,"#FF0000AF","#FF0000AF",1700
+"9720269","ROAD & HIGHWAY BUILDERS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"9799394","LAW OFFICES OF KEITH LEE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"23439963","CORE CONSTRUCTION SERVICES OF NEVADA","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",1000
+"23439965","FRANK LEPORI CONSTRUCTION INC","Uncoded","Uncoded","Uncoded",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",650
+"23440033","COMMITTEE TO ELECT NEOMA JARDON","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"26837714","NEVADA SOCIETY OF CPA'S","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"8849","SELECT MANAGEMENT RESOURCES","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",1000
+"9701145","BLOMSTROM CONSULTING INC","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",1000
+"9710615","HENDERSON DEMOCRATIC CLUB","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1700
+"19449235","MKJ CONSULTING LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"9985","AMERICAN WIND ENERGY ASSOCIATION","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"14457","NEVADA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Accountants","Finance, Insurance & Real Estate","Accountants",44.8275862068966,55.1724137931034,"#1F0000AF","#1F0000AF",1450
+"9699310","DESIMONE TRUST","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"9710446","CANYON MEDICAL BILLING LLC","Uncoded","Uncoded","Uncoded",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",1200
+"9712976","SIERRA MEDICAL SERVICES LLC","Uncoded","Uncoded","Uncoded",65.5172413793103,34.4827586206897,"#00004DAF","#00004DAF",1450
+"9713166","CMTE TO ELECT LYNN STEWART","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",800
+"26840836","FRIENDS OF DEBRA MARCH","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"28451399","FOUNDATION FOR EXCELLENCE IN EDUCATION - REIMBURSEMENT","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1786.05
+"9811542","A N L V CAB COMPANY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",600
+"9729501","ROBERT W LUECK LTD","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",650
+"9729223","PITTS ORTHODONTICS LTD","Health Professionals","Health","Dentists",0,100,"#FF0000AF","#FF0000AF",700
+"9686917","LAS VEGAS LIMOUSINES","Miscellaneous Transport","Transportation","Taxicabs",100,0,"#0000FFAF","#0000FFAF",725
+"9685838","PARADISE DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",900
+"28091176","NEVADA PSYCHIATRIC ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1800
+"9727960","SIERRA STRATEGIES","Uncoded","Uncoded","Uncoded",60.9375,39.0625,"#000033AF","#000033AF",640
+"9714711","NEVADA FACULTY ALLIANCE PAC","Public Sector Unions","Labor","Teachers unions",86.7647058823529,13.2352941176471,"#0000B8AF","#0000B8AF",3400
+"24719345","ERNEST E. ADLER ATTORNEY AT LAW","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1750
+"24719041","CLIFF W MARCEK A PROFESSIONAL CORPORATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"9696201","RHP MECHANICAL SYSTEMS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"26837546","LIFETRANS, INC.","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"24820573","GC WALLACE INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"23440015","KEMP & KEMP ATTORNEYS AT LAW","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"26837957","NEEMAN & MILLS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"26837959","360 GLOBAL SCIENCES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"26837964","PREFERRED CHIROPRACTIC CLINICS JAMES T OVERLAND SR DC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"24717681","LAKE MEAD BOAT STORAGE, LP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",450
+"23440135","LAW OFFICES OF KURT A FRANKE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"26836951","FIRE FIGHTERS LOCAL 1265","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3250
+"9686057","WASHOE COUNTY REPUBLICAN CENTRAL CMTE OF NEVADA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",500
+"9697965","JENSEN PRECAST","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,100,"#FF0000AF","#FF0000AF",650
+"24717745","SPANISH SPRINGS ACCOCIATES, LP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"24718701","MADOLE CONSTRUCTION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",350
+"26840716","RENO TAHOE CONSTRUCTION INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"9756400","ADVANCE ORAL & MAXILLOFACIAL SURGERY","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",400
+"9710383","NEVADA FACULITY ALLIANCE","Public Sector Unions","Labor","Teachers unions",60,40,"#000033AF","#000033AF",500
+"29574669","ERGS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4955.77
+"16621116","COMMITTEE TO ELECT LYNN D STEWART","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",700
+"26837525","PEACE OFFICERS RESEARACH ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",300
+"26840108","PEACE OFFICERS RESEARCH ASSOCIATION OF NEVADA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5650
+"9698748","LAW OFFICES OF BRIAN D NETTLES INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",600
+"9686755","PAT HICKEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",225
+"26840618","COMMITTEE TO ELECT PAUL MCKENZIE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",350
+"26840667","VOICE COMMITTEE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"16088589","PATRICIA (PAT) SPEARMAN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",23000
+"20217","EDUCATION SUPPORT EMPLOYEES ASSOCIATION","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",20000
+"20154","NEVADA STATE AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",21032.5
+"9711308","LAW OFFICE OF BRIAN PADGETT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",9500
+"9747378","SOUTHERN NEVADA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",26655
+"8048","NEVADA CONSERVATION LEAGUE","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",17500
+"9689890","CMTE TO ELECT JAMES OHRENSCHALL","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",15250
+"6212","CASHMAN CAT EQUIPMENT CO","Building Materials & Equipment","Construction","Construction equipment",100,0,"#0000FFAF","#0000FFAF",11000
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",10000
+"26839558","NORTHERN NEVADA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",12000
+"1490","LAMAR CORPORATION","Business Services","General Business","Outdoor advertising services",100,0,"#0000FFAF","#0000FFAF",6250
+"9740523","MCDONALD CARANO WILSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",11000
+"2384","SIERRA PACIFIC POWER","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",6500
+"9700221","ATLANTIS CASINO RESORT SPA","Gambling & Casinos","General Business","Casinos, racetracks & gambling",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"9759916","LIBERTARIAN PARTY OF NEVADA","Party Committees","Party","Third-Party party committees",0,0,"#FF0000AF","#0000FFAF",2660
+"15634613","EMPRES HEALTHCARE MANAGEMENT","Uncoded","Uncoded","Uncoded",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",7000
+"6276","CIRCUS CIRCUS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",7.42308180625503,92.576918193745,"#DB0000AF","#DB0000AF",1890.32
+"9719902","POLICY COMMUNICATIONS","Business Services","General Business","Political consultants & advisers",100,0,"#0000FFAF","#0000FFAF",3750
+"780","DEMOCRACY FOR AMERICA","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",3480
+"8664","REPUBLIC ENVIRONMENTAL TECHNOLOGIES","Waste Management","Energy & Natural Resources","Waste management",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",4500
+"16334","T-MOBILE","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",100,0,"#0000FFAF","#0000FFAF",2000
+"27639199","LAS VEGAS CITY EMPLOYEES ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4500
+"24820596","SR CONSTRUCTION INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"9688571","BONANZA CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",50,50,"#000000AF","#000000AF",2000
+"27710041","NEVADA HOSPITAL ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"246","ASH GROVE CEMENT","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,100,"#FF0000AF","#FF0000AF",1500
+"9701394","WASHOE EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1500
+"16678277","HENDERSON CHAMBER OF COMMERCE - IMPAC","Business Associations","General Business","Chambers of commerce",60.4166666666667,39.5833333333333,"#000033AF","#000033AF",2400
+"24717547","FIRST LEASING INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",950
+"9707059","CMTE TO ELECT SHIRLEY BREEDEN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1075
+"2434","SOUTHWEST AIRLINES","Air Transport","Transportation","Airlines",50,50,"#000000AF","#000000AF",2000
+"9731296","WESTERN CAB CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"9702030","BENEFIT PLAN ADMINISTRATORS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750

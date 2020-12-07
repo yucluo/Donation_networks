@@ -1,0 +1,651 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"4905","OHIO HOUSE REPUBLICAN CAMPAIGN CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",5740003.43
+"4909","OHIO DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2640887.21
+"4908","HOUSE DEMOCRATIC CAUCUS FUND OF OHIO","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1001601.49
+"4906","OHIO REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1809540.26
+"2960","OHIO STATE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",94.4679466319557,5.53205336804426,"#0000E0AF","#0000E0AF",153650
+"20256","OHIO EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",93.658914642627,4.15348935273034,"#0000DBAF","#0000E5AF",475628.04
+"19239","OHIO FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",228643
+"3096","OHIO NURSES ASSOCIATION","General Trade Unions","Labor","Health worker unions",67.7481868964278,32.2518131035722,"#000057AF","#000057AF",141387.4
+"11035104","OHIO STATE ASSOCIATION OF PLUMBERS","General Trade Unions","Labor","Construction unions",98.2949028108811,1.70509718911887,"#0000F5AF","#0000F5AF",351886.1
+"9538400","SEIU DISTRICT 1199 WKO","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",156973
+"19166","OHIO ASSOCIATION OF PUBLIC SCHOOL EMPLOYEES","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",198629
+"3728","FIRSTENERGY CORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",29.9559471365639,70.0440528634361,"#6B0000AF","#6B0000AF",227000
+"1816235","DEMOCRATIC LEGISLATION CAMPAIGN CMTE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",47631.1
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",99.8649288411367,0.135071158863268,"#0000FAAF","#0000FAAF",222105.15
+"2612","TIME WARNER CABLE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",16.6396724911095,83.3603275088905,"#AD0000AF","#AD0000AF",119593.7
+"3223","WHOLESALE BEER & WINE ASSOCIATION OF OHIO","Beer, Wine & Liquor","General Business","Liquor wholesalers",19.7040915641198,80.2959084358802,"#9E0000AF","#9E0000AF",265082
+"9613","OHIO FARMERS INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",11.3876496830242,88.6123503169758,"#C70000AF","#C70000AF",42590
+"1892","NISOURCE INC","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",10.6666666666667,89.3333333333333,"#CC0000AF","#CC0000AF",71250
+"4451","OHIO ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",21.7319877962919,78.2680122037081,"#940000AF","#940000AF",213050
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",9.3841642228739,90.6158357771261,"#D10000AF","#D10000AF",51150
+"3479","DOMINION","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",10,90,"#CC0000AF","#D10000AF",41000
+"130","AMERICAN ELECTRIC POWER","Electric Utilities","Energy & Natural Resources","Electric power utilities",13.6363636363636,86.3636363636364,"#BD0000AF","#BD0000AF",88000
+"3471","OHIO DENTAL ASSOCIATION","Health Professionals","Health","Dentists",17.3943173943174,82.6056826056826,"#A80000AF","#A80000AF",144300
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",98.372293836772,1.627706163228,"#0000F5AF","#0000F5AF",24574.46
+"453","CALFEE HALTER & GRISWOLD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",18.0836707152497,81.9163292847503,"#A30000AF","#A30000AF",37050
+"19501","OHIO ASSOCIATION OF PROFESSIONAL FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",97.6635514018692,2.33644859813084,"#0000F0AF","#0000F0AF",42800
+"8273","OHIO OIL & GAS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Oil & gas",0.391964231539229,99.6080357684608,"#FF0000AF","#FF0000AF",127562.66
+"18706","OHIO RURAL ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",10.8713029576339,89.1286970423661,"#CC0000AF","#CC0000AF",62550
+"4159","OHIO SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",18.2848201964851,81.7151798035149,"#A30000AF","#A30000AF",87917.08
+"7135","HUNTINGTON BANCSHARES","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",30.2699597932223,69.7300402067777,"#660000AF","#660000AF",87050
+"4074","OHIO STATE MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",17.5683212493028,82.4316787506972,"#A80000AF","#A80000AF",89650
+"19111","AFSCME OHIO COUNCIL 8","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",42793.7
+"218575","PLUMBERS & STEAMFITTERS LOCAL 50","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",26500.43
+"19168","OHIO CIVIL SERVICE EMPLOYEES LOCAL 11","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",189002.55
+"856","DUKE ENERGY","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",24.5762711864407,75.4237288135593,"#850000AF","#850000AF",59000
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",3.2258064516129,96.7741935483871,"#F00000AF","#F00000AF",31000
+"3394","CHESAPEAKE ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",1.11234705228031,98.8876529477197,"#FA0000AF","#FA0000AF",89900
+"3625","OHIO FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",29.51821386604,70.48178613396,"#6B0000AF","#6B0000AF",106375
+"19703","ELECTRICAL WORKERS LOCAL 8","General Trade Unions","Labor","Electrical workers/IBEW",99.1152008494072,0.884799150592815,"#0000FAAF","#0000FAAF",28255
+"6855","OHIO HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",13.828867761452,86.171132238548,"#BD0000AF","#BD0000AF",57850
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",10.5691056910569,89.4308943089431,"#CC0000AF","#CC0000AF",24600
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",18.018018018018,81.981981981982,"#A30000AF","#A30000AF",55500
+"20725","OHIO STATE AUTO WORKERS","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",97655.9
+"2596176","FRIENDS OF JAY GOYAL","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",12143.7
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",273155.5
+"2596878","JENNIFER GARRISON FOR OHIO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",21043.7
+"16062160","OHIO USA PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",11793.7
+"20591","PLUMBERS PIPEFITTERS & MECHANICAL EQUIPMENT SERVICE LOCAL 392","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",26500
+"585385","INTERNATIONAL ASSOCIATION OF BRIDGE STRUCTURAL ORNAMENTAL & REINFORCING IRON WORKERS","General Trade Unions","Labor","Construction unions",91.1764705882353,8.82352941176471,"#0000D1AF","#0000D1AF",17000
+"4209","OHIO OPTOMETRY ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",8.99184656561071,91.0081534343893,"#D60000AF","#D60000AF",72565.74
+"9071","SUMMIT COUNTY REPUBLICAN REPUBLICAN PARTY OF OHIO","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",11750
+"19692","ELECTRICAL WORKERS LOCAL 683","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",49850
+"2596119","FRIENDS OF MATT SZOLLOSI","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",12550
+"17056","WELLPOINT INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",31.8471337579618,68.1528662420382,"#610000AF","#610000AF",39250
+"2688495","ASSOCIATED FOOD & PETROLEUM DEALERS OF OHIO","Oil & Gas","Energy & Natural Resources","Gasoline service stations",0,100,"#FF0000AF","#FF0000AF",14350
+"20486","SHEET METAL WORKERS LOCAL 33 AKRON DISTRICT","General Trade Unions","Labor","Construction unions",70.1853344077357,29.8146655922643,"#000066AF","#000066AF",62050
+"3382638","OHIO ASSOCIATION FOR JUSTICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",86.9739478957916,13.0260521042084,"#0000B8AF","#0000B8AF",74850
+"3189","OHIO AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",11.8941751889729,88.1058248110271,"#C70000AF","#C70000AF",89960
+"9394","VORYS SATER SEYMOUR & PEASE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",31.832298136646,68.167701863354,"#610000AF","#610000AF",64400
+"14693","OHIO COIN MACHINE ASSOCIATION","Retail Sales","General Business","Vending machine sales & services",3.92156862745098,96.078431372549,"#F00000AF","#F00000AF",12750
+"14712","OHIO STATE CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",1.63934426229508,98.3606557377049,"#FA0000AF","#FA0000AF",15250
+"2662747","ELECTRICAL WORKERS LOCAL 540","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",15900
+"4350","UNITED ASSOCIATION OF JOURNEYMEN & APPRENTICES OF THE PLUMBING & PIPE FITTING INDUSTRY OF THE UNITED STATES & CANADA / UA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",106000
+"489","CARDINAL HEALTH","Health Services","Health","Health care services",20.7920792079208,79.2079207920792,"#990000AF","#990000AF",50500
+"3830","OHIO HOME BUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",9.03405142460042,90.9659485753996,"#D10000AF","#D10000AF",35975
+"6069","BRICKER & ECKLER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",28.3412322274881,71.6587677725119,"#700000AF","#700000AF",52750
+"217849","IRONWORKERS LOCAL 55","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",19350
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",14000
+"2626826","OHIO COMMUNICATIONS WORKERS","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",47619.45
+"169212","MCDONALD HOPKINS LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",6.39032815198618,93.6096718480138,"#E00000AF","#E00000AF",28950
+"2836014","FRIENDS OF DEBBIE PHILLIPS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",13996.85
+"20833","NORTHWESTERN OHIO REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",35250
+"8271","OHIO COAL ASSOCIATION","Mining","Energy & Natural Resources","Coal mining",0.704225352112676,99.2957746478873,"#FF0000AF","#FF0000AF",49700
+"19639","ELECTRICAL WORKERS LOCAL 246","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",20500
+"14703","OHIO LEGISLATIVE BLACK CAUCUS","Minority & Disability Groups","Ideology/Single Issue","Minority & ethnic groups",100,0,"#0000FFAF","#0000FFAF",15500
+"20090","LIMA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",16000
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",14.0350877192982,85.9649122807018,"#B80000AF","#B80000AF",28500
+"2269","RPM INTERNATIONAL","Chemical & Related Manufacturing","General Business","Paints, solvents & coatings",0,100,"#FF0000AF","#FF0000AF",9000
+"1020","UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION / UFCW","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",23000
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",19500
+"1864","NATIONWIDE MUTUAL INSURANCE CO","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",22.8070175438596,77.1929824561403,"#8F0000AF","#8F0000AF",114000
+"5344","OHIO CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",42.100725626841,57.899274373159,"#290000AF","#290000AF",139190
+"2598657","JOHN P CARNEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",31472.06
+"2612161","OHIO OSTEOPATHIC ASSOCIATION","Health Professionals","Health","Physicians",18.5444373520105,81.4555626479895,"#A30000AF","#A30000AF",15368.49
+"2596555","FRIENDS OF NICKIE J ANTONIO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",8100
+"19590","BOILERMAKERS LOCAL 85","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",8300
+"14714","OHIO TRUCKING ASSOCIATION","Trucking","Transportation","Trucking companies & services",8.73417721518987,91.2658227848101,"#D60000AF","#D60000AF",39500
+"20464","COLUMBUS SHEET METAL WORKERS LOCAL 24","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",15882
+"2665456","OHIO ASSOCIATION OF PHYSICIAN ASSISTANTS","Health Professionals","Health","Other non-physician health practitioners",9.61538461538462,90.3846153846154,"#D10000AF","#D10000AF",13000
+"2803938","OHIO PRO-LIFE PAC","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",6962.52
+"2601394","TIBERI FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",10992.37
+"2087","POLYONE CORP","Chemical & Related Manufacturing","General Business","Plastics & rubber processing and products",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",7500
+"10986","OHIO RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",14.2800476001587,85.7199523998413,"#B80000AF","#B80000AF",25210
+"15237","PROFESSIONAL INDEPENDENT AGENTS ASSOCIATION OF OHIO","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",9.6,90.4,"#D10000AF","#D10000AF",18750
+"2597013","DENISE DRIEHAUS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",14250
+"395","BOWLING PROPRIETORS ASSOCIATION OF OHIO","Recreation & Live Entertainment","General Business","Amusement & recreation centers",4.48717948717949,95.5128205128205,"#EB0000AF","#EB0000AF",7800
+"14644","NORTHWEST OHIO BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9200
+"24995688","SUMMIT COUNTY PROGRESSIVE DEMOCRATS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",16500
+"20939","STEELWORKERS DISTRICT 1","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",27750
+"2824252","CITIZENS WITH FEDOR CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",8800
+"2854925","SHEET METAL WORKERS LOCAL 33 TOLEDO DISTRICT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",7300
+"33","ADVANCE AMERICA CASH ADVANCE CENTERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",6000
+"978","FIFTH THIRD BANCORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",7.91139240506329,92.0886075949367,"#DB0000AF","#DB0000AF",15800
+"1137","GRANGE MUTUAL CASUALTY","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",17.8041543026706,82.1958456973294,"#A80000AF","#A80000AF",16850
+"2597406","FRIENDS OF BOB HAGAN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",6450
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",2.26518420931027,97.7348157906897,"#F50000AF","#F50000AF",33109.89
+"2640588","NEWARK FIRE FIGHTERS LOCAL 109","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",7272.5
+"2636144","OHIO KENTUCKY ADMINISTRATIVE DISTRICT COUNCIL OF BRICKLAYERS & ALLIED CRAFTWORKERS","General Trade Unions","Labor","Construction unions",66.4346096469418,33.5653903530582,"#000052AF","#000052AF",40220
+"20540","PLUMBERS & PIPEFITTERS LOCAL 120","General Trade Unions","Labor","Construction unions",85.1190476190476,14.8809523809524,"#0000B3AF","#0000B3AF",16800
+"20002","LABORERS DISTRICT COUNCIL OF OHIO","General Trade Unions","Labor","Construction unions",50.3355704697987,49.6644295302013,"#000000AF","#000000AF",29800
+"2596109","COLUMBUS EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",27000
+"2596498","COLUMBUS FIRE FIGHTERS LOCAL 67","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",18000
+"2362","SHEET METAL WORKERS","General Trade Unions","Labor","Construction unions",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",7500
+"16756668","NW OH REGIONAL COUNCIL OF CARPENTERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",8500
+"1025","FORD MOTOR CO","Automotive","Transportation","Auto manufacturers",19.327731092437,80.672268907563,"#9E0000AF","#9E0000AF",29750
+"2079396","OPERATING ENGINEERS LOCAL 18","General Trade Unions","Labor","Construction unions",30.3892215568862,69.6107784431138,"#660000AF","#660000AF",60120
+"904","EMILYS LIST","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",10000
+"20866","FOOD & COMMERCIAL WORKERS LOCAL 1059","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",10500
+"2420396","TRUCK DRIVERS CHAUFFEURS & HELPERS LOCAL 100","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",7250
+"20161","OHIO AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",31035.28
+"2617949","STERIS CORP","Pharmaceuticals & Health Products","Health","Health care products",7.04225352112676,92.9577464788732,"#DB0000AF","#DB0000AF",7100
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",9.67741935483871,90.3225806451613,"#D10000AF","#D10000AF",15500
+"1183","HALLIBURTON CO","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",0,100,"#FF0000AF","#FF0000AF",9000
+"4697","TIMKEN CO","Steel","Energy & Natural Resources","Steel manufacturing",0,100,"#FF0000AF","#FF0000AF",31500
+"8272","OHIO LAND TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",17.8378378378378,82.1621621621622,"#A80000AF","#A80000AF",18500
+"18895","OHIO HEALTH CARE ASSOCIATION / OHIO CENTERS FOR ASSISTED LIVING","Hospitals & Nursing Homes","Health","Nursing homes",1.75438596491228,98.2456140350877,"#FA0000AF","#FA0000AF",28500
+"1269570","INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES / IUPAT","General Trade Unions","Labor","Construction unions",65.8536585365854,34.1463414634146,"#00004DAF","#00004DAF",20500
+"17313","OHIO CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",0,100,"#FF0000AF","#FF0000AF",18250
+"10701104","STRATEGIC PUBLIC PARTNERS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",15100
+"12065875","OHIO BANKERS LEAGUE","Uncoded","Uncoded","Uncoded",8.24053452115813,91.7594654788419,"#D60000AF","#D60000AF",22450
+"20036","LABORERS LOCAL 265","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",13750
+"1433","KEYCORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",22950
+"14690","OHIO ASSOCIATION OF HEALTH UNDERWRITERS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",9.87781769560821,90.1221823043918,"#D10000AF","#D10000AF",18966.74
+"2609140","STAY FOCUSED INSURANCE ASSOCIATES","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",3.7037037037037,96.2962962962963,"#F00000AF","#F00000AF",6750
+"577982","PAINTERS & ALLIED TRADES UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5000
+"2838632","GOP GOLF CMTE","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",4550
+"3676351","OHIO GUN","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",5694.98
+"19070","ASSOCIATION OF OHIO LIFE INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Life insurance",14.6245059288538,85.3754940711462,"#B80000AF","#B80000AF",12650
+"1725","MICROSOFT","Computer Equipment & Services","Communications & Electronics","Computer software",20,80,"#990000AF","#9E0000AF",10000
+"2787357","OHIO ASSOCIATION OF COUNTY BEHAVIORAL HEALTH AUTHORITIES","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",6000
+"11567","DAYTON POWER & LIGHT","Electric Utilities","Energy & Natural Resources","Electric power utilities",4.78359908883827,95.2164009111617,"#EB0000AF","#EB0000AF",21950
+"1835","NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION / NECA","Special Trade Contractors","Construction","Electrical contractors",100,0,"#0000FFAF","#0000FFAF",4500
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",28.537170263789,71.462829736211,"#700000AF","#700000AF",20850
+"14089","MEDICAL MUTUAL OF OHIO","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",11.9718309859155,88.0281690140845,"#C70000AF","#C70000AF",7100
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",7.40740740740741,92.5925925925926,"#DB0000AF","#DB0000AF",6750
+"18589","ASSOCIATED GENERAL CONTRACTORS OF OHIO","General Contractors","Construction","Builders associations",5.75539568345324,94.2446043165468,"#E60000AF","#E60000AF",13900
+"2664002","LABORERS LOCAL 758","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5675
+"3984187","OHIO CONTRACTORS","General Contractors","Construction","Builders associations",20.1535508637236,79.8464491362764,"#990000AF","#990000AF",52100
+"20078","LABORERS LOCAL 860","General Trade Unions","Labor","Construction unions",87.029831387808,12.970168612192,"#0000BDAF","#0000BDAF",7710
+"43672410","OHIO PEST CONTROL ASSOCOCIATION -OCAPAC","Uncoded","Uncoded","Uncoded",4.27350427350427,95.7264957264957,"#EB0000AF","#EB0000AF",5850
+"2113","PROCTER & GAMBLE","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",24.3243243243243,75.6756756756757,"#850000AF","#850000AF",18500
+"217833","HEAT & FROST INSULATORS LOCAL 45","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",7100
+"21","ACE CASH EXPRESS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",24.0206947524021,75.9793052475979,"#850000AF","#850000AF",13530
+"1089","GENESEE & WYOMING","Railroads","Energy & Natural Resources","Railroads",0,100,"#FF0000AF","#FF0000AF",4000
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",26.219512195122,73.780487804878,"#7A0000AF","#7A0000AF",41000
+"1917","NUCOR CORP","Steel","Energy & Natural Resources","Steel manufacturing",0,100,"#FF0000AF","#FF0000AF",4000
+"2325","SCHOTTENSTEIN ZOX & DUNN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",21.8181818181818,78.1818181818182,"#940000AF","#940000AF",30250
+"2719","US STEEL CORP","Steel","Energy & Natural Resources","Steel manufacturing",0,100,"#FF0000AF","#FF0000AF",7500
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",20.5194805194805,79.4805194805195,"#990000AF","#990000AF",19250
+"8275","OHIO STATE BAR ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",46.0820895522388,53.9179104477612,"#140000AF","#140000AF",26800
+"15923","SHELLY PAC","General Contractors","Construction","Construction, unclassified",14.0845070422535,85.9154929577465,"#B80000AF","#B80000AF",7100
+"2787870","AMERICAN FEDERATION FOR CHILDREN ACTION FUND","Public Education Policy","Ideology/Single Issue","School Choice Advocates",20.9272903177793,79.0727096822207,"#990000AF","#990000AF",5374.8
+"2812804","WESTERN RESERVE CONSERVATION EDUCATION FUND","Uncoded","Uncoded","Uncoded",39.2004863961088,60.7995136038912,"#380000AF","#380000AF",6579
+"2828790","TEAMSTERS LOCAL 413","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",6500
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",29.193109700816,70.806890299184,"#6B0000AF","#6B0000AF",27575
+"39400244","OHIO ASSOCIATION OF PROFESSIONAL FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",6773.7
+"24775359","STERIS CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5750
+"14341","MOTORISTS MUTUAL INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",11200
+"2659344","BUCKEYE FIREARMS ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",7.66619209287044,92.3338079071296,"#DB0000AF","#DB0000AF",9131
+"29355252","COMMITTEE TO ELECT JAMES R GILLS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4365
+"43672409","OHIO FUNERAL DIRECTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",13.2231404958678,86.7768595041322,"#BD0000AF","#BD0000AF",12100
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",24.8,75.2,"#850000AF","#850000AF",25000
+"19352","OHIO STATE FRATERNAL ORDER OF POLICE","Public Sector Unions","Labor","Police & fire fighters unions and associations",62.8457370972341,37.1542629027659,"#00003DAF","#00003DAF",17535
+"20052","LABORERS LOCAL 423","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5000
+"2593376","AKRON EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",7000
+"20569","PLUMBERS & PIPEFITTERS LOCAL 189","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",13700
+"14687","OHIO AGGREGATES & INDUSTRIAL MINERALS ASSOCIATION","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",0,100,"#FF0000AF","#FF0000AF",18875
+"2787397","OHIOAGEPAC","Uncoded","Uncoded","Uncoded",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",8500
+"17229","WORTHINGTON INDUSTRIES","Steel","Energy & Natural Resources","Steel manufacturing",0,100,"#FF0000AF","#FF0000AF",5500
+"2792802","OHIO HOTEL & LODGING ASSOCIATION","Lodging & Tourism","General Business","Hotels & motels",18.1102362204724,81.8897637795276,"#A30000AF","#A30000AF",6350
+"8331868","SMART","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",9850
+"2803088","PENGUIN PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",4750
+"1713","METROPOLITAN LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",4000
+"2449","SQUIRE SANDERS & DEMPSEY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",39.3700787401575,60.6299212598425,"#380000AF","#380000AF",6350
+"2601010","BUCKEYE COMMUNITY HEALTH PLAN","Health Services","Health","HMOs",3.97350993377483,96.0264900662252,"#F00000AF","#F00000AF",15100
+"14711","OHIO SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",15000
+"14695","OHIO COUNCIL OF RETAIL MERCHANTS","Retail Sales","General Business","Retail trade",9.98106583353242,90.0189341664676,"#D10000AF","#D10000AF",25868.58
+"24815125","ASSOCIATED BUILDERS & CONTRACTORS OHIO VALLEY","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",6150
+"2802541","LATOURETTE FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4750
+"2612745","BUCKEYE PATRIOT PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",11275
+"8274","OHIO PROVIDER RESOURCE ASSOCIATION","Health & Welfare Policy","Ideology/Single Issue","Health & welfare policy",10.990990990991,89.009009009009,"#CC0000AF","#CC0000AF",27750
+"586096","CHECKSMART FINANCIAL CO","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",31.9348192545421,68.065180745458,"#610000AF","#610000AF",26695
+"14701","OHIO INSURANCE INSTITUTE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",19.9233716475096,80.0766283524904,"#9E0000AF","#9E0000AF",13050
+"1739","UNITED MINE WORKERS OF AMERICA / UMWA","General Trade Unions","Labor","Mining unions",100,0,"#0000FFAF","#0000FFAF",9500
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",0,100,"#FF0000AF","#FF0000AF",10000
+"40618655","GREATER CLEVELAND PARTNERSHIP","Uncoded","Uncoded","Uncoded",48.3221476510067,51.6778523489933,"#0A0000AF","#0A0000AF",7450
+"2710","UPS","Air Transport","Transportation","Express delivery services",18.8470066518847,81.1529933481153,"#A30000AF","#A30000AF",22550
+"18826","PLANNED PARENTHOOD OF OHIO","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",7500
+"19810","TEAMSTERS LOCAL 407","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",4700
+"2794083","NURSERY & LANDSCAPE PAC","Special Trade Contractors","Construction","Landscaping & excavation services",3.80228136882129,96.1977186311787,"#F00000AF","#F00000AF",13150
+"19391","IRONWORKERS LOCAL 172","General Trade Unions","Labor","Construction unions",86.9281045751634,13.0718954248366,"#0000B8AF","#0000B8AF",7650
+"2634535","CARPENTERS & JOINERS LOCAL 2","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5750
+"2835787","CINCINNATI WOMENS POLITICAL CAUCUS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"19747","OHIO CONFERENCE OF TEAMSTERS","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",6750
+"20792","CARPENTERS & JOINERS UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4500
+"22105411","MECHANICAL CONTRACTORS ASSOCIATION OF OHIO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",10600
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",17.3622704507513,82.6377295492487,"#A80000AF","#A80000AF",29950
+"12102548","PATRIOT WATER TREATMENT","Waste Management","Energy & Natural Resources","Waste management",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",5500
+"247","ASHLAND INC","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",0,100,"#FF0000AF","#FF0000AF",5500
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",17.5700934579439,82.4299065420561,"#A80000AF","#A80000AF",26750
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",28,72,"#700000AF","#700000AF",6250
+"14692","OHIO BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",14.8867313915858,85.1132686084142,"#B80000AF","#B80000AF",30900
+"14705","OHIO OPHTHALMOLOGICAL SOCIETY","Health Professionals","Health","Optometrists & ophthalmologists",11.9047619047619,88.0952380952381,"#C70000AF","#C70000AF",12600
+"15833","SCOTTS MIRACLE-GRO CO","Agricultural Services & Products","Agriculture","Agricultural chemicals (fertilizers & pesticides)",20.952380952381,79.0476190476191,"#990000AF","#990000AF",5250
+"2596928","OHIO PHARMACISTS ASSOCIATION","Health Professionals","Health","Pharmacists",4.33070866141732,95.6692913385827,"#EB0000AF","#EB0000AF",12700
+"2600142","STRATEGIC PUBLIC PARTNERS INC","Business Services","General Business","Political consultants & advisers",0,100,"#FF0000AF","#FF0000AF",4000
+"2794866","OHIO PAC FOR DEVELOPMENTAL DISABILITIES","Uncoded","Uncoded","Uncoded",5.26315789473684,94.7368421052632,"#E60000AF","#E60000AF",4750
+"2975355","ALLIED CLUBS PAC","Nonprofit Institutions","Government Agencies/Education/Other","Nonprofit foundations",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"12065069","OHIO STATE FARM AGENTS & ASSOCIATES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",10.3298501825507,89.6701498174493,"#CC0000AF","#CC0000AF",31772
+"15797525","OHIO VETERINARY MEDICAL ASSOCIATION-VETERINARY","Uncoded","Uncoded","Uncoded",3.87096774193548,96.1290322580645,"#F00000AF","#F00000AF",7750
+"18921068","COMMUNITY BANKERS ASSOCIATION OF OHIO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4205
+"27702344","OHIO COUNCIL FOR HOME CARE & HOSPICE","Uncoded","Uncoded","Uncoded",12.1546961325967,87.8453038674033,"#C20000AF","#C20000AF",9050
+"1811","NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",12.9032258064516,87.0967741935484,"#C20000AF","#C20000AF",7750
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",7.2992700729927,92.7007299270073,"#DB0000AF","#DB0000AF",34250
+"20803","INDIANA KENTUCKY OHIO REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",47.4025974025974,52.5974025974026,"#0F0000AF","#0F0000AF",15400
+"2597427","STINZIANO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5250
+"19445115","AK STEEL CORPORATION","Steel","Energy & Natural Resources","Steel manufacturing",0,100,"#FF0000AF","#FF0000AF",6500
+"3969749","FOOD & COMMERCIAL WORKERS LOCAL 880","General Trade Unions","Labor","Labor unions",84.8408287013643,15.1591712986357,"#0000ADAF","#0000ADAF",9895
+"20576","PLUMBERS & PIPEFITTERS LOCAL 55","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9295
+"2551","TAFT STETTINIUS & HOLLISTER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",14.3192488262911,85.6807511737089,"#B80000AF","#B80000AF",21300
+"1965","OWENS-ILLINOIS","Miscellaneous Manufacturing & Distributing","General Business","Glass products",0,100,"#FF0000AF","#FF0000AF",5750
+"119","AMERICAN COLLEGE OF EMERGENCY PHYSICIANS","Health Professionals","Health","Other physician specialists",11.3528009535161,88.6471990464839,"#C70000AF","#C70000AF",13424
+"2790275","COMMUNICATIONS WORKERS LOCAL 4319","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",3105
+"13389","KEGLER BROWN HILL & RITTER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",31.6770186335404,68.3229813664596,"#610000AF","#610000AF",16100
+"12096755","OHIO IRONWORKERS ASSOCIATION","General Trade Unions","Labor","Construction unions",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",12000
+"3377007","LABORERS UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",7300
+"2641547","EAST CENTRAL OHIO BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4250
+"2803073","CITIZENS FOR SAYRE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2100
+"2080","PNC FINANCIAL SERVICES","Banks & Lending Institutions","Finance, Insurance & Real Estate","Banks & lending institutions",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",3750
+"2638402","OHIO GUN COLLECTORS ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",5000
+"289","BAKER & HOSTETLER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",16.9902912621359,83.0097087378641,"#AD0000AF","#AD0000AF",10300
+"328","BAXTER HEALTHCARE","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",0,100,"#FF0000AF","#FF0000AF",5000
+"1084","GENERAL ELECTRIC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",29.4117647058824,70.5882352941177,"#6B0000AF","#6B0000AF",8500
+"11852","EATON CORPORATION PUBLIC POLICY ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3750
+"7746","MEIJER INC","Retail Sales","General Business","Department, variety & convenience stores",21.7391304347826,78.2608695652174,"#940000AF","#940000AF",11500
+"2828362","COLUMBUS MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",26.6666666666667,73.3333333333333,"#7A0000AF","#7A0000AF",3750
+"10680063","STATE AUTO INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",15.8823529411765,84.1176470588235,"#B30000AF","#B30000AF",8500
+"39400157","DP&L EMPLOYEES FUND FOR RESPONSIBLE CITIZENSHIP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",14900
+"2624341","CINCINNATI SHEET METAL WORKERS LOCAL 24","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6850
+"2598182","FOOD & COMMERCIAL WORKERS LOCAL 75","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",4500
+"191","AMERIGROUP CORPORATION","Health Services","Health","HMOs",3.60824742268041,96.3917525773196,"#F00000AF","#F00000AF",9700
+"1277","HUMANA","Health Services","Health","HMOs",37.037037037037,62.962962962963,"#420000AF","#420000AF",20250
+"3406","CONTINENTAL CASUALTY DBA CNA INSURANCE CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",5.55555555555556,94.4444444444444,"#E60000AF","#E60000AF",9000
+"1569","INTERNATIONAL LONGSHOREMENS ASSOCIATION / ILA","Transportation Unions","Labor","Merchant marine & longshoremen unions",100,0,"#0000FFAF","#0000FFAF",7300
+"127","AMERICAN COUNCIL OF LIFE INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",3000
+"193","AMERISOURCEBERGEN CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical wholesale",32.6086956521739,67.3913043478261,"#5C0000AF","#5C0000AF",11500
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",31.6666666666667,68.3333333333333,"#610000AF","#610000AF",24000
+"735","CSX TRANSPORTATION","Railroads","Energy & Natural Resources","Railroads",27.027027027027,72.972972972973,"#750000AF","#750000AF",9250
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",9000
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",13.2075471698113,86.7924528301887,"#BD0000AF","#BD0000AF",13250
+"2189","RELX GROUP","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",0,100,"#FF0000AF","#FF0000AF",3000
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",0,100,"#FF0000AF","#FF0000AF",7250
+"4157","OHIO ACADEMY OF NURSING HOMES","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",4500
+"6940","GOODRICH CORP","Air Transport","Transportation","Aircraft manufacturers",0,100,"#FF0000AF","#FF0000AF",3000
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",17.1875,82.8125,"#A80000AF","#A80000AF",16000
+"11989","ERIE INDEMNITY CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",4500
+"17092","WESTON HURD FALLON PAISLEY & HOWLEY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",32.1212121212121,67.8787878787879,"#5C0000AF","#5C0000AF",8250
+"2605928","HULL PAC","Construction Services","Construction","Engineering, architecture & construction management services",5.05050505050505,94.9494949494949,"#E60000AF","#E60000AF",4950
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",39.3518518518519,60.6481481481482,"#380000AF","#380000AF",10800
+"8157269","MOTOROLA SOLUTIONS","Telecom Services & Equipment","Communications & Electronics","Telephone & communications equipment",6.94444444444444,93.0555555555556,"#E00000AF","#E00000AF",3600
+"40618508","POLICE & FIRE RETIREES OF OHIO","Uncoded","Uncoded","Uncoded",18.2825484764543,81.7174515235457,"#A30000AF","#A30000AF",18050
+"43672412","OHIO WHOLESALE MARKETERS ASSOCIATION","Uncoded","Uncoded","Uncoded",10.2803738317757,89.7196261682243,"#CC0000AF","#CC0000AF",10700
+"2599640","SHELBY COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",4000
+"2596766","GINTHER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3000
+"2601374","STIVERS FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4000
+"16059533","CCG PAC","Uncoded","Uncoded","Uncoded",62.5,37.5,"#00003DAF","#00003DAF",4000
+"15249","PROGRESSIVE MAJORITY","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",3547.8
+"12100803","OHIO NURSERY & LANDSCAPE ASSOCIATION","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3600
+"6252","CHESTER WILLCOX & SAXBE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",9.53645213463945,90.4635478653606,"#D10000AF","#D10000AF",2621.52
+"15202","PREMIER HEALTH CARE SERVICES","Health Services","Health","Health care services",21.0659898477157,78.9340101522843,"#940000AF","#940000AF",19700
+"2009","PENN NATIONAL GAMING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",63.3333333333333,36.6666666666667,"#000042AF","#000042AF",4500
+"5","3M CO","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",0,100,"#FF0000AF","#FF0000AF",2000
+"20026327","LNE GROUP LLC","Uncoded","Uncoded","Uncoded",2.77777777777778,97.2222222222222,"#F50000AF","#F50000AF",3600
+"2597827","OHIO STATE CORONERS ASSOCIATION","Civil Servants/Public Officials","Government Agencies/Education/Other","Municipal & county government organizations",6.87022900763359,93.1297709923664,"#E00000AF","#E00000AF",6550
+"6486","CUYAHOGA COUNTY REPUBLICAN CENTRAL CMTE OF OHIO","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",4150
+"354962","CINCINNATI FIRE FIGHTERS LOCAL 48","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",4200
+"2880","WINDSTREAM COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",21.2765957446809,78.7234042553192,"#940000AF","#940000AF",4700
+"17321","NATIONAL CONSTRUCTION EMPLOYERS ASSOCIATION","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",6050
+"12096787","HICKS PARTNERS LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",3.44827586206897,96.551724137931,"#F00000AF","#F00000AF",7250
+"2653325","LICKING COUNTY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2400
+"19290","COLUMBUS CENTRAL OHIO BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4150
+"24585700","CINCINNATI BELL INC FEDERAL","Uncoded","Uncoded","Uncoded",36.8421052631579,63.1578947368421,"#470000AF","#470000AF",10450
+"115571","CARESOURCE MANAGEMENT SERVICES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",14.6341463414634,85.3658536585366,"#B80000AF","#B80000AF",10250
+"18923239","OHIO PHYSICAL THERAPY ASSOCIATION","Uncoded","Uncoded","Uncoded",11.9047619047619,88.0952380952381,"#C70000AF","#C70000AF",4200
+"40619801","NAIFA-OHIO","Uncoded","Uncoded","Uncoded",15.5844155844156,84.4155844155844,"#B30000AF","#B30000AF",7700
+"3271","OHIO CABLE TELECOMMUNICATIONS ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",32.9079042784627,67.0920957215373,"#5C0000AF","#5C0000AF",34475
+"40616289","RESOURCES","Uncoded","Uncoded","Uncoded",37.3768322400176,62.6231677599824,"#420000AF","#420000AF",4050.37
+"3386124","ASSOCIATED BUILDERS & CONTRACTORS NORTHERN OHIO CHAPTER","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4750
+"1087","GENERAL MOTORS","Automotive","Transportation","Auto manufacturers",32.1285140562249,67.8714859437751,"#5C0000AF","#5C0000AF",12450
+"2597466","FRANK G JACKSON FOR A BETTER CLEVELAND","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2500
+"18924853","OHIOHEALTH STAR CORPORATION","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"14715","OHIOHEALTH STAR CORP","Hospitals & Nursing Homes","Health","Health care institutions",40,60,"#330000AF","#330000AF",3750
+"3164330","NEW ALBANY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"2610991","LKQ CORP","Automotive","Transportation","Truck & automotive parts and accessories",60,40,"#000033AF","#000033AF",3750
+"3353393","BUSINESS & PROFESSIONAL WOMEN","Business Associations","General Business","General business associations",100,0,"#0000FFAF","#0000FFAF",3000
+"2743219","OHIO MORTGAGE BANKERS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",0,100,"#FF0000AF","#FF0000AF",13000
+"2792132","LAMBERT GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",2100
+"16354955","OHIO ASSOCIATION OF HEALTH PLANS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"218","AQUA AMERICA","Water Utilities","Energy & Natural Resources","Water utilities",4.12979351032448,95.8702064896755,"#EB0000AF","#EB0000AF",3390
+"1338","INTERNATIONAL PAPER","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",0,100,"#FF0000AF","#FF0000AF",3000
+"2205","RENT-A-CENTER","Retail Sales","General Business","Furniture & appliance stores",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",28.3687943262411,71.6312056737589,"#700000AF","#700000AF",7050
+"7054","HCR MANORCARE","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",2000
+"21076","COMMUNITY BANKERS ASSOCIATION OF OHIO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",2.9940119760479,97.0059880239521,"#F50000AF","#F50000AF",8350
+"21194","AMERICAN COUNCIL OF ENGINEERING COMPANIES OF OHIO","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",1750
+"2597397","CEMENT MASONS LOCAL 404","General Trade Unions","Labor","Construction unions",3.7037037037037,96.2962962962963,"#F00000AF","#F00000AF",2700
+"2613458","SENIOR ADVOCACY PAC","Health Professionals","Health","Pharmacists",6.25,93.75,"#E00000AF","#E00000AF",1600
+"40618595","OHIO MANUFACTURED HOMES ASSOCIATION","Uncoded","Uncoded","Uncoded",10.7692307692308,89.2307692307692,"#CC0000AF","#CC0000AF",3250
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",9.61538461538462,90.3846153846154,"#D10000AF","#D10000AF",2600
+"1934","OHIO NATIONAL FINANCIAL SERVICES","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",15.9574468085106,84.0425531914894,"#B30000AF","#B30000AF",4700
+"2599179","CLARK COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3000
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",4.44444444444444,95.5555555555556,"#EB0000AF","#EB0000AF",11250
+"821493","OHIO PORK PRODUCERS COUNCIL","Livestock","Agriculture","Livestock",15.2671755725191,84.7328244274809,"#B30000AF","#B30000AF",6550
+"4057","OHIO MANUFACTURERS ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",0,100,"#FF0000AF","#FF0000AF",8300
+"3067746","IRONWORKERS LOCAL 207","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1700
+"1265","HONEYWELL INTERNATIONAL","Air Transport","Transportation","Aircraft manufacturers",0,100,"#FF0000AF","#FF0000AF",2500
+"16550","THOMPSON HINE & FLORY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",16.3934426229508,83.6065573770492,"#AD0000AF","#AD0000AF",3050
+"2596874","CITIZENS FOR GARLAND","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3939.32
+"19277","BAKERY CONFECTIONERY & TOBACCO WORKERS LOCAL 19","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",4235
+"38553354","VECTREN CORPORATION EMPLOYEES FEDERAL","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",6150
+"2787837","OHIO SOFT DRINK ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",0,100,"#FF0000AF","#FF0000AF",4700
+"19662","ELECTRICAL WORKERS LOCAL 38","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",3920
+"15795074","OHIO PODIATRIC MEDICAL ASSOCIATION","Health Professionals","Health","Other physician specialists",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",3600
+"40571111","IRONWORKERS LOCAL 550","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2300
+"2807183","OHIO TOURISM PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"10770271","OHIO TELEPHONE","Uncoded","Uncoded","Uncoded",23.972602739726,76.027397260274,"#8A0000AF","#8A0000AF",7300
+"2636","TRAVELERS COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",1750
+"3147246","MANNIK & SMITH GROUP INC","Uncoded","Uncoded","Uncoded",9.81963927855711,90.1803607214429,"#D10000AF","#D10000AF",2495
+"2627875","JOHNSON, THAN","Retired","Government Agencies/Education/Other","Retired",0,100,"#FF0000AF","#FF0000AF",1350
+"2762767","OHIO FAIR MANAGERS ASSOCIATION & GREATER OHIO SHOWMENS ASSOCIATION","Recreation & Live Entertainment","General Business","Recreation & entertainment",0,100,"#FF0000AF","#FF0000AF",4050
+"2906852","NORTH CENTRAL OHIO BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1740
+"16711965","UA PROGRESSIVE ACTION","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1425
+"3044836","SIERRA CLUB OHIO CHAPTER","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",3000
+"2766378","FRIENDS OF DAVID DANIELS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1320.69
+"16260","THE SUCCESS GROUP LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",21.2765957446809,78.7234042553192,"#940000AF","#940000AF",14100
+"2790537","TOLEDO FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",2720
+"2624535","CITIZENS FOR ASHFORD","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1975
+"2790542","TOLEDO FIRE FIGHTERS LOCAL 92","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",1550
+"3070522","PREMIER","Uncoded","Uncoded","Uncoded",48.4042553191489,51.5957446808511,"#0A0000AF","#0A0000AF",9400
+"14700","OHIO HARNESS HORSEMEN ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",8,92,"#D60000AF","#DB0000AF",2500
+"12525","GOPAC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",1737.32
+"2641154","NORTHCOAST PAC","Hospitals & Nursing Homes","Health","Health care institutions",100,0,"#0000FFAF","#0000FFAF",1350
+"2596550","CLEVELAND STONEWALL DEMOCRATS","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",1850
+"2875488","EQUALITY OHIO","Candidate Committees","Candidate Contributions","Candidate committees",70.4545454545455,29.5454545454545,"#000066AF","#000066AF",2200
+"24786147","APPALACHIAN COMMUNITY ACTION","Uncoded","Uncoded","Uncoded",46.6666666666667,53.3333333333333,"#140000AF","#140000AF",3750
+"20042","LABORERS LOCAL 310","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3020
+"20082","LABORERS LOCAL 894","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1650
+"2598717","STEPHEN D SLESNICK CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2300
+"43551254","IRONWORKERS LOCAL 17","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2400
+"15668954","FRIENDS OF TODD LEVECK","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2000
+"2596246","FRIENDS OF RUSS PRY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1450
+"2673611","DAYTON SHEET METAL WORKERS LOCAL 24","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2300
+"2621527","MID-STATES DISTRICT COUNCIL OF ROOFERS LOCAL 44","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9750
+"11035301","PLUMBERS & PIPEFITTERS LOCAL 495","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3000
+"20979","UPPER OHIO VALLEY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2069
+"2643483","SHEET METAL WORKERS LOCAL 33 WHEELING DISTRICT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1970.02
+"2626524","OHIO ENVIRONMENTAL SERVICE INDUSTRIES","Environmental Services & Equipment","Energy & Natural Resources","Environmental services, equipment & consulting",0,100,"#FF0000AF","#FF0000AF",2500
+"29354723","AZ PAC SPONSORED BY ZENECA INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",34.5864661654135,65.4135338345865,"#520000AF","#520000AF",6650
+"13897","MANAGEMENT & TRAINING CORP","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",0,100,"#FF0000AF","#FF0000AF",5000
+"16059448","HEALTH PAL","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",28.169014084507,71.830985915493,"#700000AF","#700000AF",7100
+"16543","THOMAS P PAPPAS & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",13.5135135135135,86.4864864864865,"#BD0000AF","#BD0000AF",3700
+"2790336","KAPTUR FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1750
+"1753","MOLINA HEALTHCARE","Health Services","Health","HMOs",0,100,"#FF0000AF","#FF0000AF",5850
+"24784078","SQUIRE SANDERS & DEMPSEY LLP","Uncoded","Uncoded","Uncoded",53.2710280373832,46.7289719626168,"#00000FAF","#00000FAF",5350
+"2821","WENDYS ARBYS GROUP","Food & Beverage","General Business","Restaurants & drinking establishments",50,50,"#000000AF","#000000AF",2000
+"4688","THE DOCTORS CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",40,60,"#330000AF","#330000AF",2500
+"3615","EXELON","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",0,100,"#FF0000AF","#FF0000AF",3850
+"7991","NATIONAL ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",2400
+"15130","PIZZUTI PAC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"2827079","BIA BUILD PAC OF CENTRAL OHIO","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",1500
+"16064386","NEW ALBANY STATE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"1421","KEATING MUETHING & KLEKAMP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",2200
+"2867937","FRIENDS OF MATT PATTEN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1600
+"19805","TEAMSTERS LOCAL 957","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",2500
+"16061761","ORGANIZATION FOR HEALTHCARE INNOVATION IN OHIO","Health & Welfare Policy","Ideology/Single Issue","Health & welfare policy",25,75,"#800000AF","#800000AF",2000
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"11511","DAIICHI SANKYO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",4000
+"2609278","CITIZENS FOR JOHN WAGONER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1500
+"2855430","TOLEDO AREA CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",0,100,"#FF0000AF","#FF0000AF",2000
+"856060","TIM RYAN FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1275
+"2597587","TEAMSTERS JOINT COUNCIL 44","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",2800
+"3055885","LABORERS LOCAL 574","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1950
+"3066128","TEAMSTERS LOCAL 20","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1100
+"19919","OPERATING ENGINEERS LOCAL 66","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2250
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",25,75,"#800000AF","#800000AF",2000
+"519","CATERPILLAR","Building Materials & Equipment","Construction","Construction equipment",5.55555555555556,94.4444444444444,"#E60000AF","#E60000AF",4500
+"526","CEMEX INC","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,100,"#FF0000AF","#FF0000AF",1650
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",6000
+"860","E I DU PONT DE NEMOURS & CO","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",3500
+"1675","MCKESSON CORP","Health Services","Health","Health care services",26.3157894736842,73.6842105263158,"#7A0000AF","#7A0000AF",4750
+"1692","MEDCO HEALTH SOLUTIONS","Retail Sales","General Business","Drug stores",12.5,87.5,"#C20000AF","#C20000AF",4000
+"2142","QC HOLDINGS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",22.3367697594502,77.6632302405498,"#8F0000AF","#8F0000AF",7275
+"3823","HOFFMAN LA ROCHE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",20,80,"#990000AF","#9E0000AF",2500
+"9985","AMERICAN WIND ENERGY ASSOCIATION","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",0,100,"#FF0000AF","#FF0000AF",1250
+"11939","ENERGY TRANSFER PARTNERS","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",0,100,"#FF0000AF","#FF0000AF",2000
+"13035","IBERDROLA RENEWABLES","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",0,100,"#FF0000AF","#FF0000AF",1250
+"14699","OHIO GROCERS ASSOCIATION","Food Processing & Sales","Agriculture","Food stores",10.1351351351351,89.8648648648649,"#CC0000AF","#CC0000AF",7400
+"2596607","FLEXIBLE PAVEMENTS OF OHIO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",20.8333333333333,79.1666666666667,"#990000AF","#990000AF",3600
+"2608899","OHIO RADIOLOGICAL SOCIETY","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",2400
+"2775505","WOOLPERT INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"2794215","NORTH CENTRAL OHIO ELECTRICAL CONTRACTORS","Special Trade Contractors","Construction","Electrical contractors",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",2550
+"2891470","CINCINNATI BELL INC","Uncoded","Uncoded","Uncoded",11.6279069767442,88.3720930232558,"#C70000AF","#C70000AF",2150
+"10812576","DIRECT ENERGY","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",0,100,"#FF0000AF","#FF0000AF",1750
+"2717322","MECKLENBORG FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2700
+"2770401","OHIO MEDICAL TRANSPORTATION","Health Services","Health","Health care services",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"14707","OHIO PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",39.2857142857143,60.7142857142857,"#380000AF","#380000AF",2800
+"2773638","CINCINNATI RIGHT TO LIFE PAC","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",1900
+"40618658","BUCKEYE COMMUNITY HEALTH PLAN INC CENTENE CORPORATION","Uncoded","Uncoded","Uncoded",15.4929577464789,84.5070422535211,"#B30000AF","#B30000AF",3550
+"18575143","EMPIRE PLACE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"10688628","ALKERMES INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",2000
+"40618540","OHIO PSYCHIATRISTS","Uncoded","Uncoded","Uncoded",12.280701754386,87.719298245614,"#C20000AF","#C20000AF",2850
+"40334426","OHIO STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"821380","OHIO SOYBEAN ASSOCIATION","Crop Production & Basic Processing","Agriculture","Wheat, corn, soybeans & cash grain",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",2700
+"15668244","TIBERI FOR CONGRESS (FSL PAC)","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1892.31
+"12564489","NATIONAL ASSOCIATION FOR GUN RIGHTS","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",1500
+"2787822","COUNTY AUDITORS ASSOCIATION OF OHIO","Civil Servants/Public Officials","Government Agencies/Education/Other","Municipal & county government organizations",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",4250
+"2596476","FRIENDS OF DEAN DEPIERO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1030
+"2671922","BUTLER COUNTY PROGRESSIVE PAC","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",1800
+"2956359","OSANA NURSE ANESTHETIST","Health Professionals","Health","Nurses",26.0869565217391,73.9130434782609,"#7A0000AF","#7A0000AF",2300
+"2603890","CARPENTER LIPPS & LELAND","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",3200
+"2595680","TOLEDO POLICE PATROLMANS ASSOCIATION LOCAL 10","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",2225
+"18999","OHIO CATTLEMENS ASSOCIATION","Livestock","Agriculture","Livestock",20.8333333333333,79.1666666666667,"#990000AF","#990000AF",3600
+"6485","CUYAHOGA COUNTY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1920.57
+"2789342","WC DEMOCRATIC WOMEN PAC","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1000
+"40618526","OHIO GROCERS ASSOCIATION OHIO FOOD","Uncoded","Uncoded","Uncoded",5.79710144927536,94.2028985507246,"#E60000AF","#E60000AF",3450
+"12100974","THE FITZGIBBON GROUP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"3116","INTERNATIONAL ASSOCIATION OF HEAT & FROST INSULATORS & ALLIED WORKERS / HFIAW","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"40618623","OHIO ASSOCIATION OF ADVANCED PRACTICE NURSES","Uncoded","Uncoded","Uncoded",24.390243902439,75.609756097561,"#850000AF","#850000AF",2050
+"2596238","FRIENDS OF MIKE FOLEY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3550
+"16107","SPECTRA ENERGY","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",15750
+"3157518","OHIO WOMENS DEMOCRATIC CAUCUS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1750
+"3467722","AMALGAMATED TRANSIT UNION / ATU","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",3000
+"2900099","ZACK SPACE FOR CONGRESS CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1250
+"2653209","LABORERS LOCAL 134","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1250
+"683","CONVERGYS","Business Services","General Business","Management consultants & services",0,100,"#FF0000AF","#FF0000AF",2000
+"39399123","TEAMSTERS LOCAL 284","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"3516360","IRONWORKERS LOCAL 44","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"2617587","OHIO LICENSED BEVERAGE ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",10.7142857142857,89.2857142857143,"#CC0000AF","#CC0000AF",1400
+"3726874","KIDS PAC / OHIO SCHOOL BOARDS ASSOCIATION","Uncoded","Uncoded","Uncoded",40.1709401709402,59.8290598290598,"#330000AF","#330000AF",5850
+"2248","ROETZEL & ANDRESS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",13.5135135135135,86.4864864864865,"#BD0000AF","#BD0000AF",3700
+"3048491","CMTE TO RETAIN KAREN INFANTE ALLEN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",850
+"2608860","NORTHERN OHIO STATE MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",950
+"27964529","MCNEES WALLACE & NURICK LLC","Uncoded","Uncoded","Uncoded",20.8333333333333,79.1666666666667,"#990000AF","#990000AF",1200
+"331","BAYER AG","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",9.52380952380952,90.4761904761905,"#D10000AF","#D10000AF",2625
+"1470","KROGER CO","Food Processing & Sales","Agriculture","Food stores",69.6969696969697,30.3030303030303,"#000061AF","#000061AF",1650
+"3934416","DAYTON BUILD","Uncoded","Uncoded","Uncoded",12,88,"#C20000AF","#C20000AF",1250
+"1055","FROST BROWN & TODD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",60,40,"#000033AF","#000033AF",1750
+"2603628","LORAIN COUNTY AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1450
+"2980759","BUCKEYE COMMUNITY HEALTH PLAN OHIO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",900
+"22107647","OHIO PSYCHOLOGICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",85.2158486102898,14.7841513897102,"#0000B3AF","#0000B3AF",3382
+"3504867","STRAT","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2350
+"5991","BENSCH FRIEDLANDER COPLAN & ARONOFF","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",60.8695652173913,39.1304347826087,"#000033AF","#000033AF",2300
+"4723897","MARKWEST ENERGY PARTNERS","Electric Utilities","Energy & Natural Resources","Electric power utilities",7.93650793650794,92.0634920634921,"#DB0000AF","#DB0000AF",3150
+"2623224","AUTOMOTIVE SERVICE ASSOCIATION OF OHIO","Automotive","Transportation","Auto repair",16.3934426229508,83.6065573770492,"#AD0000AF","#AD0000AF",3050
+"2769257","BOAT OHIO FOUNDATION","Sea Transport","Transportation","Sea transport",0,100,"#FF0000AF","#FF0000AF",2750
+"1684","MCNEES WALLACE & NURICK","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1800
+"40618652","BUCKEYE COMMUNITY HEALTH PLAN INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",900
+"2603245","WESTERN RESERVE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1550
+"2896751","MUSKINGUM AREA WOMENS DEMOCRATIC CLUB","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",665
+"3191306","FULTON COUNTY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",800
+"20622","PLUMBERS & PIPEFITTERS LOCAL 94","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1200
+"16060713","NORTHEAST OHIO ACADEMY OF CHIROPRACTIC","Uncoded","Uncoded","Uncoded",67.1052631578947,32.8947368421053,"#000057AF","#000057AF",3800
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",32.2872271729304,67.7127728270696,"#5C0000AF","#5C0000AF",1548.6
+"17909809","PUBLIC POLICY STRATEGIES LLC","Uncoded","Uncoded","Uncoded",65.4545454545455,34.5454545454545,"#00004DAF","#00004DAF",2750
+"3149475","FAIRFIELD COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1000
+"2793901","OHIO RECEIVABLES MANAGEMENT ASSOCIATION","Miscellaneous Finance","Finance, Insurance & Real Estate","Credit reporting services & collection agencies",0,100,"#FF0000AF","#FF0000AF",1900
+"2607257","SEITZ CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",825
+"2843890","INDEPENDENT ELECTRICAL CONTRACTORS OF GREATER CINCINNATI","Special Trade Contractors","Construction","Electrical contractors",0,100,"#FF0000AF","#FF0000AF",1000
+"16060118","NE HAMILTON COUNTY REPUBLICAN CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",900
+"3119771","CITIZENS FOR MONZEL","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",750
+"18946","NATIONAL ASSOCIATION OF SOCIAL WORKERS UNIDENTIFIED","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",1000
+"340113","TRI-COUNTY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"2850836","TEAMSTERS LOCAL 348","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1000
+"2596917","SYKES FOR OFFICE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",800
+"2923571","COOLIDGE WALL WOMSLEY & LOMBARD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",700
+"2827346","TEAMSTERS LOCAL 284","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",2000
+"19681","ELECTRICAL WORKERS LOCAL 575","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",600
+"20295","PARKERSBURG-MARIETTA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1100
+"2673921","LABORERS LOCAL 639","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"2807563","OHIO CAMPGROUND OWNERS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1600
+"37999108","AMGEN","Pharmaceuticals & Health Products","Health","Biotech products & research",17.1875,82.8125,"#A80000AF","#A80000AF",3200
+"2875174","OHIO PROPANE PAC","Oil & Gas","Energy & Natural Resources","LPG/Liquid propane dealers & producers",0,100,"#FF0000AF","#FF0000AF",1500
+"6893","GAY & LESBIAN VICTORY FUND","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",50,50,"#000000AF","#000000AF",1000
+"2693832","FRIENDS OF TOM PATTON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",800
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",800
+"18905942","OHIO VETERINARY MEDICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",1050
+"2599396","CMTE FOR JIM HUGHES","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1250
+"2594135","FRATERNAL ORDER OF POLICE CAPITAL CITY LODGE 9","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",750
+"2601850","COLUMBUS-FRANKLIN COUNTY AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1850
+"2601953","MARK OKEY FOR OHIO CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",900
+"2623283","OHIO COUNCIL OF BEHAVIORAL HEALTH CARE PROVIDERS","Health Professionals","Health","Psychiatrists & psychologists",50,50,"#000000AF","#000000AF",1500
+"2642685","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 55","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",850
+"2811268","TRANSPORT WORKERS UNION OF AMERICA / TWU","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",2000
+"12096981","HEAT & FROST INSULATORS LOCAL 50","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"2617103","SCHOTTENSTEIN STORES","Retail Sales","General Business","Furniture & appliance stores",60,40,"#000033AF","#000033AF",1250
+"2807556","OHIO ASSOCIATION OF CONVENTION & VISITOR BUREAUS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",850
+"43491998","NATIONAL ASSOCIATION OF SOCIAL WORKERS / OHIO PACE -NASW","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"2597468","DANIEL RAMOS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1480
+"2790391","NEW VISIONS GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",750
+"17847772","NEW VISIONS GROUP LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",650
+"20056","LABORERS LOCAL 500","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",905
+"39398905","OHIO SPEECH & HEARING","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"1466","KRAFT FOODS","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",60,40,"#000033AF","#000033AF",1250
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",1000
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",1000
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",600
+"8663","REPUBLIC SERVICES","Waste Management","Energy & Natural Resources","Waste management",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",600
+"2604130","BROUSE & MCDOWELL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",1000
+"2626470","OHIO DENTAL HYGIENISTS ASSOCIATION","Health Professionals","Health","Dentists",0,100,"#FF0000AF","#FF0000AF",1250
+"2827849","OHIO STATE ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",47.3684210526316,52.6315789473684,"#0F0000AF","#0F0000AF",950
+"2873838","ALLIANCE PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",850
+"12101816","AMG VANADIUM CORP PAC (AMG VANDIUM PAC)","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"18928241","OHIO POULTRY ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",850
+"14694","OHIO COUNCIL FOR HOME CARE","Health Services","Health","Health care services",50,50,"#000000AF","#000000AF",1600
+"16062230","HEARING HEALTHCARE ALLIANCE OF OHIO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"2604976","BLACK MCCUSKEY SOUERS & ARBAUGH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",540
+"773","DELOITTE","Accountants","Finance, Insurance & Real Estate","Accountants",62.5,37.5,"#00003DAF","#00003DAF",800
+"2596705","CITIZENS WITH CELESTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1151
+"2618969","IRONWORKERS LOCAL 290","General Trade Unions","Labor","Construction unions",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"2692646","DIXON FOR COMMISSIONER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1000
+"2882343","DARKE COUNTY REPUBLICAN MENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1000
+"16062195","POLICE FIRE RETIREES OF OHIO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",850
+"2829098","ADMINISTRATORS BUSINESS OFFICIALS & CITIZENS","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",1500
+"2813616","FRIENDS OF DALE MILLER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1150
+"2818306","BOOSTERS FOR PERCIAK","Candidate Committees","Candidate Contributions","Candidate committees",12.5,87.5,"#C20000AF","#C20000AF",800
+"3026379","OHIO SOCIETY OF PROFESSIONAL ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",1300
+"9337","VECTREN CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",52.6315789473684,47.3684210526316,"#00000AAF","#00000AAF",1900
+"2732944","FRIENDS OF RICHARD K JONES","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",900
+"2603466","M S CONSULTANTS INC","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",625
+"2901062","HOLMES COUNTY REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",600
+"2631644","NORWALK PLUMBERS & STEAMFITTERS LOCAL 42","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",935
+"3052375","CUYAHOGA HOUSE DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",729.16
+"2752510","CITIZENS FOR KEVIN BACON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",600
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",950
+"37002806","THOMAS P PAPPAS & ASSOCIATES","Uncoded","Uncoded","Uncoded",13.5135135135135,86.4864864864865,"#BD0000AF","#BD0000AF",1850
+"2751581","RINGLE FOR ENGINEER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",800
+"2598222","FRIENDS OF MARIAN HARRIS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",722.99
+"2819932","MONTROSE GROUP LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",600
+"2603071","SPENGLER NATHANSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",600
+"2884487","TOWNER POLICY GROUP LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",1250
+"2791996","TOLEDO PORT COUNCIL MARITIME TRADES DEPT","Transportation Unions","Labor","Other transportation unions",100,0,"#0000FFAF","#0000FFAF",650
+"3678315","KIDS","Uncoded","Uncoded","Uncoded",35,65,"#4D0000AF","#4D0000AF",1000
+"16062924","KIDS PAC OHIO SCHOOL BOARDS ASSOCIATION","Uncoded","Uncoded","Uncoded",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",1300
+"12102990","MONTROSE GROUP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",850
+"2439411","RITE AID CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",700
+"2792234","GOVERNMENT ADVANTAGE GROUP","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",1250
+"39315081","MCNEES WALLACE & NURICK LLC","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",1250
+"2826847","MISSION DRIVEN SOLUTIONS PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",450
+"2790499","PERRY BURROUGHS DEMOCRATIC WOMENS CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",450
+"22104550","J BERNIE QUILTER ELECTION COMMITTEE","Candidate Committees","Candidate Contributions","Candidate committees",79.8657718120805,20.1342281879195,"#000094AF","#000094AF",745
+"2596601","CLEVELAND BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1455
+"2858322","COMMUNICATIONS WORKERS STATE COUNCIL OF OHIO","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",3450
+"2653124","LABORERS LOCAL 1015","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",400
+"2635053","WEST CLERMONT DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",500
+"2762945","OHIO ASSOCIATION OF MCDONALDS OPERATORS","Food & Beverage","General Business","Restaurants & drinking establishments",0,100,"#FF0000AF","#FF0000AF",550
+"40618529","OHIO HOSPITALITY","Uncoded","Uncoded","Uncoded",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",650
+"37779097","JEFF DELEONE & ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",725
+"20751","CARPENTERS & JOINERS LOCAL 171","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",425
+"15668289","CITIZENS FOR MINGO","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",400
+"16208042","FRIENDS OF TC ROGERS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",600
+"2676885","SNYDER, COOPER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",550
+"2816185","DAVIS, MCKENZIE K","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",26.7857142857143,73.2142857142857,"#7A0000AF","#7A0000AF",1400
+"18905940","OHIO CAST METALS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2225
+"19500","NORTHERN OHIO FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",75,25,"#00007FAF","#00007FAF",400
+"2622746","HEAT & FROST INSULATORS LOCAL 3","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1500
+"2598732","CMTE TO KEEP MARK OWENS CLERK OF COURTS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",500
+"24996738","LABORERS LOCAL 1410","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"2634007","FRIENDS OF SKELDON WOZNIAK","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",585
+"3152799","NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION OHIO / MICHIGAN CHAPTER","Special Trade Contractors","Construction","Electrical contractors",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",450
+"2597975","FEDERATED DEMOCRATIC WOMEN OF PORTAGE COUNTY","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",500
+"2792546","FARMERS 1","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",2250
+"2671644","OHIO FARMERS UNION","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",100,0,"#0000FFAF","#0000FFAF",750
+"20779","CARPENTERS & JOINERS LOCAL 69","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",450
+"1599","MACYS INC","Retail Sales","General Business","Department, variety & convenience stores",40,60,"#330000AF","#330000AF",1250
+"2613294","OHIO ACADEMY OF FAMILY PHYSICIANS","Health Professionals","Health","Physicians",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",1500
+"16507966","BLACK ELECTED DEMOCRATS OF CLEVELAND OHIO","Minority & Disability Groups","Ideology/Single Issue","Minority & ethnic groups",100,0,"#0000FFAF","#0000FFAF",750
+"2596225","NINA TURNER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",350
+"13793009","KLEIN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",450
+"14043850","IC PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"2622959","OHIO ATHLETIC TRAINERS ASSOCIATION","Miscellaneous Services","General Business","Physical fitness centers",0,100,"#FF0000AF","#FF0000AF",500
+"40613799","FARMERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"2596198","FRIENDS OF KENNY YUKO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1045
+"1023548","BUCKINGHAM DOOLITTLE & BURROUGHS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",330
+"2627963","EARLEY FOR ENGINEER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",410
+"2965067","SHEET METAL WORKERS LOCAL 33 VERMILION DISTRICT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",490
+"2596533","MAHONING TRUMBULL AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",675
+"2673816","LABORERS LOCAL 125","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",550
+"2792373","MAHONING VALLEY ELECTRICAL CONTRACTORS","Special Trade Contractors","Construction","Electrical contractors",100,0,"#0000FFAF","#0000FFAF",350
+"2596542","CAFARO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",430
+"12564299","GLADMAN FOR GRANDVIEW","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",350
+"12105636","GCNK APT ASSOCIATION OHIO PAC 739","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",475
+"34038311","CARPENTER LIPPS & LELAND","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",670
+"11217","COLEMAN FOR COLUMBUS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",325
+"2636740","KEEP JUDGE TARYN HEATH CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",335
+"2601801","MARTIN J SWEENEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",300
+"2636013","SOUTH OF DAYTON DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",400
+"2602000","ELECT PETE GERKEN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",240
+"2602009","CMTE TO ELECT ANITA LOPEZ","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",270
+"2655307","MARCIA FUDGE FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",300
+"2596157","SPRINGFIELD TOWNSHIP DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",350
+"2696069","OHIO ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",250
+"2847630","HICKEY CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",400
+"2848543","COMMITTEE TO RE-ELECT ROBERT E HICKEY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",450
+"2861565","FRIENDS OF NANCY NIX","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",375
+"2879789","OHIO AUTO DEALERS ALLIANCE INC","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",500
+"2821082","CLEVELAND CONSERVATIVE NETWORK","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",464
+"2603836","FRIENDS OF SHERIFF STAMMITTI","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",355
+"18926301","GREATER CINCINNATI NORTHERN KY APARTMENT ASSOCIATION","Uncoded","Uncoded","Uncoded",30.4347826086957,69.5652173913043,"#660000AF","#660000AF",575
+"31828018","ARCADIS OHIO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",190
+"14044148","YOUNGSTOWN PROFESSIONAL FIRE FIGHTERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",225
+"2862366","CMTE TO ELECT JUDY NEDWICK RECORDER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",185
+"2857687","EDNA BROWN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",145
+"2791960","POLITICAL EDUCATION FUND LOCAL 886 PCE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"12103005","SEELBACH FOR COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",160
+"11071","CINCINNATI RIGHT TO LIFE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",200
+"2852564","PLUMBERS & PIPEFITTERS LOCAL 219","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",300
+"2635483","DAYTON BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",200
+"16385","TEAM HEALY CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",150
+"3463760","OHIO DIETETIC ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",150
+"2852618","FRIENDS OF TRI-COUNTY REGIONAL LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",200
+"2596180","MIKE CRAIG ELECTIONS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",150
+"18906185","POLITICAL EDUCATION FUND LOCAL 886","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",230
+"14047071","LUCAS COUNTY YOUNG DEMOCRATS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",150
+"2655988","FRIENDS OF NABAKOWSKI","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",240
+"2993393","CITIZENS FOR CALLENDER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",150
+"14047083","THARP FOR SHERIFF CMTE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",150
+"16208252","OH SOCIETY OF PROF ENGNRS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"2624638","CITIZENS FOR MARK LUETKE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",150
+"2613421","REPUBLICAN COUNCIL OF OAKWOOD","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",145
+"2863279","CMTE TO ELECT FRANK JANIK","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",155
+"2596122","FRIENDS OF KEVIN MALECEK","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",160
+"13788051","GMOSER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",110
+"2596862","STONEWALL DEMOCRATS OF CENTRAL OHIO","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",100
+"2919310","SUMMIT COUNTY YOUNG DEMOCRATS","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",100
+"2969741","REELECT JUDGE GWIN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",100
+"2811748","BROWN, MARQUEZ","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",75
+"2983341","FRIENDS OF MAUREEN KELLY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",135
+"2800979","FRIENDS OF BRIAN GATES","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",60
+"2865861","FRIENDS OF JUDY MORAN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",65

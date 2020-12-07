@@ -1,0 +1,91 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"5798","ARIZONA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",21.9242439072135,78.0757560927865,"#940000AF","#940000AF",20434
+"5814","ARIZONA MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",18.005540166205,81.994459833795,"#A30000AF","#A30000AF",7220
+"5815","ARIZONA MULTIHOUSING ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",15.6739811912226,84.3260188087774,"#B30000AF","#B30000AF",3190
+"20198","ARIZONA EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",48.780487804878,51.219512195122,"#0A0000AF","#0A0000AF",6150
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",1780
+"5911","ASSOCIATED HIGHWAY PATROLMEN OF ARIZONA","Public Sector Unions","Labor","Police & fire fighters unions and associations",0,100,"#FF0000AF","#FF0000AF",3880
+"6948","GRAND CANYON STATE ELECTRIC COOPERATIVE ASSOCIATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",26.5402843601896,73.4597156398104,"#7A0000AF","#7A0000AF",2110
+"584","CIGNA CORP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",3490
+"5806","ARIZONA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",22.4489795918367,77.5510204081633,"#8F0000AF","#8F0000AF",2450
+"2299","SALT RIVER PROJECT","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",22.972972972973,77.027027027027,"#8F0000AF","#8F0000AF",7400
+"7102","HOME BUILDERS ASSOCIATION OF CENTRAL ARIZONA","Home Builders","Construction","Residential construction",5.4033191817831,94.5966808182169,"#E60000AF","#E60000AF",5182
+"8817734","FOOD INDUSTRY","Food Processing & Sales","Agriculture","Food stores",21.8362282878412,78.1637717121588,"#940000AF","#940000AF",4030
+"21084","INDEPENDENT INSURANCE AGENTS & BROKERS OF ARIZONA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",12.3595505617978,87.6404494382023,"#C20000AF","#C20000AF",2225
+"5813","ARIZONA LICENSED BEVERAGE ASSOCIATION","Beer, Wine & Liquor","General Business","Alcohol",5.81395348837209,94.1860465116279,"#E60000AF","#E60000AF",3440
+"6749","FENNEMORE CRAIG","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",16.5957446808511,83.4042553191489,"#AD0000AF","#AD0000AF",4700
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",20,80,"#990000AF","#9E0000AF",2800
+"5804","ARIZONA AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",4200
+"5810","ARIZONA HOSPITAL & HEALTHCARE ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",30.5676855895196,69.4323144104803,"#660000AF","#660000AF",4580
+"8481","PINNACLE WEST","Electric Utilities","Energy & Natural Resources","Electric power utilities",17.5,82.5,"#A80000AF","#A80000AF",5200
+"18833","PLANNED PARENTHOOD ARIZONA","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",560
+"19433","PROFESSIONAL FIRE FIGHTERS OF ARIZONA","Public Sector Unions","Labor","Police & fire fighters unions and associations",60,40,"#000033AF","#000033AF",1400
+"4994","ARIZONA CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",17.8343949044586,82.1656050955414,"#A80000AF","#A80000AF",1570
+"19335","ARIZONA STATE LODGE FRATERNAL ORDER OF POLICE","Public Sector Unions","Labor","Police & fire fighters unions and associations",20.703125,79.296875,"#990000AF","#990000AF",2560
+"8443539","ARIZONA OPHTHALMOLOGIST ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",7.04225352112676,92.9577464788732,"#DB0000AF","#DB0000AF",2485
+"5808","ARIZONA FARM BUREAU FEDERATION","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",18.5185185185185,81.4814814814815,"#A30000AF","#A30000AF",1080
+"8459","PHELPS DODGE","Mining","Energy & Natural Resources","Mining",0,100,"#FF0000AF","#FF0000AF",3800
+"18772","ARIZONA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",11.0344827586207,88.9655172413793,"#C70000AF","#C70000AF",4350
+"8425223","ARIZONA CONTRACTORS ASSOCIATION","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",680
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",0,100,"#FF0000AF","#FF0000AF",2810
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",560
+"3841","HOUSEHOLD INTERNATIONAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",50,50,"#000000AF","#000000AF",1120
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",0,100,"#FF0000AF","#FF0000AF",1090
+"4064","MAXIMUS CORP","Business Services","General Business","Employment agencies",17.9487179487179,82.051282051282,"#A80000AF","#A80000AF",1560
+"6458","COX COMMUNICATIONS","Miscellaneous Communications & Electronics","Communications & Electronics","Communications & electronics",0,100,"#FF0000AF","#FF0000AF",3480
+"8777300","ARIZONA ASSOCIATION FOR MANUFACTURED HOUSING","Home Builders","Construction","Mobile home construction",0,100,"#FF0000AF","#FF0000AF",480
+"8443407","UNITED MESA FIRE FIGHTERS LOCAL 2260","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",680
+"2834","WESTERN GROWERS ASSOCIATION","Crop Production & Basic Processing","Agriculture","Farmers, in general",50,50,"#000000AF","#000000AF",1120
+"5746","AMERICA WEST AIRLINES","Air Transport","Transportation","Airlines",19.1780821917808,80.8219178082192,"#9E0000AF","#9E0000AF",1460
+"5802","ARIZONA CATTLEMENS ASSOCIATION","Livestock","Agriculture","Livestock",23.728813559322,76.271186440678,"#8A0000AF","#8A0000AF",1180
+"8519920","PROFESSIONAL FLAGSTAFF FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",840
+"8647829","ARIZONA RURAL ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",50,50,"#000000AF","#000000AF",560
+"1778","MOTOROLA","Telecom Services & Equipment","Communications & Electronics","Telephone & communications equipment",0,100,"#FF0000AF","#FF0000AF",840
+"2437","SOUTHWEST GAS","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",19.2307692307692,80.7692307692308,"#9E0000AF","#9E0000AF",3380
+"8467414","SIERRA CLUB ARIZONA CHAPTER","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",50,50,"#000000AF","#000000AF",560
+"1063","GALLAGHER & KENNEDY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",380
+"1536","LEWIS & ROCA","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",30.8641975308642,69.1358024691358,"#660000AF","#660000AF",810
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",0,100,"#FF0000AF","#FF0000AF",560
+"4485","SALT RIVER PIMA-MARICOPA INDIAN COMMUNITY","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",28.75,71.25,"#700000AF","#700000AF",1600
+"592","CITIGROUP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",50,50,"#000000AF","#000000AF",560
+"19514","PHOENIX FIRE FIGHTERS LOCAL 493","Public Sector Unions","Labor","Police & fire fighters unions and associations",34.5679012345679,65.4320987654321,"#520000AF","#520000AF",810
+"18926694","ARIZONA BANKERS ASSOCIATION","Uncoded","Uncoded","Uncoded",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",910
+"40613838","TALE-PAC","Uncoded","Uncoded","Uncoded",21.1267605633803,78.8732394366197,"#940000AF","#940000AF",710
+"9263","UNITED DAIRYMEN OF ARIZONA","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",0,100,"#FF0000AF","#FF0000AF",880
+"12586","GREATER PHOENIX CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",0,100,"#FF0000AF","#FF0000AF",1140
+"5800","ARIZONA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",31.7460317460317,68.2539682539683,"#610000AF","#610000AF",630
+"5818","ARIZONA ROCK PRODUCTS ASSOCIATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,81.203007518797,"#FF0000AF","#A30000AF",1330
+"5823","ARIZONA WHOLESALE BEER & LIQUOR ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",3100
+"823","DOLLAR THRIFTY AUTOMOTIVE GROUP","Automotive","Transportation","Car & truck rental agencies",0,100,"#FF0000AF","#FF0000AF",750
+"1974","PACIFICARE HEALTH SYSTEMS","Health Services","Health","HMOs",10.3305785123967,89.6694214876033,"#CC0000AF","#CC0000AF",1452
+"10433","BLUE CROSS BLUE SHIELD OF ARIZONA","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",10.6382978723404,89.3617021276596,"#CC0000AF","#CC0000AF",2350
+"8460022","ARIZONA FIRE DISTRICTS ASSOCIATION","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",29.1666666666667,70.8333333333333,"#6B0000AF","#6B0000AF",1200
+"131","AMERICAN EXPRESS","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",900
+"5952","BANNER HEALTH","Hospitals & Nursing Homes","Health","Health care institutions",26.8240343347639,73.175965665236,"#7A0000AF","#7A0000AF",932
+"8467","PHOENIX LAW ENFORCEMENT ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",56.25,43.75,"#00001FAF","#00001FAF",800
+"8742142","AMIGOS","Mining","Energy & Natural Resources","Mining services & equipment",0,100,"#FF0000AF","#FF0000AF",850
+"3799","GILA RIVER INDIAN COMMUNITY","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",17.2413793103448,82.7586206896552,"#A80000AF","#A80000AF",1450
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",1200
+"5811","ARIZONA HOTEL & LODGING ASSOCIATION","Lodging & Tourism","General Business","Hotels & motels",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",550
+"20990","ARIZONA PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",0,100,"#FF0000AF","#FF0000AF",600
+"139032","RURAL METRO CORP","Health Services","Health","Health care services",10.4123281965848,89.5876718034152,"#CC0000AF","#CC0000AF",2401
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",1200
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",1700
+"2147","QWEST COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",50,50,"#000000AF","#000000AF",1200
+"2175","RAYTHEON","Defense Electronics","Defense","Defense electronic contractors",22.5806451612903,77.4193548387097,"#8F0000AF","#8F0000AF",1550
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",100,0,"#0000FFAF","#0000FFAF",400
+"8707785","ARIZONA STATE DENTAL HYGIENISTS ASSOCIATION","Health Professionals","Health","Dentists",40,60,"#330000AF","#330000AF",500
+"1325","INTEL CORP","Computer Equipment & Services","Communications & Electronics","Computer manufacture & services",0,100,"#FF0000AF","#FF0000AF",400
+"5816","ARIZONA OSTEOPATHIC MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",26.6666666666667,73.3333333333333,"#7A0000AF","#7A0000AF",1500
+"8522478","UNISOURCE ENERGY","Electric Utilities","Energy & Natural Resources","Electric power utilities",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",750
+"40613832","ARIZONA PRIVATE SCHOOLS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",350
+"8524917","AMERICAN INSTITUTE OF ARCHITECTS ARIZONA","Construction Services","Construction","Architectural services",0,100,"#FF0000AF","#FF0000AF",450
+"40613847","LAND TITLE ASSOCIATION OF ARIZONA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",350
+"6940","GOODRICH CORP","Air Transport","Transportation","Aircraft manufacturers",30,70,"#660000AF","#660000AF",500
+"8445326","PRINT","Printing & Publishing","Communications & Electronics","Commercial printing & typesetting",0,100,"#FF0000AF","#FF0000AF",300
+"7250472","ABITIBI-CONSOLIDATED SALES CORPORATION","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",0,100,"#FF0000AF","#FF0000AF",180
+"8900533","ARIZONA COTTON GROWERS ASSOCIATION","Crop Production & Basic Processing","Agriculture","Cotton growers, cotton ginners",0,100,"#FF0000AF","#FF0000AF",450
+"8643177","CARDINAL, EUGENE","Clergy","Government Agencies/Education/Other","Clergy",0,100,"#FF0000AF","#FF0000AF",220
+"43568217","AZ VETERINARY MEDICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",600
+"8425136","ARIZONA VETERINARY MEDICAL ASSOCIATION","Agricultural Services & Products","Agriculture","Veterinarians",20,80,"#990000AF","#9E0000AF",500
+"10095","ARIZONA SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",0,100,"#FF0000AF","#FF0000AF",52

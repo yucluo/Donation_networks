@@ -1,0 +1,706 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"8040","NELSON MULLENS RILEY & SCARBOROUGH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",51.3986391618965,48.6013608381035,"#000005AF","#000005AF",64813
+"3794","GEORGIA ALLIANCE OF COMMUNITY HOSPITALS","Hospitals & Nursing Homes","Health","Hospitals",26.7564402810304,73.2435597189695,"#7A0000AF","#7A0000AF",85400
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",3.33333333333333,96.6666666666667,"#F00000AF","#F00000AF",15000
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",19.2065491183879,79.691435768262,"#9E0000AF","#990000AF",158800
+"9261","UNITED COMMUNITY BANKS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",8000
+"9458","WELLCARE HEALTH PLANS","Health Services","Health","HMOs",4.82758620689655,95.1724137931034,"#EB0000AF","#EB0000AF",36250
+"3207","GEORGIA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",10.6831728564878,89.3168271435121,"#CC0000AF","#CC0000AF",109050
+"6914","GEORGIA HEALTH CARE ASSOCIATION / GEORGIA NURSING HOME ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",10.8790252393386,89.1209747606614,"#CC0000AF","#CC0000AF",57450
+"2467","STATE FARM","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",10.4972375690608,89.5027624309392,"#CC0000AF","#CC0000AF",45250
+"2131","PUBLIX","Food Processing & Sales","Agriculture","Food stores",11.3013683922877,88.6986316077123,"#C70000AF","#C70000AF",44242.43
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",12.8205128205128,87.1794871794872,"#C20000AF","#C20000AF",19500
+"28001742","SAVANNAH DISTRIBUTING COMPANY INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",9250
+"6806702","GEORGIA HOUSE REPUBLICAN TRUST","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",129650.81
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",8.2089552238806,91.7910447761194,"#D60000AF","#D60000AF",33500
+"6906","GEORIGA ASSOCIATION OF CONVENIENCE STORES","Retail Sales","General Business","Department, variety & convenience stores",10.0671140939597,89.9328859060403,"#CC0000AF","#CC0000AF",47680
+"12414","GEORGIA FOOD INDUSTRY ASSOCIATION","Food Processing & Sales","Agriculture","Food & beverage products and services",14.4230769230769,85.5769230769231,"#B80000AF","#B80000AF",26000
+"12421","GEORGIA POWER CO","Electric Utilities","Energy & Natural Resources","Electric power utilities",22.2533240027992,77.7466759972008,"#8F0000AF","#8F0000AF",71450
+"6845447","JAMES A WALTERS MANAGEMENT CO","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",0,100,"#FF0000AF","#FF0000AF",7500
+"3859","INDEPENDENT INSURANCE AGENTS OF GEORGIA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",10.8051585918438,88.8462879051934,"#CC0000AF","#C70000AF",71725
+"18780","GEORGIA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",20.7454072033213,79.2545927966787,"#990000AF","#990000AF",93032.64
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",25.5208333333333,74.4791666666667,"#800000AF","#800000AF",67200
+"1261","HOME DEPOT","Retail Sales","General Business","Hardware & building materials stores",25.7142857142857,74.2857142857143,"#800000AF","#800000AF",17500
+"3796","GEORGIA PHARMACY ASSOCIATION","Health Professionals","Health","Pharmacists",6.98924731182796,92.3387096774193,"#E00000AF","#DB0000AF",37200
+"6915","GEORGIA OILMENS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",2.76442307692308,97.2355769230769,"#F50000AF","#F50000AF",41600
+"3227","GEORGIA BEER WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",8.16078534156163,91.8392146584384,"#D60000AF","#D60000AF",83938
+"6426","GEORGIA INDUSTRIAL LOAN ASSOCIATION","Banks & Lending Institutions","Finance, Insurance & Real Estate","Banks & lending institutions",1.54178230033919,98.4582176996608,"#FA0000AF","#FA0000AF",32430
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",23300
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",9500
+"2939","ATLANTA & NORTH GEORGIA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",96.4285714285714,3.57142857142857,"#0000EBAF","#0000EBAF",7000
+"19687","ELECTRICAL WORKERS LOCAL 613","General Trade Unions","Labor","Electrical workers/IBEW",97.2602739726027,2.73972602739726,"#0000F0AF","#0000F0AF",18250
+"4708","GEORGIA TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",37.5380600260983,62.0269682470639,"#420000AF","#420000AF",229900
+"7055238","CONLEY GRIGGS & PARTIN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",5.26315789473684,94.7368421052632,"#E60000AF","#E60000AF",9500
+"56","AGL RESOURCES","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",20.0001151998341,79.9998848001659,"#990000AF","#990000AF",62500.09
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",23.7814465408805,76.2185534591195,"#8A0000AF","#8A0000AF",127200
+"328","BAXTER HEALTHCARE","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",0,100,"#FF0000AF","#FF0000AF",7750
+"761","DAVITA INC","Hospitals & Nursing Homes","Health","Health care institutions",5.88235294117647,94.1176470588235,"#E60000AF","#E60000AF",17000
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",6000
+"1084","GENERAL ELECTRIC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",8.80281690140845,91.1971830985916,"#D60000AF","#D60000AF",56800
+"1087","GENERAL MOTORS","Automotive","Transportation","Auto manufacturers",0,100,"#FF0000AF","#FF0000AF",10100
+"2615","TITLEMAX","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",5.7055299898505,94.2944700101495,"#E60000AF","#E60000AF",78870.85
+"2710","UPS","Air Transport","Transportation","Express delivery services",18.6813186813187,81.3186813186813,"#A30000AF","#A30000AF",45500
+"3177","AUTOMOBILE RETAIL DEALERS OF GEORGIA","Automotive","Transportation","Auto dealers, new & used",11.5606024549297,88.4393975450703,"#C70000AF","#C70000AF",81773.42
+"3840","HOSPITAL CORP OF AMERICA","Hospitals & Nursing Homes","Health","Hospitals",0,100,"#FF0000AF","#FF0000AF",7250
+"6916","GEORGIA SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",19.9386503067485,80.0613496932515,"#9E0000AF","#9E0000AF",32600
+"11291","COMMUNITY LOANS OF AMERICA","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",12.5271463260886,87.4728536739114,"#C20000AF","#C20000AF",9978.33
+"11499","CW MATTHEWS CONTRACTING","General Contractors","Construction","Public works, industrial & commercial construction",6.25,93.75,"#E00000AF","#E00000AF",16000
+"19030","COMMUNITY BANKERS ASSOCIATION OF GEORGIA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",8.4788029925187,90.7730673316708,"#D60000AF","#D10000AF",80200
+"21497","GEORGIA CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",13.2231404958678,86.7768595041322,"#BD0000AF","#BD0000AF",30250
+"6866463","GEORGIA RETAIL ASSOCIATION","Retail Sales","General Business","Retail trade",8.94632206759443,91.0536779324056,"#D60000AF","#D60000AF",25150
+"6890173","SUPERIOR COURT CLERKS OF GEORGIA","Civil Servants/Public Officials","Government Agencies/Education/Other","Courts & justice system",3.57142857142857,96.4285714285714,"#F00000AF","#F00000AF",7000
+"6914356","SHOAL CREEK INC","Mining","Energy & Natural Resources","Coal mining",0,100,"#FF0000AF","#FF0000AF",6000
+"15689146","JACKSON HEALTHCARE LLC","Health Services","Health","Health care services",2.75862068965517,97.2413793103448,"#F50000AF","#F50000AF",36250
+"16120407","STUDENTSFIRST","Public Education Policy","Ideology/Single Issue","School Choice Advocates",23.8636363636364,76.1363636363636,"#8A0000AF","#8A0000AF",44000
+"18911221","RB ROBINSON COMPANY LLC","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",8750
+"23324414","GEORGIA CONCRETE PAVING ASSOCIATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",3.56294536817102,96.437054631829,"#F00000AF","#F00000AF",21050
+"23325007","WORKPLACE INJURY NETWORK PAC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5750
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",4.3859649122807,95.6140350877193,"#EB0000AF","#EB0000AF",22800
+"6898","GEICO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",21500
+"10435","BLUE CROSS BLUE SHEILD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",14.1914191419142,85.8085808580858,"#B80000AF","#B80000AF",75750
+"19042","GEORGIA STATE FARM AGENTS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",5.26315789473684,94.7368421052632,"#E60000AF","#E60000AF",19000
+"15962789","INDEPENDENT DOCTORS OF GEORGIA","Health Professionals","Health","Health professionals",6.97674418604651,93.0232558139535,"#E00000AF","#E00000AF",32250
+"3837","GEORGIA HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",16.505406943654,83.2100170745589,"#AD0000AF","#AD0000AF",87850
+"132","AMERICAN FAMILY LIFE ASSURANCE CO / AFLAC","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",23.3103448275862,76.6896551724138,"#8A0000AF","#8A0000AF",36250
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",6.65197024706748,93.3480297529325,"#E00000AF","#E00000AF",22549.71
+"6827061","GEORGIA ASSOCIATION OF HMOS","Health Services","Health","HMOs",0,100,"#FF0000AF","#FF0000AF",17500
+"6803704","RICHARD SMITH CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",56800
+"4072","GEORGIA MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",16.8796234028245,83.1203765971755,"#AD0000AF","#AD0000AF",74350
+"4626","SUNTRUST BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",10.3260869565217,89.6739130434783,"#CC0000AF","#CC0000AF",46000
+"6885053","TERRY LAMAR ENGLAND CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",65600
+"4765","WINE & SPIRITS WHOLESALERS OF GEORGIA","Beer, Wine & Liquor","General Business","Liquor wholesalers",17.5468212619871,82.4531787380129,"#A80000AF","#A80000AF",64450.42
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",6.20689655172414,93.7931034482759,"#E00000AF","#E00000AF",36250
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",25.5398224800172,74.4601775199828,"#800000AF","#800000AF",51875.85
+"4076","MAG MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",16.4556962025316,82.9113924050633,"#AD0000AF","#A80000AF",79000
+"14129","METRO ATLANTA CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",12.1359223300971,87.8640776699029,"#C20000AF","#C20000AF",30900
+"14048157","RIALTO CAPITAL ADVISORS","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",3.8961038961039,96.1038961038961,"#F00000AF","#F00000AF",19250
+"7334","K12 INC","Education","Government Agencies/Education/Other","Education",0,100,"#FF0000AF","#FF0000AF",11500
+"6910","GEORGIA HIGHWAY CONTRACTORS ASSOCIATION & GEORGIA ASPHALT PAVEMENT ASSOCIATION","General Contractors","Construction","Builders associations",8.02469135802469,91.9753086419753,"#D60000AF","#D60000AF",40500
+"6803699","ROBERT MICKEY CHANNELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",17750
+"9021","STATE MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",3.66300366300366,96.3369963369963,"#F00000AF","#F00000AF",27300
+"6799451","LABORERS LOCAL 515","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5650
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",26.9882659713168,73.0117340286832,"#7A0000AF","#7A0000AF",38350
+"5179","GEORGIA CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",26.2904335856848,73.7095664143152,"#7A0000AF","#7A0000AF",72650
+"6909","GEORGIA CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",32,68,"#5C0000AF","#610000AF",37500
+"695","CORRECTIONS CORP OF AMERICA","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",7.01219512195122,92.9878048780488,"#DB0000AF","#DB0000AF",32800
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",16500
+"4460","REGIONS FINANCIAL CORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",8.57142857142857,91.4285714285714,"#D60000AF","#D60000AF",8750
+"4688","THE DOCTORS CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",1.86915887850467,98.1308411214953,"#FA0000AF","#FA0000AF",26750
+"16727","UNITED DISTRIBUTORS","Beer, Wine & Liquor","General Business","Liquor wholesalers",9.52380952380952,90.4761904761905,"#D10000AF","#D10000AF",10500
+"18929519","ABBVIE INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",25.4545454545455,74.5454545454545,"#800000AF","#800000AF",13750
+"6806515","HOWARD MAXWELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",22000
+"6803914","FRIENDS OF JAN JONES","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",84000
+"16541427","JAMES MATTHEW HATCHETT CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",32300
+"12424","GEORGIA RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",20.253164556962,79.746835443038,"#990000AF","#990000AF",19750
+"21487","GEORGIA ACADEMY OF INDEPENDENT PHARMACY","Health Professionals","Health","Pharmacists",0,100,"#FF0000AF","#FF0000AF",6800
+"8849","SELECT MANAGEMENT RESOURCES","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",30300
+"557","CHARTER COMMNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",24.5222929936306,75.4777070063694,"#850000AF","#850000AF",15700
+"2868","WILLIAMS COMPANIES","Oil & Gas","Energy & Natural Resources","Oil & gas",4.3956043956044,95.6043956043956,"#EB0000AF","#EB0000AF",9100
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",30.4535637149028,69.5464362850972,"#660000AF","#660000AF",46300
+"4440","GEORGIA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",17.4131135793622,82.0852740953063,"#A80000AF","#A80000AF",139550
+"6807718","DAVID RALSTON FOR REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",103800
+"4723","GEORGIA MOTOR TRUCKING ASSOCIATION","Trucking","Transportation","Trucking",0,100,"#FF0000AF","#FF0000AF",14249
+"7424082","GEORGIA ELECTRIC MEMBERSHIP CORPORATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",13.0057803468208,86.9942196531792,"#BD0000AF","#BD0000AF",51900
+"1393","JOE TANNER & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",19750
+"279084","MEDNAX SERVICES","Health Professionals","Health","Physicians",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",17000
+"3470","GEORGIA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",22.6538444112427,76.5769248786981,"#8F0000AF","#8A0000AF",130000.01
+"6832103","EPPS BROTHERS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3750
+"519","CATERPILLAR","Building Materials & Equipment","Construction","Construction equipment",0,100,"#FF0000AF","#FF0000AF",18000
+"23326325","COTPAC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"528","CENTENE CORP","Health Services","Health","HMOs",13.9372822299652,86.0627177700349,"#BD0000AF","#BD0000AF",43050
+"1277","HUMANA","Health Services","Health","HMOs",6.28930817610063,92.4528301886792,"#E00000AF","#DB0000AF",39750
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",14.4067796610169,85.5932203389831,"#B80000AF","#B80000AF",11800
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",9.25925925925926,90.7407407407407,"#D10000AF","#D10000AF",27000
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",8,92,"#D60000AF","#DB0000AF",18750
+"6888701","GEORGIA INDEPENDENT AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",4.12101780897846,95.8789821910215,"#EB0000AF","#EB0000AF",24265.85
+"6896074","GEORGIA VETERINARY MEDICAL ASSOCIATION","Agricultural Services & Products","Agriculture","Veterinarians",13.7931034482759,86.2068965517241,"#BD0000AF","#BD0000AF",27550
+"6938930","CORRECTHEALTH","Hospitals & Nursing Homes","Health","Health care institutions",6.45161290322581,93.5483870967742,"#E00000AF","#E00000AF",15500
+"16715757","GEORGIA ORTHOPAEDIC SOCIETY","Health Professionals","Health","Other physician specialists",7.59493670886076,89.873417721519,"#DB0000AF","#CC0000AF",19750
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",21.9512195121951,78.0487804878049,"#940000AF","#940000AF",20500
+"3793","GENENTECH INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",22.4489795918367,77.5510204081633,"#8F0000AF","#8F0000AF",12250
+"23323460","LAKEVIEW BEHAVIORAL HEALTH","Uncoded","Uncoded","Uncoded",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",7500
+"2787870","AMERICAN FEDERATION FOR CHILDREN ACTION FUND","Public Education Policy","Ideology/Single Issue","School Choice Advocates",29.6803652968037,70.3196347031963,"#6B0000AF","#6B0000AF",54750
+"6922046","GEORGIA POULTRY FEDERATION","Poultry & Eggs","Agriculture","Poultry & eggs",7.85669000461973,92.1433099953803,"#DB0000AF","#DB0000AF",60458.03
+"12423","GEORGIA RADIOLOGY ASSOCIATION","Health Professionals","Health","Other physician specialists",3.7037037037037,96.2962962962963,"#F00000AF","#F00000AF",13500
+"2651","TROUTMAN SANDERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",52200
+"1870","NCR CORP","Computer Equipment & Services","Communications & Electronics","Computer manufacture & services",0,100,"#FF0000AF","#FF0000AF",5000
+"4041458","COMMUNITY INSURANCE CO DBA ANTHEM BLUE CROSS & BLUE SHIELD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",8500
+"6800858","SHARON COOPER FOR STATE HOUSE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",18000
+"6828833","ATLANTA MOTOR SPEEDWAY","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",0,100,"#FF0000AF","#FF0000AF",3800
+"427","BRYAN CAVE LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",13.9751552795031,86.0248447204969,"#BD0000AF","#BD0000AF",16100
+"38190850","WINE & SPIRITS WHOLESALERS OF GEORGIA","Uncoded","Uncoded","Uncoded",8.32013667211173,91.6798633278883,"#D60000AF","#D60000AF",7211.42
+"6818582","SLAPPEY & SADD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",12600
+"38191163","GAPB PAC INC","Uncoded","Uncoded","Uncoded",10.8695652173913,89.1304347826087,"#CC0000AF","#CC0000AF",9200
+"23327736","GPHA PAC INC PHARMPAC","Uncoded","Uncoded","Uncoded",19.1256830601093,80.8743169398907,"#9E0000AF","#9E0000AF",9150
+"20882","FOOD & COMMERCIAL WORKERS LOCAL 1996","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",22050
+"17223","WORKPLACE INJURY NETWORK","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",9000
+"20220","GEORGIA EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",71.2092130518234,28.7907869481766,"#00006BAF","#00006BAF",26050
+"6805368","LAWRENCE E ONEAL JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",40000
+"6805128","LARRY J PARRISH CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",25250
+"28005804","COMMITTEE TO ELECT R M CHANNELL","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",19500
+"6894455","LAW OFFICES OF ROBERT E BOURNE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",4500
+"23324929","WORKPLACE INJURY NETWORK INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"16546803","COMMITTEE TO ELECT JOHN D MEADOWS III INC","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",18206.62
+"6898310","JOSHUA CLARK CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4300
+"23323886","GACCP-PAC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5500
+"6861718","JAMES HUGH ROBERTS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",14250
+"6808028","FRIENDS OF WENDELL WILLARD","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",12250
+"191","AMERIGROUP CORPORATION","Health Services","Health","HMOs",27.8958054472139,72.1041945527861,"#750000AF","#750000AF",21508.61
+"1457","KOCH INDUSTRIES","Chemical & Related Manufacturing","General Business","Chemicals",6.58682634730539,93.4131736526946,"#E00000AF","#E00000AF",41750
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",5.55555555555556,88.8888888888889,"#E60000AF","#C70000AF",18000
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",5.72916666666667,94.2708333333333,"#E60000AF","#E60000AF",9600
+"2914","YANCEY BROTHERS CO","Building Materials & Equipment","Construction","Construction equipment",0,100,"#FF0000AF","#FF0000AF",4500
+"7561","LOGISTICARE SOLUTIONS","Health Services","Health","Health care services",5.47945205479452,94.5205479452055,"#E60000AF","#E60000AF",18250
+"12315","FRIED ROGERS & GOLDBERG","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",32.7272727272727,67.2727272727273,"#5C0000AF","#5C0000AF",27500
+"12648","GULFSTREAM AEROSPACE CORP","Air Transport","Transportation","Aircraft manufacturers",18.5185185185185,81.4814814814815,"#A30000AF","#A30000AF",13500
+"13888","MALONE LAW OFFICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",51.8518518518518,48.1481481481481,"#000005AF","#000005AF",13500
+"6798970","HARRIS PENN LOWRY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",3500
+"6804531","THOMAS D WELDON JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2750
+"6842370","GEORGIA GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lawyers & lobbyists",0,100,"#FF0000AF","#FF0000AF",3500
+"6891081","JOSEPH M STILL BURN CENTERS","Hospitals & Nursing Homes","Health","Health care institutions",2.08333333333333,97.9166666666667,"#F50000AF","#F50000AF",12000
+"7616181","CABLE TELEVISION ASSOCIATION OF GEORGIA","Cable TV","Communications & Electronics","Satellite TV operators",9.32944606413994,90.6705539358601,"#D10000AF","#D10000AF",17150
+"7768721","SOUTHEASTERN REGIONAL MEDICAL CENTER","Hospitals & Nursing Homes","Health","Hospitals",23.6842105263158,76.3157894736842,"#8A0000AF","#8A0000AF",19000
+"23323841","GEORGIA AUTO PAWN INC","Uncoded","Uncoded","Uncoded",6.55737704918033,93.4426229508197,"#E00000AF","#E00000AF",6100
+"26170239","GEORGIA RECYCLERS ASSOCIATION","Uncoded","Uncoded","Uncoded",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",9000
+"26170534","HN1 THERAPY NETWORK OF GEORGIA LLC","Uncoded","Uncoded","Uncoded",11.5384615384615,88.4615384615385,"#C70000AF","#C70000AF",6500
+"26170581","HENRY SPIEGEL MILLING LLP","Uncoded","Uncoded","Uncoded",59.2592592592593,40.7407407407407,"#00002EAF","#00002EAF",13500
+"28002128","GEORGIA ORTHOPEDIC SOCIETY","Uncoded","Uncoded","Uncoded",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",3250
+"28746758","GSIPP-PAC INC","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",7500
+"6803717","RON C STEPHENS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",27500
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",15.358361774744,84.641638225256,"#B30000AF","#B30000AF",14650
+"3107","GEORGIA APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",12.8748707342296,87.1251292657704,"#C20000AF","#C20000AF",96700
+"6802708","MICHAEL J JACOBS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6250
+"26172644","COMMITTEE TO ELECT JOHN MEADOWS III INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3800
+"6803746","EVELYN RATIGAN SMITH CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",7500
+"6806927","DAVID W KNIGHT FOR STATE HOUSE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",7000
+"11878","EDUCATION MANAGEMENT CORP","Education","Government Agencies/Education/Other","Education",7.14285714285714,92.8571428571429,"#DB0000AF","#DB0000AF",14000
+"6913543","MAU WORKFORCE SOLUTIONS","Business Services","General Business","Political consultants & advisers",0,100,"#FF0000AF","#FF0000AF",4250
+"5725","ALLIANCE OF AUTOMOBILE MANUFACTURERS","Automotive","Transportation","Auto manufacturers",0,100,"#FF0000AF","#FF0000AF",5750
+"6803623","ALLEN M PEAKE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",33700
+"6803661","CMTE TO ELECT TOM DICKSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6750
+"6807353","ALFRED J POWELL JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",18000
+"6837682","THOMAS H BENTON SR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6300
+"6800431","HALL BOOTH SMITH & SLOVER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",3750
+"38191122","PAC OF WINE & SPIRITS WHOLESALERS OF GA","Uncoded","Uncoded","Uncoded",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",6750
+"38194737","FRIENDS OF LYNN R SMITH INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",12500
+"6799765","ALAN POWELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",10300
+"6878628","COLEMAN TALLEY LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",6500
+"6924649","VISTA OUTDOOR ADVERTISING","Business Services","General Business","Outdoor advertising services",0,100,"#FF0000AF","#FF0000AF",4182
+"27615156","CABLE TELEVISION ASSOCIATION OF GA","Uncoded","Uncoded","Uncoded",14,86,"#B80000AF","#B80000AF",5000
+"1396","JOHN DEERE & CO","Agricultural Services & Products","Agriculture","Farm machinery & equipment",13.1736526946108,86.8263473053892,"#BD0000AF","#BD0000AF",16700
+"29214751","EMPLOYERS EIG SERVICES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5500
+"40619778","WELLCARE OF GA INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2750
+"6691","EMPLOYERS INSURANCE CO OF NEVADA","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3750
+"6936928","GEORGIA SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",21.6681376875552,78.3318623124448,"#940000AF","#940000AF",22660
+"26170683","GEORGIA SOCIETY OF CPA'S","Uncoded","Uncoded","Uncoded",19.9131064446054,80.0868935553946,"#9E0000AF","#9E0000AF",13810
+"6875703","JAMES SLATON SHAW JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4591.23
+"6798616","GEORGIA FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",4350
+"14844","OUTDOOR ADVERTISING ASSOCIATION OF GEORGIA","Business Services","General Business","Outdoor advertising services",9.83717774762551,90.1628222523745,"#D10000AF","#D10000AF",14740
+"1269570","INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES / IUPAT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2500
+"6939545","WHITBY INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"28002120","HARRIS PENN & LOWRY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",32,68,"#5C0000AF","#610000AF",12500
+"10289","BRANCH BANKING & TRUST CORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",5.88235294117647,94.1176470588235,"#E60000AF","#E60000AF",34000
+"14043","MCGUIREWOODS LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",12.7588946137494,87.2411053862506,"#C20000AF","#C20000AF",45066.6
+"20920","RETAIL WHOLESALE & DEPARTMENT STORE LOCAL 338","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",2500
+"6901546","GEORGIA ASSOCIATION OF PROPERTY TAX PROFESSIONALS","Accountants","Finance, Insurance & Real Estate","Accountants",100,0,"#0000FFAF","#0000FFAF",2250
+"7016485","CASH KRUGLER & FREDERICKS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3000
+"28001980","WHOLESALE DISTRIBUTORS, THE PAC OF WINE & SPIRITS WHOLESALERS OF GA","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",2800
+"12427","GEORGIA SOCIETY OF OPHTHALMOLOGY","Health Professionals","Health","Optometrists & ophthalmologists",16.0202360876897,82.6306913996627,"#AD0000AF","#A80000AF",29650
+"16616","TOTAL SYSTEM SERVICES","Miscellaneous Finance","Finance, Insurance & Real Estate","Other financial services",40,60,"#330000AF","#330000AF",5000
+"2214","RESURGENS ORTHOPEDICS","Health Professionals","Health","Other physician specialists",7.47863247863248,90.3846153846154,"#DB0000AF","#D10000AF",23400
+"39430617","AMERICAN PHARMACY COOPERATIVE INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"18604","ASSOCIATED GENERAL CONTRACTORS OF GEORGIA","General Contractors","Construction","Builders associations",14.1025641025641,85.2564102564102,"#B80000AF","#B80000AF",78000
+"7667498","GAHU","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",0,100,"#FF0000AF","#FF0000AF",4750
+"12425","GEORGIA ALCOHOL DEALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor stores",12.7822229099857,87.2177770900143,"#C20000AF","#C20000AF",14475.26
+"384","BOEHRINGER INGELHEIM PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",2750
+"1198","HARTFORD FINANCIAL SERVICES","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",3000
+"1233","HEWLETT PACKARD","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",7500
+"1259","HOLLAND & KNIGHT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",8.92857142857143,91.0714285714286,"#D60000AF","#D60000AF",16800
+"1673","MCKENNA LONG & ALDRIDGE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",14.9122807017544,85.0877192982456,"#B80000AF","#B80000AF",28500
+"2189","RELX GROUP","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",15.0537634408602,84.9462365591398,"#B30000AF","#B30000AF",18600
+"2636","TRAVELERS COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",4000
+"3464","DELTA AIR LINES","Air Transport","Transportation","Airlines",17.2701949860724,82.7298050139276,"#A80000AF","#A80000AF",17950
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",13.0434782608696,86.9565217391304,"#BD0000AF","#BD0000AF",11500
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",9.375,90.625,"#D10000AF","#D10000AF",16000
+"15479","RESCARE INC","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",5000
+"16107","SPECTRA ENERGY","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",24.2424242424242,75.7575757575758,"#850000AF","#850000AF",8250
+"16686","TURNER BROADCASTING SYSTEM","TV & Movie Production/Distribution","Communications & Electronics","Commercial television & radio stations",11.3636363636364,88.6363636363636,"#C70000AF","#C70000AF",11000
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",10250
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",3.21637426900585,96.7836257309941,"#F00000AF","#F00000AF",17100
+"6820452","THE ROTH FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",3400
+"6827202","GEORGIA PRODUCTION PARTNERSHIP","TV & Movie Production/Distribution","Communications & Electronics","Broadcasting & motion pictures",0,100,"#FF0000AF","#FF0000AF",2500
+"6838158","CAVALIER INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3400
+"6842637","ATLANTA BRAVES","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",9.67741935483871,90.3225806451613,"#D10000AF","#D10000AF",7750
+"6855729","LINLEY JONES FIRM PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",7500
+"7057449","GEORGIA EMERGENCY MEDICINE","Health Professionals","Health","Physicians",14.4444444444444,85,"#B80000AF","#B30000AF",45000
+"7661498","AMBULATORY SURGERY CENTERS OF GEORGIA","Hospitals & Nursing Homes","Health","Hospitals",12.2262773722628,87.7737226277372,"#C20000AF","#C20000AF",27400
+"12379656","LANGDALE CAPITAL ASSETS","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",0,100,"#FF0000AF","#FF0000AF",7000
+"16713093","MORAITAKIS & KUSHEL LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",60,40,"#000033AF","#000033AF",5000
+"23324601","CHILDERS, SCHLUETER & SMITH LLC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"23325559","HALL BOOTH SMITH PC","Uncoded","Uncoded","Uncoded",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",6750
+"23327641","INDEPENDENT DOCTORS OF GEORGIA INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3250
+"6803689","CMTE TO ELECT MATT RAMSEY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",19000
+"3827","HOME BUILDERS ASSOCIATION OF GEORGIA","Home Builders","Construction","Residential construction",13.8888888888889,86.1111111111111,"#BD0000AF","#BD0000AF",28800
+"38196165","WINE & SPIRITS WHOLESALERS OF GA","Uncoded","Uncoded","Uncoded",21.9872716074728,78.0127283925272,"#940000AF","#940000AF",4871
+"49586","ART INSTITUTES INTERNATIONAL","Education","Government Agencies/Education/Other","Schools & colleges",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",5500
+"7804733","GARDE","Uncoded","Uncoded","Uncoded",5.15021459227468,94.8497854077253,"#E60000AF","#E60000AF",5825
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",3.65853658536585,96.3414634146341,"#F00000AF","#F00000AF",20500
+"28009258","GA APARTMENT ASSOCIATION","Uncoded","Uncoded","Uncoded",20.4545454545455,79.5454545454545,"#990000AF","#990000AF",4400
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",7.2463768115942,85.5072463768116,"#DB0000AF","#B80000AF",13800
+"18638","DIRECTV GROUP","Cable TV","Communications & Electronics","Satellite TV operators",6.25,93.75,"#E00000AF","#E00000AF",8000
+"134466","JL MORGAN CO","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",13750
+"17729512","RILEY MCLENDON LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2250
+"40615531","GDA","Uncoded","Uncoded","Uncoded",5.99201065246338,90.6790945406125,"#E60000AF","#D10000AF",7510
+"6803521","RANDALL OTIS NIX CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",13000
+"19055","MORTGAGE BANKERS ASSOCIATION OF GEORGIA","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",5.71428571428571,94.2857142857143,"#E60000AF","#E60000AF",26250
+"280116","UHS-PRUITT","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",6750
+"23324298","INVESTA SERVICES","Uncoded","Uncoded","Uncoded",3.125,96.875,"#F00000AF","#F00000AF",8000
+"26185409","PRUITTHEALTH","Hospitals & Nursing Homes","Health","Nursing homes",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",7500
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",5511.56
+"4761","WEYERHAEUSER CO","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",24.5535714285714,75.4464285714286,"#850000AF","#850000AF",11200
+"7000988","MACON OCCUPATIONAL MEDICINE","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"3098","AMERICAN PHARMACY COOPERATIVE","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",2300
+"6802680","EUGENE ED RYNDERS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",8000
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",10.5691056910569,89.4308943089431,"#CC0000AF","#CC0000AF",12300
+"6847326","SUPERIOR PINE PRODUCTS","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",0,100,"#FF0000AF","#FF0000AF",5750
+"6861796","JONES CO","Oil & Gas","Energy & Natural Resources","Gasoline service stations",0,100,"#FF0000AF","#FF0000AF",5000
+"40615361","GA BETTER GOVERNMENT FUND","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2850
+"2854568","EAGLE ROCK DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",11.2,88.8,"#C70000AF","#C70000AF",6250
+"12415","GEORGIA FORESTRY ASSOCIATION","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",12.6027397260274,87.3972602739726,"#C20000AF","#C20000AF",18250
+"600740","SANOFI US","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",18.2481751824818,81.7518248175183,"#A30000AF","#A30000AF",6850
+"11338","CONSTRUCTION SUPPLIERS ASSOCIATION","Building Materials & Equipment","Construction","Building materials",9.96168582375479,90.0383141762452,"#D10000AF","#D10000AF",13050
+"26170469","MATTHEWS & MAXWELL INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2450
+"9588","CHECK INTO CASH","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",7750
+"16715950","GEORGIANS FOR JERGUSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3278.74
+"12378453","GEORGIA ASSOCIATION OF MANUFACTURERS","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",15.8284023668639,84.1715976331361,"#B30000AF","#B30000AF",33800
+"6798853","STEPHEN BRADLEY HENSON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3200
+"18730","CBS OUTDOOR","Business Services","General Business","Outdoor advertising services",48.6486486486487,51.3513513513513,"#0A0000AF","#0A0000AF",9250
+"15564","ROBERT K FINNELL PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3750
+"6889157","GEORGIA ACADEMY OF FAMILY PHYSICIANS","Health Professionals","Health","Physicians",75,25,"#00007FAF","#00007FAF",2000
+"2545","SYNOVUS FINANCIAL CORP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",35,65,"#4D0000AF","#4D0000AF",5000
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",50,50,"#000000AF","#000000AF",3000
+"16550527","AMY A CARTER CAMPAIGN ACCOUNT","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2500
+"6803112","MARK HAMILTON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",9000
+"23327770","FRIENDS OF JON G BURNS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4750
+"10906717","RINGGOLD TELEPHONE CO","Telephone Utilities","Communications & Electronics","Telephone utilities",0,100,"#FF0000AF","#FF0000AF",2000
+"1389","JM FAMILY ENTERPRISES","Automotive","Transportation","Auto dealers, new & used",23.8805970149254,76.1194029850746,"#8A0000AF","#8A0000AF",16750
+"1811","NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",4.95049504950495,95.049504950495,"#EB0000AF","#EB0000AF",10100
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",11.4285714285714,88.5714285714286,"#C70000AF","#C70000AF",17500
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",17.8571428571429,82.1428571428571,"#A80000AF","#A80000AF",7000
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",11250
+"4028","LORILLARD TOBACCO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",0,100,"#FF0000AF","#FF0000AF",3250
+"16315","SWEDISH MATCH","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",11.9318181818182,88.0681818181818,"#C70000AF","#C70000AF",8800
+"23329352","CLARK & SMITH LAW FIRM LLC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",2500
+"6838601","THOMPSON VICTORY GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",3600
+"14050010","CURL PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",0,100,"#FF0000AF","#FF0000AF",3000
+"6803674","CMTE TO ELECT JOHN MEADOWS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2400
+"6898268","SEAN JERGUSON FOR STATE HOUSE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2000
+"12418","GEORGIA OBSTETRICAL & GYNECOLOGICAL SOCIETY","Health Professionals","Health","Other physician specialists",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",8500
+"6844614","GEORGIA ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",15.819209039548,84.180790960452,"#B30000AF","#B30000AF",8850
+"9954894","MERCK SHARP & DOHM CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",22.7272727272727,77.2727272727273,"#8F0000AF","#8F0000AF",6600
+"37999108","AMGEN","Pharmaceuticals & Health Products","Health","Biotech products & research",18.0722891566265,81.9277108433735,"#A30000AF","#A30000AF",12450
+"12410","GEORGIA BEVERAGE ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",26.83521401916,73.16478598084,"#7A0000AF","#7A0000AF",27016.74
+"26170786","GA AMUSEMENT & MUSIC OPERATORS ASSOCIATION","Uncoded","Uncoded","Uncoded",5.46075085324232,94.5392491467577,"#E60000AF","#E60000AF",7325
+"26170806","GEORGIA AMUSEMENT & MUSIC OPERATORS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1750
+"28747210","GEORGIA APARTMENT ASSOCIATION","Uncoded","Uncoded","Uncoded",12.2753178430513,87.7246821569487,"#C20000AF","#C20000AF",11405
+"6888401","GEORGIA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",7.40740740740741,92.5925925925926,"#DB0000AF","#DB0000AF",6750
+"12407","GEORGIA AFFORDABLE HOUSING COALITION","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",2.94117647058824,97.0588235294118,"#F50000AF","#F50000AF",17000
+"6803921","FRIENDS OF JON G BURNS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4750
+"116","AMERICAN CHEMISTRY COUNCIL","Chemical & Related Manufacturing","General Business","Chemicals",15.7894736842105,84.2105263157895,"#B30000AF","#B30000AF",9500
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",18.0232558139535,81.9767441860465,"#A30000AF","#A30000AF",8600
+"12377232","GEORGIA SOUTHWESTERN RAILROAD","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"1864","NATIONWIDE MUTUAL INSURANCE CO","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",11.6788321167883,88.3211678832117,"#C70000AF","#C70000AF",6850
+"23323365","RCR CAPITAL CONSULTING LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",8753
+"6803893","MATTHEW K DOLLAR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6250
+"15607806","ROBERT L DICKEY III CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",9250
+"38193928","OAAG-PAC INC","Uncoded","Uncoded","Uncoded",21.6494845360825,78.3505154639175,"#940000AF","#940000AF",9700
+"8450239","SCANA SERVICES","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",0,100,"#FF0000AF","#FF0000AF",4300
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",6000
+"16209232","TOWNS PUBLIC AFFAIRS LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4650
+"26173185","OUTDOOR ADVERTISING ASSOCIATION OF GEORGIA INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1730
+"26171156","GPHA PAC INC PHARM","Uncoded","Uncoded","Uncoded",12.1951219512195,87.8048780487805,"#C20000AF","#C20000AF",2050
+"6863083","MABRA FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1850
+"6808026","SAMUEL K TEASLEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",11200
+"7539589","CLASSIC CADILLAC","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",1800
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",9.18367346938776,90.8163265306122,"#D10000AF","#D10000AF",4900
+"38191288","N GA TRADES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2250
+"6858173","ST ANDREWS PLANTATION LLC","Uncoded","Uncoded","Uncoded",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",3250
+"735","CSX TRANSPORTATION","Railroads","Energy & Natural Resources","Railroads",9.23076923076923,90.7692307692308,"#D10000AF","#D10000AF",6500
+"5840","ARKANSAS STATE DENTAL ASSOCIATION","Health Professionals","Health","Dentists",0,100,"#FF0000AF","#FF0000AF",5350
+"12428","GEORGIA UTILITY CONTRACTORS ASSOCIATION","General Contractors","Construction","Public works, industrial & commercial construction",3.11545890709702,96.884541092903,"#F00000AF","#F00000AF",16049
+"23323501","GEORGIA PROPANE PAC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"16541417","PAULETTE RAKESTRAW CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1300
+"6913","GEORGIA MINING ASSOCIATION","Mining","Energy & Natural Resources","Mining",11.0169491525424,88.9830508474576,"#C70000AF","#C70000AF",35400
+"23323922","GEORGIA CHILD CARE ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"839","DOW CHEMICAL","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",6.45161290322581,93.5483870967742,"#E00000AF","#E00000AF",7750
+"68523","EMPLOYERS EIG SERVICES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",1750
+"10149","ASTELLAS PHARMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",25,75,"#800000AF","#800000AF",5000
+"6911158","RUSSELL LANDSCAPE GROUP","Special Trade Contractors","Construction","Landscaping & excavation services",0,100,"#FF0000AF","#FF0000AF",2250
+"23324046","PRIMERO GAMES","Gambling & Casinos","General Business","Casinos, racetracks & gambling",24.2424242424242,75.7575757575758,"#850000AF","#850000AF",8250
+"23323397","BOMA GEORGIA","Uncoded","Uncoded","Uncoded",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",3600
+"38195723","TROUTMAN SANDERS LLP GA PAC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3150
+"1096","GEO GROUP","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",23.8095238095238,52.3809523809524,"#8A0000AF","#0F0000AF",4200
+"6896811","COBB DEMOCRATIC WOMEN","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2500
+"11788","DRIVING EDUCATORS OF GEORGIA","Miscellaneous Services","General Business","Services",47.7611940298507,52.2388059701493,"#0F0000AF","#0F0000AF",3350
+"7747899","PITTMAN CONSTRUCTION COMPANY","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",4100
+"6829822","PEACH STATE TRUCK CENTERS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1613
+"6802689","FRIENDS OF BUDDY CARTER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2000
+"7221091","MALONE, THOMAS WILLIAM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1500
+"308","BARNES LAW GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",75,25,"#00007FAF","#00007FAF",4000
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",3250
+"1830075","PLANNED PARENTHOOD SOUTHEAST","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",12250
+"19521929","FOOD & COMMERCIAL WORKERS REGION 2 COUNCIL","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",2250
+"6799662","FRIENDS OF STACEY EVANS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1500
+"7100317","ROTH FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",9000
+"12377639","SHIVER HAMILTON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",12.5,87.5,"#C20000AF","#C20000AF",8000
+"1559","LOCKHEED MARTIN","Defense Aerospace","Defense","Defense aerospace contractors",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",2250
+"19739","TEAMSTERS LOCAL 728","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1750
+"6911149","SG CONTRACTING INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"2880","WINDSTREAM COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",47.3684210526316,52.6315789473684,"#0F0000AF","#0F0000AF",9500
+"6819228","CLARK & SMITH LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1250
+"6798565","STACEY Y ABRAMS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4000
+"15935088","MILLERCOORS","Beer, Wine & Liquor","General Business","Beer",17.939150401837,82.060849598163,"#A80000AF","#A80000AF",8361.6
+"7554766","WILLIAM S STONE PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",60,40,"#000033AF","#000033AF",5000
+"16002660","MONDELEZ INTERNATIONAL","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",26.3157894736842,73.6842105263158,"#7A0000AF","#7A0000AF",3800
+"16718482","GEORGIA GAME DEVELOPERS ASSOCIATION","Uncoded","Uncoded","Uncoded",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",3000
+"38193565","OOAG-PAC INC OF THE OUTDOOR ADVERTISING ASSOCIATION OF GA INC","Uncoded","Uncoded","Uncoded",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",1700
+"23322902","GEORGIAS WIN LIST","Women's Issues","Ideology/Single Issue","Women's issues",100,0,"#0000FFAF","#0000FFAF",2000
+"23330126","VIRGIL FLUDD ELECTION COMMITTEE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3200
+"6812482","WATKINS LOURIE ROLL & CHANCE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",25,75,"#800000AF","#800000AF",4000
+"6798789","CALVIN SMYRE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4000
+"26170870","MALONE LAW OFFICE PC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"6798726","JONES OSTEEN JONES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",25,75,"#800000AF","#800000AF",4000
+"2768","WAFFLE HOUSE","Food & Beverage","General Business","Restaurants & drinking establishments",0,100,"#FF0000AF","#FF0000AF",3000
+"18911625","FRIENDS OF JOHN PEZOLD","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1750
+"6900993","LANCE COOPER PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",3000
+"38193815","COBB HEALTHCARE PROFESSIONALS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"7407491","PAULDING COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1500
+"6805104","CITIZENS TO ELECT BROOKS COLEMAN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",5500
+"65226","DAVID J SHAFER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1200
+"6803774","LYNN WESTMORELAND FOR CONGRESS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1250
+"6900358","ASSISTED LIVING ASSOCIATION OF GEORGIA","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",2000
+"584","CIGNA CORP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",3750
+"9981","AMERICAN TRAFFIC SOLUTIONS","Miscellaneous Transport","Transportation","Transportation",12.5,87.5,"#C20000AF","#C20000AF",4000
+"6843752","MELVIN WEAVER CONSULTING","Business Services","General Business","Political consultants & advisers",9.87654320987654,90.1234567901235,"#D10000AF","#D10000AF",10125
+"23323386","TROUTMAN SANDERS LLP-GEORGIA PAC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"23324150","MAG MUTUAL INS CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"26173141","GA AMUSEMENT & MUSIC OPERATORS ASSO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1100
+"12429","GEORGIALINK PUBLIC AFFAIRS GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",19.7608677254769,80.2391322745231,"#9E0000AF","#9E0000AF",23278.33
+"28005423","ROGER WILLIAMS CAMPAIGN ACCOUNT","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"5","3M CO","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",0,100,"#FF0000AF","#FF0000AF",2000
+"131","AMERICAN EXPRESS","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",0,100,"#FF0000AF","#FF0000AF",2000
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",17.3913043478261,82.6086956521739,"#A80000AF","#A80000AF",11500
+"789","DEVRY EDUCATION GROUP","Education","Government Agencies/Education/Other","Schools & colleges",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",4250
+"793","DIAGEO","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",3.33333333333333,96.6666666666667,"#F00000AF","#F00000AF",7500
+"915","ENTERTAINMENT SOFTWARE ASSOCIATION","Computer Equipment & Services","Communications & Electronics","Computer software",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",2000
+"1338","INTERNATIONAL PAPER","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",0,100,"#FF0000AF","#FF0000AF",4000
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",24.4444444444444,75.5555555555556,"#850000AF","#850000AF",11250
+"2572","TENET HEALTHCARE","Hospitals & Nursing Homes","Health","Hospitals",12,88,"#C20000AF","#C20000AF",6250
+"11511","DAIICHI SANKYO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",6000
+"15900","SERVICE CORP INTERNATIONAL","Miscellaneous Services","General Business","Funeral services",0,100,"#FF0000AF","#FF0000AF",4500
+"197894","LEGALZOOM.COM INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4500
+"5585846","COOK NOEL TOLLEY BATES & MICHAEL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",20,80,"#990000AF","#9E0000AF",1250
+"6803722","THOMAS R RICE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",5000
+"6808528","ANDREW W JONES PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2000
+"6810519","ATLANTA BEVERAGE CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",1750
+"6837407","USRY CONSULTING","Business Services","General Business","Political consultants & advisers",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",6500
+"6864966","AMERICAN INSTITUTE OF ARCHITECTS GEORGIA","Construction Services","Construction","Architectural services",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",4250
+"6875903","LANCE A COOPER PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2000
+"6916103","MID-GEORGIA SALES CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",1250
+"6963014","FRANKLIN TAULBEE RUSHING SNIPES & MARSH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",7000
+"10882042","HART TELEPHONE CO","Telephone Utilities","Communications & Electronics","Telephone utilities",0,100,"#FF0000AF","#FF0000AF",1500
+"16715730","MASSEY WATSON BOWERS & HEMBREE LLC","Business Services","General Business","Political consultants & advisers",0,100,"#FF0000AF","#FF0000AF",2000
+"16715879","TECHNOLOGY ASSOCIATION OF GEORGIA","Uncoded","Uncoded","Uncoded",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",4500
+"26170568","SLOVER PRIETO MARIGLIANO HOLBERT LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"26170597","DAVID WM BOONE PC","Uncoded","Uncoded","Uncoded",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"26826647","QUICKTRIP CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"27668509","GEORGIA PSYCHOLOGICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"6803117","MARTIN FOR GEORGIA","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",7000
+"38191189","BRANCH BANKING & TRUST CO OF GA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"6798696","GEORGIA CHAPTER OF THE AMERICAN COLLEGE OF SURGEONS","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",1250
+"26170901","GEORGIA PHARMACY ASSOCIATION","Uncoded","Uncoded","Uncoded",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",3000
+"10892796","GEORGIA","Uncoded","Uncoded","Uncoded",12.5,62.5,"#C20000AF","#420000AF",2000
+"474","CANCER TREATMENT CENTERS OF AMERICA","Hospitals & Nursing Homes","Health","Health care institutions",5.88235294117647,94.1176470588235,"#E60000AF","#E60000AF",4250
+"23324279","TAGGART'S DRIVING SCHOOL","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"1642","MARTIN MARIETTA MATERIALS","Building Materials & Equipment","Construction","Building materials",10,90,"#CC0000AF","#D10000AF",10000
+"26170867","CONDITIONED AIR ASSOCIATION OF GEORGIA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"6855427","ROBIN FRAZER CLARK PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"40615308","GA PHARMACY ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1077.73
+"6827132","GEORGIA PEDIATRIC ASSOCIATION","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",2300
+"6830214","GA PHYSICAL THERAPY","Health Professionals","Health","Other non-physician health practitioners",0,100,"#FF0000AF","#FF0000AF",1750
+"23323416","GEORGIA-ALFA","Uncoded","Uncoded","Uncoded",7.69230769230769,92.3076923076923,"#DB0000AF","#DB0000AF",3250
+"40615580","GEORGIA PSYCHIATRY","Uncoded","Uncoded","Uncoded",15.0406504065041,83.739837398374,"#B30000AF","#AD0000AF",12300
+"23324669","HAYDON CONSULTING LLC","Uncoded","Uncoded","Uncoded",14.84375,85.15625,"#B80000AF","#B80000AF",6400
+"12408","GEORGIA ASSOCIATION OF HEALTH UNDERWRITERS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",12.5,87.5,"#C20000AF","#C20000AF",6000
+"23327897","GEORGIA AMUSEMENT & MUSIC OPERATORS ASSOCIATION","Uncoded","Uncoded","Uncoded",12.3287671232877,87.6712328767123,"#C20000AF","#C20000AF",7300
+"1675","MCKESSON CORP","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",2000
+"7147050","GANA","Health Professionals","Health","Nurses",0,100,"#FF0000AF","#FF0000AF",1700
+"2606106","TENASKA","Miscellaneous Energy","Energy & Natural Resources","Power plant construction & equipment",0,100,"#FF0000AF","#FF0000AF",1500
+"2533","SWISHER INTERNATIONAL","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",10,90,"#CC0000AF","#D10000AF",7500
+"11860","DISH NETWORK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",3.125,96.875,"#F00000AF","#F00000AF",8000
+"23327035","JAN B TANKERSLEY STATE CAMPAIGN ACCOUNT","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3300
+"27668628","E R SNELL CONTRACTOR INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"16715629","EDWARD LINDSEY FOR STATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1300
+"26170535","GOVERNMENT SOLUTIONS LLC","Uncoded","Uncoded","Uncoded",16.1290322580645,83.8709677419355,"#AD0000AF","#AD0000AF",2325
+"26170610","GEORGIA DERMATOLOGISTS","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"26170688","FROGUECLARK LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2175
+"26170805","HN1 THERAPY NETWORK OF GA LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"38193814","GEORGIA ACADEMY OF FAMILY PHYSICIANS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"6803177","NEIGHBORS FOR EARL EHRHART","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1706.62
+"6878972","BIBB DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",1800
+"6891627","GEORGIA CHEMISTRY COUNCIL","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",2800
+"6948735","YOUMANS CHEVROLET","Automotive","Transportation","Auto dealers, new & used",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"16546812","JOHN CHADWICK NIMMER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3500
+"26170236","OAAG-PAC INC OF THE OUTDOOR ADVERTISING ASSOCIATION OF GA INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"14048967","WILLIAMSON FOR WALTON","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5600
+"24837955","GE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"38172614","MATHEWS & MAXWELL","Uncoded","Uncoded","Uncoded",15.8730158730159,84.1269841269841,"#B30000AF","#B30000AF",1575
+"1713","METROPOLITAN LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",2000
+"2124","PRUDENTIAL FINANCIAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",27.5,72.5,"#750000AF","#750000AF",2000
+"6801426","LYNNETTE T RILEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2900
+"7039316","EAGLE WEST LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1900
+"23325105","TROUTMAN SANDERS LLP, GEORGIA PAC INC","Uncoded","Uncoded","Uncoded",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",1800
+"16546799","RICHARD M JEFFARES CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",920.13
+"1898","MISSISSIPPI RAILROAD ASSOCIATION NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroads",0,100,"#FF0000AF","#FF0000AF",3050
+"38192311","OUTDOOR ADVERTISING ASSOCIATION OF GA INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"16718308","COMMITTEE TO ELECT VIRGIL FLUDD","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1200
+"8848","SECURITY FINANCE CORP OF SPARENBURG","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",5250
+"6808220","PIEDMONT PUBLIC AFFAIRS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",48,52,"#0A0000AF","#0A0000AF",1562.5
+"38191442","INDEPENDENT DOCTORS OF GA","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",1750
+"6814766","ORLANDO FIRM PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",850
+"6903428","WEISSMAN NOWACK CURRY & WILCO PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1000
+"6821167","DATA SYSTEMS & GAMES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"23325097","GEORGIA ALFA","Uncoded","Uncoded","Uncoded",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",1750
+"6816117","CHARLES L SPILLERS PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1250
+"6802951","JIMMY H PRUETT JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4500
+"26173053","SIMONS & ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"6923419","LEE CONTAINER CORP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"6812398","GEORGIA AMUSEMENT & MUSIC OPERATORS ASSOCIATION","Recreation & Live Entertainment","General Business","Recreation & entertainment",0,100,"#FF0000AF","#FF0000AF",2000
+"8331868","SMART","General Trade Unions","Labor","Other unions",78.8732394366197,21.1267605633803,"#00008FAF","#00008FAF",3550
+"6891115","GEORGIA SPEECH LANGUAGE & HEARING ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",0,100,"#FF0000AF","#FF0000AF",1000
+"6842722","CECIL TERRELL MILLER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4500
+"396909","SENTINEL","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1750
+"38192730","GA ORTHOPAEDIC SOCIETY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"23328043","BELLAMY STRICKLAND CHEVROLET GMC BUICK ISUZU","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"2426","SOUTHEAST MILK","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",0,100,"#FF0000AF","#FF0000AF",1500
+"26170646","GEORGIA PEST CONTROL ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6250
+"28001987","OAAG PAC INC OF THE OUTDOOR ADVERTISING ASSOCIATION OF GEORGIA","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"6808494","BENTLEY BENTLEY & BENTLEY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2100
+"18920","GEORGIA COLLEGE OF EMERGENCY PHYSICIANS","Health Professionals","Health","Other physician specialists",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",3250
+"6909883","GEORGE SAMUEL BROCKWAY III CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2750
+"38193486","MATHEWS & MAXWELL INC","Uncoded","Uncoded","Uncoded",5.67023837682136,94.3297616231786,"#E60000AF","#E60000AF",6172.58
+"20690","AUTO WORKERS REGION 2B","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",1600
+"26170165","GA AMUSEMENT & MUSIC OPERATORS ASSOCIATES","Uncoded","Uncoded","Uncoded",31.1827956989247,68.8172043010753,"#610000AF","#610000AF",4650
+"18911232","OD KELLEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2250
+"26170272","FORESTPAC-GA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"23324909","JEFFERSON MOTOR COMPANY INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"23323348","GA WORK NET LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2450
+"6853398","ROCKTENN","Business Services","General Business","Advertising & public relations services",17.7570093457944,82.2429906542056,"#A80000AF","#A80000AF",5350
+"18911607","PA'S FOR HEALTHCARE ACCESS","Uncoded","Uncoded","Uncoded",35.2112676056338,64.7887323943662,"#4D0000AF","#4D0000AF",3550
+"16550542","COMMITTEE TO ELECT B LEE HAWKINS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",750
+"580077","NANCY GROGAN ORROCK CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1300
+"26170702","CLAYTON COUNTY EDUCATION COMMITTEE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"7316807","LAGRANGE GROCERY","Recreation & Live Entertainment","General Business","Recreation & entertainment",100,0,"#0000FFAF","#0000FFAF",1000
+"6839506","POST PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",20,80,"#990000AF","#9E0000AF",2500
+"38194468","HJ RUSSELL & COMPANY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"26170781","GA INDEPENDENT AUTO DEALERS ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"214","APOLLO GROUP","Education","Government Agencies/Education/Other","Schools & colleges",31.25,68.75,"#610000AF","#610000AF",4000
+"7020182","MARK M MIDDLETON PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",62.5,37.5,"#00003DAF","#00003DAF",1200
+"27660761","OUTDOOR ADVERTISING ASSOCIATION OF GA","Uncoded","Uncoded","Uncoded",51.6129032258064,48.3870967741936,"#000005AF","#000005AF",1550
+"6798924","FRIENDS OF STEPHANIE STUCKEY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",750
+"23340024","QUIKTRIP CORPORATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",40,60,"#330000AF","#330000AF",1250
+"16542894","CMTE TO ELECT LEE MAY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",750
+"15921058","WAYFIELD FOODS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1300
+"38191475","BEV","Uncoded","Uncoded","Uncoded",70.3125,29.6875,"#000066AF","#000066AF",3200
+"6799488","WILLIAM W MITCHELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1000
+"6865168","GEORGIA SOCIETY OF INTERVENTIONAL PAIN PHYSICIANS","Health Professionals","Health","Other physician specialists",50,50,"#000000AF","#000000AF",1000
+"26171436","STACEY GODFREY EVANS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",650
+"6920011","OPERATING ENGINEERS LOCAL 474","General Trade Unions","Labor","Construction unions",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",1500
+"6908927","BRETT HARRELL CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1200
+"29653744","ASSOCIATED BUILDERS & CONTRACTORS OF GEORGIA","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",7000
+"23323927","CONNECT PUBLIC RELATIONS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"23323975","BRETT HARRELL CAMPAIGN INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3450
+"4","21ST CENTURY MAJORITY FUND","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",14500
+"6833319","CMTE TO ELECT CARL ROGERS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",5200
+"6901698","CONNECTSOUTH","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",1500
+"7510275","PLANT IMPROVEMENT CO","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1000
+"6807877","BYUNG JIN PAK CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2750
+"6861120","PEOPLE FOR BARRY FLEMING","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1700
+"18911613","FRIENDS OF KEVIN TANNER INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"18911622","MICHAEL T GRAVLEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1023
+"28746658","RESTORE OUR REPUBLIC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",9500
+"18911633","WILLIAMS FOR STATE HOUSE CAMPAIGN FUND","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"16546816","TERRY ROGERS CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1500
+"38192955","GEORGIA SOCIETY OF AMBULATORY SURGERY CENTERS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"6798537","TIM GOLDEN FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1500
+"6803942","FRIENDS OF RALPH HUDGENS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1500
+"6908942","FRIENDS OF TOMMY HUNTER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",950
+"1817","NATIONAL ASSOCIATION OF CHAIN DRUG STORES","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",1500
+"127","AMERICAN COUNCIL OF LIFE INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",3000
+"6825587","TRIAGE HOLDINGS","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",2500
+"7001769","ROBERT A HAYNES DBA G A R D E","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"40620083","MERCURY INSURANCE SERVICES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"9904","ALLERGAN","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",1000
+"21023","GEORGIA PHYSICAL THERAPY","Health Professionals","Health","Other non-physician health practitioners",0,100,"#FF0000AF","#FF0000AF",750
+"6807100","HUGHES PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",650
+"6842434","ANDY WELCH CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2139.13
+"7012661","ROBERT A HAYNES DBA GARDE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"7031925","JOSEPH D YOUNG PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",800
+"7390315","HUNTER MACLEAN GEORGIA PAC INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1100
+"23324656","GEORGIA AIRPORTS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2175
+"23326169","JIMMY ALLGOOD RENTAL LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"26170206","MARINE TRADE ASSOCIATION OF METROPOLITAN ATLANTA INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"26170497","FRIENDS OF GREG KIRK","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"28002134","PLUMBING & MECHANICAL ASSOCIATION OF GEORGIA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1400
+"31728629","RESOLUTE FP US INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"23324375","WINTER CONSTRUCTION CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",800
+"6800949","OREN HALL HARDEN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1500
+"926","EQUIFAX","Miscellaneous Finance","Finance, Insurance & Real Estate","Credit reporting services & collection agencies",0,100,"#FF0000AF","#FF0000AF",750
+"26170016","GAMOA","Uncoded","Uncoded","Uncoded",34.7058823529412,58.2352941176471,"#520000AF","#2E0000AF",4250
+"28005401","CABLE TELEVISION ASSOCIATION OF GA PAC INC","Uncoded","Uncoded","Uncoded",24,76,"#850000AF","#850000AF",2500
+"40613602","SAMPAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"6803357","BARBARA SIMS FOR GEORGIA HOUSE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3000
+"2406","SMITH GAMBRELL & RUSSELL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1000
+"6799607","CMTE TO ELECT KEVIN LEVITAS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",950
+"16192275","GEORGIA CONSTRUCTION AGGREGATE ASSOCIATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",19.0751445086705,80.9248554913295,"#9E0000AF","#9E0000AF",4325
+"6834025","LONGSTREET CLINIC PC","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",1500
+"6884625","HULSEY ENVIRONMENTAL SERVICES","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",1000
+"6991480","THOMAS A MCCALL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1900
+"38193948","GA PEST CONTROL ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"18976544","REPUBLIC FINANCE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"28002034","GEORGIA SENIOR LIVING ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1000
+"6848485","HAYDON CONSULTING","Home Builders","Construction","Residential construction",0,100,"#FF0000AF","#FF0000AF",1000
+"6840010","SOD ATLANTA","Crop Production & Basic Processing","Agriculture","Farmers, in general",0,100,"#FF0000AF","#FF0000AF",750
+"7878475","ARROW EXTERMINATORS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"16328044","SOUTHERN CROP PRODUCTION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"26170154","GAMOA GEORGIA AMUSEMENT & MUSIC OPERATORS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"40615329","CABLE TV ASSOCIATION OF GA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",800
+"1734","MILLER & MARTIN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",6.25,93.75,"#E00000AF","#E00000AF",1600
+"6824376","MILTON HALL SURGICAL ASSOCIATES","Health Professionals","Health","Other physician specialists",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",2250
+"6856260","HUDSON GROUP LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1400
+"1990","PARSONS BRINCKERHOFF QUADE & DOUGLAS","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",1250
+"6830194","GEORGIA HOTEL & LODGING ASSOCIATION","Lodging & Tourism","General Business","Hotels & motels",0,100,"#FF0000AF","#FF0000AF",3500
+"7692889","GEORGIA STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",40,60,"#330000AF","#330000AF",1250
+"7012682","JOHN STUCKEY & ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"23323859","FIVEASH STANLEY INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"12419","GEORGIA ORTHOPEDIC SOCIETY","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",1250
+"26170411","PGR INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",950
+"6937770","CORNDAWGS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"16541425","FRIENDS OF VALERIE CLARK","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2000
+"16717895","COMMITTEE TO ELECT DALE RUTLEDGE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1180.13
+"18911612","FRIENDS OF BRUCE BROADRICK FOR THE HOUSE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",700
+"18927777","13TH COLONY LEADERSHIP COMMITTEE INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"1233102","INSURANCE HOUSE INC","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",750
+"6814887","E R SNELL CONTRACTOR","General Contractors","Construction","Public works, industrial & commercial construction",0,100,"#FF0000AF","#FF0000AF",1000
+"17178","WINTER CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",750
+"8530787","SOUTHERN CROP PRODUCTION ASSOCIATION","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",1250
+"28005584","SOUTHERN CROP PRODUCTION ASSOCIATION PAC1","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"28746641","LPCA- LPC'S FOR ACCESS TO MENTAL HEALTHCARE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"21778362","QUIK TRIP CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"38191347","GEORGIA MANUFACTURED HOUSING","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"40615489","OAAG","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1300
+"23328060","WILLIAM BURTON JONES CAMPAIGN CMTE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1080.13
+"23324990","ROYAL CONSULTING INC","Uncoded","Uncoded","Uncoded",9.83606557377049,90.1639344262295,"#D10000AF","#D10000AF",6100
+"379700","GRANT FREEMAN LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",750
+"7057418","GEORGIA AUDIOLOGY","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",1250
+"12378556","HUDSON GROUP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",937.48
+"28746723","IND DOC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"16550553","JOHN CARSON CAMPAIGN ACCOUNT","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2100
+"26171958","JAMES ALEXANDER ATWOOD CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1450
+"26170184","GEORGIA AMUSEMENT & MUSIC OPERATORS ASSOCIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"28005707","GA ACADEMY OF FAMILY PHYSICIANS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",700
+"38190705","GEORGIA AMUSEMENT & MUSIC","Uncoded","Uncoded","Uncoded",0,74.0740740740741,"#FF0000AF","#800000AF",675
+"6813476","OXFORD CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"15378","RAYONIER INC","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",0,100,"#FF0000AF","#FF0000AF",1500
+"6857668","BILL HAMRICK CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",750
+"26170003","MCDONALD FIRM LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"28001928","PLUMBING & MECH ASSOCIATION OF GA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1400
+"6847725","BLACKMON, SHAW","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",700
+"6843655","RHINE DRUG CO","Pharmaceuticals & Health Products","Health","Pharmaceutical wholesale",0,100,"#FF0000AF","#FF0000AF",750
+"23324654","CONDITIONED AIR ASSOCIATION OF GA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1850
+"6805452","LILLIAN PENELOPE HOUSTON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3450
+"23326595","COMMITTEE TO RE-ELECT SUSAN HOLMES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1050
+"23323482","PRCHAL & PRCHAL PC","Uncoded","Uncoded","Uncoded",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",1200
+"6804427","CROSBY FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",750
+"6803426","SENATOR JACK HILL CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",15.625,84.375,"#B30000AF","#B30000AF",1600
+"7064763","UNITED ADVANCED PRACITICE REGISTERED NURSES OF GEORGIA","Health Professionals","Health","Nurses",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"38191111","GAMOA GEORGIA AMUSEMENT & MUSIC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"6805256","JOSEPH BEEBE WILKINSON JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4500
+"13982975","CHRISTIAN COOMER CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1250
+"6923070","CHANCY DRUGS","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",1000
+"20137","GEORGIA STATE AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",6050
+"6815859","DOZIER LAW FIRM LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",700
+"27614231","PLUMBING & MECHANICAL ASSOCIATION OF GA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1350
+"6896087","GEORGIA ASSOCIATION OF GROUNDWATER PROFESSIONALS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"6808354","BREAK POINT CONSULTING","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",1600
+"6847914","TRUE NORTH PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1800
+"23323843","KAREN POPE CONSULTING LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2300
+"918072","SOUTHEASTERN WOOD PRODUCERS ASSOCIATION","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",0,100,"#FF0000AF","#FF0000AF",1450
+"12745861","MCKINNEY, LYNN BROWN","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",501
+"23324119","J FRANK ROGERS & ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"23323448","GEORGIA DIETETIC ASSOCIATION","Uncoded","Uncoded","Uncoded",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",1100
+"6846616","SPECIALTY CONTRACTORS COALITION","Special Trade Contractors","Construction","Special trade contractors",8.98876404494382,91.0112359550562,"#D60000AF","#D60000AF",13350
+"12409","GEORGIA AUTO PAWN","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",800
+"10880","CAPITOL PARTNERS ADVANCE AMERICA","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",600
+"18734","CLEAR CHANNEL COMMUNICATIONS","TV & Movie Production/Distribution","Communications & Electronics","Commercial television & radio stations",20,80,"#990000AF","#9E0000AF",1500
+"18911507","RAY S SMITH III LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",600
+"23328208","WALKER-RHODES TRACTOR CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"6998138","MEADOWS & MACIE PC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"7039063","LEE GROUP CONSULTING LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",925
+"7207364","OCCUPATIONAL THERAPY ASSOCIATION OF GEORGIA","Health Professionals","Health","Other non-physician health practitioners",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",650
+"6890039","ROYAL CONSULTING INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1450
+"6803237","RP COMMUNICATIONS","Business Services","General Business","Advertising & public relations services",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",1275
+"6799335","CAMPAIGN TO ELECT WINFRED DUKES","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",550
+"16251624","ROCK TENN","Uncoded","Uncoded","Uncoded",56,44,"#00001FAF","#00001FAF",1250
+"38192277","GA ASSOCIATION OF MANUFACTURERS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"26171370","PATIENT FIRST NETWORK LLC","Uncoded","Uncoded","Uncoded",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",550
+"6900243","GEORGIA GOVERNMENTAL AFFAIRS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",310
+"6843818","FINEASH-STANLEY","Business Services","General Business","Political consultants & advisers",0,100,"#FF0000AF","#FF0000AF",335
+"6943949","FRIENDS OF EMANUEL JONES","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",500
+"6798765","CMTE TO ELECT CAROLYN F HUGLEY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",750
+"19558","GEORGIA STATE COUNCIL OF MACHINISTS & AEROSPACE WORKERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3550
+"6799257","CAMPAIGN TO ELECT GLORIA FRAZIER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",500
+"6836157","MATHEWS & MAXWELL","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"23325144","SECURITY FINANCE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"20536234","SECURITY FINANCE CORPORATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"23324869","GA PSYCHIATRY","Uncoded","Uncoded","Uncoded",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",450
+"6800308","VIRTUOUS POWER CHICKS FUND","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",550
+"6813899","LAW OFFICES OF HUMBERTO IZQUIERDO JR PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",500
+"16542927","FRIENDS OF JOHN WILKINSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1200
+"6897796","LEONARD EDWIN SETZLER CAMPAIGN CMTE","Candidate Contributions","Candidate Contributions","Candidate Contribution",0,100,"#FF0000AF","#FF0000AF",1250
+"6807363","RCR CAPITAL CONSULTING","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",1000
+"26170463","LPCA-LPC'S FOR ACCESS TO MENTAL HEALTH CARE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"14052143","HOSPITALITY RENOVATIONS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"16715610","LEE GROUP CONSULTING","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"6808022","FRIENDS OF MIKE COAN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",500
+"3173003","AUTOMOBILE CLUB","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",750
+"26170741","GSH","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",650
+"16209204","BILL HAMRICK CAMPAIGN ACCOUNT","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1500
+"2137","PULL-A-PART USED AUTO PARTS","Automotive","Transportation","Truck & automotive parts and accessories",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",900
+"16715872","COMMITTEE TO ELECT LEE HAWKINS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"23327570","CAPITOL PARTNERS PUBLIC AFFAIRS GROUP INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",650
+"6911302","STRAWN & CO INSURANCE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"18911241","WILLIAM W HITCHENS JR CAMPAIGN CMTE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"16715652","SAMUEL L WATSON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",500
+"6802372","STEVENS GROUP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",1038.32
+"16718568","GEORGIA PROPANE GAS ASSOCIATION","Oil & Gas","Energy & Natural Resources","LPG/Liquid propane dealers & producers",0,100,"#FF0000AF","#FF0000AF",500
+"6798586","CMTE TO ELECT BUBBER EPPS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",500
+"6801716","SAVANNAH DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",500
+"28002319","STANLEY CORBETT FARMS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"38191365","THOMAS & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",268.33
+"10880721","CAPITAL PARTNERS PUBLIC AFFAIRS GROUP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",400
+"15795202","GEORGIA SCHOOL NUTRITION ASSOCIATION","Uncoded","Uncoded","Uncoded",12.5,87.5,"#C20000AF","#C20000AF",800
+"23324928","SPECIALIZED TITLE SERVICES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",300
+"40615331","PAS FOR HEALTHCARE ACCESS","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",350
+"16210238","LAW OFFICE OF MATTHEW M MCCORD PC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",300
+"4817","GEORGIA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",518.52
+"38191554","GEORGIA AMUSEMENT & MUSIC ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",300
+"6913170","GEORGIA SPEECH-LANGUAGE-HEARING ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",50,50,"#000000AF","#000000AF",300
+"6867153","GEORGIA AUDIOLOGY PAC","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",300
+"38193719","GA AMUSEMENT & MUSIC OPERATORS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",300
+"7007768","ANN ROSENTHAL CONSULTING INC","Business Services","General Business","Advertising & public relations services",40,60,"#330000AF","#330000AF",250
+"26170168","GEORGIA AMUSEMENT & MUSIC OPERATORS ASSOCIATES INC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",250
+"23326952","HISTORIC WOODFIN","Nonprofit Institutions","Government Agencies/Education/Other","Nonprofit foundations",50,50,"#000000AF","#000000AF",200
+"6892539","GA SCHOOL NUTRITION ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",200

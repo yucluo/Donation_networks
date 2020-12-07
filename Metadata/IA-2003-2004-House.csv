@@ -1,0 +1,266 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"4825","IOWA DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",99.9167752264484,0.083224773551633,"#0000FAAF","#0000FAAF",1201565.3
+"4824","IOWA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",867742.89
+"28135631","RPI","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",68912.06
+"2351","SERVICE EMPLOYEES INTERNATIONAL UNION / SEIU","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",43500
+"12757","HAWKEYE PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",151500
+"19893","OPERATING ENGINEERS LOCAL 234","General Trade Unions","Labor","Construction unions",99.4100294985251,0.589970501474926,"#0000FAAF","#0000FAAF",33900
+"5221","IOWA CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",63.4222499776965,36.5777500223035,"#000042AF","#000042AF",78463
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",131250
+"4630","TAXPAYERS UNITED","Tax Issues","Ideology/Single Issue","Fiscal & tax policy",1.17785630153121,98.8221436984688,"#FA0000AF","#FA0000AF",169800
+"18606","ASSOCIATED GENERAL CONTRACTORS OF IOWA","General Contractors","Construction","Builders associations",23.4375,76.5625,"#8A0000AF","#8A0000AF",156800
+"2147","QWEST COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",41.1948376353039,58.8051623646961,"#2E0000AF","#2E0000AF",48040
+"7218","IOWA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",22.4536048589427,77.5463951410573,"#8F0000AF","#8F0000AF",115126.28
+"6100399","HEAVY HIGHWAY","General Contractors","Construction","Public works, industrial & commercial construction",92.3404255319149,7.65957446808511,"#0000D6AF","#0000D6AF",47000
+"4710","IOWA TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",94.9414637608912,5.05853623910885,"#0000E0AF","#0000E0AF",61282.55
+"4443","IOWA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",39.3150196218338,60.6849803781663,"#380000AF","#380000AF",140150
+"7546","LINN PHOENIX CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",21000
+"780","DEMOCRACY FOR AMERICA","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",43500
+"243574","SERVICE EMPLOYEES UNIDENTIFIED","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",8628.06
+"2288","SAC & FOX NATION OF THE MISSISSIPPI IN IOWA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",55.2,44.8,"#00001AAF","#00001AAF",62500
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",45.0867052023121,54.9132947976879,"#1A0000AF","#1A0000AF",17300
+"3136","MASTER BUILDERS OF IOWA","General Contractors","Construction","Builders associations",30.3308162531463,69.6691837468536,"#660000AF","#660000AF",55620
+"7231","IOWA MEDICAL SOCIETY","Health Professionals","Health","Physicians",30.9687875483108,69.0312124516892,"#660000AF","#660000AF",46498.43
+"20708","IOWA STATE AUTO WORKERS","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",15450
+"20920","RETAIL WHOLESALE & DEPARTMENT STORE LOCAL 338","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",8000
+"7545","LINN EAGLES","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",8000
+"6747","FEDERATION OF IOWA INSURERS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",27.3492286115007,72.6507713884993,"#750000AF","#750000AF",35650
+"7244","IOWA STATE BAR ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",48.7185442228844,51.2814557771156,"#0A0000AF","#0A0000AF",37460.13
+"9056","STORY COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",8630
+"7730","MCI COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",39.039039039039,60.960960960961,"#380000AF","#380000AF",16650
+"3623","IOWA FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",18.4337865971351,81.5662134028649,"#A30000AF","#A30000AF",65911.58
+"1020","UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION / UFCW","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",20200
+"1396","JOHN DEERE & CO","Agricultural Services & Products","Agriculture","Farm machinery & equipment",9.27487352445194,90.7251264755481,"#D10000AF","#D10000AF",59300
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",9500
+"19990","IOWA LABORERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",10800
+"20801","HEARTLAND DISTRICT COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",33750
+"1725","MICROSOFT","Computer Equipment & Services","Communications & Electronics","Computer software",25,75,"#800000AF","#800000AF",10000
+"2108","PRINCIPAL FINANCIAL GROUP","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",26.8680921208671,73.1319078791329,"#7A0000AF","#7A0000AF",26983.68
+"6286","CITIZENS FOR PRESERVATION OF RACING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",29.3706293706294,70.6293706293706,"#6B0000AF","#6B0000AF",35750
+"20557","PLUMBERS & PIPEFITTERS LOCAL 125","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",24740
+"3124","IOWA ASSOCIATION OF BUSINESS & INDUSTRY","Business Associations","General Business","Chambers of commerce",4.50350450023103,95.496495499769,"#EB0000AF","#EB0000AF",50405.19
+"1287","HY-VEE INC","Food Processing & Sales","Agriculture","Food stores",29.7752808988764,70.2247191011236,"#6B0000AF","#6B0000AF",17800
+"7215","IOWA ASSOCIATION OF COMMUNITY PROVIDERS","Health Services","Health","Mental health services",30.939226519337,69.060773480663,"#660000AF","#660000AF",18100
+"3183","IOWA CMTE OF AUTOMATIVE RETAILERS","Automotive","Transportation","Auto dealers, new & used",27.8723404255319,72.1276595744681,"#750000AF","#750000AF",47000
+"7226","IOWA HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",28.1620553359684,71.8379446640316,"#700000AF","#700000AF",50600
+"11030904","COMMONWEALTH PAC-IOWA","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",9000
+"2633","UNITED TRANSPORTATION UNION / UTU","Transportation Unions","Labor","Railroad unions",90,10,"#0000CCAF","#0000CCAF",12500
+"40615646","IOWA TELECOM ITPAC","Uncoded","Uncoded","Uncoded",17.6915799432356,82.3084200567644,"#A80000AF","#A80000AF",10570
+"7246","IOWA TELECOMMUNICATIONS ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",23.3171408743928,76.6828591256072,"#8A0000AF","#8A0000AF",36025
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",4.98802873104549,95.0119712689545,"#EB0000AF","#EB0000AF",5012
+"6135018","FOOD & COMMERCIAL WORKERS LOCAL 1142","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",4000
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",7.21649484536082,92.7835051546392,"#DB0000AF","#DB0000AF",9700
+"10958","CEDAR RAPIDS BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",11250
+"1194","HARRAHS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",37.7358490566038,62.2641509433962,"#420000AF","#420000AF",13250
+"6160809","AMERUS GROUP","Miscellaneous Finance","Finance, Insurance & Real Estate","Financial services & consulting",27.1604938271605,72.8395061728395,"#750000AF","#750000AF",10125
+"6021433","JOHNSON COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",3700
+"90","ALLIANT ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",21.4521452145215,78.5478547854785,"#940000AF","#940000AF",15150
+"10237026","IOWA LIFE UNDERWRITERS","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",2715
+"6501","DAWNS LIST","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",7500
+"18876","IOWA HEALTH CARE ASSOCIATION / IOWA CENTER FOR ASSISTED LIVING","Hospitals & Nursing Homes","Health","Nursing homes",37.6750700280112,62.3249299719888,"#420000AF","#420000AF",35700
+"8920","SMITHFIELD FOODS","Food Processing & Sales","Agriculture","Meat processing & products",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",11700
+"13","A BROTHERHOOD AIMED TOWARD EDUCATION","Miscellaneous Transport","Transportation","Motorcycles, snowmobiles & other motorized vehicles",21.6475095785441,78.3524904214559,"#940000AF","#940000AF",26100
+"7232","IOWA MOTOR TRUCK ASSOCIATION","Trucking","Transportation","Trucking",28.2415817363314,71.7584182636686,"#700000AF","#700000AF",15402.82
+"7241","IOWA SOFT DRINK ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",15.6498673740053,84.3501326259947,"#B30000AF","#B30000AF",18850
+"40615602","MOTOR CARRIERS","Uncoded","Uncoded","Uncoded",21.5289144825501,78.4710855174499,"#940000AF","#940000AF",24339.36
+"2997","IOWA FEDERATION OF LABOR AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",28568.2
+"19129","AFSCME IOWA COUNCIL 61","Public Sector Unions","Labor","State & local government employee unions",88.4580479723099,11.5419520276901,"#0000C2AF","#0000C2AF",30324.16
+"4092","MIDAMERICAN ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",28.3544303797468,71.6455696202532,"#700000AF","#700000AF",39500
+"7222","IOWA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",14.1604956929122,85.8395043070878,"#B80000AF","#B80000AF",33085
+"7245","IOWA STATE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",5500
+"6023301","POTTAWATOMIE COUNTY REPUBLICAN CENTRAL CMTE OF IOWA","Party Committees","Party","Republican Party committees",100,0,"#0000FFAF","#0000FFAF",2950
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",5500
+"7248","IOWA WHOLESALE BEER DISTRIBUTORS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",30,70,"#660000AF","#660000AF",21500
+"7166","INDEPENDENT INSURANCE AGENTS OF IOWA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",29.4427315317522,70.5572684682478,"#6B0000AF","#6B0000AF",25473.18
+"40615612","IRON WORKERS LOCAL 67","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4500
+"16415","TENNESSEE VOLUNTEER PAC","Miscellaneous Finance","Finance, Insurance & Real Estate","Other financial services",0,100,"#FF0000AF","#FF0000AF",4000
+"2141813","ALLIED GROUP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",35.1758793969849,64.8241206030151,"#4D0000AF","#4D0000AF",9950
+"6112220","GROCERS","Uncoded","Uncoded","Uncoded",21.4285714285714,78.5714285714286,"#940000AF","#940000AF",16800
+"38041582","GLAXO SMITH KLINE","Uncoded","Uncoded","Uncoded",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",3900
+"6023358","WOODBURY COUNTY REPUBLICAN CENTRAL CMTE OF IOWA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2150
+"8453","PETROLEUM MARKETERS & CONVENIENCE STORES OF IOWA","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",44.0677966101695,55.9322033898305,"#1F0000AF","#1F0000AF",11800
+"11031082","PLUMBERS & PIPEFITTERS LOCAL 25","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9800
+"20422","SERVICE EMPLOYEES LOCAL 199","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",2694
+"20226","IOWA STATE EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",99.3055555555556,0.694444444444444,"#0000FAAF","#0000FAAF",36000
+"18785","IOWA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",35.2331606217617,64.7668393782383,"#4D0000AF","#4D0000AF",25090
+"7220","IOWA CHIROPRACTIC SOCIETY","Health Professionals","Health","Chiropractors",44.6808510638298,55.3191489361702,"#1F0000AF","#1F0000AF",30550
+"6022814","JEFFERSON COUNTY REPUBLICAN CENTRAL CMTE OF IOWA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1800
+"2983","QUAD CITY FEDERATION OF LABOR","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",10100
+"20041","LABORERS LOCAL 309","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2350
+"40615603","IOWA LAW","Uncoded","Uncoded","Uncoded",63.5245901639344,36.4754098360656,"#000042AF","#000042AF",12200
+"37702024","IOWA STATE BUILDING & CONSTRUCTION TRADES COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"11030899","COMMONWEALTH","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",11500
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",0,100,"#FF0000AF","#FF0000AF",2000
+"7107","HOME BUILDERS ASSOCIATION OF IOWA","Home Builders","Construction","Residential construction",20.7282913165266,79.2717086834734,"#990000AF","#990000AF",17850
+"7219","IOWA CABLE & TELECOMMUNICATIONS ASSOCIATION","Cable TV","Communications & Electronics","Satellite TV operators",29.3478260869565,70.6521739130435,"#6B0000AF","#6B0000AF",9200
+"6392055","IOWA ASSOCIATION OF MCDONALDS OPERATORS","Food & Beverage","General Business","Restaurants & drinking establishments",34.7508595045917,65.2491404954082,"#520000AF","#520000AF",2158.22
+"40613730","MANUFACTURED HOUSING","Uncoded","Uncoded","Uncoded",35.8649789029536,64.1350210970464,"#4D0000AF","#4D0000AF",11850
+"9382","VICTORY ENTERPRISES","Computer Equipment & Services","Communications & Electronics","Online computer services",0,100,"#FF0000AF","#FF0000AF",4680.63
+"6110912","ENGINEERS PAC","Construction Services","Construction","Engineering, architecture & construction management services",25.1908396946565,74.8091603053435,"#800000AF","#800000AF",6550
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",34.8837209302326,65.1162790697674,"#520000AF","#520000AF",8600
+"7223","IOWA ASSOCIATION OF ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",27.7862595419847,72.2137404580153,"#750000AF","#750000AF",16375
+"7757","MEREDITH CORP","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",29.9949898478496,70.0050101521504,"#6B0000AF","#6B0000AF",12135.36
+"860","E I DU PONT DE NEMOURS & CO","Chemical & Related Manufacturing","General Business","Chemicals",12.962962962963,87.037037037037,"#C20000AF","#C20000AF",5400
+"6616","DUBUQUE COUNTY REPUBLICAN CENTRAL CMTE OF IOWA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3400
+"19324","COMMUNICATIONS WORKERS COUNCIL OF IOWA","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",5818.37
+"40613211","BUILD","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",3600
+"6129608","IOWA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"6374129","SOUTH-CENTRAL FOOD & COMERICAL WORKERS","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",1200
+"19887","OPERATING ENGINEERS LOCAL 150","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5050
+"6093785","DUBUQUE COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2525
+"7225","IOWA HEAVY HIGHWAY CONTRACTORS ASSOCIATION","General Contractors","Construction","Public works, industrial & commercial construction",100,0,"#0000FFAF","#0000FFAF",2350
+"904","EMILYS LIST","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",3500
+"6360051","CLAY COUNTY DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1350
+"19425","IRONWORKERS LOCAL 89","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3350
+"8766","RUAN COMPANIES","Trucking","Transportation","Trucking companies & services",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",5500
+"17056","WELLPOINT INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",46.583850931677,53.416149068323,"#140000AF","#140000AF",8050
+"592","CITIGROUP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"6211","CASEYS GENERAL STORES","Oil & Gas","Energy & Natural Resources","Gasoline service stations",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",6600
+"7228","IOWA INDEPENDENT BANKERS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",35.929648241206,64.070351758794,"#4D0000AF","#4D0000AF",19900
+"7240","IOWA SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",33.4545454545455,66.5454545454545,"#570000AF","#570000AF",13750
+"17052","WELLMARK BLUE CROSS BLUE SHIELD OF IOWA","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",47.4327628361858,52.5672371638142,"#0F0000AF","#0F0000AF",20450
+"18588","ASSOCIATED BUILDERS & CONTRACTORS OF IOWA","General Contractors","Construction","Builders associations",5.71955719557196,94.280442804428,"#E60000AF","#E60000AF",13550
+"27634200","MECHANICAL CONTRACTORS ASSOCIATION OF IOWA","Uncoded","Uncoded","Uncoded",9.52380952380952,90.4761904761905,"#D10000AF","#D10000AF",2100
+"20886","FOOD & COMMERCIAL WORKERS LOCAL 230","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",2300
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",6531.63
+"7230","IOWA MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",13.5,86.5,"#BD0000AF","#BD0000AF",10000
+"13188","IOWA CORN GROWERS ASSOCIATION","Crop Production & Basic Processing","Agriculture","Wheat, corn, soybeans & cash grain",50,50,"#000000AF","#000000AF",2000
+"40615607","IOWA PHARMACY","Uncoded","Uncoded","Uncoded",63.5658914728682,36.4341085271318,"#000042AF","#000042AF",6450
+"40615620","PACEG","Uncoded","Uncoded","Uncoded",73.6842105263158,26.3157894736842,"#000075AF","#000075AF",2850
+"5","3M CO","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",7.69230769230769,92.3076923076923,"#DB0000AF","#DB0000AF",3250
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",1200
+"219","AQUILA","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",21.5384615384615,78.4615384615385,"#940000AF","#940000AF",3250
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",3500
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",3150
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",10.5263157894737,89.4736842105263,"#CC0000AF","#CC0000AF",3800
+"6989","GUIDEONE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"27634124","IA BANKERS ASSOCIATION","Uncoded","Uncoded","Uncoded",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",1200
+"19619","ELECTRICAL WORKERS LOCAL 145","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",2100
+"6023378","FAYETTE COUNTY REPUBLICAN CENTRAL CMTE OF IOWA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1400
+"7217","IOWA ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",17.1052631578947,82.8947368421053,"#A80000AF","#A80000AF",3800
+"6490","DALLAS COUNTY DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1200
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",11.0429447852761,88.9570552147239,"#C70000AF","#C70000AF",8150
+"6023168","DELAWARE COUNTY REPUBLICAN CENTRAL CMTE OF IOWA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1400
+"6021188","SOUTH CENTRAL IOWA FEDERATION OF LABOR","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1050
+"6090127","CERRO GORDO COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1075
+"6016105","BOONE COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1100
+"20807","IOWA CITY CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1980
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",4500
+"7216","IOWA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",22.7665706051873,77.2334293948127,"#8F0000AF","#8F0000AF",17350
+"6078534","OAAI","Business Services","General Business","Outdoor advertising services",39.622641509434,60.377358490566,"#380000AF","#380000AF",2650
+"6023886","STATE POLICE OFFICERS COUNCIL","Public Sector Unions","Labor","Police & fire fighters unions and associations",18.848167539267,81.151832460733,"#A30000AF","#A30000AF",1910
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",75,25,"#00007FAF","#00007FAF",1000
+"9288","UNITED STATES CELLULAR CORP","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",32.3529411764706,67.6470588235294,"#5C0000AF","#5C0000AF",5100
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",27.8688524590164,72.1311475409836,"#750000AF","#750000AF",3050
+"6030179","NORTHWEST IOWA LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1700
+"8355","OUTDOOR ADVERTISING ASSOCIATION OF IOWA","Business Services","General Business","Outdoor advertising services",0,100,"#FF0000AF","#FF0000AF",750
+"40615611","IOWA LUMBERMENS","Uncoded","Uncoded","Uncoded",26.3157894736842,73.6842105263158,"#7A0000AF","#7A0000AF",1900
+"6023349","BREMER COUNTY REPUBLICAN CENTRAL CMTE OF IOWA","Party Committees","Party","Republican Party committees",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",900
+"29264745","HYVEE INC EMPLOYEES","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1800
+"6163120","IOWA RETAIL ASSOCIATION","Retail Sales","General Business","Retail trade",8.69565217391304,91.304347826087,"#D60000AF","#D60000AF",1150
+"19562","IOWA STATE COUNCIL OF MACHINISTS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1540
+"6077302","IOWA FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",25,75,"#800000AF","#800000AF",2200
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",3802.44
+"7242","IOWA STAFF UNION","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",2000
+"10736404","PLUMBERS & STEAMFITTERS LOCAL 33","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2400
+"7298","JEFFERSON COUNTY REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",600
+"7239","IOWA SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"6115631","FAYETTE COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1000
+"12303","PLANNED PARENTHOOD OF THE HEARTLAND","Health Services","Health","Health care services",98.3895721576351,1.61042784236488,"#0000F5AF","#0000F5AF",6209.53
+"6347080","MAHASKA COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1000
+"20914","FOOD & COMMERCIAL WORKERS REGION COUNCIL 6","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",1000
+"982","INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS / IAFF","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",1500
+"19393","IRONWORKERS LOCAL 21","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",750
+"3934332","TEAMSTERS LOCAL 554","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1800
+"2946","CENTRAL IOWA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",80.7692307692308,19.2307692307692,"#000099AF","#000099AF",2600
+"7237","IOWA PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",26.1849261849262,73.8150738150738,"#7A0000AF","#7A0000AF",6435
+"3823","HOFFMAN LA ROCHE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",5.40540540540541,94.5945945945946,"#E60000AF","#E60000AF",1850
+"18786","IOWA OSTEOPATHIC ASSOCIATION","Health Professionals","Health","Physicians",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"1692","MEDCO HEALTH SOLUTIONS","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",1000
+"6734","FAREWAY STORES","Food Processing & Sales","Agriculture","Food stores",5.67375886524823,94.3262411347518,"#E60000AF","#E60000AF",7050
+"6139512","RDH PAC REGISTERED DENTAL HYGIENISTS","Health Professionals","Health","Dentists",0,100,"#FF0000AF","#FF0000AF",1000
+"27678831","IA DENTAL ASSOCIATION","Uncoded","Uncoded","Uncoded",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",1300
+"3167462","BERNARD GOLDSTEIN TRUST","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",700
+"6093099","TECHNOLOGY ASSOCIATION OF IOWA","Computer Equipment & Services","Communications & Electronics","Computer software",0,100,"#FF0000AF","#FF0000AF",1050
+"27678904","IA OPTOMETRIC ASSOCIATION","Uncoded","Uncoded","Uncoded",22.9166666666667,77.0833333333333,"#8F0000AF","#8F0000AF",2400
+"6734379","JOHNSON COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1000
+"6020129","IOWA ASSOCIATION OF MUNICIPAL UTILITIES","Miscellaneous Energy & Natural Resources","Energy & Natural Resources","Energy, natural resources & environment",43.9393939393939,56.0606060606061,"#240000AF","#240000AF",3300
+"2596721","IRONWORKERS LOCAL 111","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1100
+"40613722","PETROLEUM MARKETERS","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"7238","IOWA RURAL WATER ASSOCIATION","Water Utilities","Energy & Natural Resources","Water utilities",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",5500
+"20954","STEELWORKERS LOCAL 310","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",8050
+"6099240","IOWA DENTAL HYGIENISTS ASSOCIATION","Health Professionals","Health","Dentists",100,0,"#0000FFAF","#0000FFAF",750
+"6250818","LINN COUNTY REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",800
+"2904","WYETH PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",1100
+"6692","EMPLOYERS MUTUAL CASUALTY CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",29.5454545454545,70.4545454545455,"#6B0000AF","#6B0000AF",1100
+"6078015","MECHANICAL CONTRACTORS ASSOCIATION OF IOWA","Special Trade Contractors","Construction","Special trade contractors",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"7227","IOWA HOSPITALITY ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",2.61437908496732,97.3856209150327,"#F50000AF","#F50000AF",3825
+"6022525","DALLAS COUNTY REPUBLICAN CENTRAL CMTE OF IOWA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1100
+"6240962","WAPELLO COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",700
+"6025514","SMITH, MACDONALD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",850
+"20027","LABORERS LOCAL 177","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",900
+"6099556","IOWA LAND TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",1350
+"6187921","IOWA CITY FEDERATION OF LABOR","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",850
+"7247","IOWA VETERINARY MEDICAL ASSOCIATION","Agricultural Services & Products","Agriculture","Veterinarians",5.47945205479452,94.5205479452055,"#E60000AF","#E60000AF",1825
+"6024051","GREAT RIVER UNISERV","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1200
+"6364469","RIVER PAC","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",34.0425531914894,65.9574468085106,"#520000AF","#520000AF",7050
+"28067341","IOWA FORE","Uncoded","Uncoded","Uncoded",28.8135593220339,71.1864406779661,"#700000AF","#700000AF",5900
+"3125355","GRINNELL MUTUAL REINSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",11.9047619047619,88.0952380952381,"#C70000AF","#C70000AF",2100
+"3841","HOUSEHOLD INTERNATIONAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",600
+"6089080","IOWA INSURANCE INSTITUTE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",4.65116279069767,95.3488372093023,"#EB0000AF","#EB0000AF",1075
+"6373641","EFFECTIVE GOVERNMENT CMTE","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",0,100,"#FF0000AF","#FF0000AF",1050
+"6348177","POWESHIEK COUNTY DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",500
+"6258216","EMC INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",11.6719242902208,88.3280757097792,"#C70000AF","#C70000AF",1585
+"7233","IOWA NURSES ASSOCIATION","General Trade Unions","Labor","Health worker unions",34.7826086956522,65.2173913043478,"#520000AF","#520000AF",1610
+"6095588","IOA-PAC","Health Professionals","Health","Optometrists & ophthalmologists",30,70,"#660000AF","#660000AF",500
+"6256315","POLK COUNTY REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1550
+"3195","AVENTIS PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",900
+"6090077","IFDA","Miscellaneous Services","General Business","Funeral services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",900
+"40615630","I-VET","Uncoded","Uncoded","Uncoded",39.2156862745098,60.7843137254902,"#380000AF","#380000AF",1275
+"6146863","CLINTON COUNTY REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",500.1
+"5658","AGRIBUSINESS ASSOCIATION OF IOWA","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",6.80061823802164,93.1993817619784,"#E00000AF","#E00000AF",3882
+"27634170","IA STATE EDUCATION ASSOCIATION","Uncoded","Uncoded","Uncoded",37.5,62.5,"#420000AF","#420000AF",400
+"6586369","IOWA PODIATRY","Health Professionals","Health","Other physician specialists",19.6428571428571,80.3571428571429,"#9E0000AF","#9E0000AF",1400
+"41260487","WELL","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"6014353","PAUL MCANDREW LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",350
+"12302","FREEDOM FUND","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",69.8249849124925,30.1750150875075,"#000061AF","#000061AF",662.8
+"6090561","IOWA CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",2350
+"6381415","FEDERATION OF TEACHERS LOCAL 716","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",375
+"2597308","PLASTERERS & CEMENT MASONS LOCAL 18","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"949","FAEGRE & BENSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",500
+"2542","SYNGENTA","Agricultural Services & Products","Agriculture","Agricultural chemicals (fertilizers & pesticides)",20,80,"#990000AF","#9E0000AF",1250
+"7249","IOWA-NEBRASKA EQUIPMENT DEALERS ASSOCIATION","Building Materials & Equipment","Construction","Construction equipment",34.3612334801762,65.6387665198238,"#520000AF","#520000AF",11350
+"40615641","MILLWRIGHT LOCAL 2158","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"535781","AFL-CIO UNIDENTIFIED","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"6026576","ROOFERS & WATERPROOFERS OF IOWA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",400
+"19929587","TRI-CITY BUILDING TRADES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"6115603","BLACK HAWK COUNTY UNION COUNCIL AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1200
+"6016559","KOSSUTH COUNTY DEMOCRATIC CENTRAL CMTE OF IOWA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",300
+"40615617","HEARING AID SPECIALISTS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",400
+"6229581","TEAMSTERS LOCAL 238","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",650
+"27634163","SHEET METAL CONTRACTORS OF IOWA INC","Uncoded","Uncoded","Uncoded",70,30,"#000066AF","#000066AF",1000
+"8878","SHEET METAL CONTRACTORS OF IOWA","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",75,25,"#00007FAF","#00007FAF",400
+"6078524","IOWA HEARING ASSOCIATION","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",50,50,"#000000AF","#000000AF",600
+"37968113","HULTMAN COMPANY","Uncoded","Uncoded","Uncoded",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",1100
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",650
+"815201","RICHARD A GOLDSTEIN TRUST","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",0,100,"#FF0000AF","#FF0000AF",400
+"6165638","ROBERT S GOLDSTEIN TRUST","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",0,100,"#FF0000AF","#FF0000AF",300
+"6023429","1ST CONGRESSIONAL DISTRICT OF IOWA AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",900
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",550
+"39366071","PCIPAC","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",350
+"24725259","MEREDITH CORPORATION EMPLOYEES FUND","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",250
+"6024000","ELECTRICAL WORKERS LOCAL 1362","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1125
+"40615623","EMC CO","Uncoded","Uncoded","Uncoded",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",225
+"6376586","CWA LOCAL 7102","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",1100
+"6124280","ELECTRICAL WORKERS LOCAL 204","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",200
+"19317","COMMUNICATIONS WORKERS LOCAL 7102","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",600
+"5166228","LABORERS LOCAL 43","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",600
+"19318","COMMUNICATIONS WORKERS LOCAL 7110","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",1100
+"6093395","DUBUQUE FEDERATION OF LABOR","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",500
+"6149322","SOUTHERN IOWA LABOR COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",300
+"7236","IOWA PHARMACY ASSOCIATION","Health Professionals","Health","Pharmacists",50,50,"#000000AF","#000000AF",400
+"27679235","IA NURSES ASSOCIATION","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",300
+"6185832","IOWA FEDERATION OF REPUBLICAN WOMEN DISTRICT 5","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",300
+"6253125","CAPITOL CONSULTANTS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",50,50,"#000000AF","#000000AF",200
+"6191003","AVENSON OAKLEY & COPE","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",200
+"1486","LAFARGE NORTH AMERICA","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",50,50,"#000000AF","#000000AF",400

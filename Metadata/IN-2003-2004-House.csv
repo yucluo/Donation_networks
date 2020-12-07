@@ -1,0 +1,597 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"4834","INDIANA HOUSE DEMOCRATIC CAUCUS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1416292.18
+"7123","HOUSE REPUBLICAN CAMPAIGN CMTE OF INDIANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1422049.43
+"17293","INDIANA CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",0.151233955652659,99.8487660443473,"#FF0000AF","#FF0000AF",396736.3
+"20225","INDIANA STATE TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",90.8478382930938,9.15216170690623,"#0000CCAF","#0000CCAF",890500
+"4832","INDIANA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",390812.98
+"7205","INSURANCE INSTITUTE OF INDIANA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",8.04597701149425,91.9540229885057,"#D60000AF","#D60000AF",108750
+"6969531","B PATRICK BAUER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",161400
+"6266","CHRISTEL DEHAAN TRUST / CD ENTERPRISES","Lodging & Tourism","General Business","Resorts",18.0327868852459,81.9672131147541,"#A30000AF","#A30000AF",122000
+"7403039","IBRG","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",21500
+"4442","INDIANA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",43.0908065425832,56.9091934574168,"#240000AF","#240000AF",132975
+"18829","PLANNED PARENTHOOD OF INDIANA & KENTUCKY","Health Services","Health","Health care services",96.2149886449659,3.78501135503407,"#0000EBAF","#0000EBAF",66050
+"6852","INDIANA HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",68.544521463319,31.455478536681,"#00005CAF","#00005CAF",112238
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",58900
+"20803","INDIANA KENTUCKY OHIO REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",91.5961646926114,8.40383530738861,"#0000D1AF","#0000D1AF",44325
+"6961433","ST JOSEPH COUNTY REPUBLICAN CENTRAL CMTE OF INDIANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",15550
+"2665031","THOMAS M MCDERMOTT JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",10250
+"18587","ASSOCIATED BUILDERS & CONTRACTORS OF INDIANA","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",20100
+"4785009","RUSS STILWELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",37250
+"7115054","MICHAEL DVORAK FOR PROSECUTOR","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",10250
+"7172417","ED MAHERN FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",20000
+"6989252","WEST CENTRAL PAC","Public Sector Unions","Labor","Teachers unions",90,10,"#0000CCAF","#0000CCAF",10000
+"7358639","TRUCKING INDUSTRY","Trucking","Transportation","Trucking companies & services",67.2221596667042,32.7778403332958,"#000057AF","#000057AF",44405
+"6982801","CAROL CASS HOWARD & TIPTON / ISTA","Uncoded","Uncoded","Uncoded",94.1176470588235,5.88235294117647,"#0000E0AF","#0000E0AF",8500
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",11400
+"26396456","LAKE PACE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",20200
+"288","BAKER & DANIELS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",62.1671826625387,37.8328173374613,"#00003DAF","#00003DAF",40375
+"3787","INDIANA ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",53.8938223069131,46.1061776930869,"#00000FAF","#00000FAF",101734.74
+"7187","INDIANA FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",11.6945107398568,88.3054892601432,"#C70000AF","#C70000AF",20950
+"7195673","MARION COUNTY","Uncoded","Uncoded","Uncoded",94.1176470588235,5.88235294117647,"#0000E0AF","#0000E0AF",8500
+"7197","INDIANA TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",80.5249788314987,19.4750211685013,"#000099AF","#000099AF",118100
+"18875","INDIANA HEALTH CARE ASSOCIATION / INDIANA CENTER FOR ASSISTED LIVING","Hospitals & Nursing Homes","Health","Nursing homes",62.1968670122594,37.8031329877406,"#00003DAF","#00003DAF",52971.8
+"5980","INDIANA BEVERAGE ALLIANCE","Beer, Wine & Liquor","General Business","Liquor wholesalers",58.4676202546925,41.5323797453075,"#000029AF","#000029AF",66276
+"4070","INDIANA STATE MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",60.6344253770151,39.3655746229849,"#000033AF","#000033AF",48075
+"18784","INDIANA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",53.6700868192581,46.3299131807419,"#00000FAF","#00000FAF",63350
+"7063953","CMTE TO ELECT ROBERT D KUZMAN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",18750
+"519","CATERPILLAR","Building Materials & Equipment","Construction","Construction equipment",5.26315789473684,94.7368421052632,"#E60000AF","#E60000AF",9500
+"6094","BUILD INDIANA COUNCIL","General Contractors","Construction","Builders associations",58.2569113710742,41.7430886289258,"#000029AF","#000029AF",54500.04
+"19582","BOILERMAKERS LOCAL 374","General Trade Unions","Labor","Construction unions",99.0196078431373,0.980392156862745,"#0000FAAF","#0000FAAF",25500
+"13300","JOHN FRICK & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",36.4985163204748,63.5014836795252,"#470000AF","#470000AF",42125
+"19846","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 4 OF INDIANA & KENTUCKY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",26800
+"21110","SBC COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",58.6351617477814,41.3648382522186,"#000029AF","#000029AF",59867.9
+"4053","INDIANA MANUFACTURERS ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",19.3752471332543,80.6247528667458,"#9E0000AF","#9E0000AF",63225
+"22090797","INDIANA FARM BUREAU INC ELECT","Uncoded","Uncoded","Uncoded",22.4137931034483,77.5862068965517,"#8F0000AF","#8F0000AF",14500
+"40616034","INAMB","Uncoded","Uncoded","Uncoded",48.4848484848485,51.5151515151515,"#0A0000AF","#0A0000AF",14850
+"37064779","MEDIA STRATEGIES & RESEARCH","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",7551.85
+"6972176","UNI-PAC NORTHEAST","Electric Utilities","Energy & Natural Resources","Electric power utilities",100,0,"#0000FFAF","#0000FFAF",6000
+"6985658","CIRCLE NORTHEAST PAC","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",11000
+"40616139","COMMITTEE TO ELECT ROBERT D KUZMAN","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",10500
+"9389","VISION CONCEPTS","Business Services","General Business","Advertising & public relations services",10.3448275862069,89.6551724137931,"#CC0000AF","#CC0000AF",7250
+"2719","US STEEL CORP","Steel","Energy & Natural Resources","Steel manufacturing",78.8461538461538,21.1538461538462,"#00008FAF","#00008FAF",26000
+"13127","INDIANA BUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",41.0082056570009,58.9917943429991,"#2E0000AF","#2E0000AF",64743.14
+"19673","ELECTRICAL WORKERS LOCAL 481","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",8700
+"6978098","TIPPEWA PAC","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",9900
+"5216","INDIANA TELEPHONE INDUSTRY","Telecom Services & Equipment","Communications & Electronics","Telecommunications",42.9319371727749,57.0680628272251,"#290000AF","#290000AF",19100
+"20690","AUTO WORKERS REGION 2B","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",21000
+"2710","UPS","Air Transport","Transportation","Express delivery services",73.1707317073171,26.8292682926829,"#000075AF","#000075AF",20500
+"7194","INTERNATIONAL CHIROPRACTERS ASSOCIATION OF INDIANA","Health Professionals","Health","Chiropractors",62.2055674518201,37.7944325481799,"#00003DAF","#00003DAF",46700
+"6999983","SOUTH CENTRAL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6000
+"13140","INDIANA STATE ASSOCIATION OF HEALTH UNDERWRITERS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",3.75794052833637,96.2420594716636,"#F00000AF","#F00000AF",6652.58
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",49.0177736202058,50.9822263797942,"#050000AF","#050000AF",53450
+"5720","ALL CHILDREN MATTER","Public Education Policy","Ideology/Single Issue","School Choice Advocates",8.88888888888889,91.1111111111111,"#D60000AF","#D60000AF",22500
+"1468","KRIEG DEVAULT LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",69.5554322357874,30.4445677642126,"#000061AF","#000061AF",32436
+"9514","WINE & SPIRITS DISTRIBUTORS OF INDIANA","Beer, Wine & Liquor","General Business","Liquor wholesalers",50.9803921568627,49.0196078431373,"#000000AF","#000000AF",15300
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",5000
+"7184865","ACE MORTGAGE FUNDING","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",0,100,"#FF0000AF","#FF0000AF",4600
+"13133","INDIANA LAND TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",44.8356807511737,55.1643192488263,"#1F0000AF","#1F0000AF",21300
+"10835","CALUMET PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",5000
+"7013234","INDIANA NOW PAC","Women's Issues","Ideology/Single Issue","Women's issues",100,0,"#0000FFAF","#0000FFAF",9750
+"1739","UNITED MINE WORKERS OF AMERICA / UMWA","General Trade Unions","Labor","Mining unions",100,0,"#0000FFAF","#0000FFAF",14375
+"19765","TEAMSTERS LOCAL 135","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",7200
+"6962053","BORROR FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4899.59
+"20142","INDIANA STATE AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",28550
+"6961268","BEVERLY GARD FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4860
+"6978755","JAY-RAN-DEL PAC","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",7000
+"7001841","SCOTT JEFFERSON CLARK","Banks & Lending Institutions","Finance, Insurance & Real Estate","Banks & lending institutions",100,0,"#0000FFAF","#0000FFAF",6700
+"3862","INDIANA PYROTECHNICS","Chemical & Related Manufacturing","General Business","Explosives",52.8301886792453,47.1698113207547,"#00000AAF","#00000AAF",21200
+"7469","LAKE COUNTY REPUBLICAN CENTRAL CMTE OF INDIANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",7768
+"2633","UNITED TRANSPORTATION UNION / UTU","Transportation Unions","Labor","Railroad unions",83.1981460023175,16.8018539976825,"#0000A8AF","#0000A8AF",17260
+"7076338","WIN MOSES FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3250
+"7179314","INDIANA STATE TEACHERS ASSOCIATION/SOUTHWESTERN INDIANA","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",3500
+"40616142","ADAMS-WELLS-ALLEN","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",7000
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",70.5882352941177,29.4117647058824,"#000066AF","#000066AF",8500
+"3182","INDIANA AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",56.3894923958128,43.6105076041872,"#00001FAF","#00001FAF",50630
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",64.3939393939394,35.6060606060606,"#000047AF","#000047AF",19800
+"7183","INDIANA CABLE TELECOMMUNICATIONS ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",59.7197898423818,40.2802101576182,"#00002EAF","#00002EAF",28550
+"6993180","EVANSVILLE TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",5400
+"130","AMERICAN ELECTRIC POWER","Electric Utilities","Energy & Natural Resources","Electric power utilities",48.8050314465409,51.1949685534591,"#0A0000AF","#0A0000AF",39750
+"40616048","NIPSCO","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",31500
+"13123","INDIANA ACADEMY OF OPHTHALMOLOGY","Health Professionals","Health","Optometrists & ophthalmologists",79.3814432989691,20.6185567010309,"#000094AF","#000094AF",9700
+"7023119","RYAN DVORAK FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3600
+"20936","STEELWORKERS LOCAL 6787","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3400
+"6985149","MUNCIE FIRE FIGHTERS LOCAL 1348","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5450
+"11031811","PLUMBERS & STEAMFITTERS LOCAL 166","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4005
+"5320073","INDIANA STONEWALL DEMOCRATS","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",16750
+"40616154","HAYS MURRAY GROUP LLC","Uncoded","Uncoded","Uncoded",58.5858585858586,41.4141414141414,"#000029AF","#000029AF",9900
+"40616202","SOMMER BARNARD","Uncoded","Uncoded","Uncoded",67.741935483871,32.258064516129,"#000057AF","#000057AF",4650
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",100,0,"#0000FFAF","#0000FFAF",10000
+"6959693","CAPITAL PAC OF INDIANA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6000
+"1755","MONARCH BEVERAGE","Beer, Wine & Liquor","General Business","Liquor wholesalers",43.7207816003873,56.2792183996127,"#240000AF","#240000AF",12579.83
+"6988731","INDIANA STATE TEACHERS ASSOCIATION / METRO-WEST","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",7500
+"7181","INDIANA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",43.3566433566434,56.6433566433566,"#240000AF","#240000AF",32175
+"7210713","STEEL DYNAMICS BAR PRODUCTS DIVISION","Steel","Energy & Natural Resources","Steel manufacturing",89.8550724637681,10.1449275362319,"#0000C7AF","#0000C7AF",3450
+"40616167","INDIANA FIREFIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",88.8070692194404,11.1929307805596,"#0000C2AF","#0000C2AF",16975
+"589","CINERGY CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",36.9396543218433,63.0603456781567,"#470000AF","#470000AF",41554.26
+"40616074","AZO SERVICES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4440
+"6960853","GERMAN AMERICAN BANCORP","Uncoded","Uncoded","Uncoded",94.5945945945946,5.40540540540541,"#0000E0AF","#0000E0AF",3700
+"6982704","VI SIMPSON FOR STATE SENATE CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",8750
+"7028967","CMTE TO ELECT CLYDE KERSEY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2298
+"6968788","ST JOSEPH VALLEY PAC","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",6000
+"7215631","INDIANA LUMBERMANS MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3000
+"20933","STEELWORKERS DISTRICT 7","General Trade Unions","Labor","Manufacturing unions",100,0,"#0000FFAF","#0000FFAF",3000
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",7300
+"5628","ABRO FACILITIES","Construction Services","Construction","Architectural services",0,100,"#FF0000AF","#FF0000AF",3000
+"27644248","TECHPOINT","Uncoded","Uncoded","Uncoded",48.8188976377953,51.1811023622047,"#0A0000AF","#0A0000AF",6350
+"29090368","RED GOLD INC STATEWIDE","Uncoded","Uncoded","Uncoded",51.685393258427,48.314606741573,"#000005AF","#000005AF",4450
+"1830","NATIONAL CITY CORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",100,0,"#0000FFAF","#0000FFAF",3800
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",39.8203592814371,60.1796407185629,"#380000AF","#380000AF",16700
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",79.136690647482,20.863309352518,"#000094AF","#000094AF",6950
+"10041","ANTHEM INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",60.0903614457831,39.9096385542169,"#000033AF","#000033AF",33200
+"14196","MILLERS HEALTH SYSTEMS","Hospitals & Nursing Homes","Health","Nursing homes",26.0303687635575,73.9696312364425,"#7A0000AF","#7A0000AF",11525
+"20531","INDIANA STATE PIPE TRADES ASSOCIATION","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4000
+"528","CENTENE CORP","Health Services","Health","HMOs",44.6428571428571,55.3571428571429,"#1F0000AF","#1F0000AF",5600
+"8253","NURSING HOME REAL ESTATE GROUP","Hospitals & Nursing Homes","Health","Nursing homes",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",5850
+"7058961","CELADON TRUCKING SERVICES","Trucking","Transportation","Trucking companies & services",0,100,"#FF0000AF","#FF0000AF",2200
+"19044","INDIANA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",31.9905213270142,68.0094786729858,"#610000AF","#610000AF",21100
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",4750
+"4763","WHOLESALE FIREWORKS USERS ASSOCIATION","Chemical & Related Manufacturing","General Business","Explosives",62.8942486085343,37.1057513914657,"#00003DAF","#00003DAF",26950
+"13141","INDIANA STATE BAR ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",34.7417840375587,65.2582159624413,"#520000AF","#520000AF",10650
+"19718","INDIANA STATE CONFERENCE OF ELECTRICAL WORKERS","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",3000
+"7746","MEIJER INC","Retail Sales","General Business","Department, variety & convenience stores",72.189349112426,27.810650887574,"#000070AF","#000070AF",8450
+"3705455","ELECTRICAL WORKERS UNIDENTIFIED","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",2600
+"6979277","ELECTRICAL WORKERS LOCAL 668","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",2300
+"6609","DOWNEY INSURANCE","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",21.7487474003195,78.2512525996805,"#940000AF","#940000AF",8626.06
+"20948","STEELWORKERS LOCAL 104","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",21650
+"780","DEMOCRACY FOR AMERICA","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",9000
+"20628","PLUMBERS & STEAMFITTERS LOCAL 136","General Trade Unions","Labor","Construction unions",77.6119402985075,22.3880597014925,"#00008AAF","#00008AAF",6700
+"2626826","OHIO COMMUNICATIONS WORKERS","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",2250
+"2958","NORTHWESTERN INDIANA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",92.3913043478261,7.60869565217391,"#0000D6AF","#0000D6AF",4600
+"2845108","HARCOURT INDUSTRIES","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",0,100,"#FF0000AF","#FF0000AF",2355.81
+"5215","INDIANA CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",51.5852613538989,48.4147386461011,"#000005AF","#000005AF",58350
+"19989","INDIANA DISTRICT COUNCIL OF LABORERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",8350
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",43.2142857142857,56.7857142857143,"#240000AF","#240000AF",14000
+"7389454","RAD","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",4750
+"21089","INDEPENDENT INSURANCE AGENTS OF INDIANA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",22.7272727272727,77.2727272727273,"#8F0000AF","#8F0000AF",6600
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",35.6499356499356,64.3500643500644,"#4D0000AF","#4D0000AF",19425
+"40616055","CBAI","Uncoded","Uncoded","Uncoded",53.1902206320811,46.8097793679189,"#00000FAF","#00000FAF",33540
+"7058422","J MURRAY CLARK FOR GOVERNOR","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3000
+"6958371","CARPENTERS & JOINERS LOCAL 1016","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3800
+"6961308","CMTE TO ELECT BOB CHERRY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2000
+"40616085","NORTHERN LAKES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2450
+"2966","ST JOSEPH VALLEY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2300
+"7034815","BOYLE & ASSOCIATES INC","Business Services","General Business","Business services",75,25,"#00007FAF","#00007FAF",2000
+"7237930","COMPASS NORTH","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1700
+"6382","COMMUNITY BANKERS ASSOCIATION OF INDIANA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",43.6046511627907,56.3953488372093,"#240000AF","#240000AF",8600
+"9337","VECTREN CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",43.7362637362637,56.2637362637363,"#240000AF","#240000AF",22750
+"6963894","INDIANA DEFENSE LAWYERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",20,80,"#990000AF","#9E0000AF",3750
+"7186","INDIANA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",50.8997429305913,49.1002570694087,"#000000AF","#000000AF",19450
+"20073","LABORERS LOCAL 795","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3200
+"7191","INDIANA MOTOR TRUCK ASSOCIATION","Trucking","Transportation","Trucking",76.9911504424779,23.0088495575221,"#000085AF","#000085AF",5650
+"7049953","RANDOLPH COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3000
+"5881","ASSOCIATION OF INDIANA LIFE INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Life insurance",50.9371554575524,49.0628445424476,"#000000AF","#000000AF",22675
+"13125","INDIANA ASSOCIATION OF HEALTH PROVIDERS","Health Services","Health","HMOs",39.344262295082,60.655737704918,"#380000AF","#380000AF",13725
+"2834769","DLZ INDUSTRIAL","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",1700
+"6977705","PAUL ERIC TURNER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1850
+"3069","MILLER BREWING CO","Beer, Wine & Liquor","General Business","Beer",80,20,"#000099AF","#000099AF",3750
+"3974927","NIPSCO INDUSTRIES INC","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",100,0,"#0000FFAF","#0000FFAF",2250
+"2945","CENTRAL INDIANA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3900
+"19767","TEAMSTERS LOCAL 215","Transportation Unions","Labor","Teamsters unions",75,25,"#00007FAF","#00007FAF",4000
+"19693","ELECTRICAL WORKERS LOCAL 697","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",2800
+"20479","INDIANA SHEET METAL WORKERS LOCAL 20","General Trade Unions","Labor","Construction unions",95.3125,4.6875,"#0000E5AF","#0000E5AF",9600
+"20766","CARPENTERS & JOINERS LOCAL 413","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4000
+"4028","LORILLARD TOBACCO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",50,50,"#000000AF","#000000AF",4600
+"20014","LABORERS LOCAL 120","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2300
+"21144","INDIANA ASSOCIATION OF HOMES & SERVICES FOR THE AGING","Hospitals & Nursing Homes","Health","Nursing homes",20.7792207792208,79.2207792207792,"#990000AF","#990000AF",3850
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",65.3846153846154,34.6153846153846,"#00004DAF","#00004DAF",2600
+"7057381","INDIANA CPA","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",6000
+"7180290","GREATER FORT WAYNE CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",13.7931034482759,86.2068965517241,"#BD0000AF","#BD0000AF",3625
+"37349870","SHEET METAL WORKERS LOCAL 20","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3550
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",76.5625,23.4375,"#000085AF","#000085AF",6400
+"19955","PAINTERS & ALLIED TRADES LOCAL 460","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2200
+"1466","KRAFT FOODS","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",90,10,"#0000CCAF","#0000CCAF",2000
+"11727","DLZ INDIANA","Construction Services","Construction","Engineering, architecture & construction management services",59.9315068493151,40.0684931506849,"#00002EAF","#00002EAF",2920
+"19887","OPERATING ENGINEERS LOCAL 150","General Trade Unions","Labor","Construction unions",95.9276018099548,4.07239819004525,"#0000E5AF","#0000E5AF",11050
+"9382","VICTORY ENTERPRISES","Computer Equipment & Services","Communications & Electronics","Online computer services",0,100,"#FF0000AF","#FF0000AF",2185.04
+"7457683","QUAD COUNTY","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1900
+"7336582","NORTHWEST INDIANA CENTRAL LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1300
+"19479","PROFESSIONAL FIRE FIGHTERS UNION OF INDIANA","Public Sector Unions","Labor","Police & fire fighters unions and associations",82.3728813559322,17.6271186440678,"#0000A3AF","#0000A3AF",7375
+"7013831","INDIANA CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",84.3137254901961,15.6862745098039,"#0000ADAF","#0000ADAF",2550
+"6986121","CENTRAL WABASH VALLEY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2600
+"7071909","CARPENTERS & JOINERS LOCAL 546","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2700
+"1301250","LAKE COUNTY TRANSFER INC","Trucking","Transportation","Trucking companies & services",100,0,"#0000FFAF","#0000FFAF",2100
+"19355","INDIANA STATE FRATERNAL ORDER POLICE","Public Sector Unions","Labor","Police & fire fighters unions and associations",91.5492957746479,8.45070422535211,"#0000D1AF","#0000D1AF",3550
+"6959031","MARION COUNTY REPUBLICAN CENTRAL CMTE OF INDIANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2436.87
+"6959104","ELECT LUKE KENLEY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1650
+"11031032","PLUMBERS & STEAMFITTERS LOCAL 157","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4850
+"20988","INDIANA CHAPTER OF AMERICAN PHYSICAL THERAPISTS ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",55.3571428571429,44.6428571428571,"#00001AAF","#00001AAF",2800
+"7669","MARSH SUPERMARKETS","Food Processing & Sales","Agriculture","Food stores",0,100,"#FF0000AF","#FF0000AF",3000
+"6959075","BILL FRIEND FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1365
+"7065036","GLAZIERS LOCAL 1165","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"7179280","DENNIS OXLEY FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5350
+"6967387","OXLEY FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",6250
+"7069098","TRI-COUNTY PAC","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",3000
+"40613459","BAR","Uncoded","Uncoded","Uncoded",89.1566265060241,10.8433734939759,"#0000C7AF","#0000C7AF",4150
+"20031","CONSTRUCTION & GENERAL LABORERS LOCAL 264","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"6985589","TRI COUNTY PAC","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",4000
+"22099167","FTW INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"7180","INDIANA ASSOCIATION OF MORTGAGE BROKERS","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",100,0,"#0000FFAF","#0000FFAF",2000
+"592","CITIGROUP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",75.4098360655738,24.5901639344262,"#00007FAF","#00007FAF",3050
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",55,45,"#00001AAF","#00001AAF",5000
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",61.1111111111111,38.8888888888889,"#000038AF","#000038AF",4500
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",100,0,"#0000FFAF","#0000FFAF",2550
+"3265","BROWN & WILLIAMSON TOBACCO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",100,0,"#0000FFAF","#0000FFAF",2500
+"6048","BOSE MCKINNEY & EVANS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",57.7799088947495,42.2200911052505,"#000024AF","#000024AF",20855
+"7135","HUNTINGTON BANCSHARES","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"4097836","KINDRED HEALTH CARE","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",2000
+"6957974","MITCHELL HURST JACOBS & DICK LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"6960184","OLINGER DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",100,0,"#0000FFAF","#0000FFAF",1750
+"6967399","LUECKE FOR MAYOR","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1350
+"29676790","PEPSI COLA GENERAL BOTTLERS INC","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",1250
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",25.1121076233184,74.8878923766816,"#800000AF","#800000AF",5575
+"2551","TAFT STETTINIUS & HOLLISTER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",51.0288065843621,48.9711934156379,"#000005AF","#000005AF",12150
+"6605","DOW AGROSCIENCES","Agricultural Services & Products","Agriculture","Agricultural chemicals (fertilizers & pesticides)",9.30232558139535,90.6976744186046,"#D10000AF","#D10000AF",2150
+"7198","INDIANAPOLIS POWER & LIGHT CO","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",35.8088120815818,64.1911879184182,"#4D0000AF","#4D0000AF",12846
+"12689","HALL RENDER KILLIAN HEATH & LYMAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"13124","INDIANA AMUSEMENT & MUSIC OPERATORS ASSOCIATION","Recreation & Live Entertainment","General Business","Recreation & entertainment",39.4495412844037,60.5504587155963,"#380000AF","#380000AF",5450
+"21183","AMERICAN COUNCIL OF ENGINEERING COMPANIES OF INDIANA","Construction Services","Construction","Engineering, architecture & construction management services",56.3157894736842,43.6842105263158,"#00001FAF","#00001FAF",9500
+"7036623","QUALITY ENVIRONMENTAL PROFESSIONALS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"7038328","INDIANA MULTI FAMILY HOUSING","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",34.7868691817736,65.2131308182264,"#520000AF","#520000AF",10205
+"29089639","INDIANAPOLIS CHAMBER OF COMMERCE","Uncoded","Uncoded","Uncoded",34.7826086956522,65.2173913043478,"#520000AF","#520000AF",5750
+"40616072","INDIANA STATE BAR ASSOCIATION","Uncoded","Uncoded","Uncoded",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",2200
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",45.9016393442623,54.0983606557377,"#1A0000AF","#1A0000AF",9150
+"19661","ELECTRICAL WORKERS LOCAL 369","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",2000
+"2596658","ICE MILLER LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",89.010989010989,10.989010989011,"#0000C7AF","#0000C7AF",4550
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",3250
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",50,50,"#000000AF","#000000AF",3500
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",56.0606060606061,43.9393939393939,"#00001FAF","#00001FAF",3300
+"13139","INDIANA SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",71.264367816092,28.735632183908,"#00006BAF","#00006BAF",4350
+"6960879","NATIONAL BANK OF INDIANAPOLIS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",86.9565217391304,13.0434782608696,"#0000B8AF","#0000B8AF",1150
+"6962880","INDIANA SOCIETY OF ANESTHESIOLOGISTS / INDIANES","Health Professionals","Health","Other physician specialists",47.7064220183486,52.2935779816514,"#0F0000AF","#0F0000AF",5450
+"6964564","INDIANA COUNCIL OF COMMUNITY MENTAL HEALTH CENTERS","Health Services","Health","Mental health services",74.8502994011976,25.1497005988024,"#00007AAF","#00007AAF",8350
+"7165654","INDIANA SOCIETY FOR LEGISLATIVE ACTION FOR PSYCHOLOGISTS","Health Professionals","Health","Psychiatrists & psychologists",100,0,"#0000FFAF","#0000FFAF",1125
+"6976964","HOWARD COUNTY HOME BUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",16.2162162162162,83.7837837837838,"#AD0000AF","#AD0000AF",1850
+"7006798","FRIENDS FOR VANETA BECKER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1500
+"7240285","DURA BUILDERS","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1500
+"4041458","COMMUNITY INSURANCE CO DBA ANTHEM BLUE CROSS & BLUE SHIELD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",80.8823529411765,19.1176470588235,"#000099AF","#000099AF",4080
+"26788273","HILLENBRAND INDUSTRIES","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"695","CORRECTIONS CORP OF AMERICA","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"6959698","INDIANA CONSTRUCTION ASSOCIATION","General Contractors","Construction","Public works, industrial & commercial construction",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"7236767","SOMMER & BARNARD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",59.4339622641509,40.5660377358491,"#00002EAF","#00002EAF",5300
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",75,25,"#00007FAF","#00007FAF",2000
+"7069815","INDIANA ES PAC","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",1600
+"19953","PAINTERS & ALLIED TRADES LOCAL 156","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"6957847","JONATHAN DAVID WEINZAPFEL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2500
+"7206286","HAMILTON CENTER INC","Health Professionals","Health","Psychiatrists & psychologists",100,0,"#0000FFAF","#0000FFAF",1500
+"20038","LABORERS LOCAL 274","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1500
+"793","DIAGEO","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",89.1304347826087,10.8695652173913,"#0000C7AF","#0000C7AF",4600
+"7076395","JEB BARDON FOR INDIANA","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2250
+"10905673","NIPSCO","Uncoded","Uncoded","Uncoded",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",2750
+"3803","GOLDEN RULE FINANCIAL CORP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",10,90,"#CC0000AF","#D10000AF",5000
+"10351","BERNARDIN LOCHMUELLER & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"2967","TIPPECANOE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1500
+"20279","NORTHWEST INDIANA FEDERATION OF LABOR","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1900
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"7308757","ALL SAVERS INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",1500
+"20007","LABORERS LOCAL 1047","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"20900","FOOD & COMMERCIAL WORKERS LOCAL 700","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",2500
+"7217405","IN STATE BAR ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1250
+"6963278","INDIANA CHAPTER OF THE AMERICAN COLLEGE OF EMERGENCY PHYSICIANS","Health Professionals","Health","Other physician specialists",83.5164835164835,16.4835164835165,"#0000A8AF","#0000A8AF",4550
+"7184","INDIANA COAL COUNCIL","Mining","Energy & Natural Resources","Coal mining",55.607476635514,44.392523364486,"#00001AAF","#00001AAF",10700
+"19299","COMMUNICATIONS WORKERS DISTRICT 4","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",1650
+"20598","PLUMBERS & PIPEFITTERS LOCAL 502","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1600
+"3316288","LOCOMOTIVE ENGINEERS & TRAINMEN UNIDENTIFIED","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",1400
+"6957912","PHILLIPS & PHILLIPS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2700
+"19698","ELECTRICAL WORKERS LOCAL 725","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",2000
+"38167232","IRONWORKERS LOCAL 439","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1200
+"2963","SOUTH CENTRAL INDIANA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2850
+"7042195","WASHINGTON TOWNSHIP REPUBLICAN CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1499
+"6086975","MICHAEL R (MIKE) PENCE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1127
+"6994731","STUTZMAN FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1100
+"6999902","HOOSIERS FOR SCOTT PELATH","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1450
+"6977232","KOKOMO FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",1800
+"6959707","DAVID N FRIZZELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1100
+"5840","ARKANSAS STATE DENTAL ASSOCIATION","Health Professionals","Health","Dentists",69.8795180722892,30.1204819277108,"#000061AF","#000061AF",4150
+"7196556","HAMILTON CENTER","Health Professionals","Health","Psychiatrists & psychologists",100,0,"#0000FFAF","#0000FFAF",1400
+"16265091","INDIANA AGRI BUSINESS","Uncoded","Uncoded","Uncoded",76.1194029850746,23.8805970149254,"#000085AF","#000085AF",1675
+"331","BAYER AG","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",56.140350877193,43.859649122807,"#00001FAF","#00001FAF",2850
+"6964547","BEEBE SCHERER & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",85.1063829787234,14.8936170212766,"#0000B3AF","#0000B3AF",2350
+"7084318","ASSOCIATED GENERAL CONTRACTORS OF INDIANA","General Contractors","Construction","Builders associations",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",3900
+"6961447","YOUNG FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1315
+"7003168","INDIANA RIGHT TO LIFE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",1523.09
+"19872","OPERATING ENGINEERS LOCAL 103","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1400
+"6964667","MILESTONE CONTRACTORS","General Contractors","Construction","Public works, industrial & commercial construction",43.3333333333333,56.6666666666667,"#240000AF","#240000AF",3000
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",29.1746641074856,70.8253358925144,"#6B0000AF","#6B0000AF",13025
+"7164372","AMERICAN UNITED LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",33.6134453781513,66.3865546218487,"#570000AF","#570000AF",2975
+"2682","UNITED CONSULTING ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"6962910","INDIANA LICENSED BEVERAGE ASSOCIATION","Beer, Wine & Liquor","General Business","Alcohol",87.5,12.5,"#0000BDAF","#0000BDAF",2000
+"7179","INDIANA ASSOCIATION OF BEVERAGE RETAILERS","Beer, Wine & Liquor","General Business","Alcohol",67.9245283018868,32.0754716981132,"#000057AF","#000057AF",2650
+"13128","INDIANA CPA SOCIETY","Accountants","Finance, Insurance & Real Estate","Accountants",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",2100
+"1743","MIRANT CORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",2100
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",54.1666666666667,45.8333333333333,"#000014AF","#000014AF",6000
+"127","AMERICAN COUNCIL OF LIFE INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",2250
+"19400","IRONWORKERS LOCAL 395","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3800
+"7172901","ISPAT INLAND INC","Steel","Energy & Natural Resources","Steel manufacturing",52.3255813953488,47.6744186046512,"#00000AAF","#00000AAF",4300
+"40614858","IHLA","Uncoded","Uncoded","Uncoded",60.0877192982456,39.9122807017544,"#000033AF","#000033AF",5700
+"9613","OHIO FARMERS INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"6963645","STEEL DYNAMICS","Steel","Energy & Natural Resources","Steel manufacturing",28.9256198347107,71.0743801652893,"#700000AF","#700000AF",6050
+"7059854","MCRCC","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1484.16
+"19926","OPERATING ENGINEERS LOCAL 841","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1650
+"3234791","LOCAL 439","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1699
+"6980570","PAINTERS & ALLIED TRADES DISTRICT COUNCIL 91","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1800
+"6958973","DAVID LONG CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",900
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",50.8474576271186,49.1525423728814,"#000000AF","#000000AF",2950
+"27650623","SBC IN","Uncoded","Uncoded","Uncoded",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",900
+"6959880","RUSH COUNTY REPUBLICAN CENTRAL CMTE OF INDIANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1040
+"2398979","CARPENTERS & JOINERS LOCAL 133","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1100
+"7192893","INDIANA STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",1400
+"6960304","INDIANA HOME HEALTH CARE","Health Services","Health","Home care services",60.3015075376884,39.6984924623116,"#000033AF","#000033AF",2985
+"19222","INDIANA FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",2880
+"7307017","GAI CONSULTANTS","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",1020
+"6037452","SENATOR TOM WYSS ELECTION CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",900
+"6959625","MEYER NAJEM CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1000
+"7181385","ELECTRICAL STAFFING","Special Trade Contractors","Construction","Electrical contractors",0,100,"#FF0000AF","#FF0000AF",950
+"29095224","IN ASSOCIATION OF BEVERAGE RETAILERS","Uncoded","Uncoded","Uncoded",78.2608695652174,21.7391304347826,"#00008FAF","#00008FAF",1150
+"7350321","FOOT SUPPORT","Health Professionals","Health","Other physician specialists",60.7142857142857,39.2857142857143,"#000033AF","#000033AF",4200
+"2952","INDIANA STATE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",92.6470588235294,7.35294117647059,"#0000D6AF","#0000D6AF",3400
+"20059","LABORERS LOCAL 561","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2050
+"7478336","INDIANA RETAILERS","Uncoded","Uncoded","Uncoded",87.9518072289157,12.0481927710843,"#0000BDAF","#0000BDAF",2075
+"6992990","WIN ENERGY REMC","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",100,0,"#0000FFAF","#0000FFAF",1800
+"6959950","VANDERBURGH COUNTY REPUBLICAN CENTRAL CMTE OF INDIANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",900
+"33","ADVANCE AMERICA CASH ADVANCE CENTERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",80.3571428571429,19.6428571428571,"#000099AF","#000099AF",2800
+"1309","INDIANAPOLIS COLTS","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",48.9130434782609,51.0869565217391,"#0A0000AF","#0A0000AF",3680
+"1464007","UNICARE","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",74.3589743589744,25.6410256410256,"#00007AAF","#00007AAF",1950
+"18815","HARMONY HEALTH SYSTEMS","Health Services","Health","HMOs",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",1500
+"6984627","INDIANA STATE NURSES ASSOCIATION","Health Professionals","Health","Nurses",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",1500
+"19027","CHECK N GO OF INDIANA","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",68.6274509803922,31.3725490196078,"#00005CAF","#00005CAF",2550
+"1470","KROGER CO","Food Processing & Sales","Agriculture","Food stores",51.1627906976744,48.8372093023256,"#000005AF","#000005AF",4300
+"7237322","CONSTRUCTION ADVANCEMENT FOUNDATION","General Contractors","Construction","Builders associations",73.6842105263158,26.3157894736842,"#000075AF","#000075AF",950
+"10290","BCCI MANAGEMENT CO","Uncoded","Uncoded","Uncoded",80.6451612903226,19.3548387096774,"#000099AF","#000099AF",1550
+"6958212","MIDWESTERN ENGINEERS INC","Construction Services","Construction","Engineering, architecture & construction management services",81.4814814814815,18.5185185185185,"#00009EAF","#00009EAF",1350
+"40616059","INDIANA HARDWOOD LUMBERMENS ASSOCIATION","Uncoded","Uncoded","Uncoded",86.25,13.75,"#0000B8AF","#0000B8AF",2000
+"6965177","ISNA-NURSE","Health Professionals","Health","Nurses",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",2600
+"9588","CHECK INTO CASH","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",74.1573033707865,25.8426966292135,"#00007AAF","#00007AAF",4450
+"495725","DAIMLERCHRYSLER","Automotive","Transportation","Auto manufacturers",67.4603174603175,32.5396825396825,"#000057AF","#000057AF",6300
+"13131","INDIANA HARDWOOD LUMBERMENS ASSOCIATION","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",59.7701149425287,40.2298850574713,"#00002EAF","#00002EAF",2175
+"4299765","ELEVATOR CONSTRUCTORS LOCAL 3","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1500
+"6958374","COMMUNICATIONS WORKERS LOCAL 4900","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",3800
+"4172479","CARPENTERS & JOINERS LOCAL 90","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1600
+"22095358","INDIANA ACADEMY OF OPHTHALMOLOGY INC","Uncoded","Uncoded","Uncoded",42.3076923076923,57.6923076923077,"#290000AF","#290000AF",1300
+"6963043","RESTAURANT & HOSPITALITY ASSOCIATION OF INDIANA","Food & Beverage","General Business","Restaurants & drinking establishments",56.353591160221,43.646408839779,"#00001FAF","#00001FAF",4525
+"7204926","CITIZENS FOR CVITKOVICH","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1300
+"7095950","LAWRENCE M BORST CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1250
+"6988200","DEVER DISTRIBUTING","Beer, Wine & Liquor","General Business","Liquor wholesalers",77.2727272727273,22.7272727272727,"#00008AAF","#00008AAF",1100
+"7029010","PIERCE FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3000
+"7202563","DEKALB COUNTY DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",800
+"7043309","WAYNE TOWNSHIP GOP CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1200
+"4784988","LINDEL O HUME FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",800
+"30038335","ELECTRICAL WORKERS LOCAL 16","General Trade Unions","Labor","Electrical workers/IBEW",88.5714285714286,11.4285714285714,"#0000C2AF","#0000C2AF",1750
+"978","FIFTH THIRD BANCORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",40,60,"#330000AF","#330000AF",1250
+"14742","OLBANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",41.4634146341463,58.5365853658537,"#2E0000AF","#2E0000AF",2050
+"6973296","OPPORTUNITY PROJECT OF INDIANA","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",3500
+"5796529","DAN BURTON FOR CONGRESS CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2425
+"7043782","JEFF DROZDA FOR STATE SENATE CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1300
+"7069051","EAST CENTRAL INDIANA AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",750
+"7181653","BERNS CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",75,25,"#00007FAF","#00007FAF",1000
+"7609361","ROGERS GROUP INC","General Contractors","Construction","Public works, industrial & commercial construction",50,50,"#000000AF","#000000AF",1000
+"11031797","PLUMBERS & STEAMFITTERS LOCAL 661","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",750
+"22092299","PHEND & BROWN INC","Uncoded","Uncoded","Uncoded",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",1200
+"29936188","HARMON STEEL INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",950
+"7988","NATIONAL WINE & SPIRITS CORP","Beer, Wine & Liquor","General Business","Liquor wholesalers",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",900
+"5298642","PERNOD RICARD USA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"5622518","LBC INC","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",2500
+"6960984","INDIANA RAILROAD TRANSPORTATION GROUP","Railroads","Energy & Natural Resources","Railroads",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1800
+"6979157","ANDERSON FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1500
+"7069396","SOLIDARITY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"40616071","APTA INDIANA CHAPTER","Uncoded","Uncoded","Uncoded",86.4864864864865,13.5135135135135,"#0000B8AF","#0000B8AF",1850
+"527","CENDANT","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",60,40,"#000033AF","#000033AF",2000
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",32.1428571428571,67.8571428571429,"#5C0000AF","#5C0000AF",5600
+"3607","ELECTRONIC DATA SYSTEMS","Computer Equipment & Services","Communications & Electronics","Computer manufacture & services",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",1750
+"3627","FEDERAL EXPRESS","Air Transport","Transportation","Express delivery services",55.8823529411765,44.1176470588235,"#00001AAF","#00001AAF",3400
+"5619","A & F ENGINEERING","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",1000
+"13136","INDIANA APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",35.5555555555556,64.4444444444444,"#4D0000AF","#4D0000AF",2250
+"13137","INDIANA PETROLEUM MARKETERS & CONVENIENCE STORE ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",55.0660792951542,44.9339207048458,"#00001AAF","#00001AAF",11350
+"2815427","BRODEN FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",650
+"6960457","INDIANA HOTEL & LODGING ASSOCIATION","Lodging & Tourism","General Business","Hotels & motels",52,48,"#00000AAF","#00000AAF",5000
+"6997908","INDIANA PROPANE GAS ASSOCIATION","Oil & Gas","Energy & Natural Resources","LPG/Liquid propane dealers & producers",62.6865671641791,37.3134328358209,"#00003DAF","#00003DAF",3350
+"7117117","AFSCME INDIANA COUNCIL 661","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",800
+"7173798","I / N TEK","Miscellaneous Manufacturing & Distributing","General Business","Heavy industrial manufacturing",82.3529411764706,17.6470588235294,"#0000A3AF","#0000A3AF",1700
+"7185545","INDIANA WHOLESALE DISTRBUTORS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",3250
+"7233197","COOKE LAW OFFICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",700
+"40616064","OLINGER DISTRIBUTING CO","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",700
+"18988","INDIANA PORK PRODUCERS ASSOCIATION","Livestock","Agriculture","Livestock",61.8556701030928,38.1443298969072,"#000038AF","#000038AF",1455
+"194","AMERICAN GENERAL CORPORATION","Pharmaceuticals & Health Products","Health","Biotech products & research",0,100,"#FF0000AF","#FF0000AF",2450
+"4269","PHARMERICA","Retail Sales","General Business","Drug stores",50,50,"#000000AF","#000000AF",1000
+"2007373","HOUSEHOLD","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",1300
+"7181398","AALCO DISTRIBUTING","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",600
+"7182285","COOK GROUP INC","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",0,100,"#FF0000AF","#FF0000AF",1000
+"29097189","INDIANA ASSOCIATION OF BEVERAGE RETAILERS","Uncoded","Uncoded","Uncoded",46.078431372549,53.921568627451,"#140000AF","#140000AF",5100
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",60,40,"#000033AF","#000033AF",1250
+"6963522","INDIANA ASSOCIATION FOR HOME & HOSPICE CARE","Health Services","Health","Home care services",100,0,"#0000FFAF","#0000FFAF",850
+"6995802","KWK MANAGEMENT GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",91.1111111111111,8.88888888888889,"#0000D1AF","#0000D1AF",1125
+"40613642","IN","Uncoded","Uncoded","Uncoded",34.0425531914894,65.9574468085106,"#520000AF","#520000AF",2350
+"1917","NUCOR CORP","Steel","Energy & Natural Resources","Steel manufacturing",0,100,"#FF0000AF","#FF0000AF",2000
+"7173660","OLSON FOR MAYOR ACTION CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",600
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",28.9473684210526,71.0526315789474,"#700000AF","#700000AF",1900
+"6967295","INDIANA AGRIBUSINESS PAC","Agricultural Services & Products","Agriculture","Agricultural services & related industries",41.2371134020619,58.7628865979381,"#2E0000AF","#2E0000AF",2425
+"6979194","CENTRAL INDIANA COMMUNICATIONS","Cable TV","Communications & Electronics","Satellite TV operators",10,90,"#CC0000AF","#D10000AF",1000
+"7193","INDIANA RADIOLOGICAL SOCIETY","Health Professionals","Health","Other physician specialists",100,0,"#0000FFAF","#0000FFAF",1250
+"7205231","TRI-STATE COMMUNICATIONS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"3199799","EAST CHICAGO DEMOCRATIC CENTRAL CMTE OF INDIANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1800
+"29090345","SHORT STRATEGY GROUP INC","Uncoded","Uncoded","Uncoded",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",650
+"1075727","METAL CONTAINER CORP","Miscellaneous Manufacturing & Distributing","General Business","Metal cans & containers",0,100,"#FF0000AF","#FF0000AF",750
+"7349459","IMHA","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",700
+"7168172","FRIENDS OF DOUG KINSER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",750
+"7057508","FORT WAYNE BUILD PAC","General Contractors","Construction","Builders associations",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",1400
+"856","DUKE ENERGY","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",100,0,"#0000FFAF","#0000FFAF",800
+"3841","HOUSEHOLD INTERNATIONAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",2100
+"40616075","IND CABLE","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",1000
+"2965","SOUTHWESTERN INDIANA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1150
+"3377007","LABORERS UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",800
+"70","AK STEEL","Steel","Energy & Natural Resources","Steel manufacturing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"7215501","NIEZGODSKI FOR 2ND DISTRICT COUNTY COMMISSIONER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",775
+"6959217","UNITED SURETY AGENTS","Miscellaneous Finance","Finance, Insurance & Real Estate","Bail Bond Services",47.5,52.5,"#0F0000AF","#0F0000AF",2000
+"6970490","FRIENDS OF CHARLIE BROWN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",600
+"7151855","CITIZENS TO ELECT DUANE CHENEY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",600
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",55.2083333333333,44.7916666666667,"#00001AAF","#00001AAF",4800
+"7176684","I/N KOTE","Miscellaneous Manufacturing & Distributing","General Business","Heavy industrial manufacturing",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",1200
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",69.4915254237288,30.5084745762712,"#000061AF","#000061AF",2950
+"29090717","BUSCH AGRICULTURAL RESOURCES","Crop Production & Basic Processing","Agriculture","Wheat, corn, soybeans & cash grain",17.3913043478261,82.6086956521739,"#A80000AF","#A80000AF",1150
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",2750
+"7239071","CMTE TO ELECT JIM ATTERHOLT","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3450
+"9093","TABBERT HAHN EARNEST & WEDDLE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1700
+"6963270","HEALTHPAC","Hospitals & Nursing Homes","Health","Hospitals",50,50,"#000000AF","#000000AF",2700
+"6964318","INDIANA ACADEMY OF FAMILY PHYSICIANS","Health Professionals","Health","Physicians",80,20,"#000099AF","#000099AF",1250
+"7045019","INDIANA DENTAL HYGIENTISTS ASSOCIATION","Health Professionals","Health","Dentists",100,0,"#0000FFAF","#0000FFAF",750
+"19891","OPERATING ENGINEERS LOCAL 181","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1800
+"7237102","GIBSON & LEPPERT","Uncoded","Uncoded","Uncoded",80.6451612903226,19.3548387096774,"#000099AF","#000099AF",3100
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",1500
+"24791258","1ST SOURCE BANK","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",600
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",1000
+"7112830","KOKOMO GRAIN CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",900
+"16334","T-MOBILE","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",100,0,"#0000FFAF","#0000FFAF",850
+"2809572","CHICAGO SOUTHSHORE & SOUTH BEND RAILROAD","Railroads","Energy & Natural Resources","Railroads",50,50,"#000000AF","#000000AF",1000
+"6992489","MILLWRIGHTS LOCAL 1080","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",600
+"40616073","CWA INDIANA STATE COUNCIL COPE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"7232473","NOBLE COUNTY RURAL ELECTRIC MEMBERSHIP COOPERATIVE","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",0,100,"#FF0000AF","#FF0000AF",675
+"29091428","CARPENTER LOCAL 133","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",700
+"7040651","FRIENDS OF FISHERS","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",750
+"13143","GREATER INDIANAPOLIS CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",0,100,"#FF0000AF","#FF0000AF",1250
+"7181220","KNOX COUNTY WOMENS REPUBLICAN CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",600
+"6970541","GREATER FORT WAYNE BUSINESS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",675
+"7046746","BODKIN ABSTRACT CO","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",0,100,"#FF0000AF","#FF0000AF",840
+"6965014","INDIANA HARDWOOD LUMBERMANS ASSOCIATION","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",1300
+"6965566","RUSH SHELBY ENERGY","Electric Utilities","Energy & Natural Resources","Electric power utilities",0,100,"#FF0000AF","#FF0000AF",770
+"6964177","INDIANA PHARMACISTS ACTION CMTE","Health Professionals","Health","Pharmacists",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",700
+"6959501","JACKMAN FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",900
+"7195318","PAINTERS & ALLIED TRADES LOCAL 1118","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"16684304","AFSCME COUNCIL 62 INDIANA & KENTUCKY","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",1100
+"6964643","PROFESSIONAL LAND SURVEYORS","Construction Services","Construction","Surveying",68.4210526315789,31.5789473684211,"#00005CAF","#00005CAF",950
+"6968917","INDIANA VENDING COUNCIL","Retail Sales","General Business","Vending machine sales & services",58.1818181818182,41.8181818181818,"#000029AF","#000029AF",2750
+"860","E I DU PONT DE NEMOURS & CO","Chemical & Related Manufacturing","General Business","Chemicals",31.0344827586207,68.9655172413793,"#610000AF","#610000AF",1450
+"7244119","CLARK COUNTY DEMOCRAT WOMENS CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1200
+"6962437","INDIANA STEEL & ENGINEERING CORPORATION","Miscellaneous Manufacturing & Distributing","General Business","Heavy industrial manufacturing",0,100,"#FF0000AF","#FF0000AF",500
+"2046","PHILIP MORRIS","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",61.9047619047619,38.0952380952381,"#000038AF","#000038AF",1050
+"7148219","HAMILTON COUNTY DEMOCRATIC CENTRAL CMTE OF INDIANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",900
+"29207143","CASH AMERICA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",700
+"7034734","INDIANA RAILROAD TRANSPORTATION GROUP","Uncoded","Uncoded","Uncoded",51.3513513513513,48.6486486486487,"#000005AF","#000005AF",1850
+"6974560","STEELWORKERS LOCAL 1066","General Trade Unions","Labor","Construction unions",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",700
+"1722","MICHELIN NORTH AMERICA","Chemical & Related Manufacturing","General Business","Plastics & rubber processing and products",31.25,68.75,"#610000AF","#610000AF",2400
+"6977852","RICKER OIL CO","Oil & Gas","Energy & Natural Resources","Oil & gas",100,0,"#0000FFAF","#0000FFAF",550
+"7051812","IND CPA","Uncoded","Uncoded","Uncoded",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",550
+"7178134","INDIANA SOCIETY OF ANESTHESIOLOGISTS / INDIANES","Health Professionals","Health","Other physician specialists",50,50,"#000000AF","#000000AF",700
+"32114860","IN HEALTHCARE PAC","Uncoded","Uncoded","Uncoded",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",650
+"38425115","SOUTHWESTERN INDIANA BUILDING & CONSTRUCTION TRADES COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",550
+"40616019","FRIEDMAN & ASSOCIATES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",600
+"40613086","JEFFERSON SMURFIT CORPORATION","Uncoded","Uncoded","Uncoded",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",600
+"6969461","HAMMOND FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",800
+"6958472","WABASH VALLEY CENTRAL LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",800
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",52.8175902137482,47.1824097862518,"#00000AAF","#00000AAF",1533.58
+"22090647","ERIKS CHEVROLET INC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",750
+"7042250","SADLER CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",600
+"1642","MARTIN MARIETTA MATERIALS","General Contractors","Construction","Construction, unclassified",58.1818181818182,41.8181818181818,"#000029AF","#000029AF",2750
+"7237782","HIGHTOWER SERVICES","Miscellaneous Services","General Business","Funeral services",89.4736842105263,10.5263157894737,"#0000C7AF","#0000C7AF",950
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",55.8139534883721,44.1860465116279,"#00001AAF","#00001AAF",2150
+"27706062","AUTOMOBILE DEALERS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",550
+"29089194","LEWIS & KAPPES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",600
+"22090321","LEE & RYAN ENVIRONMENTAL CONSULTING INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",900
+"40613752","GOLDEN RULE FINANCIAL CORPORATION","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",900
+"12462","GINOVUS","Business Services","General Business","Business services",100,0,"#0000FFAF","#0000FFAF",600
+"2462501","AD-VENTURES INC","Business Services","General Business","Advertising & public relations services",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",550
+"6995742","PAVEY GROCERY","Food Processing & Sales","Agriculture","Food stores",0,100,"#FF0000AF","#FF0000AF",500
+"188","AMERICAS HEALTH INSURANCE PLANS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",900
+"38552077","RESTAURANT & HOSPITALITY ASSOCIATION OF INDIANA","Uncoded","Uncoded","Uncoded",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",1300
+"18926547","INDIANA STATE MEDICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",550
+"22094584","ASSOCIATION OF INDIANA LIFE INSURANCE COMPANIES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"735","CSX TRANSPORTATION","Railroads","Energy & Natural Resources","Railroads",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",2750
+"2410","SMURFIT-STONE CONTAINER CORP","Miscellaneous Manufacturing & Distributing","General Business","Paper packaging materials",40,60,"#330000AF","#330000AF",750
+"13134","INDIANA LOGO SIGN GROUP PARTNERSHIP","Business Services","General Business","Outdoor advertising services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",450
+"7059071","LEWIS & KAPPES PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",550
+"7035495","SOMMER BARNARD PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",550
+"6965980","PLUMBERS & PIPEFITTERS LOCAL 210","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",500
+"6973451","UNITED REMC","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",0,100,"#FF0000AF","#FF0000AF",500
+"40626983","POWER","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",550
+"38424488","IAHSA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",550
+"6965007","IEA","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"7183290","AFSCME LOCAL 3131","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",900
+"7174864","CITIZENS FOR MCKILLIP","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",350
+"6960305","MAR-CARE INC","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",52.863436123348,47.136563876652,"#00000AAF","#00000AAF",1135
+"6962350","BLOOMINGTON HOME BUILDERS","Home Builders","Construction","Residential construction",53.0973451327434,46.9026548672566,"#00000FAF","#00000FAF",1130
+"7243689","SQUARE ONE","Business Services","General Business","Outdoor advertising services",0,100,"#FF0000AF","#FF0000AF",500
+"7168207","BOSE TREACY ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",500
+"6959091","BUTLER FAIRMAN & SEUFERT","Construction Services","Construction","Engineering, architecture & construction management services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"6968592","WALSH & KELLY INC","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"3403","CINGULAR WIRELESS","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",54.7619047619048,45.2380952380952,"#000014AF","#000014AF",2100
+"7038005","IFWOA PAC LLC","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"6964822","FRIENDS OF INDIANA MENTAL HEALTH CENTERS","Health Services","Health","Mental health services",100,0,"#0000FFAF","#0000FFAF",600
+"16155","STAR PAC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",100,0,"#0000FFAF","#0000FFAF",500
+"6957871","TIM LANANE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",450
+"7211954","LAMBDA CONSULTING INC","Miscellaneous Services","General Business","Services",100,0,"#0000FFAF","#0000FFAF",350
+"5","3M CO","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",65.3846153846154,34.6153846153846,"#00004DAF","#00004DAF",1300
+"20064","LABORERS LOCAL 645","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",450
+"2158759","EXTENDICARE HEALTH SERVICES","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",500
+"7238316","ED BERTHOLET & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"40616092","COMMUNITY PHARMACIES OF INDIANA INC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"3071966","DELPHI","Automotive","Transportation","Auto repair",16,84,"#AD0000AF","#AD0000AF",1250
+"32745997","EI DUPONT DE NEMOURS & COMPANY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",450
+"6970543","INDIANA FORESTRY & WOODLAND OWNERS ASSOCIATION","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"6966222","COMMUNITY PHARMACIES OF INDIANA","Retail Sales","General Business","Drug stores",80,20,"#000099AF","#000099AF",1250
+"40616128","HOOSIER OSTEOPATHIC","Uncoded","Uncoded","Uncoded",51.5151515151515,48.4848484848485,"#000005AF","#000005AF",1650
+"7455768","INDIANA LAND TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",64.7058823529412,35.2941176470588,"#000047AF","#000047AF",1700
+"7151607","OUTDOOR ADVERTISING ASSOCIATION OF INDIANA INC","Business Services","General Business","Outdoor advertising services",50,50,"#000000AF","#000000AF",500
+"13289","JMG ENTERPRISES LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"9979","AMERICAN SURETY CO","Miscellaneous Finance","Finance, Insurance & Real Estate","Bail Bond Services",40,60,"#330000AF","#330000AF",1000
+"6978158","ROCK INDUSTRIES","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,100,"#FF0000AF","#FF0000AF",450
+"19917997","FEUTZ CONTRACTORS INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"40616186","MIAMI-CASS COUNTY REMC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",400
+"7521952","IFWOA","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",1000
+"3197","AWIN MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",450
+"19766","TEAMSTERS LOCAL 142","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",600
+"40613394","IMA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",425
+"13779629","MIDWEST BONDING","Miscellaneous Finance","Finance, Insurance & Real Estate","Other financial services",75,25,"#00007FAF","#00007FAF",1000
+"38553506","PLUMBERS & PIPEFITTERS LOCAL 172","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",350
+"6958519","RESKE FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",-550
+"29090304","RED GOLD INC STATE WIDE","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",350
+"6959090","CONNIE LAWSON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",500
+"6957890","CITIZENS FOR DOMINGUEZ","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",300
+"1302652","CITIZENS FOR KARRAS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",300
+"6967947","LAKE RIDGE REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",400
+"6959063","PAT MILLER FOR STATE SENATOR","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",400
+"6958678","PLUMBERS STEAMFITTERS & HVAC SERVICE TECHNICIANS LOCAL 440","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"6978982","INDIANA MCDONALDS OWNER OPERATORS","Food & Beverage","General Business","Restaurants & drinking establishments",60,40,"#000033AF","#000033AF",2000
+"7062361","4TH CONGRESSIONAL DISTRICT DEMOCRATIC CENTRAL CMTE OF INDIANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",700
+"7058260","SURTECH CORP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",300
+"7060065","MIKE SPEEDY CMTE FOR COUNCIL","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",350
+"19135","AFSCME LOCAL 3732","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",400
+"6980862","ELECTRICAL WORKERS LOCAL 855","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",400
+"7069388","AFSCME LOCAL 293","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",300
+"2975","EAST CENTRAL INDIANA CENTRAL LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",300
+"3061362","GM CONSTRUCTION","General Contractors","Construction","Construction, unclassified",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",300
+"6974486","CMTE TO ELECT DAVID J PASTRICK","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",500
+"22091784","INDIANA FUNERAL DIRECTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",1100
+"7227853","FRIENDS OF JIM TROBAUGH","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",300
+"7244167","SOUTH CENTRAL INDIANA CENTRAL LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",400
+"7186623","DAVIES-MARTIN COUNTY RURAL ELECTRIC MEMBERSHIP COOPERATIVE","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",100,0,"#0000FFAF","#0000FFAF",400
+"7098666","SOUTH CENTRAL INDIANA RURAL ELECTRIC MEMBERSHIP COOPERATIVE","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",50,50,"#000000AF","#000000AF",800
+"7115386","ROSK GROUP INC","Construction Services","Construction","Architectural services",50,50,"#000000AF","#000000AF",400
+"20075","LABORERS LOCAL 81","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",500
+"7051520","WHETSTONE FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",300
+"6958801","GRUBB FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",-800
+"7334635","ROSWARSKI FOR LAFAYETTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",250
+"1898","MISSISSIPPI RAILROAD ASSOCIATION NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroads",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"6963212","INDIANA FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",100,0,"#0000FFAF","#0000FFAF",400
+"7040731","SDS GROUP LTD","Trucking","Transportation","Trucking",0,100,"#FF0000AF","#FF0000AF",375
+"6962037","BLOOM CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",275
+"6963405","TERESA LUBBERS FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",350
+"7199107","CMTE TO ELECT FRANCES DUPEY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",350
+"7062603","INDIANA ASSOCIATION OF THEATRICAL STAGE EMPLOYEES","General Trade Unions","Labor","Entertainment unions",100,0,"#0000FFAF","#0000FFAF",550
+"37349639","AALCO DISTRIBUTING CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",250
+"6975702","INDIANA CAST METALS ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Heavy industrial manufacturing",60,40,"#000033AF","#000033AF",750
+"22092305","BREMEN CASTINGS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",225
+"40615931","CITIZENS FOR BERNARD A CARTER","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"6966164","CMTE TO ELECT RUDY CLAY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",200
+"6968088","VOLUNTEERS FOR VAN TIL","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",200
+"7196603","WABASH VALLEY ASPHALT COMPANY LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"7202508","VANDERBURGH COUNTY FEDERATED REPUBLICAN WOMEN","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",200
+"6957947","5TH DISTRICT DEMOCRATIC CENTRAL CMTE OF INDIANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",200
+"4577","SMOKELESS TOBACCO COUNCIL","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",500
+"7035604","WESTERN INDIANA PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"7188409","MOSBY FOR TRUSTEE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",200
+"1671","MCGRAW-HILL COMPANIES","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"7053556","HANCOCK COMMUNICATIONS INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",200
+"7057738","NORTHEASTERN REMC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",200
+"15402","RED GOLD","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",100,0,"#0000FFAF","#0000FFAF",200
+"7243510","PORTER COUNTY DEMOCRATIC CENTRAL CMTE OF INDIANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",150
+"6958560","PERRY COUNTY DEMOCRATIC CENTRAL CMTE OF INDIANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",200
+"7067846","VOLUNTEERS FOR VANTIL","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",100
+"7012094","ELECT RUPPEL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",40

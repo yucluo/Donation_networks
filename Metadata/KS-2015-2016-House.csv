@@ -1,0 +1,437 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"4836","KANSAS REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",39680
+"4839","DEMOCRATIC HOUSE CAMPAIGN CMTE OF KANSAS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",11700
+"3742392","JOHNSON COUNTY DEMOCRATIC CENTRAL CMTE OF KANSAS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",6570
+"10435","BLUE CROSS BLUE SHEILD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",13.9479905437352,85.4609929078014,"#BD0000AF","#B80000AF",42300
+"7347","KANSAS ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",10.2633067380052,89.5362380522681,"#CC0000AF","#CC0000AF",62358.07
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",20,79.5321637426901,"#990000AF","#990000AF",42750
+"4840","KANSAS DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2320
+"17306","KANSAS CHAMBER OF COMMERCE & INDUSTRY","Business Associations","General Business","Chambers of commerce",0,98.3749312247679,"#FF0000AF","#FA0000AF",43075.1
+"3840","HOSPITAL CORP OF AMERICA","Hospitals & Nursing Homes","Health","Hospitals",24.2424242424242,75.1964085297419,"#850000AF","#850000AF",44550
+"8848334","KANSAS ASSOCIATION OF INSURANCE AGENTS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",8.18226954556002,90.999503499884,"#D60000AF","#D10000AF",30553.87
+"7349","KANSAS BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",17.2553733810085,82.7446266189915,"#A80000AF","#A80000AF",70300.71
+"20845086","ALEC AMERICAN LEGISLATIVE EXCHANGE COUNCIL","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2947.91
+"8769908","KANSANS FOR QUALITY MENTAL HEALTH SYSTEMS","Health & Welfare Policy","Ideology/Single Issue","Health & welfare policy",25,75,"#800000AF","#800000AF",16400
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",21.3114754098361,77.8688524590164,"#940000AF","#8F0000AF",61000
+"8871528","WICHITA METRO CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",14.2857142857143,83.3333333333333,"#B80000AF","#AD0000AF",21000
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",8000
+"7343","KANSAS AGRI BUSINESS COUNCIL","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",9.51574832558514,90.4842516744149,"#D10000AF","#D10000AF",21017.79
+"7366","KANSAS MEDICAL SOCIETY","Health Professionals","Health","Physicians",12.1665842634053,87.8334157365947,"#C20000AF","#C20000AF",65753.87
+"7357","KANSAS CONTRACTORS ASSOCIATION","General Contractors","Construction","Builders associations",43.8790560471976,56.1209439528024,"#240000AF","#240000AF",67800
+"7362","KANSAS HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",26.314140312178,73.685859687822,"#7A0000AF","#7A0000AF",61753.87
+"18787","KANSAS OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",22.2655333984709,77.165015619471,"#8F0000AF","#8F0000AF",87803.87
+"27743384","KANSAS NEW ENERGY ECONOMY","Uncoded","Uncoded","Uncoded",41.1347517730496,58.8652482269503,"#2E0000AF","#2E0000AF",7050
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",29.4117647058824,70.5882352941177,"#6B0000AF","#6B0000AF",12750
+"1457","KOCH INDUSTRIES","Chemical & Related Manufacturing","General Business","Chemicals",0,98.4126984126984,"#FF0000AF","#FA0000AF",31500
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",26.6666666666667,73.3333333333333,"#7A0000AF","#7A0000AF",3750
+"4412","PRAIRIE BAND POTAWATOMI NATIONS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",25.0497017892644,74.9502982107356,"#800000AF","#800000AF",50300
+"519","CATERPILLAR","Building Materials & Equipment","Construction","Construction equipment",0,100,"#FF0000AF","#FF0000AF",5500
+"20535706","KANSAS NEW ENERGY ECONOMY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",31.4447592067989,68.5552407932011,"#610000AF","#610000AF",35300
+"20176","WICHITA / HUTCHINSON LABOR FEDERATION OF CENTRAL KANSAS","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",2750
+"20230","KANSAS NATIONAL EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",69.7309417040359,30.2690582959641,"#000061AF","#000061AF",44600
+"20739","CARPENTERS DISTRICT COUNCIL OF GREATER ST LOUIS & VICINITY","General Trade Unions","Labor","Construction unions",89.3333333333333,10.6666666666667,"#0000C7AF","#0000C7AF",18750
+"16286","SUNFLOWER ELECTRIC POWER CORPORATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",1.94291234815136,96.4118345033277,"#FA0000AF","#F00000AF",15195.23
+"191","AMERIGROUP CORPORATION","Health Services","Health","HMOs",13.5071090047393,86.4928909952607,"#BD0000AF","#BD0000AF",21100
+"7358","KANSAS DENTAL ASSOCIATION","Health Professionals","Health","Dentists",17.4438687392055,81.692573402418,"#A80000AF","#A30000AF",28950
+"18788","KANSAS PHARMACISTS ASSOCIATION","Health Professionals","Health","Pharmacists",27.027027027027,72.972972972973,"#750000AF","#750000AF",9250
+"20594","PLUMBERS & PIPEFITTERS LOCAL 441","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",13142.5
+"2620446","POLSINELLI WHITE & VARDEMAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",34.1463414634146,65.8536585365854,"#520000AF","#520000AF",10250
+"16668066","LRICO SERVICES LLC","Beer, Wine & Liquor","General Business","Liquor wholesalers",30.5882352941176,69.4117647058823,"#660000AF","#660000AF",34000
+"26733738","ONE GAS INC","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",30.03003003003,68.4684684684685,"#660000AF","#610000AF",16650
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",25,75,"#800000AF","#800000AF",22000
+"246","ASH GROVE CEMENT","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",11.2903225806452,88.7096774193548,"#C70000AF","#C70000AF",15500
+"528","CENTENE CORP","Health Services","Health","HMOs",6.06060606060606,93.9393939393939,"#E00000AF","#E00000AF",16500
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",10.5042016806723,89.4957983193277,"#CC0000AF","#CC0000AF",23800
+"1287","HY-VEE INC","Food Processing & Sales","Agriculture","Food stores",39.2592592592593,60.7407407407407,"#380000AF","#380000AF",33750
+"28136704","CERNER CORPORATION","Health Services","Health","Health care services",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",6750
+"33","ADVANCE AMERICA CASH ADVANCE CENTERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",16.9741697416974,83.0258302583026,"#AD0000AF","#AD0000AF",13550
+"2142","QC HOLDINGS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",18.2608695652174,81.7391304347826,"#A30000AF","#A30000AF",11500
+"1039","NEXTERA ENERGY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",24.3142144638404,75.6857855361596,"#850000AF","#850000AF",40100
+"8770659","DUSTROL INC","General Contractors","Construction","Public works, industrial & commercial construction",6.45161290322581,93.5483870967742,"#E00000AF","#E00000AF",7750
+"8771054","MONARCH CEMENT CO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",19.3548387096774,80.6451612903226,"#9E0000AF","#9E0000AF",7750
+"14654","NEWSPAPER PLACEMENT SERVICE INC","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",0,100,"#FF0000AF","#FF0000AF",3000
+"5232","KANSAS CREDIT UNION ASSOCIATION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",21.0200927357032,78.9799072642968,"#940000AF","#940000AF",32350
+"10668","BURNS & MCDONNELL","Construction Services","Construction","Engineering, architecture & construction management services",12.5,87.5,"#C20000AF","#C20000AF",8000
+"132","AMERICAN FAMILY LIFE ASSURANCE CO / AFLAC","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",13.135593220339,86.864406779661,"#BD0000AF","#BD0000AF",11800
+"26765585","KANSAS NEW ENERGY","Uncoded","Uncoded","Uncoded",34.8837209302326,65.1162790697674,"#520000AF","#520000AF",4300
+"7364","KANSAS LIVESTOCK ASSOCIATION","Livestock","Agriculture","Livestock",16.946296786786,83.053703213214,"#AD0000AF","#AD0000AF",43569.46
+"20144","KANSAS AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",11850
+"8482","PIONEER COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",25,75,"#800000AF","#800000AF",2000
+"16327961","PIONEER LONG DISTANCE","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"27752936","WILSON TELEPHONE COMPANY INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"5780","LOAN MAX","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",24.7563352826511,75.2436647173489,"#850000AF","#850000AF",25650
+"38255557","HOME BUILDERS ASSOCIATION OF GREATER KANSAS CITY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2550
+"8799675","WILSON TELEPHONE CO","Telecom Services & Equipment","Communications & Electronics","Telecommunications",100,0,"#0000FFAF","#0000FFAF",1250
+"8856333","PMCA GAS","Oil & Gas","Energy & Natural Resources","Gasoline service stations",21.1864406779661,78.8135593220339,"#940000AF","#940000AF",11800
+"26832372","KANSAS STATE FIRE FIGHTERS","Uncoded","Uncoded","Uncoded",76.1904761904762,23.8095238095238,"#000085AF","#000085AF",2100
+"26139251","KC BIZPAC","Uncoded","Uncoded","Uncoded",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",4250
+"20278","NORTHEAST KANSAS BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3000
+"19976","CONSTRUCTION & GENERAL LABORERS LOCAL 1290","General Trade Unions","Labor","Construction unions",89.5833333333333,10.4166666666667,"#0000C7AF","#0000C7AF",9600
+"4157991","HALLMARK CARDS","Printing & Publishing","Communications & Electronics","Greeting card publishing",17.4358974358974,82.5641025641026,"#A80000AF","#A80000AF",9750
+"1470","KROGER CO","Food Processing & Sales","Agriculture","Food stores",25.2669039145907,74.7330960854093,"#800000AF","#800000AF",14050
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",20.3722334004024,79.6277665995976,"#990000AF","#990000AF",19880
+"7354","KANSAS CITY POWER & LIGHT","Electric Utilities","Energy & Natural Resources","Electric power utilities",15.8450704225352,84.1549295774648,"#B30000AF","#B30000AF",14200
+"18611","ASSOCIATED GENERAL CONTRACTORS KANSAS CITY CHAPTER","General Contractors","Construction","Builders associations",4.25531914893617,93.6170212765958,"#EB0000AF","#E00000AF",11750
+"8775858","SPIRIT AEROSYSTEMS","Air Transport","Transportation","Aircraft manufacturers",26.3157894736842,73.6842105263158,"#7A0000AF","#7A0000AF",4750
+"16634101","ITC GREAT PLAINS LLC","Electric Utilities","Energy & Natural Resources","Electric power utilities",27.4509803921569,72.5490196078431,"#750000AF","#750000AF",12750
+"9484","WESTAR ENERGY","Electric Utilities","Energy & Natural Resources","Electric power utilities",18.8911704312115,81.1088295687885,"#A30000AF","#A30000AF",24350
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",21.3740458015267,78.6259541984733,"#940000AF","#940000AF",6550
+"8774869","PHYSICIANS HOSPITALS OF KANSAS","Hospitals & Nursing Homes","Health","Hospitals",12.5,87.5,"#C20000AF","#C20000AF",10000
+"7355","KANSAS CMTE FOR RURAL ELECTRIFICATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",16.1455756861982,83.8544243138018,"#AD0000AF","#AD0000AF",22297.13
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",0,100,"#FF0000AF","#FF0000AF",4000
+"7379","KANSAS WINE & SPIRITS WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",29.4605809128631,70.5394190871369,"#6B0000AF","#6B0000AF",24100
+"16714499","LRI CO SERVICES LLC","Beer, Wine & Liquor","General Business","Liquor wholesalers",74.3589743589744,25.6410256410256,"#00007AAF","#00007AAF",1950
+"23413170","BRIAN E DAVIS RETAIL LIQUOR","Uncoded","Uncoded","Uncoded",57.5,42.5,"#000024AF","#000024AF",2000
+"40613767","FIRE FIGHTERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"20617","PLUMBERS & GASFITTERS LOCAL 8","General Trade Unions","Labor","Construction unions",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",3500
+"26733836","KANSAS RURAL INDEPENDENT TELECOMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",29.5086753420087,69.4486152819486,"#6B0000AF","#660000AF",47952
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",4,96,"#EB0000AF","#EB0000AF",10000
+"7065","HEAVY CONSTRUCTORS ASSOCIATION OF THE GREATER KANSAS CITY AREA","General Contractors","Construction","Builders associations",34.115523465704,65.884476534296,"#520000AF","#520000AF",27700
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",27.3255813953488,72.6744186046512,"#750000AF","#750000AF",8600
+"7360","KANSAS GAS SERVICE","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",1300
+"8313","ONEOK INC","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",13.953488372093,86.046511627907,"#BD0000AF","#BD0000AF",10750
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",22.5352112676056,77.4647887323944,"#8F0000AF","#8F0000AF",7100
+"8782472","ROGERS WHOLESALE LIQUOR","Beer, Wine & Liquor","General Business","Liquor wholesalers",82.7437446074202,17.2562553925798,"#0000A3AF","#0000A3AF",1159
+"13356","KANSAS BEVERAGE ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",14.0983606557377,84.8087431693989,"#B80000AF","#B30000AF",45750
+"8791398","LYON COUNTY DEMOCRATIC CENTRAL CMTE OF KANSAS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1000
+"1933752","KANSAS HEALTH CARE ASSOCIATION / KANSAS CENTER FOR ASSISTED LIVING","Hospitals & Nursing Homes","Health","Nursing homes",32.967032967033,67.032967032967,"#5C0000AF","#5C0000AF",27300
+"8787467","KANSAS ASSOCIATION FOR JUSTICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",59.3869731800766,40.6130268199234,"#00002EAF","#00002EAF",13050
+"7350","KANSAS BEER WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",12.6984126984127,87.3015873015873,"#C20000AF","#C20000AF",15750
+"6211","CASEYS GENERAL STORES","Oil & Gas","Energy & Natural Resources","Gasoline service stations",17.910447761194,82.089552238806,"#A80000AF","#A80000AF",16750
+"20535802","WHITNEY B DAMRON PA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1650
+"7346","KANSAS STATE FARM INSURANCE AGENTS & EMPLOYEES","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",25.5760368663594,74.4239631336406,"#800000AF","#800000AF",21700
+"11954259","YOPAC","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,98.7012987012987,"#FF0000AF","#FA0000AF",15400
+"1505","LATHROP & GAGE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",8.57142857142857,91.4285714285714,"#D60000AF","#D60000AF",8750
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",17.9245283018868,80.188679245283,"#A80000AF","#9E0000AF",26500
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"23340024","QUIKTRIP CORPORATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",24.3243243243243,75.6756756756757,"#850000AF","#850000AF",9250
+"16714502","LRICO SERVICES","Beer, Wine & Liquor","General Business","Liquor wholesalers",42.5287356321839,57.4712643678161,"#290000AF","#290000AF",4350
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",7000
+"19611","ELECTRICAL WORKERS LOCAL 124","General Trade Unions","Labor","Electrical workers/IBEW",91.3793103448276,8.62068965517241,"#0000D1AF","#0000D1AF",5800
+"544","CERNER CORP","Health Services","Health","Health care services",20,80,"#990000AF","#9E0000AF",1250
+"7374","KANSAS RESTAURANT & HOSPITALITY ASSOCIATION","Lodging & Tourism","General Business","Lodging & tourism",5.94405594405594,92.3076923076923,"#E60000AF","#DB0000AF",14300
+"9954894","MERCK SHARP & DOHM CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",3750
+"8777073","WICHITA AREA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",31.0344827586207,68.9655172413793,"#610000AF","#610000AF",3625
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",6000
+"6458","COX COMMUNICATIONS","Miscellaneous Communications & Electronics","Communications & Electronics","Communications & electronics",25.8145363408521,72.9323308270677,"#800000AF","#750000AF",19950
+"16667482","KS DENTAL","Uncoded","Uncoded","Uncoded",9.89010989010989,90.1098901098901,"#D10000AF","#D10000AF",4550
+"28209575","KS RESTAURANT & HOSPITALITY ASSOCIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"8992713","PLATT LIQUOR","Beer, Wine & Liquor","General Business","Liquor stores",66.0377358490566,33.9622641509434,"#000052AF","#000052AF",2650
+"1926","OCCIDENTIAL PETROLEUM","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",1250
+"8904198","STANDARD BEVERAGE CORPORATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",1100
+"7375","KANSAS SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",24.4582043343653,73.9938080495356,"#850000AF","#7A0000AF",16150
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",11.4525139664804,88.5474860335195,"#C70000AF","#C70000AF",17900
+"23413172","TOM'S WINE & SPIRITS","Uncoded","Uncoded","Uncoded",57.5757575757576,42.4242424242424,"#000024AF","#000024AF",1650
+"7348","KANSAS AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",22.8548454999458,76.6257261932372,"#8F0000AF","#8A0000AF",38503.87
+"2590133","TRI COUNTY LABOR COUNCIL OF EASTERN KANSAS","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1200
+"3879062","KANSAS STATE COUNCIL OF FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",67.741935483871,32.258064516129,"#000057AF","#000057AF",3100
+"27743606","VERNS RETAIL LIQUOR","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",900
+"9588","CHECK INTO CASH","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",15.7894736842105,84.2105263157895,"#B30000AF","#B30000AF",5700
+"11576","DCP MIDSTREAM","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",35.4838709677419,61.2903225806452,"#4D0000AF","#3D0000AF",4650
+"1447479","REPUBLICAN CENTRAL CMTE UNIDENTIFIED","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1200
+"4597196","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 15 MISSOURI KANSAS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1100
+"18652","KANSAS CABLE TELECOMMUNICATIONS ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",23.7789203084833,75.1928020565553,"#8A0000AF","#850000AF",38900
+"38381597","KANSAS ASSOCIATION FOR RESPONSIBLE LIQUOR LAWS INC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",25.8992805755396,71.2230215827338,"#800000AF","#700000AF",6950
+"8767714","KANSAS INDEPENDENT PHARMACY SERVICES CORP","Health Professionals","Health","Pharmacists",12,88,"#C20000AF","#C20000AF",2500
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",6.49422445273207,93.5057755472679,"#E00000AF","#E00000AF",23153.65
+"39810465","GREATER KANSAS CITY BUILDING & CONSTRUCTION TRADES COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1300
+"23413342","JOHN DAVIS LIQUOR OUTLET LLC","Uncoded","Uncoded","Uncoded",52.8301886792453,47.1698113207547,"#00000AAF","#00000AAF",2650
+"16714464","LRICO","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",1500
+"1396","JOHN DEERE & CO","Agricultural Services & Products","Agriculture","Farm machinery & equipment",20,80,"#990000AF","#9E0000AF",7500
+"8331868","SMART","General Trade Unions","Labor","Other unions",88.2352941176471,11.7647058823529,"#0000C2AF","#0000C2AF",8500
+"16601677","HOLLYWOOD CASINO AT KANSAS SPEEDWAY","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",3000
+"11953864","STAFFORD CONSULTING LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"38381604","DAVID KENSINGER & ASSOCIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"3824","HOLLYWOOD CASINO AURORA","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",1000
+"16668044","ROAD MAP PAC INC","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",5500
+"26832824","VENTURE CORPORATION","Special Trade Contractors","Construction","Landscaping & excavation services",0,100,"#FF0000AF","#FF0000AF",6500
+"8770315","POTTAWATOMIE COUNTY REPUBLICAN CENTRAL CMTE OF KANSAS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1000
+"20536239","KANSAS BANKERS ASS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",900
+"26822056","APAC KANSAS CITY","General Contractors","Construction","Construction, unclassified",20.5298013245033,79.4701986754967,"#990000AF","#990000AF",7550
+"26826647","QUICKTRIP CORPORATION","Uncoded","Uncoded","Uncoded",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",2250
+"26832539","MONARCH CEMENT CO","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"26833158","SMOKY HILL LLC","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",24200
+"8840365","KANSAS STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",80,20,"#000099AF","#000099AF",2500
+"8775012","EBERT CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",6000
+"20845492","KOGER AGENCY INC","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"26832860","J & R SAND COMPANY INC","Uncoded","Uncoded","Uncoded",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",4500
+"28209059","BAYER CONSTRUCTION CO","Uncoded","Uncoded","Uncoded",4.76190476190476,95.2380952380952,"#EB0000AF","#EB0000AF",5250
+"18653","KANSAS MARKETING SERVICES","TV & Movie Production/Distribution","Communications & Electronics","Commercial television & radio stations",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"27603869","AM. COUNCIL ENGINEERING COMP.","Uncoded","Uncoded","Uncoded",17.910447761194,82.089552238806,"#A80000AF","#A80000AF",3350
+"43557100","GENERAL MOTORS CO","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2500
+"3700870","KANSAS CITY REGIONAL ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",9625
+"16604879","ROAD MAP PAC INC","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2500
+"396","BOYD GAMING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",7.69230769230769,92.3076923076923,"#DB0000AF","#DB0000AF",13000
+"8770674","KOSS CONSTRUCTION","General Contractors","Construction","Construction, unclassified",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"8778242","CORNEJO & SONS","General Contractors","Construction","Construction, unclassified",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"26832508","BRIDGES INC","Uncoded","Uncoded","Uncoded",37.5,62.5,"#420000AF","#420000AF",4000
+"18837","PLANNED PARENTHOOD OF KANSAS & MID-MISSOURI","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",2500
+"20389","SERVICE EMPLOYEES MISSOURI KANSAS STATE COUNCIL 29","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",2500
+"20698","AUTO WORKERS REGION 5","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",3500
+"8805180","SOUTH SEDGWICK COUNTY DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1950
+"20878552","DEVAUGHN JAMES LLC","Uncoded","Uncoded","Uncoded",82,18,"#0000A3AF","#0000A3AF",2500
+"7359","KANSAS FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",12.2065727699531,87.7934272300469,"#C20000AF","#C20000AF",10650
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",26.3157894736842,73.6842105263158,"#7A0000AF","#7A0000AF",4750
+"8767049","ITC GREAT PLAINS","Electric Utilities","Energy & Natural Resources","Electric power utilities",0,100,"#FF0000AF","#FF0000AF",2500
+"28136731","KS NEW ENERGY","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"12284863","JACOB LIQUOR EXCHANGE LLC","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"14025756","NORTHPOINT DEVELOPMENT","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",1000
+"15913021","MDL WINE & SPIRITS","Beer, Wine & Liquor","General Business","Liquor wholesalers",37.0976872916361,62.9023127083639,"#420000AF","#420000AF",1907.72
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",15000
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",31.5789473684211,68.4210526315789,"#610000AF","#610000AF",4750
+"1087","GENERAL MOTORS","Automotive","Transportation","Auto manufacturers",39.2857142857143,60.7142857142857,"#380000AF","#380000AF",7000
+"1725","MICROSOFT","Computer Equipment & Services","Communications & Electronics","Computer software",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",6000
+"2755","VISA INC","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",36.5079365079365,63.4920634920635,"#470000AF","#470000AF",9450
+"16334","T-MOBILE","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",37.1428571428571,62.8571428571429,"#420000AF","#420000AF",8750
+"3833996","COMMUNITY AMERICA CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",6750
+"20541","PLUMBERS & PIPEFITTERS LOCAL 45","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1800
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",38.0952380952381,61.9047619047619,"#3D0000AF","#3D0000AF",15750
+"8804802","MEDICAL SOCIETY OF SEDGWICK COUNTY","Health Professionals","Health","Physicians",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",6750
+"26282806","KANSAS ASSOCIATION OF PUBLIC EMPLOYEES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1300
+"21184","AMERICAN COUNCIL Of ENGINEERING COMPANIES KANSAS","Construction Services","Construction","Engineering, architecture & construction management services",8.10810810810811,91.8918918918919,"#D60000AF","#D60000AF",1850
+"8777190","KANSAS STATE RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",50,50,"#000000AF","#000000AF",1000
+"28138822","SOUTHVIEW PLAZA OF SALINA LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"16714153","WILSON COMMUNICATION COMPANY INC","Printing & Publishing","Communications & Electronics","Book, newspaper & periodical publishing",0,100,"#FF0000AF","#FF0000AF",750
+"8800463","SHAWNEE COUNTY REPUBLICAN CENTRAL CMTE OF KANSAS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1100
+"8893677","JUSTIN D HILL JR TRUST","Nonprofit Institutions","Government Agencies/Education/Other","Nonprofit foundations",0,100,"#FF0000AF","#FF0000AF",1000
+"11954133","HICKAM PUBLIC AFFAIRS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",1216.77
+"8731974","J & R SAND CO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,100,"#FF0000AF","#FF0000AF",1000
+"27739457","FOLEY INDUSTRIES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"20536282","BEACHNER CONSTRUCTION CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"26832552","JAG CONSTRUCTION CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"7363","KANSAS LAND TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",22.8571428571429,77.1428571428572,"#8F0000AF","#8F0000AF",7000
+"8776200","HUTTON CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1000
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",4600
+"20879764","FIRE FIGHTERS LOCAL 83","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",1250
+"5487108","NACDS","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",750
+"39762929","KS STATE FARM INS AGENTS & EMPLOYEES","Uncoded","Uncoded","Uncoded",40.4761904761905,59.5238095238095,"#330000AF","#330000AF",2100
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"16668174","TWIN VALLEY TELEPHONE INC","Telecom Services & Equipment","Communications & Electronics","Telecommunications",40,60,"#330000AF","#330000AF",2500
+"8808844","SEDGWICK COUNTY FEDERATION OF WOMEN DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2875
+"2579","TEVA PHARMACEUTICALS USA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",2750
+"39655207","HOME BUILDERS ASSOCIATION OF GREATER KC","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",1750
+"20879653","KANSAS BANKER ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",1300
+"7377","KANSAS SPEEDWAY DEVELOPMENT CO","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",60,40,"#000033AF","#000033AF",1250
+"8770286","SHAWNEE COUNTY DEMOCRATIC CENTRAL CMTE OF KANSAS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1000
+"8779413","BOTTENBERG & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"13751897","HOLLYFRONTIER CORP","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",0,100,"#FF0000AF","#FF0000AF",2500
+"7334","K12 INC","Education","Government Agencies/Education/Other","Education",0,100,"#FF0000AF","#FF0000AF",1500
+"26282797","KANSAS ASSOCIATION OF PUBLIC EMPLOYEES","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",1000
+"4949344","HERMES LANDSCAPING","Special Trade Contractors","Construction","Landscaping & excavation services",0,100,"#FF0000AF","#FF0000AF",750
+"19801","TEAMSTERS LOCAL 795","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1000
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",14,86,"#B80000AF","#B80000AF",2500
+"1817","NATIONAL ASSOCIATION OF CHAIN DRUG STORES","Retail Sales","General Business","Drug stores",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",3750
+"7370","KANSAS PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8820836","KANSAS CRNA","Health Professionals","Health","Nurses",15.1515151515152,84.8484848484848,"#B30000AF","#B30000AF",3300
+"15916407","DEVINE DONLEY & MURRAY","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",8.06451612903226,91.9354838709677,"#D60000AF","#D60000AF",3100
+"8623","QUIKTRIP CORP","Oil & Gas","Energy & Natural Resources","Gasoline service stations",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",3000
+"27743409","KS FARM BUREAU VOTE FBF FUND PAC","Uncoded","Uncoded","Uncoded",27.7777777777778,72.2222222222222,"#750000AF","#750000AF",1800
+"28137053","KS INSURANCE","Uncoded","Uncoded","Uncoded",7.40740740740741,92.5925925925926,"#DB0000AF","#DB0000AF",1350
+"3970866","MURPHY TRACTOR & EQUIPMENT","Building Materials & Equipment","Construction","Construction equipment",60,40,"#000033AF","#000033AF",2500
+"8822517","KANSAS GRAIN & FEED ASSOCIATION","Agricultural Services & Products","Agriculture","Grain traders & terminals",0,100,"#FF0000AF","#FF0000AF",584.24
+"8778247","HWA DAVIS CONSTRUCTION & SUPPLY","General Contractors","Construction","Construction, unclassified",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"1939","MICHIGAN PAVING & MATERIALS","General Contractors","Construction","Public works, industrial & commercial construction",50,50,"#000000AF","#000000AF",1000
+"8784681","JOHNSON COUNTY DEMOCRATIC WOMEN OF KANSAS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1500
+"16601665","FREE STATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1250
+"21778362","QUIK TRIP CORPORATION","Uncoded","Uncoded","Uncoded",10,90,"#CC0000AF","#D10000AF",2500
+"20535602","PAWNEE INDUSTRIAL LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"20845129","LRICO SERVICE LLC","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",1000
+"4787636","MIDWEST MINERALS","General Contractors","Construction","Public works, industrial & commercial construction",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"20845609","SHERWOOD CONSTRUCTION CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"20535842","SECURITY BENEFIT LIFE INS","Uncoded","Uncoded","Uncoded",22.0588235294118,77.9411764705882,"#8F0000AF","#8F0000AF",3400
+"8775013","BAYER CONSTRUCTION","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1000
+"39655331","KROGER AGENCY INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"8804826","SPIRIT AREOSYSTEMS","Air Transport","Transportation","Aircraft manufacturers",50,50,"#000000AF","#000000AF",1000
+"28138866","KANSAS ASSOCIATION FOR FAIR PROPERTY TAXES","Uncoded","Uncoded","Uncoded",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",2100
+"8960249","HEFT & SONS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"19871","OPERATING ENGINEERS LOCAL 101","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"28116729","PLUMBERS & PIPEFITTERS LOCAL 533","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",800
+"5971","BEACHNER CONSTRUCTION","General Contractors","Construction","Public works, industrial & commercial construction",50,50,"#000000AF","#000000AF",1000
+"6687","EMPIRE DISTRICT","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",21.7391304347826,78.2608695652174,"#940000AF","#940000AF",2300
+"28136877","KS ASSOCIATION FOR FAIR PROPERTY TAXES","Uncoded","Uncoded","Uncoded",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",1300
+"20879793","KANSAS BANKER'S ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"3316288","LOCOMOTIVE ENGINEERS & TRAINMEN UNIDENTIFIED","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",2200
+"8774875","KOGER AGENCY","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8785229","JOHNSON COUNTRY DEMOCRATIC WOMEN","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1000
+"16668060","PINEGAR, SMITH & ASSOCIATES INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",18.6046511627907,81.3953488372093,"#A30000AF","#A30000AF",2150
+"8782346","KANSAS FAMILIES FOR EDUCATION","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",900
+"26765358","LRI CO SERVICES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"28208702","RANCHMART WINE & SPIRITS","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",600
+"12582","GREATER KANSAS CITY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",1750
+"8776643","L & M CONTRACTORS","General Contractors","Construction","Construction, unclassified",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"35365987","KANSAS SOCIETY OF PROFESSIONAL ENGINEERS","Uncoded","Uncoded","Uncoded",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",2100
+"16667479","KANSAS AGRICULTURAL BUSINESS COUNCIL","Uncoded","Uncoded","Uncoded",7.58868133002264,92.4113186699774,"#DB0000AF","#DB0000AF",3294.38
+"28139209","KC BIZPAC THE PAC OF GREATER KC CHAMBER OF COMMERCE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"28208786","SEDGWICK CO DEMOCRATIC WOMEN","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"8767446","PAT HUBBELL ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",17.2413793103448,82.7586206896552,"#A80000AF","#A80000AF",1450
+"331","BAYER AG","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",1250
+"23413354","ITC GREAT PLAINS LLC","Uncoded","Uncoded","Uncoded",9.3984962406015,90.6015037593985,"#D10000AF","#D10000AF",2660
+"372","BLACK HILLS CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",17.9487179487179,82.051282051282,"#A80000AF","#A80000AF",9750
+"8769104","TWIN VALLEY TELEPHONE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",650
+"28137049","SW KS IRRIGATION ASSN PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"38255571","CENTENE MANAGEMENT CO. LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"15673202","MIKES DISCOUNT LIQUOR","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"20535579","SCOTT CONSULTING","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",856.84
+"28136677","KANSAS CITIZENS FOR LIFE LIBERTY & PROPERTY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",850
+"20879563","KS ASSOCIATION FOR RESPONSIBLE LIQUOR LAWS INC","Uncoded","Uncoded","Uncoded",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",1700
+"12283135","LEADINGAGE KANSAS","Hospitals & Nursing Homes","Health","Nursing homes",26.8518518518519,73.1481481481482,"#7A0000AF","#7A0000AF",5400
+"16667908","KS DENTAL ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",650
+"8824122","KANSAS BUILDING INDUSTRY ASSOCIATION","General Contractors","Construction","Builders associations",21.2121212121212,78.7878787878788,"#940000AF","#940000AF",6600
+"18283","KANSAS FEDERATION OF DEMOCRATIC WOMEN","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1450
+"8778138","SIERRA CLUB KANSAS CHAPTER","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",2000
+"20535847","WHITNEY B DAMRON, PA","Uncoded","Uncoded","Uncoded",43.2432432432432,56.7567567567568,"#240000AF","#240000AF",925
+"7352","KANSAS CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",4,96,"#EB0000AF","#EB0000AF",5000
+"38255368","KANSAS ASSOCIATION FOR RESPONSIBLE LIQUOR LAWS","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",28.2051282051282,71.7948717948718,"#700000AF","#700000AF",3900
+"8778258","KANSAS SOCIETY OF PROFESSIONAL ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",10.5263157894737,89.4736842105263,"#CC0000AF","#CC0000AF",950
+"35365863","KANSAS ASSOCIATION OF NURSE ANESTHETISTS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",800
+"10936540","BLANK","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",420
+"20536220","DON'S SPIRITS & WINES LLC","Uncoded","Uncoded","Uncoded",30,70,"#660000AF","#660000AF",500
+"20535557","KANSAS BAIL AGENTS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1300
+"15796249","KANSAS FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",13.7254901960784,86.2745098039216,"#BD0000AF","#BD0000AF",2550
+"20879646","BROWN BAG LIQUOR LLC","Uncoded","Uncoded","Uncoded",8.69565217391304,91.304347826087,"#D60000AF","#D60000AF",1150
+"26765433","BRIGHT'S RETAIL LIQUOR STORE LLC","Uncoded","Uncoded","Uncoded",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",650
+"8784930","SUNFLOWER DAIRY PAC","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",0,100,"#FF0000AF","#FF0000AF",1350
+"15820802","KOBAGRAPHY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"15857732","TSF HOLDINGS LLC","Uncoded","Uncoded","Uncoded",36.8421052631579,63.1578947368421,"#470000AF","#470000AF",950
+"8782466","WYANDOTTE TRIBE OF OKLAHOMA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",100,0,"#0000FFAF","#0000FFAF",600
+"7110","HOME BUILDERS ASSOCIATION OF GREATER KANSAS CITY","Home Builders","Construction","Residential construction",0,100,"#FF0000AF","#FF0000AF",550
+"8770421","CAPITAL ADVANTAGE","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",550
+"16714136","COMMUNITY BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",12.1212121212121,87.8787878787879,"#C20000AF","#C20000AF",3300
+"11410","COVANTA ENERGY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1350
+"11954210","BROWN BAG LIQUOR","Beer, Wine & Liquor","General Business","Liquor stores",100,0,"#0000FFAF","#0000FFAF",600
+"29632242","SHEET METAL WORKERS LOCAL 2","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",900
+"2340903","PLUMBERS & PIPEFITTERS UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",600
+"20478","SHEET METAL WORKERS LOCAL 2","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",600
+"8816347","RURAL TELEPHONE SERVICE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",600
+"28138811","KS DENTAL HYGIENISTS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"8775117","RENTAL ENTERPRISE","Miscellaneous Services","General Business","Equipment rental & leasing",0,100,"#FF0000AF","#FF0000AF",500
+"16524778","SFF MDL 3 LLC","Uncoded","Uncoded","Uncoded",51.9230769230769,48.0769230769231,"#000005AF","#000005AF",1040
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",7177.92
+"3332535","PHILLIPS 66","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,92.854455061689,"#FF0000AF","#DB0000AF",3507.92
+"8847","SECURITY BENEFIT LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",3150
+"8784668","STEELWORKERS LOCAL 307","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",450
+"16522867","SECURITY BENEFIT LIFE INSURANCE PAC","Insurance","Finance, Insurance & Real Estate","Life insurance",25.7575757575758,74.2424242424242,"#800000AF","#800000AF",3300
+"16668059","MIDWEST ENERGY INC","Oil & Gas","Energy & Natural Resources","Oil & gas",12.5,87.5,"#C20000AF","#C20000AF",2000
+"8770629","ITC GREAT PLAINS","Electric Utilities","Energy & Natural Resources","Electric power utilities",0,100,"#FF0000AF","#FF0000AF",580
+"7367","KANSAS MOTOR CARRIERS ASSOCIATION","Trucking","Transportation","Trucking",28.0373831775701,71.9626168224299,"#700000AF","#700000AF",5350
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",3750
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",2450
+"9905728","CREDIT MANAGEMENT SERVICES","Miscellaneous Finance","Finance, Insurance & Real Estate","Credit reporting services & collection agencies",0,100,"#FF0000AF","#FF0000AF",1500
+"11954134","ADVANTAGE METALS RECYCLING","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",0,100,"#FF0000AF","#FF0000AF",500
+"15673689","LMM LLC","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",450
+"15912836","RANCHMART WINE & SPIRITS LLC","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",350
+"27743337","THREE J'S LLC","Uncoded","Uncoded","Uncoded",13.6363636363636,86.3636363636364,"#BD0000AF","#BD0000AF",550
+"28136852","TWISTED H LIQUOR LLC","Uncoded","Uncoded","Uncoded",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",550
+"28209444","KANSAS DENTAL ASSOCIATION","Uncoded","Uncoded","Uncoded",11.0872734731439,88.9127265268561,"#C70000AF","#C70000AF",1803.87
+"600740","SANOFI US","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",2250
+"3831025","SOUTHWESTERN ASSOCIATION","Agricultural Services & Products","Agriculture","Farm machinery & equipment",25,75,"#800000AF","#800000AF",1000
+"8767388","KANSAS ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",650
+"16327907","KANSAS COOPERATIVE COUNCIL","Uncoded","Uncoded","Uncoded",29.1208791208791,70.8791208791209,"#6B0000AF","#6B0000AF",4550
+"39763024","SHILLING CONSTRUCTION CO","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"6095","ASSOCIATION OF GENERAL CONTRACTORS OF KANSAS","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",500
+"16558312","KARLL","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",700
+"26765712","KS MOTOR CARRIERS TRUCK","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",1500
+"31827526","UNITED TEACHERS OF WICHITA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",850
+"5","3M CO","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",1500
+"229","ARCHER DANIELS MIDLAND","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",0,100,"#FF0000AF","#FF0000AF",500
+"16626","TRADEWIND ENERGY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",0,100,"#FF0000AF","#FF0000AF",1250
+"28138741","SW KANSAS IRRIGATION ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1750
+"8826360","POLSINELLI SHALTON FLANIGAN & SUELTHAUS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",750
+"28136793","KS. FARM BUREAU","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",350
+"26832362","KS RESTAURANT & HOSPITALITY ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",700
+"10019","ANESTHESIA ASSOCIATES OF KANSAS CITY","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",750
+"26822107","RENT-ME LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",350
+"28138736","ONE GAS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"16635852","LESLIE RUDD INVESTMENT COMPANY","Uncoded","Uncoded","Uncoded",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",450
+"2612","TIME WARNER CABLE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",30.2325581395349,69.7674418604651,"#660000AF","#660000AF",2150
+"21468","POLSINELLI SHUGHART PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",25,75,"#800000AF","#800000AF",1000
+"8780857","OLATHE NATIONAL EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",75,25,"#00007FAF","#00007FAF",1000
+"1233","HEWLETT PACKARD","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",0,100,"#FF0000AF","#FF0000AF",750
+"8778220","TOPEKA FEDERATION OF LABOR","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",750
+"8781312","BANK OF THE PRAIRIE","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",500
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"9985","AMERICAN WIND ENERGY ASSOCIATION","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",20.9090909090909,79.0909090909091,"#990000AF","#990000AF",5500
+"16016116","KANSAS ETHANOL","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"40615016","KLA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"20879576","KS BANKERS ASSOCIATION PAC STATE","Uncoded","Uncoded","Uncoded",52.3809523809524,47.6190476190476,"#00000AAF","#00000AAF",1050
+"8767797","FEDERICO CONSULTING","Accountants","Finance, Insurance & Real Estate","Accountants",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"16327486","WILSON COMMUNICATION CO","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"8770718","COMMUNITY BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",350
+"38255384","AMERICAN FAMILY INS KS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",650
+"16315","SWEDISH MATCH","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",1100
+"8874667","WHEAT STATE TELEPHONE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",100,0,"#0000FFAF","#0000FFAF",500
+"16633976","PINEGAR, SMITH & ASSOCIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"20535585","WHITNEY DAMRON PA","Uncoded","Uncoded","Uncoded",35.7142857142857,64.2857142857143,"#4D0000AF","#4D0000AF",700
+"19677","ELECTRICAL WORKERS LOCAL 53","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",750
+"29111827","LRICO SERVICES, INC.","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"3963964","COMMUNITY AMERICA","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"20536267","PETE'S OF ERIE INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"8767431","PINEGAR SMITH & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",500
+"8769915","MACHINISTS & AEROSPACE WORKERS DISTRICT LODGE 70","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1075
+"2868","WILLIAMS COMPANIES","Oil & Gas","Energy & Natural Resources","Oil & gas",18.6046511627907,81.3953488372093,"#A30000AF","#A30000AF",2150
+"6870","GACHES BRADEN BARBEE ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",495.59
+"8813535","ASSISTED LIVING AT WINDSOR PLACE","Hospitals & Nursing Homes","Health","Nursing homes",26.6666666666667,73.3333333333333,"#7A0000AF","#7A0000AF",750
+"16667515","KS COOPERATIVE COUNCIL","Uncoded","Uncoded","Uncoded",12.1212121212121,87.8787878787879,"#C20000AF","#C20000AF",825
+"21778233","KS ASSOCIATION FOR RESPONSIBLE LIQUOR LAWS","Uncoded","Uncoded","Uncoded",33.3333333333333,60,"#570000AF","#330000AF",3000
+"21778202","KS LAND TITLE ASSOCIATION","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1400
+"28137029","BUILDERS ASSOCIATION OF KS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",400
+"8768731","KS ELECTRIC POWER COOPERATIVE INC","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",300
+"12283121","STORM MANAGEMENT LLC","Uncoded","Uncoded","Uncoded",37.5,62.5,"#420000AF","#420000AF",800
+"26765683","STANLEY'S LIQUOR LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",400
+"26821954","METCALF LIQUORS LLC","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",500
+"11265","COMMERCE BANCSHARES","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",18.75,81.25,"#A30000AF","#A30000AF",1600
+"8770428","LITTLE GOVERNMENT RELATIONS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",1100
+"11953976","EDP RENEWABLES NORTH AMERICA","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",0,100,"#FF0000AF","#FF0000AF",600
+"20535775","KANSAS ELECTRIC POWER COOPERATIVE INC","Uncoded","Uncoded","Uncoded",18.6440677966102,81.3559322033898,"#A30000AF","#A30000AF",1475
+"15916448","KANSAS ASSOCIATION FOR RESPONSIBLE LIQUOR LAWS","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",600
+"20879356","WINDSOR PLACE AT HOME CARE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",300
+"8768355","KANSAS FUNERAL DIRECTORS & EMBALMERS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",0,100,"#FF0000AF","#FF0000AF",700
+"8781165","FREEDOM BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",600
+"8837571","BUILDERS ASSOCIATION OF KANSAS","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",400
+"20879346","WINDSOR PLACE LLC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",600
+"28137543","KS ASSOCIATION FOR RESPONSIBLE LIQUOR","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",400
+"8809424","KANSAS CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",50,50,"#000000AF","#000000AF",400
+"266","ATMOS ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",10.2272727272727,89.7727272727273,"#CC0000AF","#CC0000AF",4400
+"26764885","KANSAS ADVANCING WOMEN","Uncoded","Uncoded","Uncoded",87.5,12.5,"#0000BDAF","#0000BDAF",400
+"20879643","MISSIE'S DISCOUNT LIQUOR","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",300
+"26811583","KANSANS ADVANCING WOMEN","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",750
+"8992711","JOHN DAVIS LIQUOR OUTLET","Beer, Wine & Liquor","General Business","Liquor stores",12.5,87.5,"#C20000AF","#C20000AF",400
+"26765671","A LUSKER MASONRY LLC","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",350
+"8781508","KANSAS DENTAL HYGIENISTS ASSOCIATION","Health Professionals","Health","Dentists",40,60,"#330000AF","#330000AF",250
+"8847789","FLINTHILLS LIQUOR LLC","Beer, Wine & Liquor","General Business","Liquor stores",0,100,"#FF0000AF","#FF0000AF",315
+"8775031","DONDLINGER & SONS CONSTRUCTION","General Contractors","Construction","Public works, industrial & commercial construction",0,100,"#FF0000AF","#FF0000AF",300
+"16868301","COMMERCE BANCSHARES INC","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",300
+"16558772","TRAVEL INDUSTRY ASSOCIATION OF KS","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",400
+"8808324","WALNUT VALLEY TEACHERS","Public Sector Unions","Labor","Teachers unions",0,100,"#FF0000AF","#FF0000AF",200
+"7365","KANSAS MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",19.5121951219512,80.4878048780488,"#9E0000AF","#9E0000AF",2050
+"8810320","SOUTH CENTRAL KANSAS EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",400
+"8732338","DONDLINGER & SONS CONSTRUCTION CO","General Contractors","Construction","Public works, industrial & commercial construction",0,100,"#FF0000AF","#FF0000AF",600
+"20879561","MISSIE'S DISCOUNT LIQUORS LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",200
+"26811417","JOHN O FARMER INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",600
+"8773039","VAL ENERGY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",200
+"8806706","LOTUS OPERATING CO","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",0,100,"#FF0000AF","#FF0000AF",200
+"23413373","TRAVEL INDUSTRY ASSOCIATION OF KANSAS","Uncoded","Uncoded","Uncoded",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",1100
+"15820741","SUMMIT STRATEGIES GROUP","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",300
+"8775180","SINGULARIS GROUP","Business Services","General Business","Advertising & public relations services",0,100,"#FF0000AF","#FF0000AF",300
+"8781146","OLATHE REPUBLICAN CENTRAL CMTE OF KANSAS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",500
+"14031313","SUMMIT STRATEGIES GROUP LLC","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",600
+"8810339","UNITED TEACHERS OF WICHITA","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",200
+"6398","CONLEE CONSULTING GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",50,50,"#000000AF","#000000AF",200
+"15858094","MIDWEST DISTRIBUTORS","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",300
+"16328006","VALLEY WINE & SPIRITS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",200
+"8800749","BEAR PETROLEUM","Oil & Gas","Energy & Natural Resources","Gasoline service stations",0,100,"#FF0000AF","#FF0000AF",200
+"8980152","TRAVEL INDUSTRY ASSOCIATION OF KANSAS","Lodging & Tourism","General Business","Lodging & tourism",0,100,"#FF0000AF","#FF0000AF",200
+"12283284","KS ELECTRIC POWER COOPERATIVE","Uncoded","Uncoded","Uncoded",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",275
+"12284691","PAIROTT HEAD LIQUOR","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",150
+"20879567","MIDWEST DISTRIBUTORS CO","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",200
+"26821952","MOORE'S RETAIL LIQUOR STORE","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",150
+"8781529","TEACHERS OF SUNFLOWER","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",190.46
+"20879585","THREE J'S LLC DBA MOONLIGHT LIQUOR","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",150
+"8992703","KIM DAVIS LIQUOR OUTLET","Beer, Wine & Liquor","General Business","Liquor stores",76.4705882352941,23.5294117647059,"#000085AF","#000085AF",425
+"16368500","JONES CHIROPRACTIC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",100
+"8814006","SALINE COUNTY REPUBLICAN CENTRAL CMTE OF KANSAS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",100
+"8781867","WEBB & ASSOCIATES","Miscellaneous Services","General Business","Services",0,100,"#FF0000AF","#FF0000AF",150
+"28139137","JOHN DAVIS LIQUOR","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",100
