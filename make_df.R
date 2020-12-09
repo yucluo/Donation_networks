@@ -1,6 +1,6 @@
 library(dplyr)
 library(igraph)
-
+library(ggplot2)
 # load network stats
 network_stats = read.csv("network_stats.csv")
 
@@ -14,7 +14,7 @@ network_stats %>% filter(leg == "House") %>% select(state.ab, start.year, stop.y
 
 
 # read all edge lists
-file_names <- list.files(pattern="*House.csv")
+file_names <- list.files(path ="/Users/yuchenluo/Desktop/causal_inference/final/edge_list", pattern="*House.csv")
 
 
 # net <- read.csv("CO-2013-2014-House.csv")
@@ -25,11 +25,12 @@ file_names <- list.files(pattern="*House.csv")
 # #network_stats <- read_csv("Full_Cycle_Networks/network_stats.csv")
 
 # eigen_col1314 <- eigen_centrality(net)
+path = getwd()
 
 df = data.frame()
+
 for (file in file_names){
-  net = read.csv(file)
-  path = getwd()
+  net = read.csv(paste(path, "edge_list", file, sep="/"))
   meta_file = paste(path, "Metadata", file, sep="/")
   meta = read.csv(meta_file)
   meta$EID = as.character(meta$EID)
@@ -38,7 +39,7 @@ for (file in file_names){
   net <- graph_from_data_frame(net, vertices=meta, directed=F)
   eigen_col <- as.data.frame(eigen_centrality(net)$vector)
   eigen_col$donor = as.character(row.names(eigen_col))
-  eigen_col$year = mean(as.numeric(scan(text=file, sep="-", what="", quiet=TRUE)[2]), as.numeric(scan(text=file, sep="-", what="", quiet=TRUE)[3]))# select year as middle year
+  eigen_col$year = scan(text=file, sep="-", what="", quiet=TRUE)[2]# select year as start year
   eigen_col$state = scan(text=file, sep="-", what="", quiet=TRUE)[1]
   eigen_col = left_join(eigen_col,meta, by = c('donor' = 'EID'))
   colnames(eigen_col)[1] = "EV"
@@ -49,4 +50,35 @@ for (file in file_names){
 }
 write.csv(df, file = "RDD_dat.csv")
 
+df = read.csv('RDD_dat.csv')
+
+
+
+df$cycle =
 plot(df$year, df$EV)
+
+ggplot(data = df, aes(x = year, y = EV)) +
+  geom_jitter()
+
+
+# bandwidth 2009-2011
+# restrict df to 2009 - 2011
+df_res = df[df$year<2012 & df$year >2008, ]
+df$trans_yr = as.numeric(df$year)-2010
+df$eligible = ifelse(df$trans_yr<0, 0, 1)
+
+lin_res = lm(EV ~ trans_yr+eligible, data = df)
+summary(lin_res)
+
+
+# DID estimate of E[Y(1)-Y(0) | Z=0]
+
+df$time = ifelse(df$year >= 2010, 1, 0)
+df$treated = ifelse(df$state == "VT", 0, 1)
+df$did = df$time * df$treated
+
+didreg = lm(EV ~ treated + time + did, data = df)
+summary(didreg)
+
+didreg1 = lm(EV ~ treated*time, data = df)
+summary(didreg1)
