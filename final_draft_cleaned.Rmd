@@ -1,0 +1,296 @@
+
+--- 
+title: 'Power and Party Networks: Donor Influence after *Citizens United*'
+author: "Adam Braffman and Yuchen Luo"
+output:
+  pdf_document: 
+    toc: yes
+    toc_depth: 6
+    number_sections: yes
+    fig_caption: yes
+  html_document:
+    df_print: paged
+  word_document: default
+editor_options: 
+  chunk_output_type: inline
+linestretch: 1.5
+fontsize: 11pt
+---
+
+```{r setup, include=FALSE}
+library(igraph)
+library(tidyverse)
+library(readr)
+library(ggplot2)
+library(data.table)
+library(gtsummary)
+library(kableExtra)
+library(stargazer)
+```
+
+```{r set up data, include=FALSE}
+df <- read_csv("RDD_dat_eigen.csv")
+
+df$post = ifelse(df$year < 2010, 0, 1)
+df$trans_yr = as.numeric(df$year) - 2010
+# df = na.omit(df)
+```
+
+# Motivation
+
+## Political party donor networks and *Citizens United*
+
+Since their introduction to U.S. politics in the 1940s, Political action committees (PACs)---tax-exempt organizations that funnel campaign contributions to campaigns, referenda, or legislation---have had a \$2,500 cap on individual contributions, which could come from, e.g., individuals, corporations, or unions. In the landmark decision of January 2010, *Citizens United v. Federal Election Commission*, the U.S. Supreme Court argued that because financial donations are essential to free speech, setting limits on campaign contributions violates the First Amendment. The decision removed the $2,500 donor limit and effectively introduced into the networks of the American party system an organizational entity---the Super PAC---that can amass unlimited dollar amounts in order to influence political decision-making and legislative agenda-setting in both the Republican and Democratic parties. 
+
+Supporters of the 2010 SCOTUS decision regard it as a triumph over the regulation of political speech. Critics argue that the decision permits wealthy donors to have immense political influence. As increases in income are associated with Republican support, detractors also argue that it benefits the wealthiest few in society. What has been the effect of the 2010 *Citizens United* decision and Super PACs on the evolution political donor networks? Which of the two major political parties has seen a growth or decline in the influence of their donor groups within these networks? 
+
+## Literature and hypotheses 
+
+A growing social science literature views the American party system as coalition networks consisting of governmental and nongovernmental groups. In these studies, authors use social network analysis to reveal the often covert relationships that exist between election campaigns and interest groups or donors [@koger2009partisan; @grossmann2009party]. Such analyses of extended political party networks, however, tend to be aimed at the identification of positions in whole structures, geographic location, sharing clusters, or information flows [@koger2009partisan; @koger2010cooperative; @gimpel2006political], as well as how such structures and processes influence election outcomes [@desmarais2015fates]. 
+
+Exploratory designs are valuable for hypothesis generation yet constrained in making inferences. In more recent years, researchers of social and political networks have been increasingly attentive to causal inference methods [@lazer2011networks; @fowler2011causality; @vanderweele2013social; @park2014politics]. In this study, we use two causal inference methods, regression discontinuity (RDD) and difference-in-difference (DiD) design, to measure the effects of the 2010 *Citizens United* decision on the influence of political donor groups within state campaign networks. Eigenvector centrality, a network measure of influence, is our outcome variable. Therefore, 
+
+> *H1. After 2010, the average influence in the network---measured as eigenvector centrality---will increase for all campaign donor groups.*
+
+> *H2. After 2010, the influence in the network---measured as eigenvector centrality---will increase more for campaign donor groups that contribute to Republican campaigns than for campaign donor groups that contribute to Democratic campaigns.*
+
+We base these hypotheses on (1) the fact that the *Citizens United* decision removed the $2,500 individual donor limit and (2) previous research that shows the Republican Party receives more corporate donations and on average substantially higher dollar amounts from individual donor groups [@brunell2005relationship, 685-687]. 
+
+# Data
+
+We use candidate donation data from the National Institute on Money in Politics (NIMP). For each election, the data include the total amount donated from an organization to a candidate. NIMP researchers standardize donor names and code economic interest/industry based on occupation information contained in disclosure reports. 
+
+From these data, @reuning2020mapping generated a network that consists of state party networks for 47 states from 2000 to 2016. The edge lists contain donor node IDs and their edge weights for all House and Senate elections. Edge weights identify edges at different thresholds of connectedness. Shared donations between groups constitute an edge, and edges are weighted both by how many donations they share and how much they donate [@reuning2020mapping, 274]. The weights take values of one through five---the higher the value, the more tightly connected are the two donor groups. 
+
+House members serve two-year terms, and senators serve six-year terms with about only one-third up for reelection in any election. Because we are interested in the effects of the 2010 *Citizens United* decision on campaign donation networks, we restricted the data to donor networks for House campaigns. Merging the edge lists of the House donor networks yields a total of 172, 368 observations for years 2001-2015. 
+
+## Measures
+
+### Outcome 
+
+*Eigenvector centrality*. On our sample of @reuning2020mapping 's prepared network data, we computed eigenvector centrality for all donors. Proposed by @bonacich1972factoring, eigenvector centrality assumes a node is central or influential if it is connected to other influential nodes. Consider a graph's adjacency matrix, which is a square matrix in which the elements indicate connected nodes. If $A = (a_{i,j})$ is the adjacency matrix, the eigenvector centrality $x_{i}$ of node $i$ is $$x_i = \frac{1}{\lambda} \sum_k a_{k,i} \, x_k$$ where $\lambda \neq 0$ is a constant. In matrix terms, $$\lambda x = x A$$ Importantly, a node with many connections (edges or ties) does not necessarily have a high eigenvector centrality, and a node with a high eigenvector centrality does not necessarily have many connections. A node can be extremely influential without being well-connected. Therefore, eigenvector centrality is an appropriate outcome measure of influence in political donor networks because it can account for groups that are relatively poorly connected but donate extremely high amounts of money through a few channels. 
+
+### Treatment
+
+*SCOTUS Citizens United decision, January 2010*. We are interested in the average treatment effect (ATE) of the 2010 SCOTUS decision on political donors's influence---measured as eigenvector centrality---in their network. 
+
+### Confounders
+
+*Mean pretreatment percent donated by party*. The effect of the *Citizens United* decision on the eigenvector centrality of the political donor networks is likely confounded by the percent of donations to either the Republican or Democratic Party. We measure this confounder as mean pretreatment party percent before 2010. We then converted this to a binary *party* variable indicating whether the donor contributed a larger percent to the Democratic or Republican party. 
+
+### Temporality
+
+Temporality is an important aspect in our project, since our running variable itself is time-based. We are interested in the change in eigenvector centrality after the 2010 treatment, so the outcome is after treatment temporally. We also made sure that our covariate precedes the treatment. In generating an indicator for partisanship, we constructed our covariate as mean percent of pre-2010 partisan donation. This is because we are interested in how the *Citizens United* decision affected the influence of the previously/traditionally partisan donors.
+
+## Descriptive statistics 
+
+
+```{r echo=FALSE, message=FALSE}
+setDT(df)
+# mean donation pre 2010
+mean_donation = df %>% group_by(donor) %>% filter (year < 2010) %>% summarise(mean(Total))
+summary(mean_donation)
+df = left_join(df, mean_donation, by = 'donor')
+
+# create mean EV before 2010
+# mean_ev = df %>% group_by(donor) %>% filter (year <2010) %>% summarise(mean(PerDem))
+# df= left_join(df, mean_ev, by = 'donor')
+
+# mean percent of dem donation pre 2010
+# mean percent of dem donation pre 2010
+mean_party = df %>% group_by(donor) %>% filter (year < 2010) %>% summarise(mean(PerDem))
+colnames(mean_party)[2] = "avg_PerDem"
+df = left_join(df, mean_party, by = 'donor')
+df$party = ifelse(df$avg_PerDem > 0.6,
+                  "Dem",
+                  ifelse(df$avg_PerDem < 0.4, "Rep", "None"))
+
+# make table of descriptives
+df %>%
+  select(
+    EV,
+    PerDem,
+    PerRep,
+    Total,
+    avg_PerDem,
+    party,
+    post
+  ) -> df_desc
+
+df_desc %>%
+  tbl_summary(
+    by = post,
+    statistic = list(
+      all_continuous() ~ "{mean} ({sd})",
+      all_categorical() ~ "{n} ({p}%)"
+    ),
+    digits = all_continuous() ~ 2
+  ) %>%
+  add_overall(last = TRUE,
+              col_label = NULL) %>%
+  modify_header(label = "**Variable**",
+                stat_1 = "**Ineligible,** N = 113,030",
+                stat_2 = "**Eligible,** N = 59,338") %>%
+  modify_spanning_header(c("label",
+                           "stat_1",
+                           "stat_2",
+                           "stat_0") ~ "**Table 1. Descriptive statistics**") -> dstats
+
+dstats_kbl <- as_kable_extra(dstats,
+                             format = 'latex',
+                             caption = "Descriptive statistics by eligibility for eigenvector centrality scores (EV), total donation amounts, average donation per Democrat (PerDem) and Republican (PerRep), and percent donations by party (party = Dem, None, Rep).",
+                             include = everything())
+
+dstats_kbl
+```
+
+# Estimands
+
+In this project, we are interested in the average treatment effect (ATE) of the 2010 SCOTUS decision on political donors' influence in their network. This can be shown in formula 
+
+$E[Y(1)-Y(0)]$ 
+
+We choose this as our estimand because it is the estimand best fit for our project. Although the 2010 SCOTUS decision will likely only impact certain donors who have the willingness and ability to donate more than the previously stipulated $2500 amount, those high-donors changing patterns of donation will impact the position and attributes of the entire donation network. Therefore it does not make a lot of sense to only look at the average treatment for only treatment or only control group. 
+
+# Methods
+
+## Regression Discontinuity 
+
+The method we use to estimate our estimand is called regression discontinuity. Regression discontinuity is a special case of an observational study design in which a unit's receipt of treatment is decided solely based on values of one variable, usually referred to as the running variable. In this setting, there is a cutoff point on the running variable: on one side all units receive the treatment, and units on the other side they do not. In a regression discontinuity model, it is usually assumed that the only confounding covariate is the running variable, given the appropriate bandwidth around the cutoff point. Around the cutoff point, usually the units are considered randomly distributed so that other confounding factors can be ignored. This method is appropriate for situations where researchers do not have access to a lot of confounding covariate data.
+   
+In our project, the running variable is time, measured in year. And the cutoff point is at year 2010 when the Supreme Court Decision was made. We have set our bandwidth to be from 2009-2011. The reasons for choosing our bandwidth are as follows. First, this is the smallest bandwidth that our dataset allows, and with this small bandwidth we have more confidence that donors in this time frame are more likely to be similarly/randomly distributed. Second, since the running variable in our dataset is relatively "coarse," meaning that year is really a large span of time. If we were to extend our bandwidth, then it would be unreasonable to assume the distribution of donors qould still be random across more than two years, with the changing economical and political landscape. 
+   
+We decided to use a linear model based on a preliminary plot, and based on the LOESS curve (see figure below) the relationship between time and eigenvector centrality of campaign donors is more linear than quadratic. So here in our regression discontinuity model we assume that their relationship is linear, except at the cutoff point. 
+  
+```{r datashape, echo=FALSE}
+ggplot(data = df %>% sample_frac(0.1),aes(x = as.numeric(year), y = EV, color = as.factor(post))) +
+  geom_jitter() +
+  geom_smooth(method = 'loess', color = "blue")
+```
+
+In practice, we first restrict the model to the bandwidth, only considering the data points from years 2009 to 2011. We then create a variable to indicate the applicability of the Supreme Court decision, if before 2010 then 0 and otherwise 1. We fit the restricted dataset (2009-2011) to a linear model, where the applicability indicator and year was used to predict the eigenvector centrality. 
+   
+To answer our second question about potential partisan difference in the treatment effect, we divide our dataset into two parts for the regression discontinuity analysis. The first part is focused on the traditionally/previously Republican donors, defined as those whose mean proportion of donation pre-2010 for Republican Congress members is larger than 60%. The second part is focused on the traditionally/previously Democratic donors, defined as those whose mean proportion of donation pre-2010 for Democratic Congress members is larger than 60%. Focusing on the proportion of partisan donation pre-2010 helps us avoid controlling on post-treatment variables. With those two data sets we repeat the same process for regression discontinuity modeling as we did for the overall dataset. 
+   
+# Assumptions
+
+### Method One: Regression Discontinuity
+
+### First assumption: Randomization
+
+The first assumption about regression discontinuity is that the treatment assignment is ignorable given X in a narrow interval of X around the cutoff. This means that we assume that data points are randomly distributed around the cutoff point; therefore other confounding factors can be ignored.
+
+In our case, the randomization assumption is plausible because we set our bandwidth narrow enough (as narrow as possible). From 2009-2011, in the political campaign donation nothing major happened except our treatment variable. It is reasonable to assume that the bigger economic and political conditions are relatively stable.
+
+### Second Assumption: Parametric form
+
+The second assumption we are making here is that data on both sides of the cutoff follow a linear relationship with the running variable. This assumption is much tougher to say, since from the scatter plot we can see that the distribution of the data points are rather regular, and it seems like they don't follow a clear parametric relationship. However, since our bandwidth is small, it is also more likely that the parametric assumption holds. 
+
+### Third Assumption: Bandwidth
+
+The third assumption we made here is going with the small bandwidth we chose. We think that choosing this bandwidth makes sense because a smaller bandwidth makes our first and second assumption more plausible. Even though the generalizability of our finding might suffer a bit, from a theoretical perspective, it is important that we do not over generalize. For example, if we go back to 2007 or 2008, we suffer from possible strong bias from confounding factors such as the Great Recession, or a different political administration in 2007. 
+
+
+
+```{r diag, echo=FALSE, include= FALSE}
+# Diagnostics
+# mean percent of dem donation pre 2010
+# mean_party = df %>% group_by(donor) %>% filter (year < 2010) %>% summarise(mean(PerDem))
+# colnames(mean_party)[2] = "avg_PerDem"
+# df = left_join(df, mean_party, by = 'donor')
+# df$party = ifelse(df$avg_PerDem > 0.6,
+#                   "Dem",
+#                   ifelse(df$avg_PerDem < 0.4, "Rep", "None"))
+
+# restrict df to 2009 - 2011
+df_res = df[df$year < 2012 & df$year > 2008,]
+
+total = lm(EV ~ trans_yr + post, data = df_res)
+
+### test partisanship
+setDT(df_res)
+df_rep = df_res[party == 'Rep', ]
+df_dem = df_res[party == 'Dem', ]
+
+lin_rep = lm(EV ~ trans_yr + post, data = df_rep)
+lin_dem = lm(EV ~ trans_yr + post, data = df_dem)
+
+# # DiD estimate of E[Y(1)-Y(0) | Z=0]
+# df$treated = ifelse(df$state == "VT", 0, 1)
+# 
+# didreg1 = lm(EV ~ treated * post + trans_yr, data = df)
+# 
+# didreg2 = lm(EV ~ treated * post + trans_yr + party, data = df)
+
+#anova(didreg1, didreg2)
+
+# vanilla regression
+
+vanilla = lm(EV ~ post + trans_yr, data = df)
+
+# present graphs
+# par(mfrow = c(2, 2))
+# plot(total)
+# 
+# plot(lin_dem)
+# 
+# plot(lin_rep)
+
+# plot(didreg1)
+# 
+# plot(didreg2)
+
+```
+
+<!-- In our project we ran a total of four linear regression models. The first one is regression discontinuity model, restricted from 2009 to 2011. The second and the third models are the stratified version of the first one, on democratic donors and republican donors respectively. The fourth and fifth are difference in difference models, with the former not including extra covariates and the latter including partisanship indicator as a covariate.  -->
+
+<!-- The results of the regression diagnostics are shown as above. For model one (basic RDD), we can see from the Residuals vs. Fitted graph that the linear parametric assumption seems right. The QQ plot shows that data at both ends do not have normally distributed, but most of the data points are. The the line in the Scale-Location figure is relatively straight, so it is relatively safe to say in our regression homoscedasticity holds relatively well. In the Residuals vs Leverage figure, we see some points have really high leverage and high influence, but none has extreme residuals (none with standard residual larger than 3). -->
+
+<!-- For model 2 (RDD for previously democratic donors), the diagnostics are very similar to model one. We can see from the Residuals vs. Fitted graph that the linear parametric assumption seems right. The QQ plot shows that data at both ends do not have normally distributed, but most of the data points are. The the line in the Scale-Location figure is relatively straight too homoscedasticity holds relatively. In the Residuals vs Leverage figure, we see some points have really high leverage and high influence, but none has extreme residuals. For model 3 (RDD for previously democratic donors), things are bit different. Linear assumption still holds, but the residuals do not really follow a normal distribution. Homoscedasticity still holds and there seem to be many fewer high leverage and high influence points.  -->
+
+
+
+# Results
+
+As can be seen from the regression table, the estimates of ATE are all coefficient of the binary indicator of pre/post 2010 variable, except for the DiD model, in which the iteraction term between the treatment variable and the pre/post-2010 indicator is the estimator. 
+
+```{r RDD, echo= FALSE, message = FALSE}
+
+stargazer(
+  total,
+  lin_rep,
+  lin_dem,
+  # didreg1,
+  # didreg2,
+  vanilla,
+  column.labels = c(
+    "RDD",
+    "RDD.Rep",
+    "RDD.Dem",
+    # "DiD",
+    # "DiD.party",
+    "LinRegression"
+  ),
+  title = "Regression Results",
+  type = "text",
+  omit.stat = c("LL", "ser", "f"),
+  column.sep.width = "-15pt",
+  font.size = "tiny"
+)
+
+```
+
+The estimates for the regression discontinuity model are all statistically significant. To provide a proper causal interpretation of this, our analysis shows that on average, the 2010 SCOTUS decision caused a 0.036 increase in donors' influence in the donation networks, measured in eigenvector centrality. Looking at partisanship divide, in our regression discontinuity methods, interesting pattern emgerges as on average the 2010 SCOTUS decision decreased Republican donors' influence by 0.074 and increased Democratic donors' influence by 0.068. We can be more certain about the negative impact on Democratic donors, since in our data there are many more Democratic donors than Republican ones. 
+
+
+# Discussion and Conclusion
+
+Our analysis confirms our chief hypothesis with the regression discontinuity model. The analysis shows that the 2010 SCOTUS decision to remove the upper limit of PAC donations on average caused the campaign donors to have 0.036 higher eigenvector centrality, commonly used to denote a node's influence in a network. Although the numeric value is small, the fact that eigenvector centrality is a value between 0 and 1 indicates that the effect is quite drastic. 
+
+This study is limited in its unit of analysis and choice of bandwidth. The nature of the data determines that we can only slice our running variable discretely by year, since House elections occur biannually. Our running variable, then, is fairly imprecise, and in many cases our data look very discrete. This limits our ability to experiment with more types of bandwidth without violating ignorability and parametric assumptions.
+
+Future research should take into account these limitations. In particular, researchers should construct a more fine-grained temporal variable. For example, FEC data include receipt dates for campaign donations. These receipt dates might be used to construct a more precise bandwidth around the discontinuity of the SCOTUS *Citizens United* decision. Furthermore, researchers could take advantage of these FEC data to get around the problem of adequate controls by, as noted above, matching donors across groups. 
+
+Viewing parties as networks allows us to make considerable progress on research problems concerning the power and influence that campaign finance holds over political agenda-setting and decision-making. Our results provide some preliminary support for the notion that the *Citizens United* decision, which commentators often assume has had the effect of increasing the power of wealthy donors, has had the effect of increasing levels of political influence for such donors. Because research backs up the association between higher incomes and Republican votes, the related assumption is that the *Citizens United* decision has had an outsize benefit for Republican Party donors. However, our results show the opposite. Since 2010, Democratic party donors increased in network influence, whereas Republican party donors decreased in influence. Despite the limitations of the study, these results are worth the attention of both network methodologists who want to improve on the ability to make causal inferences from network data and subject experts who want to understand the relational impact of landmark SCOTUS decisions on the structure of political parties and their financial ties. 
+
+# References
