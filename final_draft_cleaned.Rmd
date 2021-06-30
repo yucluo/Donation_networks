@@ -26,6 +26,7 @@ library(data.table)
 library(gtsummary)
 library(kableExtra)
 library(stargazer)
+library(lmPerm)
 ```
 
 ```{r set up data, include=FALSE}
@@ -205,7 +206,9 @@ The third assumption we made here is going with the small bandwidth we chose. We
 # restrict df to 2009 - 2011
 df_res = df[df$year < 2012 & df$year > 2008,]
 
-total = lm(EV ~ trans_yr + post, data = df_res)
+
+#### USE LMPERM ----------------------------------------
+total = lmPerm::lmp(EV ~ trans_yr + post, data = df_res, perm = "Prob")
 
 ### test partisanship
 setDT(df_res)
