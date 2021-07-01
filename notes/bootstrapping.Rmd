@@ -1,0 +1,26 @@
+---
+title: "Bootstrapping notes"
+author:
+date:
+documentclass: article
+toc: true
+geometry: margin=1.25in
+linestretch: 1.1
+indent: true
+bibliography: /Users/adambraffman/Documents/references/references.bib
+csl: /Users/adambraffman/Documents/references/american-sociological-association.csl
+---
+
+# Basics
+
+The central analogy of bootstrapping is
+
+> The population is to the sample as the sample is to the bootstrap samples
+
+cite: https://github.com/jrnold/intro-methods-notes/blob/master/bootstrapping.Rmd
+
+"Boostrapping is a statistical method that uses random sampling with replacement to determine the sampling variation of an estimate. If you have a data set of size N, then (in its simplest form) a "bootstrap sample" is a data set that randomly selects N rows from the original data, perhaps taking the same row multiple times. In fact, each observation has the same probability of being selected for each bootstrap sample.
+
+Bootstrap is commonly used to calculate standard errors. If you produce many bootstrap samples and calculate a statistic in each of them, then under certain conditions, the distribution of that statistic across the bootstrap samples is the sampling distribution of that statistic. So the standard deviation of the statistic across bootstrap samples can be used as an estimate of standard error. This approach is generally used in cases where calculating the analytical standard error of a statistic would be too difficult or impossible."
+
+cite: https://lost-stats.github.io/Model_Estimation/Statistical_Inference/Nonstandard_Errors/bootstrap_se.html
